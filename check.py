@@ -19,7 +19,7 @@ TOP = {"README.md", "sources.json", "collect.py", "check.py", ".gitignore", "sta
        ".github/workflows/collect.yml", ".github/workflows/check.yml"}
 HEX64 = re.compile(r"^[0-9a-f]{64}$")
 VERSION = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_-]*$")
-TAG = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_@/-]*$")  # a listed version; never used as a path
+TAG = re.compile(r"^[0-9A-Za-z@][0-9A-Za-z.+_@/-]*$")  # a listed version; never used as a path
 LIST_KEYS = {"source", "tags", "versions"}
 
 

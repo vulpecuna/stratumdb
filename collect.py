@@ -445,7 +445,7 @@ LISTERS = {
     "docker": lambda n: _paged(f"https://hub.docker.com/v2/repositories/{n}/tags?page_size=100", "results", "name"),
 }
 # A tag may carry a path or a scope (release/METEOR@3.1); it is data, never a file name.
-LIST_VERSION = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_@/-]*$")
+LIST_VERSION = re.compile(r"^[0-9A-Za-z@][0-9A-Za-z.+_@/-]*$")
 
 
 def list_dir(kind: str, name: str) -> Path:
