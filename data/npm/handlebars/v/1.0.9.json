@@ -1,0 +1,15 @@
+{
+"dist/handlebars.js":"c169014b9508ab50696f4b1e9106b2f1a3bcd5370024ac0d8b8611d533365bf2",
+"dist/handlebars.runtime.js":"9981c7e0c00afba32faea4601d6efe482ad0dd3716ff439fe23d386a4ea21cdd",
+"lib/handlebars.js":"664f01a3ce53d849d0c73d5d39773e0f84286a1d8f76db8b84152872171110a8",
+"lib/handlebars/base.js":"8f1e32885013578d9a3abdfeb655efa15f5609ed0696cd0e29100d28f8ddc1dc",
+"lib/handlebars/compiler/ast.js":"e1412953a0fff517b4d7e24ae302db971ff04c0e1642a59800000045dd5f7491",
+"lib/handlebars/compiler/base.js":"50bdcce63d2fed5414e6ffa45bcb352d68cab00b0d194d062012fd96948eaa3f",
+"lib/handlebars/compiler/compiler.js":"1e7c54e6db73b9e96f2377203b1c0d76eaf18f32c81e1bcd1597fcd951d58154",
+"lib/handlebars/compiler/index.js":"277520f4a5c23e66b7ed8f5a8e26e542ef0cba44e5dc079e150a41b1d290170c",
+"lib/handlebars/compiler/parser.js":"d50c2d7dded82be31f9068e07988772ca6f30a0b6aee8c566eb62210a19bfd7e",
+"lib/handlebars/compiler/printer.js":"b6b389f9914843e767a399187ff3d3199ec033473d54dd31130eb6eb87d37fff",
+"lib/handlebars/compiler/visitor.js":"68a19003d868ea2d04035c27f7550df552867ebf82390a0982a587e72ff05e33",
+"lib/handlebars/runtime.js":"867aec688ba7f245c3e24b4f1b3272c6361995c23f57bd17f1a8d31850ff41f4",
+"lib/handlebars/utils.js":"8776313a4e17e8bd49aa4e2cff1985d81d98dac5acd85f9fae4c58f276782a26"
+}

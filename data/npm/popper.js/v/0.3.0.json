@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"ac9c3e2829ed95bfaf7eb9af4de6d4e92c3004e0df937518b151617ffafd2c1f",
+"build/popper.js":"fcc5d2515c32b3fdadeeb6d46e7c28a9e1843b3ef58ea67250eb9b20da75ea1b",
+"build/popper.min.js":"1cd547798f26829b406f57f8a62965b2c174bc838a8eb10564a6a459691840e5",
+"build/popper.min.js.map":"f354117d222a7028bea53cdb31150789059fecbb8323492f489466d735fcf566",
+"src/popper.js":"021afae910a498bc8aec4a12e2eb44ec7999506899d847e3671cb3b2135216d1",
+"tests/_helpers.js":"a53b08bbef754b89ad956959f5a5b270a57e96e675108583e91243ba748b8d95",
+"tests/_setup.js":"897ca7e847437e693dfe6d02819e0f0cf111dbe98558f9be732065e48c4f05f1",
+"tests/styles/test.css":"61efb93d4123ddfcb5dfe9ce8ab2ef6cfebc50ed2989d11cbdd28b906d0682f1",
+"tests/test-popper.js":"63a771ca0d1a1c5f512956d0d9a36c401a0834455595a7441c22538c8fa5283b"
+}

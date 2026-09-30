@@ -1,0 +1,16 @@
+{
+"demos/lib/Mental.js":"8f07e230247058c592be00a3b049413e7022c1c8c02761a089e7233fbfac8644",
+"dist/purify.min.js":"3fb704bf13a699ab6629bf1c8778b200c043995480b8b732f4c2c69ed0c366b0",
+"dist/purify.min.js.map":"2b5d51a8ac168b5dd691b5537f098e2be9c4f80b0d735e253714a066dab22e80",
+"scripts/build-demo.js":"3da5699c1e2827833ccaa82f1a0d437ebae7351269de62a2c4f1e5a3f8d677c5",
+"scripts/server.js":"7e178df8d762810d1fffc36624af742535fbe607a2efdeb632cd4f2abcc14ad1",
+"src/purify.js":"5404ae9a9f2d6abe64b6d829da0ffe40225bc7a7c85209f09bd66eabc33efe31",
+"test/config/setup.js":"8a92262c535dd49ddb1bac4e67541db50008187d90828fef3511cbac229bba3b",
+"test/fixtures/expect.js":"deaac9755d84320fe61cee90db7e984f3e497e3b7a36517bd585788f8d626aa5",
+"test/jsdom-node-runner.js":"9b1b8e9ee3f7e535195fa4110038869b83040d99d1a3bbaa5ae3456ffa28cfa1",
+"test/jsdom-node.js":"2fc06fa7ae11ddc7e8de2da90d4dd5639bbcc4399e566c2e519757797ea4a13c",
+"test/karma.conf.js":"a9e4983a239778c634df2d52aaf48fd014858d2f2c8449afc0a1cc69576415ab",
+"test/purify.min.spec.js":"c676f5389c939db844f02cab5692af2d9602ab530eedaa82502d70330d450573",
+"test/purify.spec.js":"5221cd4c76562cb3e97b34e7ce0e6ae48b393c3c3f164670e5adc567591bd529",
+"test/test-suite.js":"b5747bd6250ba5cdb0e6ad28c3b5c6859aedc6bac653667f2f8597c12be38671"
+}

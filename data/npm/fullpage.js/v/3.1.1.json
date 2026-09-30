@@ -1,0 +1,15 @@
+{
+"dist/fullpage.css":"e4b8f2ba170b58362aec07c17deade29dfdcc0c02c053d65c3eab2f7d13a100c",
+"dist/fullpage.extensions.min.js":"401d842a074e837297dd954213998acaa0d727ba2cc169ea4f6aea061730efde",
+"dist/fullpage.js":"f6e92f7664e340c7e8b585382c73df17d0b4e3171e6f6cb6d7b9b3bf43001ddd",
+"dist/fullpage.min.css":"2a4a94ade6fcd72ecc45513d4809300b7c22c2e06e7849dd54f81b82553f006d",
+"dist/fullpage.min.css.map":"13184e8271e04dc8aebf1fea54418908b72492ed21401d755e77c1a308446079",
+"dist/fullpage.min.js":"56befb65bceb1cefbd2770fee553b58e50250364a4d81a69513254fd8d5688b3",
+"dist/fullpage.min.js.map":"21c1e059b9e58adcdd9d763b6e1172e338a687638b2ec665980d2a7257c3050e",
+"vendors/easings.js":"f8f5e55a59f9cb1b7afe8c023f06a81833f6801116cc15286fbdd75b7dbd8666",
+"vendors/easings.min.js":"b1ed4b55482705a19c66f0b403bc649772de6bb091539050a94413f19bdd1f80",
+"vendors/easings.min.js.map":"c9eea047fbfd53b1f952e949bdbadca20ace433c017940d68b0bc9f55b3eb574",
+"vendors/scrolloverflow.js":"1386f46b5b5db602baf2ff72db525ddb590360e8602db16f636006cae9608507",
+"vendors/scrolloverflow.min.js":"0746e99342ced8ecbef154405e12a471b46ff672971465de9d55962898ed31ee",
+"vendors/scrolloverflow.min.js.map":"8f98751d9767767562ee53f3adaacd12d53152442c2b1d65f2f0b9ccb2b3cffc"
+}

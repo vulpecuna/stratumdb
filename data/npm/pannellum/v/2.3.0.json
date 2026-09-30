@@ -1,0 +1,11 @@
+{
+"build/pannellum.css":"b62dd0491fa04da217f594e4797f17af3be78542f9879adfbe03489c91d63a45",
+"build/pannellum.js":"77d70f26dc08e94e6611106eaed81bc0d40095ab17a7ac6e795b104456f43ba2",
+"src/css/pannellum.css":"fd2132b29f2c2f650042f6d24ae0a2de95c6b108f0041df2453a4f2b2b5497bc",
+"src/js/RequestAnimationFrame.js":"e54c83686426d2720c316577bfbdfe86bb7df85f1ad2e3568caa0c77e7392404",
+"src/js/libpannellum.js":"a4e2592c1f8ca130b17ee8b55168ae57661f18f51f64d6ff34867dd9303c014e",
+"src/js/pannellum.js":"ad32a837e1787a464ae0550990175912d7cd5d0935a19999b9b81209522c5206",
+"src/standalone/standalone.css":"bbc8e3abb8608d9dac15bdbebfe3f815b01fe0b170226c20287a83d9b2f56b1b",
+"src/standalone/standalone.js":"70be02cc9e58e6770df2332a21c868d72afc0a6a42b02d847d8e054e2d8036fd",
+"utils/video/videojs-pannellum-plugin.js":"07250bb68bd3b677196008f2ecbfc6b90db639d6c37726b1b9032270fdebe273"
+}

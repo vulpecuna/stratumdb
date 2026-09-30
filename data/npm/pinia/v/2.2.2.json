@@ -1,0 +1,10 @@
+{
+"dist/pinia.cjs":"be06dd8111fa1ebd5591b1fc847966fbfa6ad4c027b0bc2ac475aa5d7c785f4d",
+"dist/pinia.esm-browser.js":"d2adba377d7db26ff16475dd76b28f4d3a1baa23a70ae09a1ecababaa82c168d",
+"dist/pinia.iife.js":"7b6e6983cfa973ff62ebd17b6c66f448a1eb348c61c03f1e22b699c96bcda5f7",
+"dist/pinia.iife.prod.js":"ce89036027993c1a3888223d1403eae0268d1315c2f0ff732cf705a2c84cd31e",
+"dist/pinia.mjs":"e95b4c8c60b55c674631d3e3f93c12c3a61cba1a7b4821acc70f39157e3f7964",
+"dist/pinia.prod.cjs":"5b490aa140b395dacdde2dcd6c22f3da76b7329ca5dcd3183d46386a85a52a40",
+"index.cjs":"03b5bfb14910c8efe2e210754dc7d6c87d33e6076f4af4662ff45e955256fb19",
+"index.js":"03b5bfb14910c8efe2e210754dc7d6c87d33e6076f4af4662ff45e955256fb19"
+}

@@ -1,0 +1,11 @@
+{
+"dist/clipboard.js":"5732391e331c1059d427e9f0f53df717c5f334079d5b256a67d1b37569a9ed93",
+"dist/clipboard.min.js":"11be927cda59c8b6019ebbea838285c5beaf21183ea4b83dbd4e4fbf9413ce4a",
+"karma.conf.js":"a16b64d7573668f7c131641ffddf7fa340cebbf143b68570d8983dde868f804e",
+"package.js":"5ad5997467c06c85378af4f01e97ad8126010ab9cf9b8a05831ba56401a8648a",
+"src/clipboard-action.js":"29a1266802999dd20a89e234ed1c61e9b1aa2c39f4165278628116e4acffefca",
+"src/clipboard.js":"7a6069bf625ff165cdb471f87d5b11e9dbe43c17bf56f93aff7404b64fd20844",
+"test/clipboard-action.js":"feb32a801bb5a7732914d5b50b6a26bcb8f27336473281e6b0c475a07823eded",
+"test/clipboard.js":"a152af6265a18b5858b2b3b728f759628b868026e9e51f21c747e447aab7e8c0",
+"webpack.config.js":"64f96d4dcbb37521bc3e12d971a38927b0f451ae97f9b005a7d8b35eda595ec3"
+}

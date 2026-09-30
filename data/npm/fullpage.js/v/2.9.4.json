@@ -1,0 +1,13 @@
+{
+"dist/jquery.fullpage.css":"b855d4f8bf65dbb6fb49fe1a309836d636fff0d6a5c50c11cc1585a10eade3ab",
+"dist/jquery.fullpage.extensions.min.js":"875e4bfe0f9720c930ac2a3ea7d3d8821341d9e2846278df6b5186c51a8b5226",
+"dist/jquery.fullpage.js":"b2faac5d045b6071c90c7695f5547a66328a7e38a2d5755e2fe72fabb53fe53f",
+"dist/jquery.fullpage.min.css":"af68251f4dd5518d51d46fbb3f059d7cbfcd6932a96c89f06991468a885ba380",
+"dist/jquery.fullpage.min.css.map":"4a31b19f08b4fa79fce038b77c330e2d16098cb677b13b337bd33a55dadbf8cb",
+"dist/jquery.fullpage.min.js":"afcd2a5361603b7d71ec7b4ad8143160e4313dbe39c7e78a2a1cc0d0eadea723",
+"dist/jquery.fullpage.min.js.map":"7cee106604f8a65ea8a9f27f3f89e40e2ec876623f611d1815ec60a5f790b925",
+"vendors/jquery.easings.min.js":"21a9bec63e104475722e18b1a26ebc85ea5c7659097e6b5183f8d5f2ba977f46",
+"vendors/jquery.slimscroll.min.js":"6bee7a579abbbee0be0e2c0194867bf8e6ceb576ea7adf8a729b15bdf8bce5b0",
+"vendors/scrolloverflow.js":"a3b1f840433703cfbe7bd87d2aa3c4335ed6e68abb06485edf75e945139ee8bc",
+"vendors/scrolloverflow.min.js":"29626e54684492709ad22a9abdd76fb33a7fd4da18054d35b78a80af59d47451"
+}

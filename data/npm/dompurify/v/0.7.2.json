@@ -1,0 +1,14 @@
+{
+"demos/lib/Mental.js":"8f07e230247058c592be00a3b049413e7022c1c8c02761a089e7233fbfac8644",
+"dist/purify.min.js":"fe0ee1634af5a313d579b85f76a92e7e3582ee015f52c56e5a63a5a91b3287b5",
+"dist/purify.min.js.map":"807d53262838cadbd4edf9b8d4dada6ed39d8e317054eab543f48895ad62c82a",
+"scripts/build-demo.js":"3da5699c1e2827833ccaa82f1a0d437ebae7351269de62a2c4f1e5a3f8d677c5",
+"scripts/server.js":"7e178df8d762810d1fffc36624af742535fbe607a2efdeb632cd4f2abcc14ad1",
+"src/purify.js":"b94391ee5bc32c680e81dbc33f37b7c67d74535ae93fff41e7dce8c23002cf2e",
+"test/config/setup.js":"8a92262c535dd49ddb1bac4e67541db50008187d90828fef3511cbac229bba3b",
+"test/fixtures/expect.js":"984feb5e8c099767bba16b2b0103a94f2dc790b61c4cd33d478b45d86fc20cd5",
+"test/karma.conf.js":"c09f179f05c2ba0640ba293815ad3d959e7c5c7e56b7571d3df96fa9bcff2672",
+"test/purify.min.spec.js":"a8f2f2c051d54cf3766904cf0cfe1ebc17d22c158e709360da76ac9972fb9fd8",
+"test/purify.spec.js":"98f1922a3ae0c0bf32f13b0814bcd72ce418ab5997ef8474a77f2f33bb0a61a0",
+"test/test-suite.js":"79c0fdc9ed8841e29ac762c3f9b32c97a917cfbdda99cd7c97070f60ed14642e"
+}

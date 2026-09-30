@@ -1,0 +1,9 @@
+{
+"dist/keycloak-authz.js":"d9a712e3b5e5fcb000572c7239705a1b3dc8fc6f5945010204bbeb77ed786a92",
+"dist/keycloak-authz.min.js":"5a8ff1af15fd75636f813eeb24a42b2a5d78b65986d8bf9a8769ae38caae9d28",
+"dist/keycloak-authz.min.js.map":"857a825f83545de47a903556a5347071cc264ce8426fdaf2591ec08b3364c389",
+"dist/keycloak.js":"746e137658d12de607e0b91731666f7a9e2de95ff8fbf24eca87c600d6cf2dbb",
+"dist/keycloak.min.js":"695adcd3a0880c743351357c48aa91260d1a39b1846f9fcacf3323ce6b81e2b4",
+"dist/keycloak.min.js.map":"131ca47c6e68eee931ca6fc676ed92ffce71b4e6204c813c1caba88ab8e9aea2",
+"dist/licenses.css":"1cd8bcdd3751e6f60e6e952593606b7801a5d0d96179a79e9f2d8d6ddd335ab3"
+}

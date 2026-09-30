@@ -1,0 +1,8 @@
+{
+"bin/main.js":"e2adedf3a16f179e13b5efc3118c14c278914581d4a3ccc8fd3cfa983701af4a",
+"bin/marked.js":"dc015672ddc613210a6fae6ab123b9295a670a4e7044a8170b41ccf4d8f5af06",
+"lib/marked.esm.js":"36d21a2561fe3bf958299f82aedf6572fcd7cebfff4a453e40e3b20aaa219a01",
+"lib/marked.esm.js.map":"2ffdb3cef04addb3a48d9e78ddc58bf6ba8057cefd7ce4837e0cca7c60c6ed1f",
+"lib/marked.umd.js":"022329ddddbed13364041d0a1e3720d189e453056ee4eae6df2b6199266a52cb",
+"lib/marked.umd.js.map":"1709b0e317e43d5a80e9c7450bff52de55b536fe65bdff2e07f1a17110c37236"
+}

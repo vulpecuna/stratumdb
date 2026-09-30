@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"c841bcddda7efa9980a63bf342b041732d52120b2c7cb9d91a1c99aaf7a98149",
+"dist/metisMenu.css":"56fb8204785895c0a540268530209bfa3a819560abb1a8f52a4e04cf42dc42a8",
+"dist/metisMenu.js":"9743a5f66f26fcf7743feb74fca4b123d839c1a3c33f2cfab0f495ba12ea332e",
+"dist/metisMenu.min.css":"4c3b4564db7bea29ef058094a79e55ea6bf82cd4a330bb46e59128931aeee616",
+"dist/metisMenu.min.js":"50a9badb0ba387ec73f69823cc1cd20a46dc97dc1851761f6687e1c95655eab5",
+"src/metisMenu.css":"0083b7de6392733a263ca415a8718c38c0d1a75de2ebb53dc350c92e567aaced",
+"src/metisMenu.js":"eaaf53ae60dfb5378b59089efabe1b70a8aa9bda95b7c1f4b928ef68f9ad71de",
+"test/demo.css":"a583b7461923f99800ab1073abbb811583edf3b2dca9129f174a9e4ff4f34c88",
+"test/metisFolder.css":"a3abb9c202b144114a6323e5997fb8e8bcb224c9d84766c003ffaec1371d0cd7",
+"test/mini.css":"87d95c7e443d088d308ef12ea1b575fd0cbb2004211a79de28b1fc01033059c3"
+}

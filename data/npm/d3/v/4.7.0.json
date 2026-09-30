@@ -1,0 +1,9 @@
+{
+"build/d3.js":"f933eccb66ecfb68ac1d3485e6333cb45529d945404deccdf7e30c32b727189e",
+"build/d3.min.js":"e03f12f43145c3b3554aceff23471ff7e94fcab9233d7504d602500dd64c556a",
+"build/d3.node.js":"a37933442c3446d7a13fda1aee55815c883b30bc2d94e6becdffdcec564d640d",
+"build/package.js":"638da88e1efb5e2336d6f41cffaf0577d1f78f1fb8512bd35881b2511183a85f",
+"index.js":"b8e7a7a3eac3e26d6189b19bed2a3f18341d77d2f282f6e2576efd6ddbfabca7",
+"rollup.config.js":"ca5cd0561fc3297d4745c81d58dd6ff0a5aa1777c690ad6490389674b49598c5",
+"rollup.node.js":"4ae6b87ea2fcaede5330f01df5ea82d8cf914b3276ffe3459c36730e8d401dd3"
+}

@@ -1,0 +1,11 @@
+{
+"Chart.js":"8b5c6677673a645ea508f82b9255b02c33e6737fc777a31adb968aa29c866800",
+"Chart.min.js":"c61e414d3e1b2de7fe118d26501908fc0e36b6bcda25704af823df01e14499c6",
+"gulpfile.js":"52545472f31dbbbfeba2fe4fe76c065ae16ec14bc49ce564f53bc19cc7c7d9d1",
+"src/Chart.Bar.js":"ad69dd4c70a0f6699e67d5d56d9541a163f66621d48d3568c93aedadc7c95479",
+"src/Chart.Core.js":"6afb4378532bf3ffcc69b0007a87311de0721ee02b6d1e9b619cde20e44783c4",
+"src/Chart.Doughnut.js":"acbf644bfa28e8c9bc3ce5a109fe56f4e7503d6c2d31dd2721c9d97f5b48a7b4",
+"src/Chart.Line.js":"6c7ecbf53cb33983113df85382d1786d8a3c7ec8b5877f04eb792f16d56adede",
+"src/Chart.PolarArea.js":"ad35f3c4596bf538ab3712e0aba347c32df0fd96ee376a8d5ac03aeee9178e7f",
+"src/Chart.Radar.js":"af7e9946d7ac533262840d47b86faac07145f7e46b7de3d8021763e229341069"
+}

@@ -1,0 +1,11 @@
+{
+"./dist/keycloak.js":"ec4dc4402f49cf3e3973699d43234611719668581ad626185c3dcc777ec2ed1d",
+"dist/keycloak-authz.js":"dcc1ebaf73343f5f1b512538dea5549de00d8b17d2d40b1b69dd60919de681bc",
+"dist/keycloak-authz.min.js":"127036122d1bf9920c0bab2ff078f70fb5b4744ceaa20a704054c2bf1643aef5",
+"dist/keycloak-authz.min.js.map":"7368c9df2ec8ca2371aaa82befc4393f4a425e6ac86b1e84830ba95c4536d671",
+"dist/keycloak-authz.mjs":"b11017bc0e87e4c763e0ffbb00120561640b7f46e0146c2b560b3911cc958f3f",
+"dist/keycloak.js":"ec4dc4402f49cf3e3973699d43234611719668581ad626185c3dcc777ec2ed1d",
+"dist/keycloak.min.js":"17019e9e3a0a8a1e92dd817a507ee566d7bbdb4e9b25b65ef5eaccf03e6d9bd7",
+"dist/keycloak.min.js.map":"5e6b783dd215038e003cb508be9156cc483ffe2ff4e9cadb8396411b707a4fc3",
+"dist/keycloak.mjs":"98872f36086e7a2265411bbf0652fc9335d7bc0e5a0754e722d8a7f47bd86bc3"
+}

@@ -1,0 +1,9 @@
+{
+"dist/clipboard.min.js":"0e0e8d469d4cfaf31865f3f9ba665ff4422535cfcabcad2abb2f5d014de43220",
+"karma-coverage.conf.js":"71bb5f903758534fcb6bf4e2bf8cfba39f9479e04874be8f51d688f1138cff74",
+"karma.conf.js":"2dfe593dbfe2140b2a11f37aee8d5f7fa3bfcd578e83d84a93f148babc70f1f1",
+"src/clipboard-action.js":"b6bf9a9e03bd45ce960fddccd0d7c60faf3e3f9c0766a181643f63124421784d",
+"src/clipboard.js":"7e93237274d0e15dd7d381581017458634e0c9ad9da411ae9ad4b371bc6f64e0",
+"test/clipboard-action.js":"531c114462ce2c01e5f48360065443316c88f88bffe2210a3ee82e83ca31a7bc",
+"test/clipboard.js":"52264b4e12b911de6a11afc4db349182c57db6836e173526294fc6aa095cf425"
+}

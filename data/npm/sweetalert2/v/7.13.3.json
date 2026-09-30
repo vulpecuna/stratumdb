@@ -1,0 +1,17 @@
+{
+"dist/sweetalert2.all.js":"60d704119efb8e111d953db4a3f8da8a5a467622ad752623b8ef507c2c3323d4",
+"dist/sweetalert2.all.min.js":"83e36c306cdd61d21f46a2fe90900fbd1f4b6576608739f4c55b92ef1c277af6",
+"dist/sweetalert2.css":"dcff7909c9a6adf5f3972077620273f72009816a63631f88b7a0fe06bf33948d",
+"dist/sweetalert2.js":"f3ed21fe0fd0cc02fc551ca426e239c455ff8af293d1709fb704a2c5dc70896c",
+"dist/sweetalert2.min.css":"0ddf53516b9b5dccb116a1d2ee6be239e22e33bded10b278a8991c9bb7e9de80",
+"dist/sweetalert2.min.js":"0ce7061880b5d4b2122e6c61134a26b545e3809b9b9a612a94f83fa81e1d0f68",
+"src/sweetalert2.js":"146e3b70fd8fa5d7ccd3cc2bf2ff2e29371f30f806688cf39545b11162383a78",
+"src/utils/DismissReason.js":"96bb2fcd4a08a3876e98475a595d2d725e5d70cd21c33f00f39af6cdf4156616",
+"src/utils/classes.js":"3bdefb9060289831e5eb8d71901cfcd75b66338e3e57d27ee5663766d002a268",
+"src/utils/dom.js":"c5ad96957d9cacdd7cd3dfa7e061f1d1d9d264ddd865448b0c47206ce0ebd88f",
+"src/utils/iosFix.js":"8bb2f4e46dea5745d0349ed245deb02e4f715bc6856ee3dd62386a776d6ca0f4",
+"src/utils/params.js":"734fbc2db00ab9bb42912e4627ccf1233de65f905f659682237807d0f3996fc8",
+"src/utils/scrollbarFix.js":"5cdb58ec3c7ebafe14f2e9dbc49279ad05c8e3c8daabcab5d97cff0768924806",
+"src/utils/setParameters.js":"6dd8218ddf7d79b6bcf677518717a96ceab840e2eacd73e501f59a6658ead805",
+"src/utils/utils.js":"82d28c22c0527987fda887cb3672e2f172bf43425f5d52e9c2f377fb1b579fc9"
+}

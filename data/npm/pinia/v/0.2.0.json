@@ -1,0 +1,17 @@
+{
+"dist/pinia.cjs.js":"fc600ab16c4329134906bb25e22962a812874c3b962402ca5f8cd67975a4e657",
+"dist/pinia.cjs.prod.js":"dd72ad688fb51a263f8b46a976f08d7d0687519d6be2201f4f200588a026fbef",
+"dist/pinia.esm-browser.js":"b7af3cf143a6670e795f6ae74f38178564fe9714c06fe04f945ff881b0171663",
+"dist/pinia.esm-bundler.js":"2c83f11369d6efa1d6325adc64841bed7cce4bc581a4e53c4160484ff7f484a8",
+"dist/pinia.global.js":"bc03d5a14a203f0e8056e5c28db7c1a618454264b72518d63df324f6f42abcae",
+"dist/pinia.global.prod.js":"0702ddbc685b87769095a9d4fee970602d5572063016316d7014ded37924c387",
+"dist/src/deprecated.d.ts.map":"0c03cbdb8e28d35b4751a45ec0cb5952c4e3d2f22e78a9368b41797870487a36",
+"dist/src/devtools.d.ts.map":"4c96c0959f907f6860a18c3d0fd9c71d1142e85b102dfb4bf5384fd615bdc98a",
+"dist/src/index.d.ts.map":"9d364ff6ce1ffcf26c314f85cede5b5ef8cc3d55d6a1c67c70623ef7c588ab85",
+"dist/src/rootStore.d.ts.map":"0f70b43d2e9c8bfb6830caad3c47335695b8316c826c5fcbd49c0a303f04408e",
+"dist/src/store.d.ts.map":"745cd280951b6a1cc7489befdde59810e49776bd2fea7497a81c845cd79005c2",
+"dist/src/types.d.ts.map":"24c89b2a5e7e0fa4faf6665bda393ed643b192a7880d900eb94e690ba6f80fcc",
+"dist/src/utils.d.ts.map":"6dc21bfd084551abc8b8dba6d734f60ecfcefacf17ab3b11051d0f1a8a3dd63f",
+"nuxt/index.js":"8fa9c34ea2e3d608ca902c26fbe7487987bb72bc62889e66a9b4b18c0e72d0c3",
+"nuxt/plugin.js":"903c9773f43d1f75d2d32b44d45ddc0c066942266e00155661510e7acb9b0b98"
+}

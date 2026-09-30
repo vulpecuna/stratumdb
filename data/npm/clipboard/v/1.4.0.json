@@ -1,0 +1,11 @@
+{
+"dist/clipboard.js":"9375ceb0abbd22b0f716e648b1a1cc443339d98bfb7f8a441daeb1f55fcd3462",
+"dist/clipboard.min.js":"e72deae400013e9f9159c9c194c5366240f728bcb9c1a57d52307aea1ad08563",
+"karma-coverage.conf.js":"71bb5f903758534fcb6bf4e2bf8cfba39f9479e04874be8f51d688f1138cff74",
+"karma.conf.js":"95d0e8e02c2c644108d8ef7c862abae5e5697e6f2f9ae2482d8af488391f3f7e",
+"src/clipboard-action.js":"770f7f83928f599ea7be3002e00ececca65aa3864e1a3d6c8703720934bc357a",
+"src/clipboard.js":"e4b0bcab98cf64895ed0dd88e020f94d326c442e81a7131d815e8d04ffa08b5e",
+"test/clipboard-action.js":"d271cca53f9c7fb8e305104d960dcb80e26bef68a79ffe731a28496e9a5f22d1",
+"test/clipboard.js":"8a00f2e8ae7f8ba6216c193ddf598630a81527f7f9fd7ccc6eae3e28af1b334f",
+"test/module-systems.js":"94dfe9905d9857409bb75f02f18f233c909aad04074963ea9056e39439a239f6"
+}

@@ -1,0 +1,15 @@
+{
+"dist/vue.cjs.js":"271933b0790d964c6c95d318995a5b16a5d70f0db92ccf47a44fc169b59d9729",
+"dist/vue.cjs.prod.js":"8655005ef4948699f7c23ebf580ed778bc703d081714b5504e2b27cfe330dfc6",
+"dist/vue.esm-browser.js":"9cb7b7b7e5bc7af55dbcd0b38c16b3f01762dd0ed8c8cb75bf0d61dadc1aaca3",
+"dist/vue.esm-browser.prod.js":"430c54ff84be94d5f0f311baecf9d7109a7ca07acd2d885b9806b806c2d35939",
+"dist/vue.esm-bundler.js":"cdd25eedd8b66105aafb1051afd316033105e2ebf9b19022178028e67e5fd400",
+"dist/vue.global.js":"4722c2428d3c09332e16ff7c828c2cc8f9c7ea1e3c37fda3da6c6d5522e81a83",
+"dist/vue.global.prod.js":"8fb979f6017735054030afdf7295af494aba531133126fa8f613e1145a88580b",
+"dist/vue.runtime.esm-browser.js":"49a2a2b5c18ddef74f68007ead0cf4df88ce40f83ac651b6e5ad05cd1307d53e",
+"dist/vue.runtime.esm-browser.prod.js":"a0dbf1879223c055241aabf2624c5871e49a65d6b50276d8b47ccd5fee3161bb",
+"dist/vue.runtime.esm-bundler.js":"3c3f40cebefb359e384960cc9c1a72bb64dc75fe04f6021ef7ec17092908ecc4",
+"dist/vue.runtime.global.js":"7b36cc0f29a7e1f081df54f0855d8c42cc5924267ef6d62e925a41ac09721b4a",
+"dist/vue.runtime.global.prod.js":"d085944412e3ad7628e9057e3df904e748735921cf7cbc4d63929fdbb4398afe",
+"index.js":"a5287f6056bc5c2c569d318063ee043f55a0d323fa7262f64456d58fd574f928"
+}

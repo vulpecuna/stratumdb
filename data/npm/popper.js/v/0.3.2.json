@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"63c79727f95c05ca97a542d49d5a4c2961fa5ee739b39dbf143e4e62a398a123",
+"build/popper.js":"844cbce2b820d8fe762f080db9671431da3c137fdea7edc39ff373d6ac170743",
+"build/popper.min.js":"65a4d9bff50c760e2e657d6439a8ebca74eeb20dee2a866ec297bfbf0c4db7dd",
+"build/popper.min.js.map":"de62f3570264bd58a8a98976481731fc99737e6e0348ffe0f43408ea1cbb74bf",
+"doc/template/publish.js":"18dba9644dee9745d72331eaff7bec29da199474f73d665afdf8fd69698c197f",
+"src/popper.js":"c5e32f4e90f32c1da5afcc807fffba67625f9e2c826c54c61c991572a1d96a42",
+"tests/_helpers.js":"a53b08bbef754b89ad956959f5a5b270a57e96e675108583e91243ba748b8d95",
+"tests/_setup.js":"897ca7e847437e693dfe6d02819e0f0cf111dbe98558f9be732065e48c4f05f1",
+"tests/styles/test.css":"61efb93d4123ddfcb5dfe9ce8ab2ef6cfebc50ed2989d11cbdd28b906d0682f1",
+"tests/test-popper.js":"5060c319690fa161b46f7c4331ea62a6dd96673da480140a24b25d7cdf06f27c"
+}

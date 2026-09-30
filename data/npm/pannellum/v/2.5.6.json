@@ -1,0 +1,10 @@
+{
+"build/pannellum.css":"a7f1d7b86f1068f228d92f1b0aef95bd41d1e2e12785516573adbf552ee2793d",
+"build/pannellum.js":"a28b2f7b339fd0a602c6769df1dca6ad43af73bc8c6a5be67209715289c12a9a",
+"src/css/pannellum.css":"fa954d77685a87bdd6d8fb64d0c455bb938fe8d32d903ad0f3c8129f917fe8e8",
+"src/js/libpannellum.js":"95def48f960c7e9c5778c0a80f51ed82cc217f70ad5caacc8c787a2f1daa50ad",
+"src/js/pannellum.js":"5f73a38b623dcf23635b69c1f04bc7267f03a366395562015b0a135635b33152",
+"src/standalone/standalone.css":"bbc8e3abb8608d9dac15bdbebfe3f815b01fe0b170226c20287a83d9b2f56b1b",
+"src/standalone/standalone.js":"74dae114824d9005ce1ed70b3550457a2dc3d7239248d655420b3f5894efc6ea",
+"utils/video/videojs-pannellum-plugin.js":"b7bfe32c2e6c07a081f4d9a038e69ce782c98c73d18fed209873a79b2fb3503c"
+}

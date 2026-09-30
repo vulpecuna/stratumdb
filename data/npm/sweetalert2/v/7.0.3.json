@@ -1,0 +1,15 @@
+{
+"dist/sweetalert2.all.js":"8f7a50ad4327f47ab9afc27ec7d0777710ed8904bb32537b37838a4142beaed3",
+"dist/sweetalert2.all.min.js":"09cfb20f3b7858020e40dc97343d26df30a4c72f264912572c6cbee6819a1c73",
+"dist/sweetalert2.common.js":"f23ecc950438c4af9b52046c6b2b9e7a1c8cb368d4e2d00c6fbf15fa14b25dbe",
+"dist/sweetalert2.css":"3161181c6a6252ad490dbe9b7a29dd989c4523da11c6a9e165a76001db4a1a01",
+"dist/sweetalert2.js":"5f5d3d8b96815146608b798c2eca15455c1c6396698000c6a92d0efb5afb3adc",
+"dist/sweetalert2.min.css":"69f0f8cd41bb6e378952b1b9a94f2a5434a4b15d40fb9cf307f2876a34284915",
+"dist/sweetalert2.min.js":"52df5f59ff35295e18a7b8b2c8068c3901d09d1ac18fc731236c452702415149",
+"src/sweetalert2.all.js":"485cb53c300a33e32b4174e4ce99b9ac3a5b7bab1387ee70f46abf81afb39f03",
+"src/sweetalert2.js":"1bb9b3f3b9366cbcd3b9f00555d01b4b8067f5535b06c0ae65b0ef9a2ec36699",
+"src/utils/classes.js":"4c980a36ceedb0d7ee0a246bbec786a3e96aff5121e08df975760324841039bd",
+"src/utils/dom.js":"1eaafaf1f758372524480b30f4227c48051e61e53e8b586212f9b41ac428a463",
+"src/utils/params.js":"c563f5e0af9f52fe8acced279d913402f21e6f26ddfe11c65cf19e4335c35556",
+"src/utils/utils.js":"cc3c30d30d5cb79e243cc6630062b54da0b5f06ecaa018a9248f5cfbdf61e85a"
+}

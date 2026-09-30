@@ -1,0 +1,13 @@
+{
+"dist/ext/class-tools.js":"132f0ee6a4e8bad6d4fbf99a0337336f9a1a5c3a5adf999ef220fa031d7264f5",
+"dist/ext/client-side-templates.js":"d8413606d67b1adf07fa83d483f4bd65ec662a476928a2da669aadd0326a00cc",
+"dist/ext/debug.js":"c26bf66be0c53cc940fbc931d4048bfe65c49f6c3adafdccabd9c4216dd6c9c2",
+"dist/ext/include-vals.js":"2e52ed75522e11a6aeca73d7262b024fb9877ee3befae57f8b913febd342b9f6",
+"dist/ext/json-enc.js":"b5fd61437d83946a0d6b3e7df9048de5747fb3f58e22a4589db93497d3b71a09",
+"dist/ext/morphdom-swap.js":"fdec95fcf1661935d98a5019bbe28c13f1e6bdd69dcfce43e3ad9b2c0c2463b9",
+"dist/ext/path-deps.js":"74f906adf9e097800a5fd400c29b9bfcf637c1549288d08ab34d90e6e7ec6e88",
+"dist/ext/rails-method.js":"13a770186f4e7f0b173a59e6d1fbf17cc22d1728568302d5dd2fe7b6ec65b84e",
+"dist/ext/remove-me.js":"478b7366c36d9aa32c236754e55acb3c2b259647037c497ed12edef873e5f6cd",
+"dist/htmx.js":"14c37b4128ecd7396d5f44f4a087034f88ef72182527534c7808aee1ac717529",
+"dist/htmx.min.js":"1859010244a64e8501491a38613adb0470344fdb7c9f2f322170631a857250d9"
+}

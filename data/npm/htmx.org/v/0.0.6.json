@@ -1,0 +1,15 @@
+{
+"dist/ext/ajax-header.js":"8ab6c75d48f9a0f2851676e6e8937edf4f73b7e19b6456a43bd1326b02658e72",
+"dist/ext/class-tools.js":"a1113c716ddb114c05aa38e4b91c3552c9168024154fc191325516f9f581be08",
+"dist/ext/client-side-templates.js":"2f88f0ad531f26855c03c4b3225a22f43ee009dbea79db8ec58fba81ee55ff73",
+"dist/ext/debug.js":"c26bf66be0c53cc940fbc931d4048bfe65c49f6c3adafdccabd9c4216dd6c9c2",
+"dist/ext/include-vals.js":"2e52ed75522e11a6aeca73d7262b024fb9877ee3befae57f8b913febd342b9f6",
+"dist/ext/json-enc.js":"600d48d159bcb2e821eb5405e0469d23226f98a3cbe7c28afefe95cf07b53994",
+"dist/ext/method-override.js":"2457e053d9b633c9c93e3075ff935f2919d623f79862536a4b9c7e71fbf6eefa",
+"dist/ext/morphdom-swap.js":"0f8a5435bc8e3ec483b4ea4244b794598b81b30cf7f7232ee3e7e6cb9afcca52",
+"dist/ext/path-deps.js":"74f906adf9e097800a5fd400c29b9bfcf637c1549288d08ab34d90e6e7ec6e88",
+"dist/ext/rails-method.js":"13a770186f4e7f0b173a59e6d1fbf17cc22d1728568302d5dd2fe7b6ec65b84e",
+"dist/ext/remove-me.js":"0c9b5a8be17e22f8f1787b5f097efef22311741a467dddd7fbcd717664df4e35",
+"dist/htmx.js":"77efa5ee1cd2c537ede5b04f0647ee26fa289c21cd66699d80f0289c1319cf0e",
+"dist/htmx.min.js":"d2fd3f6801132694908e98b8f3eb434dfcfb16def33b3d12c6028fb38df1e184"
+}

@@ -1,0 +1,17 @@
+{
+"lib/coffee-script/browser.js":"f6195d540599fea31f890bca694b2c74b32d45b2cab3b197537824528dc9fc74",
+"lib/coffee-script/cake.js":"ade7c467ce2fde60ec4082976d60c5df75d28e9de06cfa42caf1e6dc7e017d0f",
+"lib/coffee-script/coffee-script.js":"2356aa4570c8e0615562b6fb2122945c8d660acee75f03dd42a569d2b0390466",
+"lib/coffee-script/command.js":"6e0d8b3067537808c22f3064e357b8d694c851873224cee30739ce942a9acc46",
+"lib/coffee-script/grammar.js":"cdf3c71afe3f5c7437163775e6c86932e1761aaf69b85ab993575f29488a1c4a",
+"lib/coffee-script/helpers.js":"101113a14b98bc40fbfd87d7f0885a8bb21e66ef2eabfe32fdabbf3f2ca2e892",
+"lib/coffee-script/index.js":"a3289e1bead7a58f08131b84302364a828f86801c28dc473634991a52971a7cc",
+"lib/coffee-script/lexer.js":"3a4a22b15f2b4f241d0930237a531dce1b5db6eaa68aee5b8e5422fb20db1183",
+"lib/coffee-script/nodes.js":"4c767b5f8294b5f28088fa925175748db2b72f1b7162cadace4a882b2087023d",
+"lib/coffee-script/optparse.js":"6698da8fede007a411b003ac9a3839c2ab6852d0b132a9a125a0ff1643cf6698",
+"lib/coffee-script/parser.js":"e08e5f6cebf633998bb1b229ca3f20e9888850d538267080fec08bd983d4bb2f",
+"lib/coffee-script/repl.js":"05508f4ab56ba356876ff28ba11dfef272c6d8986672e5309f2c042c8da880d9",
+"lib/coffee-script/rewriter.js":"5a87978211d5fa022250c01b48ab7d549262aca411a09bc1ca33010704d91650",
+"lib/coffee-script/scope.js":"7496e9a3a04663dcd7db7af7385b401dc30161324b72bb9c8380affd09d0276f",
+"lib/coffee-script/sourcemap.js":"40ca50d7813d431ff5f86e307442747569d78aae10c655350008830f2a8273a3"
+}

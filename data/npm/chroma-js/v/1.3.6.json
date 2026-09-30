@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"aa782c4275ec0d2fa68c54bc8d35f38d3f25bf755bfc266c814f80ff03420bd0",
+"chroma.js":"66ef5fac788d6f55e9ab62d547e99c5a7f2f58485ecf4704d44103cf6e949a41",
+"chroma.min.js":"09b9c53e6584e3df54d5ccd3412f5cbb25feae5e78cefd50cffd4018287694b6",
+"docs/libs/chroma.js":"66ef5fac788d6f55e9ab62d547e99c5a7f2f58485ecf4704d44103cf6e949a41",
+"docs/libs/chroma.min.js":"09b9c53e6584e3df54d5ccd3412f5cbb25feae5e78cefd50cffd4018287694b6",
+"docs/libs/codemirror/lib/codemirror.css":"a4498ad88531471e2606b8c115d660b47ecae7512575544cdf4a8f5d705fe013",
+"docs/libs/codemirror/lib/codemirror.js":"98b747bb3097b2f845228cace4c78a7decdd87c23a4a0598513dd56ff8a97815",
+"docs/libs/codemirror/mode/javascript/javascript.js":"e632fc68dd5f4ba1df698f991a77475e715c6b07d78ffa81134353a7bd0d3451",
+"docs/libs/codemirror/mode/javascript/test.js":"091e4f5150ffd00d5ff95ae79b39d565ca973f18b886463301c37869133cd3e7",
+"docs/libs/jquery/jquery-1.11.1.min.js":"540bc6dec1dd4b92ea4d3fb903f69eabf6d919afd48f4e312b163c28cff0f441",
+"docs/src/index.css":"ea56d20df63463874ce61512366f4c064b35da32ccd1e9df2ac0505cf382b906"
+}

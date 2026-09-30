@@ -1,0 +1,10 @@
+{
+"lib/react.js":"eb3b90c1614bb23f8e5d88fb5d5a6f3f4282ca55c20f5f646e02de0e67f2679d",
+"react.js":"58533531fc5eea9a080824d0249ac91113bbf3e3254f6aeff3058ac76a8ba2a7",
+"test/example6-ast.js":"367a9c670a7f9ceb4c761d64d0ac50a12680b786aedea897fbe2e216c28756cd",
+"test/example6-dsl.js":"8ff5a39393a322ac653ae879eef1fcae41b4790c582cd7885898af424b6fdc69",
+"test/example8-ast.js":"08fd06c21ba5972d013e6e23bad131fe65dcace2cc1d2d5b699b9e9b67cfaff8",
+"test/example8-dsl.js":"8b1c030ea9624a40d774cb795a9f92809e861ba84af990df84590f40f015be89",
+"test/example9-ast.js":"77388ce5a7fec89e0690bab2ba48229f8598161642fa84252bc575a360f0357a",
+"test/example9-dsl.js":"e7e07949843aad36401a04f65fe54875be9e71d9f1306c5c218db4f0a7ec927c"
+}

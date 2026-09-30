@@ -1,0 +1,13 @@
+{
+"Sortable.js":"177f89d29d46cbf61beb28c9f70037d6345067fb9aad21da3cd851511db57801",
+"Sortable.min.js":"72aa2c4f9f7cb2b8b3268052d6d2daa9d952f209b7fc5cc247ff9e1153db1f16",
+"modular/sortable.complete.esm.js":"e8dbdce114082be300f5d9c99beab37020ce34ceaf57aa43cb49f59756b9136f",
+"modular/sortable.core.esm.js":"cf63f793cb9763c900e61a429577501831919c6c8c4bbff0c6f2d72cff56f4f3",
+"modular/sortable.esm.js":"af097183dd6b2cd821f57bbde8c865317d4a7a25b8d5a8edad8caacfda684e63",
+"src/Animation.js":"b8bd43e6c87f8223dabb2affb6f3091b90e572d725dd8af092fdab249323c577",
+"src/BrowserInfo.js":"a9dffc27a34d1271b8ec28eb5d18aae5bc4f8aad85b5a2f2a40c97b2d7647c4e",
+"src/EventDispatcher.js":"aefa96e17a2d2d0eee41ce99fc14030b49d9b7b4a40c42e3a5b3775cd226c49a",
+"src/PluginManager.js":"290e35a158f87b66a97f9370e0d565a48ca96b662e497a4ce798a8d613f7b61c",
+"src/Sortable.js":"aa4fae25323d5ab3ddea9473e9a03585d5b70c41b0e5cc653fd279a81c2bb5c1",
+"src/utils.js":"fb932af3022002873e904b3ae50996f64f63176f54df8bbcdf52995f0043f850"
+}

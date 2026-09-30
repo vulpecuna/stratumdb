@@ -1,0 +1,9 @@
+{
+"demos/lib/Mental.js":"5e1d2bd758f8ef6add2128ae949b640f58250fe69d30555d1ce95cfc61144671",
+"scripts/build-demo.js":"3da5699c1e2827833ccaa82f1a0d437ebae7351269de62a2c4f1e5a3f8d677c5",
+"scripts/server.js":"7e178df8d762810d1fffc36624af742535fbe607a2efdeb632cd4f2abcc14ad1",
+"src/purify.js":"77988cda4c800c18f58ade9de769083f2db329a46269cb5bb942a3ae1c4274cb",
+"test/fixtures/expect.js":"b58344d932be3313e5a6b279eb01e9d872056e78a2ca8238f36f73e46912c6f0",
+"test/karma.conf.js":"308719b79c6a05e8513efb5e151c3014fb7f0891d07eac9e704c333f6dfb573a",
+"test/purify.spec.js":"3dc44cdaec99997a6d7378aa3c7d74c265bcc1e0b6510e726a4628d12da65c0a"
+}
