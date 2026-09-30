@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parent
 SOURCES = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
 
 TOP = {"README.md", "sources.json", "collect.py", "check.py", ".gitignore", "state/refused.json",
+       "state/quarantine.json",
        ".github/workflows/collect.yml", ".github/workflows/check.yml"}
 HEX64 = re.compile(r"^[0-9a-f]{64}$")
 VERSION = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_-]*$")

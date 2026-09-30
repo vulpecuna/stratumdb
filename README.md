@@ -21,7 +21,13 @@ data/wp-plugin/<slug>/versions.json  data/wp-theme/<slug>/versions.json
 data/pypi/<name>/versions.json       data/rubygems/<name>/versions.json
 data/docker/<image>/versions.json    the newest thousand tags
 state/refused.json                   items a publisher refused (4xx); not asked again until removed
+state/quarantine.json                version lists that stopped resembling themselves; held until reviewed
 ```
+
+Version lists only grow: a release that disappears upstream stays listed. A list
+sharing less than half of its versions with the one already recorded is not
+written; it is held in `state/quarantine.json` and the run fails until the entry
+is removed.
 
 Digests are lowercase hexadecimal SHA-256 of the exact bytes served. Versions
 are sorted oldest first. Pre-releases appear in `versions.json` but are not

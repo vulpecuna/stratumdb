@@ -45,6 +45,13 @@ PRERELEASE = re.compile(r"(?i)(alpha|beta|[-.]rc|[-.]pre|dev|nightly|canary|next
 WEB_FILE = re.compile(r"\.(js|mjs|cjs|css|map)$")
 
 DEADLINE = float("inf")
+
+# Ceilings, so a hostile or broken upstream can cost one item and never the run or
+# the repository: a WordPress zip is ~30 MiB and a Keycloak jar ~10 MiB.
+MAX_BODY = 256 << 20          # bytes of one download
+MAX_UNZIPPED = 1 << 30        # declared bytes of all members of one archive
+MAX_MEMBERS = 50_000          # members of one archive
+MAX_LIST = 20_000             # versions in one list
 _lock = threading.Lock()
 STATS = {"requests": 0, "bytes": 0, "written": 0, "failed": 0}
 
@@ -68,7 +75,9 @@ def fetch(url: str, *, allow_404: bool = False, tries: int = 3) -> bytes | None:
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=120) as r:
-                body = r.read()
+                body = r.read(MAX_BODY + 1)
+            if len(body) > MAX_BODY:
+                raise Refused(f"larger than {MAX_BODY >> 20} MiB: {url}")
             with _lock:
                 STATS["requests"] += 1
                 STATS["bytes"] += len(body)
@@ -115,10 +124,52 @@ def write(path: Path, doc: object) -> bool:
     return True
 
 
-def safe(v: str) -> str:
-    if not re.fullmatch(r"[0-9A-Za-z][0-9A-Za-z.+_-]*", v) or ".." in v:
-        raise ValueError(f"refusing version string {v!r}")
-    return v
+# A listed version: data, never a file name. Anything else is dropped at write
+# time, so one hostile tag cannot make check.py refuse the whole run's commit.
+TAG = re.compile(r"^[0-9A-Za-z@][0-9A-Za-z.+_@/-]*$")
+QUARANTINE_FILE = ROOT / "state" / "quarantine.json"
+QUARANTINE: dict[str, dict] = json.loads(QUARANTINE_FILE.read_text()) if QUARANTINE_FILE.is_file() else {}
+
+
+def quarantine(path: Path, why: str, sample: list[str]) -> None:
+    key = str(path.relative_to(ROOT))
+    with _lock:
+        QUARANTINE[key] = {"why": why, "since": time.strftime("%Y-%m-%d", time.gmtime()), "new_sample": sample[:10]}
+        QUARANTINE_FILE.parent.mkdir(exist_ok=True)
+        QUARANTINE_FILE.write_text(json.dumps(dict(sorted(QUARANTINE.items())), indent=1) + "\n")
+    print(f"  QUARANTINED {key}: {why}", flush=True)
+
+
+def write_list(path: Path, doc: dict) -> bool:
+    """Version lists only grow. A list that no longer looks like the one on disk is not
+    written: it goes to state/quarantine.json and the run ends red until a person
+    decides (delete the entry to accept; delete the data file too to start over).
+
+    "No longer looks like it": fewer than half of the smaller list's versions in
+    common. That is what a repository deleted and re-created under the same name by
+    somebody else, or a package handed to a new owner who republishes from scratch,
+    looks like; an ordinary release shares everything with yesterday's list.
+    """
+    key = str(path.relative_to(ROOT))
+    if key in QUARANTINE:
+        return False
+    new = [v for v in doc["versions"] if TAG.match(v)]
+    if len(new) > MAX_LIST:
+        quarantine(path, f"{len(new)} versions, more than {MAX_LIST}", new[-10:])
+        return False
+    if path.is_file():
+        old = json.loads(path.read_text(encoding="utf-8")).get("versions", [])
+        shared = len(set(old) & set(new))
+        if old and new and shared < 0.5 * min(len(old), len(new)):
+            quarantine(path, f"{shared} of {len(old)} known versions still listed, {len(new)} listed now",
+                       sorted(set(new) - set(old), key=vkey)[-10:])
+            return False
+        new = list(set(old) | set(new))  # an upstream deletion does not erase a release that existed
+    doc["versions"] = sorted(set(new), key=vkey)
+    return write(path, doc)
+
+
+SAFE_NAME = re.compile(r"[0-9A-Za-z][0-9A-Za-z.+_-]*")  # a version that may name a file
 
 
 # Items a publisher refused with a 4xx, so later runs do not ask again. Delete an
@@ -136,8 +187,10 @@ def refuse(key: str, why: str) -> None:
 
 def per_version(section: Path, versions: list[str], one, jobs: int, label: str) -> None:
     """Write section/v/<version>.json for every version not already written."""
-    todo = [v for v in versions
-            if not (section / "v" / f"{safe(v)}.json").is_file() and f"{label} {v}" not in REFUSED]
+    if str((section / "versions.json").relative_to(ROOT)) in QUARANTINE:
+        return  # never digest what an upstream that failed the list check now publishes
+    todo = [v for v in versions if SAFE_NAME.fullmatch(v) and ".." not in v
+            and not (section / "v" / f"{v}.json").is_file() and f"{label} {v}" not in REFUSED]
     if not todo:
         return
     print(f"  {label}: {len(todo)} version(s) to digest", flush=True)
@@ -247,7 +300,7 @@ def cmd_releases(names: list[str] | None, jobs: int) -> None:
             print(f"  releases {name}: source answered but listed nothing; left unchanged")
             continue
         url = specs[name]["url"]
-        changed = write(DATA / "releases" / f"{name}.json",
+        changed = write_list(DATA / "releases" / f"{name}.json",
                         {"source": url if isinstance(url, str) else url[0] if len(url) == 1 else url,
                          "versions": versions})
         print(f"  releases {name}: {len(versions)}{' (updated)' if changed else ''}")
@@ -272,7 +325,7 @@ def cmd_npm(names: list[str] | None, jobs: int) -> None:
             print(f"  npm {pkg}: {exc}")
             continue
         versions = sorted({v["version"] for v in doc.get("versions", []) if v.get("version")}, key=vkey)
-        write(section / "versions.json", {"source": "npm", "tags": doc.get("tags", {}), "versions": versions})
+        write_list(section / "versions.json", {"source": "npm", "tags": doc.get("tags", {}), "versions": versions})
         if pkgs[pkg].get("files", True) is False:
             continue
 
@@ -304,7 +357,7 @@ def cmd_cdnjs(names: list[str] | None, jobs: int) -> None:
             print(f"  cdnjs {lib}: {exc}")
             continue
         versions = sorted(set(doc.get("versions") or []), key=vkey)
-        write(section / "versions.json", {"source": "cdnjs", "versions": versions})
+        write_list(section / "versions.json", {"source": "cdnjs", "versions": versions})
         if libs[lib].get("files", True) is False:
             continue
 
@@ -334,15 +387,25 @@ def cmd_cdnjs(names: list[str] | None, jobs: int) -> None:
 MAVEN = "https://repo1.maven.org/maven2/{g}/{a}"
 
 
-def jar_digests(body: bytes) -> dict:
+def zip_digests(body: bytes, keep, rename=lambda n: n) -> dict:
+    """sha256 of the members `keep` selects, refusing an archive past the ceilings."""
     out = {}
-    with zipfile.ZipFile(io.BytesIO(body)) as z:
-        for info in z.infolist():
-            n = info.filename
-            if info.is_dir() or n.endswith(".class") or n.startswith("META-INF/"):
-                continue
-            out[n] = hashlib.sha256(z.read(info)).hexdigest()
+    try:
+        with zipfile.ZipFile(io.BytesIO(body)) as z:
+            infos = z.infolist()
+            if len(infos) > MAX_MEMBERS or sum(i.file_size for i in infos) > MAX_UNZIPPED:
+                raise Refused(f"archive past the ceilings ({len(infos)} members)")
+            for info in infos:
+                if not info.is_dir() and keep(info.filename):
+                    # zipfile refuses a member that inflates past its declared size
+                    out[rename(info.filename)] = hashlib.sha256(z.read(info)).hexdigest()
+    except (zipfile.BadZipFile, zipfile.LargeZipFile, OSError) as exc:
+        raise Transport(f"unreadable archive: {exc}") from exc
     return out
+
+
+def jar_digests(body: bytes) -> dict:
+    return zip_digests(body, lambda n: not n.endswith(".class") and not n.startswith("META-INF/"))
 
 
 def cmd_maven(names: list[str] | None, jobs: int) -> None:
@@ -360,7 +423,7 @@ def cmd_maven(names: list[str] | None, jobs: int) -> None:
             print(f"  maven {coord}: {exc}")
             continue
         versions = sorted(set(re.findall(r"<version>([^<]+)</version>", meta)), key=vkey)
-        write(section / "versions.json", {"source": "maven-central", "versions": versions})
+        write_list(section / "versions.json", {"source": "maven-central", "versions": versions})
         opts = arts[coord]
         if opts.get("files", True) is False:
             continue
@@ -395,14 +458,7 @@ def cmd_wordpress(names: list[str] | None, jobs: int) -> None:
         body = fetch(WP_ZIP.format(v=v), allow_404=True)
         if body is None:
             return {}
-        out = {}
-        with zipfile.ZipFile(io.BytesIO(body)) as z:
-            for info in z.infolist():
-                n = info.filename.removeprefix("wordpress/")
-                if info.is_dir() or n.endswith(".php"):
-                    continue
-                out[n] = hashlib.sha256(z.read(info)).hexdigest()
-        return out
+        return zip_digests(body, lambda n: not n.endswith(".php"), lambda n: n.removeprefix("wordpress/"))
 
     per_version(section, want, one, max(1, jobs // 2), "wordpress")
 
@@ -472,7 +528,7 @@ def cmd_lists(names: list[str] | None, jobs: int) -> None:
             print(f"  {kind} {name}: {exc}", flush=True)
             return
         if versions:
-            write(list_dir(kind, name) / "versions.json", {"source": kind, "versions": versions})
+            write_list(list_dir(kind, name) / "versions.json", {"source": kind, "versions": versions})
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=jobs) as pool:
         list(pool.map(run, jobs_list))
