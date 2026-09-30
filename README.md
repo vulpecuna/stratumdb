@@ -16,6 +16,11 @@ data/cdnjs/<library>/v/<version>.json   same, for the files cdnjs serves
 data/maven/<group>/<artifact>/versions.json
 data/maven/<group>/<artifact>/v/<version>.json   every non-class resource in the jar
 data/wordpress/v/<version>.json      every non-PHP file in the release zip
+data/git/<host>/<owner>/<repo>/versions.json   every tag (git ls-remote)
+data/wp-plugin/<slug>/versions.json  data/wp-theme/<slug>/versions.json
+data/pypi/<name>/versions.json       data/rubygems/<name>/versions.json
+data/docker/<image>/versions.json    the newest thousand tags
+state/refused.json                   items a publisher refused (4xx); not asked again until removed
 ```
 
 Digests are lowercase hexadecimal SHA-256 of the exact bytes served. Versions
@@ -32,6 +37,9 @@ no file of the kinds recorded.
 | maven | `repo1.maven.org/.../maven-metadata.xml` | the jar, read member by member |
 | wordpress | `api.wordpress.org/core/stable-check/1.0/` | `downloads.wordpress.org/release/wordpress-<v>.zip` |
 | releases | the URL in each file's `source` | — |
+| git | `git ls-remote --tags` on the repository | — |
+| wp-plugin, wp-theme | `api.wordpress.org/{plugins,themes}/info/1.2/` | — |
+| pypi, rubygems, docker | the registry's own API | — |
 
 ## Running it
 

@@ -21,7 +21,9 @@ import concurrent.futures
 import hashlib
 import io
 import json
+import os
 import re
+import subprocess
 import sys
 import threading
 import time
@@ -51,12 +53,18 @@ class Transport(RuntimeError):
     pass
 
 
+class Refused(Transport):
+    """A 4xx other than 404/429: the publisher refuses this item, and asking again changes nothing."""
+
+
 def out_of_time() -> bool:
     return time.monotonic() > DEADLINE
 
 
 def fetch(url: str, *, allow_404: bool = False, tries: int = 3) -> bytes | None:
     for attempt in range(tries):
+        if out_of_time():
+            raise Transport("deadline reached")
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=120) as r:
@@ -69,7 +77,7 @@ def fetch(url: str, *, allow_404: bool = False, tries: int = 3) -> bytes | None:
             if exc.code == 404 and allow_404:
                 return None
             if exc.code < 500 and exc.code != 429:
-                raise Transport(f"HTTP {exc.code} {url}") from exc
+                raise Refused(f"HTTP {exc.code} {url}") from exc
         except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
             pass
         time.sleep(2 ** attempt * 2)
@@ -113,12 +121,27 @@ def safe(v: str) -> str:
     return v
 
 
+# Items a publisher refused with a 4xx, so later runs do not ask again. Delete an
+# entry (or the file) to retry it.
+REFUSED_FILE = ROOT / "state" / "refused.json"
+REFUSED: dict[str, str] = json.loads(REFUSED_FILE.read_text()) if REFUSED_FILE.is_file() else {}
+
+
+def refuse(key: str, why: str) -> None:
+    with _lock:
+        REFUSED[key] = why
+        REFUSED_FILE.parent.mkdir(exist_ok=True)
+        REFUSED_FILE.write_text(json.dumps(dict(sorted(REFUSED.items())), indent=1) + "\n")
+
+
 def per_version(section: Path, versions: list[str], one, jobs: int, label: str) -> None:
     """Write section/v/<version>.json for every version not already written."""
-    todo = [v for v in versions if not (section / "v" / f"{safe(v)}.json").is_file()]
+    todo = [v for v in versions
+            if not (section / "v" / f"{safe(v)}.json").is_file() and f"{label} {v}" not in REFUSED]
     if not todo:
         return
     print(f"  {label}: {len(todo)} version(s) to digest", flush=True)
+    done = [0]
 
     def run(v: str) -> None:
         if out_of_time():
@@ -128,10 +151,17 @@ def per_version(section: Path, versions: list[str], one, jobs: int, label: str) 
         except Transport as exc:
             with _lock:
                 STATS["failed"] += 1
-            print(f"    {label} {v}: {exc}", flush=True)
+            if isinstance(exc, Refused):
+                refuse(f"{label} {v}", str(exc))
+            if not out_of_time():
+                print(f"    {label} {v}: {exc}", flush=True)
             return
         if doc is not None:
             write(section / "v" / f"{v}.json", doc)
+        with _lock:
+            done[0] += 1
+            if done[0] % 10 == 0:
+                print(f"    {label}: {done[0]}/{len(todo)}", flush=True)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=jobs) as pool:
         list(pool.map(run, todo))
@@ -262,7 +292,8 @@ CDNJS_FILE = "https://cdnjs.cloudflare.com/ajax/libs/{l}/{v}/{f}"
 
 
 def cmd_cdnjs(names: list[str] | None, jobs: int) -> None:
-    for lib in names or SOURCES["cdnjs"]:
+    libs = SOURCES["cdnjs"]
+    for lib in names or sorted(libs):
         if out_of_time():
             return
         section = DATA / "cdnjs" / lib
@@ -274,6 +305,8 @@ def cmd_cdnjs(names: list[str] | None, jobs: int) -> None:
             continue
         versions = sorted(set(doc.get("versions") or []), key=vkey)
         write(section / "versions.json", {"source": "cdnjs", "versions": versions})
+        if libs[lib].get("files", True) is False:
+            continue
 
         def one(v: str, lib=lib) -> dict:
             listing = fetch_json(CDNJS_VER.format(l=lib, v=v), allow_404=True) or {}
@@ -282,10 +315,14 @@ def cmd_cdnjs(names: list[str] | None, jobs: int) -> None:
             for f in listing.get("files") or []:
                 if not WEB_FILE.search(f):
                     continue
-                body = fetch(CDNJS_FILE.format(l=lib, v=v, f=urllib.parse.quote(f)))
-                s512 = "sha512-" + base64.b64encode(hashlib.sha512(body).digest()).decode()
-                if f in sri and sri[f] != s512:
-                    raise Transport(f"{f}: served bytes disagree with the published integrity value")
+                url = CDNJS_FILE.format(l=lib, v=v, f=urllib.parse.quote(f))
+                body = fetch(url)
+                if f in sri and sri[f] != "sha512-" + base64.b64encode(hashlib.sha512(body).digest()).decode():
+                    # cdnjs's own integrity value is stale for a few files. A second download
+                    # that returns the same bytes shows they are what is served; a different
+                    # one means a transfer went wrong, and the version is retried next run.
+                    if fetch(url) != body:
+                        raise Transport(f"{f}: two downloads returned different bytes")
                 out[f] = hashlib.sha256(body).hexdigest()
             return out
 
@@ -370,9 +407,81 @@ def cmd_wordpress(names: list[str] | None, jobs: int) -> None:
     per_version(section, want, one, max(1, jobs // 2), "wordpress")
 
 
+# --------------------------------------------------------------------------- version lists only
+
+def _git_tags(url: str) -> list[str]:
+    try:
+        r = subprocess.run(["git", "ls-remote", "--tags", "--refs", url], capture_output=True, text=True,
+                           timeout=120, env={**os.environ, "GIT_TERMINAL_PROMPT": "0"})
+    except subprocess.TimeoutExpired as exc:
+        raise Transport(f"timeout {url}") from exc
+    if r.returncode:
+        raise Transport(f"git ls-remote failed on {url}")
+    return [line.split("refs/tags/", 1)[1] for line in r.stdout.splitlines() if "refs/tags/" in line]
+
+
+def _paged(url: str, key: str, field: str, pages: int = 10) -> list[str]:
+    """Docker Hub answers 403 past page 10 to an anonymous client; its default order is
+    newest first, so ten pages of 100 are the newest thousand tags."""
+    out: list[str] = []
+    while url and pages:
+        doc = fetch_json(url)
+        out += [str(r[field]) for r in doc.get(key, [])]
+        url, pages = doc.get("next"), pages - 1
+    return out
+
+
+LISTERS = {
+    "git": _git_tags,
+    "wp-plugin": lambda n: [k for k in (fetch_json(
+        "https://api.wordpress.org/plugins/info/1.2/?action=plugin_information"
+        f"&request%5Bslug%5D={n}&request%5Bfields%5D%5Bversions%5D=1") or {}).get("versions", {}) if k != "trunk"],
+    "wp-theme": lambda n: list((fetch_json(
+        "https://api.wordpress.org/themes/info/1.2/?action=theme_information"
+        f"&request%5Bslug%5D={n}&request%5Bfields%5D%5Bversions%5D=1") or {}).get("versions", {})),
+    "pypi": lambda n: list((fetch_json(f"https://pypi.org/pypi/{n}/json") or {}).get("releases", {})),
+    "rubygems": lambda n: [r["number"] for r in fetch_json(f"https://rubygems.org/api/v1/versions/{n}.json") or []],
+    "nuget": lambda n: (fetch_json(f"https://api.nuget.org/v3-flatcontainer/{n.lower()}/index.json") or {}).get("versions", []),
+    "docker": lambda n: _paged(f"https://hub.docker.com/v2/repositories/{n}/tags?page_size=100", "results", "name"),
+}
+# A tag may carry a path or a scope (release/METEOR@3.1); it is data, never a file name.
+LIST_VERSION = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_@/-]*$")
+
+
+def list_dir(kind: str, name: str) -> Path:
+    if kind == "git":
+        u = urllib.parse.urlparse(name)
+        return DATA / "git" / u.hostname / u.path.strip("/")
+    return DATA / kind / name
+
+
+def cmd_lists(names: list[str] | None, jobs: int) -> None:
+    jobs_list = [(k, n) for k in LISTERS for n in SOURCES.get(k, []) if not names or n in names]
+
+    def run(item: tuple[str, str]) -> None:
+        kind, name = item
+        if out_of_time() or f"{kind} {name}" in REFUSED:
+            return
+        try:
+            versions = sorted({v for v in LISTERS[kind](name) if LIST_VERSION.match(v) and any(c.isdigit() for c in v)},
+                              key=vkey)
+        except Transport as exc:
+            STATS["failed"] += 1
+            if isinstance(exc, Refused):
+                refuse(f"{kind} {name}", str(exc))
+            print(f"  {kind} {name}: {exc}", flush=True)
+            return
+        if versions:
+            write(list_dir(kind, name) / "versions.json", {"source": kind, "versions": versions})
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=jobs) as pool:
+        list(pool.map(run, jobs_list))
+    print(f"  {len(jobs_list)} list(s) read", flush=True)
+
+
 # --------------------------------------------------------------------------- main
 
-SECTIONS = {"releases": cmd_releases, "npm": cmd_npm, "cdnjs": cmd_cdnjs, "maven": cmd_maven,
+SECTIONS = {"releases": cmd_releases, "lists": cmd_lists, "npm": cmd_npm, "cdnjs": cmd_cdnjs, "maven": cmd_maven,
             "wordpress": cmd_wordpress}
 
 

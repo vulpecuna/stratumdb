@@ -27,7 +27,7 @@ jobs:
         run: python check.py
       - name: Commit
         run: |
-          git add -A data
+          git add -A data state
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
           git -c user.name="github-actions[bot]" \
               -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \

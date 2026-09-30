@@ -15,10 +15,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 SOURCES = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
 
-TOP = {"README.md", "sources.json", "collect.py", "check.py", ".gitignore",
+TOP = {"README.md", "sources.json", "collect.py", "check.py", ".gitignore", "state/refused.json",
        ".github/workflows/collect.yml", ".github/workflows/check.yml"}
 HEX64 = re.compile(r"^[0-9a-f]{64}$")
 VERSION = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_-]*$")
+TAG = re.compile(r"^[0-9A-Za-z][0-9A-Za-z.+_@/-]*$")  # a listed version; never used as a path
 LIST_KEYS = {"source", "tags", "versions"}
 
 
@@ -47,6 +48,14 @@ def section_of(path: str) -> tuple[str, str, str] | None:
         for lib in SOURCES["cdnjs"]:
             if path.startswith(f"data/cdnjs/{lib}/"):
                 return ("cdnjs", lib, path[len(f"data/cdnjs/{lib}/"):])
+    for kind in ("git", "wp-plugin", "wp-theme", "pypi", "rubygems", "nuget", "docker"):
+        if parts[1] != kind:
+            continue
+        for name in SOURCES.get(kind, []):
+            d = "/".join(name.split("://", 1)[1].split("/")[:3]) if kind == "git" else name
+            if path == f"data/{kind}/{d}/versions.json":
+                return (kind, name, "versions.json")
+        return None
     if parts[1] == "maven":
         for coord in SOURCES["maven"]:
             prefix = "data/maven/" + coord.replace(":", "/") + "/"
@@ -58,7 +67,7 @@ def section_of(path: str) -> tuple[str, str, str] | None:
 def check_list(doc: object) -> str | None:
     if not isinstance(doc, dict) or not set(doc) <= LIST_KEYS or "versions" not in doc:
         return "not a version list"
-    if not all(isinstance(v, str) and VERSION.match(v) for v in doc["versions"]):
+    if not all(isinstance(v, str) and TAG.match(v) for v in doc["versions"]):
         return "a version is not a plain version string"
     if not isinstance(doc.get("tags", {}), dict):
         return "tags is not an object"
