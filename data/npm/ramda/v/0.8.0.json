@@ -1,0 +1,14 @@
+{
+"ext/debug/debug.js":"87850a396ab1947d1646377771543f3adebeb7ab26870fe102ee5e3e365f01f4",
+"ext/impure/setProp.js":"c801c2eded27bda695df9f5b3597dd67e18aa48bd1018f450333316aa8712d75",
+"ext/lazylist/lazylist.js":"e789179525d6d679825f921320e61ad5a1e3ae6a13c8120074a947800d5eb3db",
+"ext/random/random.js":"385cd88eda3bb168447e56a94b9af14ac3238baf48638084c9fa2abe9aca079c",
+"ext/types/Either.js":"943dc00f1bdf88bcec9d4ffd6a4f6a1d85fe3ace657749e88ed165923a7c459e",
+"ext/types/Future.js":"836780ecb431793bcb4d31c54ec1e8c13289f1a9f359477d799a21293b2da953",
+"ext/types/IO.js":"11e1e02e24a6300e454ca8ba3e77cbe598a6e2e7ffe425f0765d75b8be7307d3",
+"ext/types/Identity.js":"2140e58d46ae3fb5834489e09cb67e335a7a7806857b9964d6d78d8d0b25afbd",
+"ext/types/Maybe.js":"9df2591bdef46e9157ddabe1196e1b2c6611aae2800c2f2ecb991e9ead7a2bb2",
+"ext/types/Reader.js":"c4b42802648b6621798a43b4fae352619c9b968d12534287260b04edf7602f98",
+"ramda.js":"69e896745b6e308f110bea085c3c4e6951ec335b72203422e6fc9f3497cc7385",
+"ramda.min.js":"0bf0bc50b1f48707de50130f8b08dd6daf613652070bd1377d7ebd89f5bce44b"
+}

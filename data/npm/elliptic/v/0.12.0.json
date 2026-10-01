@@ -1,0 +1,15 @@
+{
+"lib/elliptic.js":"a8523d001ec351c4f6f1a3c38ed086ec9da0370331b3348ad9940c35086a91a6",
+"lib/elliptic/curve.js":"ad54862a04144ec2fdc6159edbb93bd21cf2524c5cfa1f610f8237c7541f9022",
+"lib/elliptic/der.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"lib/elliptic/ecdsa/index.js":"7e444787f8a1386e5c0f5d6dc82f27ab9843c5a344c2504ddc0cb0fe6f5f5a31",
+"lib/elliptic/ecdsa/key.js":"400078cf5908f807897a5f4c936b187f3e23bb94a465d31a943f4924a9e8a575",
+"lib/elliptic/ecdsa/signature.js":"8b03fd03307d08e639f2198978ef8bbb55b476e463a72aff8249526c300e208c",
+"lib/elliptic/hmac-drbg.js":"007bd9385e3cd55c2dc4bef496eeb9ff6a8bcec5d3fb6c13adfffa78ad235096",
+"lib/elliptic/nist.js":"a232fbe3eb2c584ff4b80e0c304df97b01f1596ac9628222c7941a08821ab270",
+"lib/elliptic/rand.js":"962d1d3f6a69a3c26fcd48d523b3e98fa6e71124bad579efbf426ef65c04784c",
+"lib/elliptic/utils.js":"fa5f509f0a3c4b8fbb8d2d895500f859df02e21acccc19afb59af9ef7966b0db",
+"test/curve-test.js":"a317235dc75d0d9ab9ba425e9eebada4edf66213dbd39426bb89d9dc14b6fa2f",
+"test/ecdsa-test.js":"728f366dfdf68d0d9c551fbf6e0a52c9dcacf39177d98dbb9361859357dc12dd",
+"test/hmac-drbg-test.js":"e6e8616586638627575c3ef0a6fb3db34372542fbd64bf2bc1bac0de35ed4ef3"
+}

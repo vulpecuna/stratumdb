@@ -1,0 +1,9 @@
+{
+"dist/cjs/redux.cjs":"f8a2df37e7657451bae7a9be9fa4661b4e6bcb49f39bf445416747a1c6fbb828",
+"dist/cjs/redux.cjs.map":"f7b9b86d8d4bee469de49a376e875e39168b1e0871c172a78e90904165912ec9",
+"dist/redux.browser.mjs":"0779ff889625c2a82f9a1f964e4e23b21ec719b0516ca5bed849011584f32eed",
+"dist/redux.browser.mjs.map":"597e5777c066b623dbc190aeedd3f260b52f6f065ca57420e3f1defbf5c17858",
+"dist/redux.legacy-esm.js":"3ebe0065d2e952d2bd31ddfcaf2da5c134005a80338d01940ba2908d6b694388",
+"dist/redux.mjs":"3ebe0065d2e952d2bd31ddfcaf2da5c134005a80338d01940ba2908d6b694388",
+"dist/redux.mjs.map":"b25911dd99d217149095bab15cc33fe498938133fa466b0ab10ae0386cd62003"
+}

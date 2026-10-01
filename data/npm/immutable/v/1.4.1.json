@@ -1,0 +1,12 @@
+{
+"build/immutable.js":"4cf348471d6e0d256e7ca8ddde13a4884fe8c7e075377c18cc85b34a6963ece3",
+"src/array.js":"384baebb64c2d5b89b117b11903110a23a49448e07bce7118ceb6b7b173af1c4",
+"src/immutable.js":"b0eee504128d9d97e99a2ea91b18a7ef44008554901470e14a37aa88b51f41d0",
+"src/object.js":"241f59c82030633b46d9260b33dfea7a45bda9df780ea2ab5a2b12ddc4ae137d",
+"src/predicate.js":"0fa95a779fdca6d15d33b9bff3be3a1b4ea427ee85a4ae5506025943558dab6f",
+"src/util.js":"c5cf1515e325d48f7f01c97c24472f255bb9a92941ad1b56555940d50bde2b2b",
+"test/array-test.js":"fc2c679ba274eae67b9131b9867ef0caaa46998293182ece515ef782b153d104",
+"test/immutable-test.js":"75b18281a92893b3ac1b433a2174729fa7a8ebecfa4724eb22eae3c56e72b3f0",
+"test/object-test.js":"c75fe0857f6379195306e375d00c0338a93539bfeb0aed7b65679f3a5f13b608",
+"test/predicate-test.js":"ae6c19da9ba4225c36e5c7d85c1f753e76a0b74c205fa179c31fdf5bdacc4317"
+}

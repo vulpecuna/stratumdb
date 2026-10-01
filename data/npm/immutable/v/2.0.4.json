@@ -1,0 +1,11 @@
+{
+"dist/Immutable.js":"2505752f77b9ff222fc95e6ed230d8d78d76e7e99b03766736febc8ce88508d2",
+"dist/Map.js":"d3e572c98bd82b19e7989cc41f8e238ee2791a3eb268a455d7affeaf5ebf3540",
+"dist/OrderedMap.js":"44b40d99ba06b7768689e226180ab09fb58a4ead82784c475fff1d0b462e85c6",
+"dist/Range.js":"32d2e0e00caace38c46765ec36787db1894cefec64b81c1affef6a32f9b86399",
+"dist/Record.js":"b028797c404ace8f5d2f946d31ac4f56158c1cd1ef272e8b4172cdba897b9f35",
+"dist/Repeat.js":"152a45a04c04fff9469f8263a3c1ac0eddab98772affd47afbfa4803934dfaa9",
+"dist/Sequence.js":"0d80e98490b3aaa7a77ede3186d48fd895c280a7a83ae28a325dd772fae760bb",
+"dist/Set.js":"6aa509c4174676a90bc4b1647da2442a71be4072a9de289a3f3581e64fd50019",
+"dist/Vector.js":"6f55dc9f0b48a737f0696c41b9c9e428d17a9565e0928f596d2c1cf899ceb4ae"
+}

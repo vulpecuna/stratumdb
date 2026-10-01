@@ -1,0 +1,10 @@
+{
+"build/immutable.js":"4cf348471d6e0d256e7ca8ddde13a4884fe8c7e075377c18cc85b34a6963ece3",
+"src/array.js":"384baebb64c2d5b89b117b11903110a23a49448e07bce7118ceb6b7b173af1c4",
+"src/immutable.js":"394ea96e036b6fab58f292cf5b9b14e373529ff2c1e9c68eb4f8bc88458fa939",
+"src/object.js":"241f59c82030633b46d9260b33dfea7a45bda9df780ea2ab5a2b12ddc4ae137d",
+"src/util.js":"dbad869ef8d282a698eb234e0a0d065f9488b5db80712daa3681c325fd0e9ea7",
+"test/array-test.js":"67b69fd84264c64c1dc9cb5773e0e6320da87d0437f9071418cb6dd703982190",
+"test/immutable-test.js":"a55d4307939689f45b505652f861cd50c562b0dff21f3929c0fde407570cafe1",
+"test/object-test.js":"99f515d5edd863533adaea8c2e3333623db3e0460e0a6ab2e7f1652d8f614b04"
+}

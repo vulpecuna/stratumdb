@@ -1,0 +1,10 @@
+{
+"backstop.conf.js":"66252d1a7354c048cbe24c3e0fcb2d0db70479eb11feb9785be7c435b57d7db4",
+"dist/milligram.css":"ecbb8e1dbb01226a1a0875b38ea4032de18af64abfad966a22be86b64cf45b32",
+"dist/milligram.css.map":"4c2c0367fbbd34bf3bcba72faf50042697b566252c4ea4bc7a684e36c928bf3f",
+"dist/milligram.min.css":"468ff03fcb948bc2d1ef593021d8a57fbf1ab69bbc6d3130acae59a2d668f997",
+"dist/milligram.min.css.map":"2e771be03ab3119c87e45d9efafcb7986f1d2458162556893c3364c060278568",
+"package.js":"1be9d6fe22229548226abcc63004274a1d24672afe21201762fdb68c1020384d",
+"test/unit/build.js":"cc5cbdf0b48f6f3e944ee7d322240e1de5ffc7de7df2bd64b91c09fe33479010",
+"test/unit/packages.js":"d4de051ceb2fc7c5923586f3c8cd9db4d8d2c0c25f359ed28ec54a7cf62beab2"
+}

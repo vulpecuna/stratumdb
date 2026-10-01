@@ -1,0 +1,10 @@
+{
+"spec/lib/console-runner.js":"983cc1ef754d8e708d669929d7ad586d954868b56d4d06fa6a44a6ba5992c1b7",
+"spec/lib/jasmine-1.2.0/jasmine-html.js":"7810e44afee3f7b885cdafbb31a90e4c4038323658d25338aef86687f9096727",
+"spec/lib/jasmine-1.2.0/jasmine.css":"e56354088cd4d7dba777b73e43842d33e45f7748fd61b9f17cca0bb90724d466",
+"spec/lib/jasmine-1.2.0/jasmine.js":"f0ee62dd129efe1ec45b070b44c018ead43778bdaa399effa27635947e82100c",
+"spec/lib/jquery.js":"9fcc241093405946885039df428cfa7f0051a1f2bdbcc5a313a177a9e35f8806",
+"spec/mailcheckSpec.js":"7038e952d09ea4e6a41e666fff688e23421d98a16561b72d93aab9b2725487f7",
+"src/mailcheck.js":"76272d4882b035fd806e22d81a30351f5d90b628eb679fb0a0e2c108c6fff9b5",
+"src/mailcheck.min.js":"7090005d203e5e17807ca94e1992fd57076443c8a0aad133803acdc40a1a13ed"
+}

@@ -1,0 +1,16 @@
+{
+"dist/client.min.js":"caca6e51a43ebc380d144a8de943f6b02ccf6b1924c06f89de61f3cb1f4b0819",
+"gulpfile.js":"679cc3baea746a7ba92d0251b7ee733fce195e302c763aaaab2ff185059b1f13",
+"karma/aircover.conf.js":"037a9b1b681fdc0acdaebbef75bff6d4639698debe0aea488d9c2d939e820103",
+"karma/drone.conf.js":"2ec7a51aec0a23ff4c23a393929069e8c28a31dfe27613b6cf0a8cb2dc9734b4",
+"karma/local.conf.js":"1aac586c1fd840216644f0f0fa3aa72c5e1d90f6c076b0051f696d4aa5fa13f6",
+"scripts/install.js":"27653650a2921948c6d6a81d31650313ebd1bffd09303b0f7902d0cac59f9baf",
+"scripts/test.js":"41c7589f2ec40e88d42d33da832e554ebf9514799bba26dadf3fdacec3bc85c8",
+"specs/ClientJSpec.js":"5b792bb7a80d8929b2e5fa41053874b03ccb44c5646a7d3454378bab31f139ff",
+"src/client.js":"61c6f8c5b3dfd9493f8b297d00b183dd7f8bf72aa35dd5581db8f07d6078aed3",
+"src/vendor/deployJava.js":"3965786841bd3c03431ae53e0c78b7b4a034466e6af722188ea39b93bba77714",
+"src/vendor/fontdetect.js":"9851b60829748e2c1501af0ea9b73e8698f70e39f4b1a2b741575caf76732dcf",
+"src/vendor/murmurhash3.js":"3d0c3684663f6ca00cff110fb58d2f60b18e265a89bae821c10d3ef0337713a6",
+"src/vendor/swfobject.js":"be445bfbced678e65084556cad18cf6b087593ab5ede516165f06665f67e28f2",
+"src/vendor/ua-parser.js":"b74c0cb67fb09c9310a087cb50ddfb8da037022a655491e7ceac5255b1c3e126"
+}

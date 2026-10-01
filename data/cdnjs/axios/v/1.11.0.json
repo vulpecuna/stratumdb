@@ -1,0 +1,12 @@
+{
+"axios.js":"440542651770e394e20b4110479a114e8dcc86875cf0e3e0017a8d9d01fdd40a",
+"axios.js.map":"149453effe890100e87d783ea5b6fe666105746ac54f8b793627bd1b215255f8",
+"axios.min.js":"040f352cfd68b3a5df2c2a06196f1002b5c0048f94e153435af868ae617158e9",
+"axios.min.js.map":"4e0c9e1b0cac7342374e3fecca26e5a06cbd1b4e811759270b8dbb7a2aacda60",
+"browser/axios.cjs.map":"4dfb332de8d5efe8dafda4f970eae7d121613fdc0aa7ab7a8b55e835e7c8a916",
+"esm/axios.js":"29bb5b657c8d1f8d8e5da6a7d1a69faeefbb26b78f072e588532436329cbc634",
+"esm/axios.js.map":"ddb2247988dd6b53482c0501acfc945ea482e3e53956e24c4a26b82dcadd5706",
+"esm/axios.min.js":"4da0936a7936ea2078bec515f87e7de10d31286643cb6abfa59c66727e4fbe1a",
+"esm/axios.min.js.map":"c595a73d65bec7e67c34fbe8d0a780a73baa83d1acdad1f91b4acb0c2999edfe",
+"node/axios.cjs.map":"e1653ca470aa3802f1412e7d29236e78ab5b5acf214b3080118067fe84278920"
+}

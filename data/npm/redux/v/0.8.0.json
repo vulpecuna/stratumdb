@@ -1,0 +1,14 @@
+{
+"lib/Dispatcher.js":"1a8aa3499088c057dc2955ddf95b1d6095a9feb739e063c95a271c5104a7849a",
+"lib/components/Connector.js":"32e6f21650ca82d09b16d6935a960460ba129ece9c0abffb0124b5028ea1fca8",
+"lib/components/Provider.js":"7594d504e5604f871d69d2bc609897bda5e1e39d33673cef527e5272646f0727",
+"lib/components/connect.js":"c612c166c2186b528d9680b33aed79213a7327f802229e4e3754a03cb1c0f6ac",
+"lib/components/provide.js":"b467571d941418b87ae3fbdaf46a3f6b59ae8a55da28f1b703205ca11753dacd",
+"lib/createDispatcher.js":"478929ae6b4f1cb7506c8b1e74c78981e05726f0672ca6fa441e4dae1d5286e5",
+"lib/index.js":"b6150a4e551caff79882555ced5360f6e6595594103c1e0965b36d96c5cc4d91",
+"lib/utils/bindActions.js":"5979009b55bd4254524720cb2eedf898a31db8e460e744fcdec8f1b97479c788",
+"lib/utils/composeStores.js":"8b653f65eabfbb5d2b7a4304374f0ca5406f2f2f89c10924928d5e755c82a74e",
+"lib/utils/getDisplayName.js":"b166c76a1af18111ef151105e32f242e9b34d59ed9351bcc5a00e6d0177a6175",
+"lib/utils/shallowEqual.js":"4c5cfb056f51b27bc2aa5b6149054414c448b77be27a02eabad66315a3c433a5",
+"lib/utils/shallowEqualScalar.js":"12261ae4b34b50408867f51f0a2cd930967ef466699b161501c841d7303579af"
+}

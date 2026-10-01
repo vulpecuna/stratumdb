@@ -1,0 +1,13 @@
+{
+"bin/build.js":"e4b19cde2ed334e413092518b3f3d835ae55338251f8efc087bd0c7945ad935a",
+"custom.js":"e7b835d8e216e9e753559883e448a475d27ff10b5ed386d01cbbe1927051bcbf",
+"full.js":"f88f21ebc7633bb4c38cd131cd1e1ddc1ed0e9f8e8eac0612565cb63b7a5b6fe",
+"index-browserify.js":"8e6c9bb2d33254e61d1296df9b1edf52a920730b9502ba8a4e982c7bca02a4bd",
+"index.js":"f88f21ebc7633bb4c38cd131cd1e1ddc1ed0e9f8e8eac0612565cb63b7a5b6fe",
+"lib/angular.js":"4bf02bf2b9e563bff95eb84bc9b55c9a454024bd98c9fffe0a267792c5cb50c0",
+"lib/angular.min.js":"2bb5eb93141002fda502969d8933f1468e9214522b54c3d5874060f178620a96",
+"lib/angular.min.js.map":"2acc77ddea4333afe891790a4798a01fa27fc6ac217d8f354f078c9aafdae468",
+"min.js":"5079365dd6292c9e1c1f7ddc34e6b050d7f7d93097a9ac87deefe74c19ca980a",
+"test/fixtures/foo.js":"4bf02bf2b9e563bff95eb84bc9b55c9a454024bd98c9fffe0a267792c5cb50c0",
+"test/index.js":"3df5b9df56ced28099f6952cb2a51852bd7640efedbf90fbda4692048c8745f9"
+}

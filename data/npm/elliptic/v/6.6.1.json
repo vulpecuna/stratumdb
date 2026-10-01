@@ -1,0 +1,17 @@
+{
+"lib/elliptic.js":"4e8c1663591fb20084135f56edbb5aa7425f2b4e6e11f70c23a94c94f7f6d946",
+"lib/elliptic/curve/base.js":"14aeb577b6509519d50c2c3f6c17faeef3e29d4fe126c8b60435f547fa76a2f5",
+"lib/elliptic/curve/edwards.js":"0efb2fc9bf9b4200daefa187c9aabdbf957e6c0adac99c14dfb26a2132efebe7",
+"lib/elliptic/curve/index.js":"7fbd44a1c712c2b651dffab914b156e4f0bcc8ca09f4d9e422e8542ca770f829",
+"lib/elliptic/curve/mont.js":"adc64d96bd2a3530559e1e9db9fd11fb79b8ecb6914ccd7ff07ca4519e0e5ffe",
+"lib/elliptic/curve/short.js":"ff57ccea34340311c170dbfc2d249a261590deda75f8c586e5f3d7d679b79890",
+"lib/elliptic/curves.js":"7b2955d3137649d603d890e25e96d199148a93255e98ea9a495bdb4f1f0ffdf1",
+"lib/elliptic/ec/index.js":"668741c0c921bf5174439104e8fd20636578373cbbd28736ccbcd8e59a5aeafc",
+"lib/elliptic/ec/key.js":"08183de5864bcf40879a9f4fb3f0b3d3b30b557352457c98de8aab2de29396df",
+"lib/elliptic/ec/signature.js":"e22eb27aa99f94f09f07446779a63ddddcc0023a248ce8040e8acd17ae748e72",
+"lib/elliptic/eddsa/index.js":"47cb886aee78234d311ec6be032cad1b17de9bd60dcde34de76c2bab9b16e9b5",
+"lib/elliptic/eddsa/key.js":"5f60791423f74be8b8792b50d54bec96dc8b11d0f4979761a91ec810d4f051d3",
+"lib/elliptic/eddsa/signature.js":"867e563e9804ba4502f70704bdadc8b14a792cceb968a2e9460bb72f456281a0",
+"lib/elliptic/precomputed/secp256k1.js":"9e383365793650467605de197cdb71e09c22ebcdc02c5336873412c14c81bac7",
+"lib/elliptic/utils.js":"3eb8452d1321ec02862fe00a6afa69b12e6ef7d6633108919f1d4f3b069be90b"
+}

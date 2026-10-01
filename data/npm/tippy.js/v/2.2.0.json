@@ -1,0 +1,12 @@
+{
+".eslintrc.js":"ea2a7b8da60740f0cb762d5c58a9cc09ebedf29623648c771d4324bec259c38a",
+"dist/themes/light.css":"b622084c6c20c08aec82a3b311c60eea23e4bdac57ee0e4c66caf7975ec673f1",
+"dist/themes/translucent.css":"85df296b4bb2dcb6c123fad3e09ea46e61f65a335d699faae92b633df779482f",
+"dist/tippy.all.js":"10454e11540430ce56c8315bed7805cddc8d4a9b52bee6e5e7dce857ca503ab6",
+"dist/tippy.all.min.js":"eee351dc1f988f4f94a269a10d84121e4c092ebad585732628cab276c7d4ad13",
+"dist/tippy.css":"7d48f9a048a2a9b43fa0584d831fcfc6475c88cf0f0903399f1aeea626f16cd3",
+"dist/tippy.js":"0b405526d605ca6ce402b7fbbe9b56240200ef69ca3f0c88363818fd1eaa1243",
+"dist/tippy.min.js":"1bd8fe76fccc4c5018daee5bdeca76677eec9b4dad9d46b74f8f96a5c033b593",
+"dist/tippy.standalone.js":"566ca46b8733b3ee73edd14ac6b942c6a243f6c7d01bfbd380c56748cf12463f",
+"dist/tippy.standalone.min.js":"c719462faf075e600b65249982527d6deedf422f323351990b05c28b50637174"
+}

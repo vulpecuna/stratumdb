@@ -1,0 +1,15 @@
+{
+"lib/ionic.js":"3f250afbb0768e3fea1bbe436c4968b2b90d419ea916aa27707264f45188444c",
+"lib/ionic/config.js":"d89fdfad38ef4c96d4b2ec99b46833a68c1d72d411d0b7988a284fd983553b95",
+"lib/ionic/cordova.js":"b48045a21f694ea45e0377466f82e38237800635bb5cdaa032e2483cb93f8e46",
+"lib/ionic/lib.js":"2a000ca1f0ed71a9bdbc59cf2ef1aa96bcecceddd4730b3f501921e9cd0a0a5e",
+"lib/ionic/login.js":"f657ba242535272b90520c2a230afae013e272fc0b48e09991767a74642c93bb",
+"lib/ionic/package.js":"a632e716410eeedbd3af0c7e663b4413a9ced7d20a2815911d6d34fcfced7ef8",
+"lib/ionic/project.js":"a467330f559caa051c4d26e1c5d0cfe1a8285c74bdad054ee3d7405cbe695af4",
+"lib/ionic/serve.js":"a92e65ad2bdde6a90b110d1c0f4b685faef84d1ebac7b942a13b148e4d948a5d",
+"lib/ionic/start.js":"cdd071bf63a35e4c7807498bfe3b27bc45f558ee25d24f013515cd27b486bf2d",
+"lib/ionic/stats.js":"d059307c88bb177403fd2da16ddad9b968a6207d15da547a3667932e32354c20",
+"lib/ionic/store.js":"056ff8fcd43ee1484fe4063933e38fe42194e62fefc183b6ce7f08f7766cfddb",
+"lib/ionic/task.js":"f11633d79877d6f88a1be668d05817a816230943042b53ad4adb00f601c603c1",
+"lib/ionic/upload.js":"289b02105f93d1a8da9c5ded97028f17a7df9169c5803553fe589ced8c5c91e0"
+}

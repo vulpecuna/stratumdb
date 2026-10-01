@@ -1,0 +1,8 @@
+{
+"bin/build.js":"d4bdbac31e9a71c51f51e45be8d3cf594edd38ec6cd297d99340c27c048224cd",
+"index-browserify.js":"2ffad28c4e6c5406bcd9094135770fec7a10742cc6c914897a04db015505df1c",
+"index.js":"ee2b4a753df2033cbb2cc40d3192ec9bdcca0b56f2fd9739a869beef00c5b273",
+"lib/angular.min.js":"a5415ecafa83e6ba1b91ea4813734580e53ef9b492723d97696c7120b06ae521",
+"lib/angular.min.js.map":"5805406384d8e25ec8d416aeab31c9aaaa451207940bc8d2aa62c325d2e421b1",
+"test/index.js":"ba15b65a6f0913bf83b7e8f84ffed782b675d863a287be36f302b96a8378dd87"
+}

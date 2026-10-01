@@ -1,0 +1,13 @@
+{
+"dist/fingerprint2.min.js":"8280726c8d9af855043bd9f58244722183b02cfaba7cef33d7dd80c40f4ee782",
+"fingerprint2.js":"ff0ef334e502ee3681045ca212c1066c54387f5a508becb1feab50e0b2db83cc",
+"gulpfile.js":"ec79fe74e7df8ef791773be7f915ff1eaa0d983c251dd8540264ed8774e9585d",
+"specs/lib/jasmine-2.3.4/boot.js":"05434e8b66496cf0bcc0bfc59adcef0c880a19519e1b019f958cd5473f71609f",
+"specs/lib/jasmine-2.3.4/jasmine-html.js":"98a41a82503632de86cf896015f116508e4541f53a52ff02ff18962fb0c1b66e",
+"specs/lib/jasmine-2.3.4/jasmine-matchers.js":"b072b0fa131c0b9d85f6c287af63cc8e9c43898ee8bba4aa1ce8fcdfbc448241",
+"specs/lib/jasmine-2.3.4/jasmine.css":"30caea073c2b7d7f51f6cac230e1c11329ba1af849f0cd8d27efb04939d8d058",
+"specs/lib/jasmine-2.3.4/jasmine.js":"2be4215762773e04719bc52da37408e4162d059943d388dd9d701ce3a62da7f8",
+"specs/lib/jasmine-2.3.4/terminal.js":"3d4b63bb47eb282fe750d1b2409938da8acc3759a22dbffc3d0aed0169f5a57d",
+"specs/phantomjs-testrunner.js":"05ca3ac26423b026e40af5958e26484675afc0c1227966345077d0f1c3b43de7",
+"specs/specs.js":"76c291b01c0d1a971c68a9921a2548f77df5973516c5880909dcaa0ff7e6c426"
+}

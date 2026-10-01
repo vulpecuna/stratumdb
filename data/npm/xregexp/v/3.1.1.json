@@ -1,0 +1,11 @@
+{
+"src/addons/build.js":"4c5317c8a111e6ed2c0fff77fdce67e9d7dd09f54e8bad15d9b412f21a5c59f8",
+"src/addons/matchrecursive.js":"851a0236b35b7ae53e7a56880e3839593b02cca036a40e244dd3ee9f489d6436",
+"src/addons/unicode-base.js":"c802e709592e7894f533db18b3cf845252905005cee8676502a83481ec698be3",
+"src/addons/unicode-blocks.js":"bcfb3b373b2c4316b59e6ca2a0ac1b0fbc793b2b054a286a03ecc0975819fe32",
+"src/addons/unicode-categories.js":"685010337f357a17be274e7ff85f3b4547d999275c24a74cff56de96d0b7b0ea",
+"src/addons/unicode-properties.js":"78b062f04b04b3530dbf9fef4c800d6697562135d8b210d9b8ba30a687482431",
+"src/addons/unicode-scripts.js":"4c7f6382669d5683afd6260bc2b0cb581afa0c3b2b9e3f574e5c567ba4b2da93",
+"src/index.js":"1ea50fa20f2ce717fdbbe2b81cc5a4d2fc029378e334ac1181f9698a27998507",
+"src/xregexp.js":"7e2110a33cfd44bf9c22a3caa348ff78818a1ca62b52115b193f201d958c454e"
+}

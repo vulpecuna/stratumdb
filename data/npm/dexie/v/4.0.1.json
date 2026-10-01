@@ -1,0 +1,14 @@
+{
+"dist/dexie.js":"ccee59bc3e7b807f8bef8c02e7bf16dd790bf65be4cc24ecc7115d1c0d20eb72",
+"dist/dexie.js.map":"5f3c00725e304a7741ec346e2a05fefcad7590dd85bb012abb0c2ef757efc9b4",
+"dist/dexie.min.js":"f4cf04c0f9d1b022645ca0b2234d93dca42367e4f683fa7d19305301a0d55138",
+"dist/dexie.min.js.map":"1fe4d338dcdbb48d03f7137a2f915bc84c625b991cd4929bdcaf307b6bf7b5b1",
+"dist/dexie.mjs":"95a4e2a8212a86e1a9605f0daf8f91608c9e2dd634212284310ecc9aa836b2e9",
+"dist/dexie.mjs.map":"b3a0392479177bb6fcaf4df95bae07fa15dab47242a70b62c88744a571b144f1",
+"dist/modern/dexie.min.mjs":"093a2208b7fa41daa9fa3b44eecdec8c7298beb1d605bfb825a34947d6a77c14",
+"dist/modern/dexie.min.mjs.map":"97d9dc75fc9b807e32a05256487f4e31a5c9be4d2ad62c99242de353120ae2c8",
+"dist/modern/dexie.mjs":"e2045ce4755694f84c691f472f8d4d5e4fddff0bbf2579b4255b7001ef696152",
+"dist/modern/dexie.mjs.map":"781f0a4c16ddd8398a13b22c1562874ea4016848e1937fec5dd2841e0e05895a",
+"import-wrapper-prod.mjs":"8024a604e1e5d161ba8c603c53af9d33d1b84290a9ea951c884527d589533aad",
+"import-wrapper.mjs":"ec1db164e4c66cb2f7c385ea94e08c69cb776193cbbab92b9553f28663923b68"
+}

@@ -1,0 +1,9 @@
+{
+"lib/Container.js":"1ff74ddd47eca410a5af76471aa5714ea4dbe1276c8d57e92b6af82748be5ac1",
+"lib/Root.js":"25d2bd258054216093b6d36965353c3a91677905f745c37969b1f04a97149dd9",
+"lib/createDispatcher.js":"379cacc8f5f8d391ab46cb17c9c44fb7d4a2d868494e01952716f4159cd0bf59",
+"lib/index.js":"c1af16fcf34321031256a0b7a78a2e3ddf183329bde82e7dcb53c8267dd5b745",
+"lib/observes.js":"3fef2f1b3e9580edc9464bde2e59adb17a0a66838b21bda22f2f5eb1e3c74e3f",
+"lib/performs.js":"df27a25ce1a6e1b49d48cb96b6db6c1acd4952ed425c744a400ad6966bd030f2",
+"lib/provides.js":"74d0112db2dd16fc035aee045fe754a0f185a4b9c83ea4f4889ee821c859585f"
+}

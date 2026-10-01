@@ -1,0 +1,16 @@
+{
+"addons/Dexie.Observable/Dexie.Observable.js":"4d66ada39f0d5b2e344d8f03e5ae2ad29ae8f839ad60988df78ed0bad734b742",
+"addons/Dexie.Observable/test/tests-observable-misc.js":"9ef6cf2a0a6ec3c998da059bdc944febfe7bb3c78534cc5db876b16837c960fd",
+"addons/Dexie.Syncable/Dexie.Syncable.SyncProtocolAPI.js":"fd55852a0b4c1c9b9a9ef7c15cfd1687b0edd411186dcd84d3b8ac50cc97f839",
+"addons/Dexie.Syncable/Dexie.Syncable.js":"6cf13cf1a115c70c40cac450836f831b19c495a6d7581597ae935c533c2e98c6",
+"addons/Dexie.Syncable/test/tests-WebSocketSyncServer.js":"12eec374f2063eea077c5b699f32b6780e5df7045679abf9b62c09267838b5f7",
+"addons/Dexie.Syncable/test/tests-syncable.js":"cfc9edcc8589f705a3fc07ba8845ca4482e59a387522e5910d66282e993ab334",
+"addons/Dexie.Syncable/test/tests-syncprovider.js":"e57fdb6ca4e8ddde02ce687e596055b0b906790de956aa95856180ec6a5ba669",
+"lab/Dexiev2/Collection.js":"fc20b44eb03dd23bd19d0633f05bcfcee65111ceaca87d2d3cf07130f6fd8995",
+"lab/Dexiev2/DbQuery.js":"24a6d1592759ff95140fbe01d1792f3e8dd016f84c84656d6b34914ac3e874f9",
+"lab/Dexiev2/DexieV2.js":"bed5c06356dc0d662223295dc33c65f8426d8fc066f59dc02c3e78c7c7ffc0a8",
+"lab/Dexiev2/Lab.js":"e0f07ac1e60a2f4a5a4512b20aef818152af2609ae5aa7a0d436d49a7aa82d12",
+"lab/Dexiev2/WhereClause.js":"a1376cfb4c8385c80a5355f2089e9e9097475e4fbf00564b98e24b3344a6f33b",
+"lab/Dexiev2/executeQueryOnIDB.js":"a60fb2c11edd79314561bc921bbc7076be712afe9f4413cd917251f7ccac1814",
+"src/Dexie.js":"4913b31b090013340e8054747254e8ff34c8ba5e8a8e2f165414d1ba9be09e7d"
+}

@@ -1,0 +1,13 @@
+{
+"coverage/lcov-report/base.css":"3f876e51f0a46864ffa7665b4b7a1f5fb5f6f37fb6a28f014e2b12d82962c852",
+"coverage/lcov-report/block-navigation.js":"edb452c6527294488a6dbed08cee8b6e0bf107549400618dce7b2860dee40c80",
+"coverage/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/lcov-report/prettify.js":"fa1b1e1b906ddcfa08b46f161c0f924f506e1a31b4f3e09b8caaa2463ef52c18",
+"coverage/lcov-report/sorter.js":"928fc998c8157561c8680616ada3061adccb5a0b0d13d14b7953411c351076b3",
+"dist/popmotion.es.js":"9500d6c776df040cd87dae535dc909d3781fb6fb1f3e6acff2b39f9d5578574a",
+"dist/popmotion.global.min.js":"8818fe5ea48cec391445a4f8aa8f5c98f8888ec8b1278306a57587362fcd97e4",
+"dist/popmotion.js":"0040bba7950d1ec70ac6b535ed2c60a4606986f879a7548e3a1c9d17cecaebf0",
+"dist/popmotion.min.js":"ade258c999435eafd1bd73b7af2c5d27ecce372f96ee32910ab0275a884da097",
+"lib/index.js":"88fb8cd875f2caed969c5541e0acd59af5f8fb65fcc4da861f5601459c3bab08",
+"rollup.config.js":"f3e05a18b16060c468d7fc042083c999d6309a64c344b42ac4480fdd6dfe7d35"
+}

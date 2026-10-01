@@ -1,0 +1,9 @@
+{
+"1.js":"5748700075e1db5d91d79cefc3e9383cc87f9b4a2678ef9392f1fb22627b8ac8",
+"lib/elliptic.js":"7d2488d5ecf7f938416b308df9ad71dececb0a617a2ba9248d1393676623184c",
+"lib/elliptic/bn.js":"cc1fcecee9f4d886e6b920bd7fb28d62ce9520b71b27f58179f91500e281179f",
+"lib/elliptic/curve.js":"a96288ab80c8f81de548dfb78e927acd4a158b9ec2bd451976a13a0c905d6bc8",
+"lib/elliptic/nist.js":"dde1acd46373572c3c2078e09a61c4c7a8da0ea66151f3315f8e252298f50aa1",
+"test/bn-test.js":"f74e4e275addf339b1699d646ca7aa7f8d19f2dea58402a75453baaefad2edd5",
+"test/curve-test.js":"b7dca4152dda4b6fd8352d117ba9ab0b76ae9216daf907bec2c72a28efb3e780"
+}

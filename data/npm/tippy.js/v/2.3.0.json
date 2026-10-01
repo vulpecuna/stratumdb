@@ -1,0 +1,12 @@
+{
+".eslintrc.js":"ea2a7b8da60740f0cb762d5c58a9cc09ebedf29623648c771d4324bec259c38a",
+"dist/themes/light.css":"b622084c6c20c08aec82a3b311c60eea23e4bdac57ee0e4c66caf7975ec673f1",
+"dist/themes/translucent.css":"85df296b4bb2dcb6c123fad3e09ea46e61f65a335d699faae92b633df779482f",
+"dist/tippy.all.js":"aad8972e614955e50004f63494301d17b41913b3037cb6ab12e78abe2396ee60",
+"dist/tippy.all.min.js":"581af73cebcec8b2e13e37c1651be2fce9cb7f8a232db2bf79608cad0c02aed8",
+"dist/tippy.css":"f5c24bef8044a506c3be0ca9641378c71dbc9904a64864dc4de1921f32ba683b",
+"dist/tippy.js":"31b81f8493167a4dc9644e4a9feda3a253442a5b11fd8ca2967740c4839995a3",
+"dist/tippy.min.js":"b8ee409a51b2d17ca66e915e4ca76a5ede7a80adae16770d86da70b009e9fae5",
+"dist/tippy.standalone.js":"b40cdb0f6b56fe34e50736f46a21cf8d76351555cf5908905996d80c66243876",
+"dist/tippy.standalone.min.js":"c22b5f77c201ed3129aec9468c9ec34f46da88cdbe5b47cb78778669f7572a09"
+}

@@ -1,0 +1,16 @@
+{
+"dist/redux.js":"8c84a51a4e39b3543b1150a9fa4d91efac0a0b2391ae7e8e2925031f80cca478",
+"dist/redux.min.js":"2336ab085d2b6313e7feae671250e9a5cbec7f0670bc1bf6a1a7ce798d52f106",
+"es/redux.js":"bf78dabe536010e57c4a847391f0780660ad2731df35b9c11f29d503012a719d",
+"es/redux.mjs":"78fb795e807dd578ef11654b94f4adb3fa2622947507d615e05d8f85738cef5a",
+"lib/redux.js":"bbaada63f7e1f5632aa5ada177edd72e05ea20b96088c3a90a71495f6e97c1ee",
+"src/applyMiddleware.js":"1f3623e9409e945cee395717ca36dd7b2a6000387ea459e9a6df2ec1de45b374",
+"src/bindActionCreators.js":"9f359ff8c7abf846f67e6da67d839bc0183d4be5118a728744c7ca88cfab291c",
+"src/combineReducers.js":"c5572e8640dfdba6e1ba53ae35ce955367ae4f88548553caff67424df642dd30",
+"src/compose.js":"461a446c6ecae8506430abd9f8da7034ef162da4695d98d6243c3069716db03d",
+"src/createStore.js":"b3373fe54aeec6bde405318a535cdd95b7e5af64f1a3eb07e4d0c2dfd590d721",
+"src/index.js":"c981e7966da49eb3fa543d33c67659a5ef5f24aaf432cb4b556e56677eb1bdef",
+"src/utils/actionTypes.js":"9cb2022d1582d0d4228cff9f155f4b84bac24324c82f2613205067899362fdc1",
+"src/utils/isPlainObject.js":"3119448b15c53c1f7f01e762fe2dd0a0eee2a258c5e03baf8e3065a867eb6004",
+"src/utils/warning.js":"993f3c863c58045b5e9f40defed4554d249657ededede4f9438b7ab8da7c63a6"
+}

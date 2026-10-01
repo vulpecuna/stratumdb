@@ -1,0 +1,13 @@
+{
+"components/index.js":"0bbb55ad95b96bb0b078a65b392fb66b12258d6bab8a200022baea64687a4e77",
+"dist/bootstrap-vue.common.js":"eb95163bcc2ded7772bbdea1d6300e742f2ec811820f7b4f7bd44fe6ddca8322",
+"dist/bootstrap-vue.common.js.map":"db8a7ca47a3e2d9eed91f6ff5aac6f92837496425912390683692c888f02466b",
+"dist/bootstrap-vue.js":"6954412f63a9de4e6c100db33fcb63b438e6a5bc68f1e2173494ee5ed45aa47d",
+"dist/bootstrap-vue.js.map":"66bad572561011ae3187fb025c01329b81f8758a5c52cd6e43df4dca12680a8b",
+"index.js":"b6249354b15e3933ce497ab137adadd8b256113565c4ddda8b3078ead7d7a491",
+"nuxt.config.js":"c41ce86d3503a998c8644c7c9ab4651f986bd51822da417819db423e582bb926",
+"scripts/webpack.common.js":"2f3d16db0f27bc41930a56fb44094b81fccfab3258c8f257bd0407d4c01ae85a",
+"scripts/webpack.js":"7a9a9942441ab15c370da93e0aea163f3f9b1a1f2c2095135a509de3cc97f315",
+"utils/helpers.js":"939f1efafab557061ae4bc9f0b7d8613628fe96887932a376d59b655a97ecebd",
+"utils/index.js":"d0926260d72dbe4bd7d2970e32964ee3317027ac52443abe91d77462374e6672"
+}

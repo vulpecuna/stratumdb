@@ -1,0 +1,10 @@
+{
+"dist/fingerprint2.js":"acb12f270ca31c0e5c45cddfab64ae803166b58508a493da2c1adec53d557273",
+"fingerprint2.js":"28ece8620aec75a096886fe6acc0c622122afeea5ab7c89ed49011d2d8bc5d3f",
+"gulpfile.js":"99ee6c5a76da46775ab29145a5622d85982a1f2ba5e2b034ba203b169b344ce6",
+"specs/fp2.js":"b6a5e5c907e694d183f2142b03a076e241ffd362b65372fde4c35cc27703e490",
+"specs/lib/jasmine-1.3.1/jasmine-html.js":"658b04c10eaaac49f7238474a65d4a4032c7252618fc379d5480089011aa2240",
+"specs/lib/jasmine-1.3.1/jasmine.css":"cae030ef34b5e90cf6aa4fad7a7bc10035b400470d14961557306a9d46676193",
+"specs/lib/jasmine-1.3.1/jasmine.js":"44067ae5f28d8e9668cdc014cbfc26c273297d83a4f862c406c34ea747169c4d",
+"specs/lib/phantom-jasmine/console-runner.js":"5a21790fb7c0ccc3ef4f274207639a229068308446b0481016a93374f2b221d8"
+}

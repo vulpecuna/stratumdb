@@ -1,0 +1,14 @@
+{
+"lib/labs/lit-extended.js":"a98640dea1df007adb5f8e32dc4271937350207f3415ac1ad32559504b791148",
+"lib/labs/lit-extended.js.map":"2290035f556abf6239d8648e922ac6d778a683152e3a885a70ccbcf30038e090",
+"lib/labs/repeat.js":"c8aa96c19e26fd33ed8acd0f89f28687c290b91d6dc2f9fa7d9c0cfcf6b4edfb",
+"lib/labs/repeat.js.map":"13ddba466035da94649fee215529cb37a919317b5a2c766f0481e09684d6a3ec",
+"lib/lit-html.js":"c676c1539db2fde3c95283cf240198e99a7a99e515554bfff4ff4c978a151253",
+"lib/lit-html.js.map":"98197796f080abfa282c5b7c08810017aaa1c2a3633531f761a0c7704cbddbe2",
+"lib/test/labs/lit-extended_test.js":"0ebdd08a40ea738ddf034f51af4f0492df32c3f9e4452615c804b97e2c5b1b0a",
+"lib/test/labs/lit-extended_test.js.map":"70af31774be705fae729ca508ad97d2a3bdf0ff8e947cf536272ae49703dd205",
+"lib/test/labs/repeat_test.js":"9f50c5d6e86f74efbb84c1806a0886fb31f7b6c9c6ab909a0bb5b17aff2dedd6",
+"lib/test/labs/repeat_test.js.map":"d9c0609ced1c612c4a6dbac5e1e6417ba94716f571b1c5f9df5e559c5042f684",
+"lib/test/lit-html_test.js":"30ee48acebad10a745fd3250c0c7f5d7827bc871058b749f6f570e7157e0ff53",
+"lib/test/lit-html_test.js.map":"c01f0cb9706276b529715ff557ab204947101d755f669ae649ca8948b12071a8"
+}

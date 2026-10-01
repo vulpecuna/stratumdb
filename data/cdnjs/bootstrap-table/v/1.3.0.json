@@ -1,0 +1,17 @@
+{
+"bootstrap-table.min.css":"1fed0f1eda08002314e03ac1c1ce3920a5212bb7a4412e94fb9cd7d3b33659e1",
+"bootstrap-table.min.js":"069c68faecfe627e588ec37e24cedd7216f65b70c358616b64af88965fc21977",
+"locale/bootstrap-table-da-DK.min.js":"47cb79b8493e31d1386138f295962665b6e8ae4107105aae7a573a81ad7389ce",
+"locale/bootstrap-table-el-GR.min.js":"11d377c922298396df765e2adeebef3c9ad2e2f0f7082fc49db788daef01603e",
+"locale/bootstrap-table-en-US.min.js":"a8c11acae1ecb95c3b4e165dade9d38e0564da54e619d5f22982fb356b24e96f",
+"locale/bootstrap-table-es-AR.min.js":"94ef8c6a4d19f833b00f75a1b4f4aec4dfb950acbc84423ac56455229286ac8c",
+"locale/bootstrap-table-fr-BE.min.js":"d95440add4a1c7c8e4525776a86c696b85911e65d1dde362b078c1d956e36312",
+"locale/bootstrap-table-it-IT.min.js":"17dc461f0001f2bf0dc6f4140fe316f4117d15bea0f66245ec56aee28cba08d9",
+"locale/bootstrap-table-nl-NL.min.js":"225ec342dce186a3ee3f1ad0ef04b2ee63e04c96d7807743088fbafd99a9057c",
+"locale/bootstrap-table-pt-BR.min.js":"87604f7e931eac695029ea5f9dd500b8e00f3abc68c491071109d1c6a0598748",
+"locale/bootstrap-table-ru-RU.min.js":"bb8fb28d3b68992806920887f063339dd8e06fd8c0c4bfefca71b3f89699dcb9",
+"locale/bootstrap-table-tr-TR.min.js":"50652580aea30218c4427d78a58481c48b977cb9e6cffda437d4708807bed178",
+"locale/bootstrap-table-vi-VN.min.js":"e3bcd6568d6743973d8c8d14370178adccff86d79424150cdc4365fa3d463a22",
+"locale/bootstrap-table-zh-CN.min.js":"bee15402413ca4ce0bb7da40fe9cc2d7adb0abe9a972e07c555ad5a67f0c031e",
+"locale/bootstrap-table-zh-TW.min.js":"fec6072ec76e3e4d906791f5e4aa575a10edab932048ef5379553ffc992d3ac7"
+}

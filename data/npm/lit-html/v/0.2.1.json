@@ -1,0 +1,10 @@
+{
+"lib/lit-html.js":"9746b2f181d6939838d0423004682408a16f953b29f331c99a0a37ff469bd534",
+"lib/lit-html.js.map":"f0800d8faace01702ac61f80c03a70bb1b7d1fe0e7eeac5fcfe21538f1995ff2",
+"lib/repeat.js":"e1c5587f0ba94d4729511c6096308cd01d3321bacaebc71cb16b4d1a88f212de",
+"lib/repeat.js.map":"577e433adf0b9356ab541a49ff9dc9b1cc82ea066cc8ec4c1eaf91efe5cda88e",
+"lib/test/lit-html_test.js":"d75b4fbcce75f68e9665ed0c99188a2932e3197c4de4cc55a8fd822c9d4c314b",
+"lib/test/lit-html_test.js.map":"2b7a118e20b2d799341bbbee708466ce95302f20e88f2409e677516af3e0f5ab",
+"lib/test/repeat_test.js":"024bc08ac34495550e097730f1eb7130e943666965b98e1d2addec33aa897a0d",
+"lib/test/repeat_test.js.map":"bf30d5e72919422a96f0faabdb3533ff8cbd841e559e5c93dcce7323750b9634"
+}

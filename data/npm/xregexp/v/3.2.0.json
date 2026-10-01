@@ -1,0 +1,12 @@
+{
+"src/addons/build.js":"c271fc4a6112199ad76d64fb3010c0fbd1f07f18ada21060f538b92e35397e3f",
+"src/addons/matchrecursive.js":"489b3e29a156209c2ffea81293b9e85e5746e24cc1f680bb7ff87fc3786bd88d",
+"src/addons/unicode-base.js":"ec7a77fc720c90ffa509d98034886d2a33dd395cad53939bd995c7f9ebf3edb9",
+"src/addons/unicode-blocks.js":"6e1967a57955de475b5117cf6e62ebee7a3829eff55e2ff9a1f4ebf392f71b4c",
+"src/addons/unicode-categories.js":"a1109a0aa1df2ea78d9873f5c464d5cbebae0f70cc3443197a1aa7d7256b835d",
+"src/addons/unicode-properties.js":"02caca725b1300f6c358b422aa5becf06c7a4598e360a515e16dd0b3a2f0c6a7",
+"src/addons/unicode-scripts.js":"c847a9fcc97f2a21da0f590c675b8112f7fbdb5bd544f617ba7549a695c3814e",
+"src/index.js":"641550eff803d6f0e7f492ad332d1377f4142a00d78488e1e221954e3f95f7b3",
+"src/xregexp.js":"2b5d86c7444ed985e250bbb79539186ee861bb71f7fee09e45ba12191974dde1",
+"xregexp-all.js":"c9378103d1ebea1e861de4f1b78f6a87f45d6ca311352977f785b7c869e564d9"
+}

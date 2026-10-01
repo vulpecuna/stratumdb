@@ -1,0 +1,10 @@
+{
+"src/array.js":"becc0fc4ff31286fe98c4c8c163ca70d020a6157f8b71393586e96a5e5235e3a",
+"src/immutable.js":"394ea96e036b6fab58f292cf5b9b14e373529ff2c1e9c68eb4f8bc88458fa939",
+"src/object.js":"9e845c71d7316669ce07804ad48d0e99725bc5ddb3203622a47bfe52a984892d",
+"src/util.js":"7b7116440bd01182690cc4f58096046f9c59bbdfc0299d171edd3089b01df95f",
+"test/array-test.js":"a3a34b0ac566b3d5ceae907a6cf2694e1887821f042f7e7e66a844fbcf269192",
+"test/object-test.js":"10075efdb9cf12caa34dcc8ebc8f5e5238962d94f9112ff0ea00cdf009cacc9d",
+"test/persistent-test.js":"6f52cc2bc44e9016f75bc20c751d42c3dc270c91a97baa8821fc3ca14f2053a6",
+"test/runner.js":"33e28e12099729e87c829d5e62ab5e4a353530fd09e52817ade6f4ba09c3b6c4"
+}

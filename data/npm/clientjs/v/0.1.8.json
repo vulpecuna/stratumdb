@@ -1,0 +1,11 @@
+{
+"dist/client.min.js":"fd996dc40edb4f7ded0d7671c0045e50582cfcb4466273638fe5e29237a8b2ae",
+"grunt.js":"53998a6525895b42c0461f3d6d7934b6b481cec367cfb83fd48453b741e20df8",
+"src/client.js":"3995eed3884ae3e2235a164f4e95d9f8d108297d19af8acd591fdb2f3c7b59b2",
+"src/client.min.js":"fd996dc40edb4f7ded0d7671c0045e50582cfcb4466273638fe5e29237a8b2ae",
+"src/vendor/deployJava.js":"3965786841bd3c03431ae53e0c78b7b4a034466e6af722188ea39b93bba77714",
+"src/vendor/fontdetect.js":"9851b60829748e2c1501af0ea9b73e8698f70e39f4b1a2b741575caf76732dcf",
+"src/vendor/murmurhash3.js":"3d0c3684663f6ca00cff110fb58d2f60b18e265a89bae821c10d3ef0337713a6",
+"src/vendor/swfobject.js":"be445bfbced678e65084556cad18cf6b087593ab5ede516165f06665f67e28f2",
+"src/vendor/ua-parser.js":"b74c0cb67fb09c9310a087cb50ddfb8da037022a655491e7ceac5255b1c3e126"
+}

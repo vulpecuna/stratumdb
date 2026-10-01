@@ -1,0 +1,8 @@
+{
+"lib/ionic.js":"2ed85982f78df2e759ae2bcfa7c14b82d03169f55788b39dd858c814ecad4f12",
+"lib/ionic/build.js":"18817585a1647cfde69f2da5baddde815af2842f130a1fa9fb142a82df1ccd9e",
+"lib/ionic/platform.js":"4d51b1a23f0c60a464bbfd754a09f9f0f11d59ef5c5fbc2bf2a21754d3d19a64",
+"lib/ionic/run.js":"98323be4a08a687364272f4ea32f36513f6ec42727a813f82b6b4e364d544d94",
+"lib/ionic/start.js":"770ad06300a08822f9eba05352cc04a690f8fa8bb3776c5d2137d05de86dd0f5",
+"lib/ionic/task.js":"817275faf43d04a33c5882775a8301e22bca88e31f2c12b4d3f1adff88d7d56d"
+}

@@ -1,0 +1,15 @@
+{
+"bootstrap-table.min.css":"c0f4db2c62170e7924b0de8015187696e8092b12b83081e23aa4f64519c7b728",
+"bootstrap-table.min.js":"ec4a3afa30378255229ec63074ca2021fdb88aff1b7609e30e42cc2312eeb987",
+"locale/bootstrap-table-da-DK.min.js":"f5765b11a68c04b026d95e3959d77fdc0298586cc5d09d180fd9658f0101cb35",
+"locale/bootstrap-table-en.min.js":"515cae6aef50c6522d5ec2bd5b6a53bc025e09fdec98624af3cc1031880908aa",
+"locale/bootstrap-table-es_AR.min.js":"72b7c9b8eac8fdff12d51acc3340e280394e05a127368e10df3536f26f788856",
+"locale/bootstrap-table-fr_BE.min.js":"2a1cb5061ed617eb84bd0507b4c462a6a568944e8120f1e2043b44ac82c166ea",
+"locale/bootstrap-table-it-IT.min.js":"156d0b3ca48373d5ca5faba861ec0b1a8f0041bc53b9e278f286942eb3e720dc",
+"locale/bootstrap-table-pt-BR.min.js":"e2911ff1f25baad9ac40d614df8ab14cd902f92840c5a509c1c31a6d542ccb9c",
+"locale/bootstrap-table-ru_RU.min.js":"5dc844fd5002f9a6324a2bc0f199bc4820df5dc259e04b3f6bc41a207028c749",
+"locale/bootstrap-table-tr_TR.min.js":"940748740524691c9be947217d6bd92f421db9f796aef3fe270819ba17fbd07d",
+"locale/bootstrap-table-vi_VN.min.js":"ba2e9648dd04cedb8e2b573d03b6da8b9b29d08b8a53d3c6de9a183ed8cbce0f",
+"locale/bootstrap-table-zh-CN.min.js":"aae68b7a1107d5a8435a69f570365d4bf149ba32167ff41699be2fee8f04f7b8",
+"locale/bootstrap-table-zh-TW.min.js":"d9fc21c6fa6488c3ce82a7b5926787b4304c20784b746e3999b53bcb9ec05e53"
+}

@@ -1,0 +1,10 @@
+{
+"addons/Dexie.Observable/Dexie.Observable.js":"b40ed34cd8ff2e87b6d168d15621ab7630721daecb53461afaad3f4b479e287a",
+"addons/Dexie.Observable/test/tests-observable-misc.js":"4fc0a069a6ddf05f7f21fb9914c3a5fba61b37fdcfb90844b9ec4bd0126fc7ab",
+"addons/Dexie.Syncable/Dexie.Syncable.SyncProtocolAPI.js":"6475b4ed222b9c2b7ec9993e8b104eeb779462e34e3f3cdec5e760e80e3040bb",
+"addons/Dexie.Syncable/Dexie.Syncable.js":"a36d728c1cfe92b20f6d11da4c766cc2971f7f194365e72dfb947b320d4d7f7a",
+"addons/Dexie.Syncable/test/tests-WebSocketSyncServer.js":"26a7fa31028011737c8f9e9ade76f8aa3cd392de9ee3e0028a14f284b0aced36",
+"addons/Dexie.Syncable/test/tests-syncable.js":"fb11478f3c5dc08b4138913787f0632c9bf20df953a38ed5fef70bf7e0b89af9",
+"addons/Dexie.Syncable/test/tests-syncprovider.js":"81b7f2295491da8feea40792a6a4400f410f831c5514e96aac25bcfe05c7e597",
+"src/Dexie.js":"4da73c0583947d0a26bc91ac71eb7447ff6109f2977665546f727aa7d939bb59"
+}

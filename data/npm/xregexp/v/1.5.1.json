@@ -1,0 +1,9 @@
+{
+"index.js":"2d3a877f15d190f72fafababea706d4670ce4ad299d97d9e9a6ff05d47922e8d",
+"src/xregexp-matchrecursive.js":"3b07ca9130b5ad08c85f818a98d6d65a733d687d00f8d9511e92705e1853365e",
+"src/xregexp-unicode-base.js":"4a2babe3bd140b98cc1da32cc9b570b00e981c73a5aa5885b968912b726c0fd7",
+"src/xregexp-unicode-blocks.js":"5c112182265544f840465bcc1198cf57297ac54333c7f10abb98fa7163ebf2a0",
+"src/xregexp-unicode-categories.js":"bc1d60d7dad9692ab717d7a663f974403d111ee5edcb0f41f1eb1178180b4330",
+"src/xregexp-unicode-scripts.js":"918ede5865851ad9de7a862c932e525c805401dfcc7637e24df5f0aa0ab74f0d",
+"src/xregexp.js":"da8ab899b88c78e21d452a3e1543df5d0bd82fc3184ebac561918c7127703445"
+}

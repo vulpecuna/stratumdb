@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"48db3c449e1560a639c880a9b1945f18332fcc40d15941bc7ed756c111a8b0c2",
+"demo/common/style.css":"cf7dfa29c86262a27159d3328c3731b645bb059daa59ed05ce82f5db840248bd",
+"demo/dashboard/script.js":"5f33d8d96d9f4ba256667a05dedd063b029d6fa1f324d0238467c9db3119de95",
+"demo/dashboard/style.css":"381dfbac35d6c1e4783bffed81d656ba5e42633823560f25c9047773ff07ecc8",
+"demo/main/script.js":"fde6db46496836fac84b6dc43d1f96100795ad291870feead0a8c9aebb00db8a",
+"demo/main/style.css":"e6498fd24e05efd87dffb05018c82734f21ab83dea0e402a928eed83b6d20a68",
+"dist/angular-gridster.min.css":"d9072e2998e0951096dae242364e7b991d33756f300d69f104fccd47252d5e93",
+"dist/angular-gridster.min.js":"c6cf70ba3f7c93fb38eda98cfb6a8e43cdb3ced69700a135b0759996ff148ba9",
+"karma.conf.js":"8635b6e30bf9f7b85fde0657a8dff2b8d53f26fb0c4cf92fe2ec22e65a16e382",
+"ptor.conf.js":"617ec2b682c4e37a83ec6d265d0e01c6c1607d186c0b1182c5eff08da2ba4c51",
+"src/angular-gridster.js":"fb2d58bf6599c61a04b54d16b64dd6304837cda8866326b5da14a3f58a27ddaf",
+"test/e2e/gridster.js":"5eb5af5fa2fe2d359997c0abe9bf550c7da461831d13e1a352f0f5c68ad990de",
+"test/spec/gridster-directive.js":"3c8ad095529f50e6a73bba7b514b95adecea7f8f363e63ed112b387b5d4898cd",
+"test/spec/gridster-item.js":"dd85ddd7f1510dcd38f447a5c2ab84f0e389fa738cd42d4f1b7e47232c377202",
+"test/spec/gridster.js":"46cb771860549ad0acd8d78c7ac1d5ae9c1bf21fe31e775fceb6042834edf0da"
+}

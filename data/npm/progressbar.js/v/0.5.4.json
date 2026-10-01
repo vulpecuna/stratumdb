@@ -1,0 +1,9 @@
+{
+"Gruntfile.js":"d5ae1f6f5c466f915bdcf1146f2aceca34bacf7158be2611564f8132497e556a",
+"bundle.js":"e894bc23e59adeda4d8e8c69996c47185d0f4bdfbda868fd8c5d1c3cf57f0775",
+"dist/progressbar.js":"0ae3c61c7b82a1bfe57937dcf2bae055fe4ad523ee85fe5f3ec3f886a1edb235",
+"dist/progressbar.min.js":"7b116427afe3135688a3fa2e30c16cadc3f9ad5e9e96e4a2148e3f10a13134c5",
+"dist/progressbar.min.js.map":"9279d66dbb5200cb66788ee3312b2c70b0ab921e143824eb0bfe1de715c5dea2",
+"progressbar.js":"0184358b78ab1521517070c567acc36344de9858fe4c717f68a23af91f02db25",
+"scripts/release.js":"5568341a5e1a106582abc5a6c9edfc808ce135ddd11a59ae6e9601547a798845"
+}
