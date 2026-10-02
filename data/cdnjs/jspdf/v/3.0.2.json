@@ -1,0 +1,14 @@
+{
+"jspdf.es.js":"39f8dcfa9d69293de7d9c0a1d1fa1f7ddfd45a1fc77e29f434c611ad3a6ae781",
+"jspdf.es.js.map":"6c46df3fab2157d2514c7bb90108a4f01ec5dcb6fb6b0454c7c562899b21bed4",
+"jspdf.es.min.js":"1ec21ae7a4bce4095a523b3383fff30531d306d72ae29a9aaaed003d0b4a10d1",
+"jspdf.es.min.js.map":"99cf8640e88a831e01d274142154901e3f8041d7952eb022a4bbd90636d2e39c",
+"jspdf.umd.js":"510e3c31c65f0510ae8e3ea4666dc20c5ceabc468947010f055b9736449f8c87",
+"jspdf.umd.js.map":"5ff708329122897e82c09e1fd0712e3a09cfd7cb29db1f3cc2131ea7864ec807",
+"jspdf.umd.min.js":"cc6f72ef598c4456093f7d046c3b79fe0b28d3b1f5484b4a3d10cde1f9e3c28f",
+"jspdf.umd.min.js.map":"519a16bf504e4bbb603a322a63d8eda4865b0dbac32b7dff5dfc11560ba10e3c",
+"polyfills.es.js":"23aeb13916a123d6ba255d491ffc168a57b974b0986c111c4e3bd7d50f309101",
+"polyfills.es.min.js":"31f6254eef54dafd3bad6d1d19f91a7af3ada23f72025965e650173b013318ec",
+"polyfills.umd.js":"abbf4ca838c20844db16a3dcdc86cf4388446f08c4342ecb7cbdfc6f6bc18472",
+"polyfills.umd.min.js":"f38d382851134399b2f1c6ddd72efd90076f6152971406102a4286d3991cbf56"
+}
