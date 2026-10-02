@@ -1,0 +1,17 @@
+{
+"css/main.css":"bf6a433774d880dbb29132c772129088cded4f8dcfce89e078c219161cd41eb7",
+"css/main.min.css":"1312969760480102c2d35210c3da87c957c24031db04e1d3c73526dff3f19b7d",
+"css/print.css":"fa30418a8114f923c9c79460595961b8ef3bdd897380186903ddee0e6c8f9449",
+"css/print.min.css":"deaae1d94d92919d5e9dfc2d5fd181528d78cb6a271b871c345599933d9ea1af",
+"css/reset.css":"3ef982482c02a16a7c0be098824e863106e92254fbf8b808ec918c426df0c996",
+"css/reset.min.css":"9bbae4ae162c5377e3ae4a3092647ae1f403408b3a7da674f5f41283a3892585",
+"js/reveal.js":"7d0ed82471a7861842f974c0c0c35e60d707e11990cbd3a12f12e1cbb52278fa",
+"lib/css/zenburn.css":"b6c1e8b40a0b5d2aea6f508771e63e6e02540b0c996645464c1fe9debe1e0ce3",
+"lib/js/classList.js":"4a0d666d8b735134a74ac380fa2af79fdca56100289498b58423ccc7ad69a053",
+"lib/js/head.min.js":"54a477d9c297d02245fa079ae2aa834b0a88d4b905f4cc99b6a24b229c2856e1",
+"lib/js/highlight.js":"73cbffc19c2963fce5d61b4303747086d19af10da1354d22679d6fcdd7f6427e",
+"plugin/speakernotes/client.js":"e879e0d6e15f6757f4691b902f86b8ee72010696a951ff24d6cd4c03f4308565",
+"plugin/speakernotes/client.min.js":"5d9105030651d47155a3e5e452d8c8c846270ec989318ebc61c99e3c501bab45",
+"plugin/speakernotes/index.js":"dd8599540fd9966d9ee99f53d5d84a16cb1f4e4dab57bab8ed00b0fa07a978a3",
+"plugin/speakernotes/index.min.js":"7f11222c0730fe5bffa30f8ada226dfb65c8cc80e6bb9dc7e050b5e358209bfe"
+}

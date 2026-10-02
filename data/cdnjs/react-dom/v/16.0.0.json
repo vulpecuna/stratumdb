@@ -1,0 +1,17 @@
+{
+"cjs/react-dom-server.browser.development.js":"9e85fa5346953cec3b0d1aa8a3aa64461e431f78c04affa7b54b98e6940e9baa",
+"cjs/react-dom-server.browser.production.min.js":"4090164c436890bc35df2c58a04a9c47428e77c3623beef8205b329e3e06090a",
+"cjs/react-dom-server.node.development.js":"241c27191958e4601ac796b0d48f665a5c5e24a46ec943cc88c2dcab8b80099f",
+"cjs/react-dom-server.node.production.min.js":"e5df783224298198bea3b2d1656b5d7c6ded101c948cb2193d6f32878f2e9eae",
+"cjs/react-dom-test-utils.development.js":"433574a06f17e5bdfd35e5be1d43a761acc9a268b8a4cb863f9fa1f49212775a",
+"cjs/react-dom-unstable-native-dependencies.development.js":"dfa0c8bc6996dd83ed1b898b9eb0eb556d09ea6193759adc3301dca7242e89bc",
+"cjs/react-dom-unstable-native-dependencies.production.min.js":"9f5d4d6e19a09f69f7189e54c2f576de43759e23920dd5142fda23c08d9e3fa4",
+"cjs/react-dom.development.js":"abb5b3a5b7d5e044f5d46751443aa16cc8dedb95e1ae247e9aeaf46bd8b9c2f8",
+"cjs/react-dom.production.min.js":"3e93d0e1c767cccec5e3fea4bcf61747349758d8d8da236d44298199d8b39e6f",
+"umd/react-dom-server.browser.development.js":"e430080d3516f5e559743a7c6b435ec3c7c197c497fcd20c5e589dc0cb3b375d",
+"umd/react-dom-server.browser.production.min.js":"f2bd0297a1ad3c9d7f08002d707a439ab3791d11c37d9c30f4267365a3a103db",
+"umd/react-dom-unstable-native-dependencies.development.js":"7631ba3ca3f14ee19196a1b94837f753b5abf8de0e851685e989f8f49ed87f3d",
+"umd/react-dom-unstable-native-dependencies.production.min.js":"123449fc0ad0a4ad8677f971e178ed41f71088f2f9c1eaf8c5df506098be8bac",
+"umd/react-dom.development.js":"2cf49421691b9dbf1916f970e1532a724f39c10b36b3becc794114559f6e352b",
+"umd/react-dom.production.min.js":"0dcb93a5c7859e1fa909ffe239b591ec329bfea81bf5e059ecb1b6f7e1ca7058"
+}

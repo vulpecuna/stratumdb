@@ -1,0 +1,12 @@
+{
+"sugar-core.development.js":"75e69f08fa8c9c5bebd61e9604afc429e3865b8f4a642cfe9fcb84d317264b0e",
+"sugar-core.min.js":"cd16d6b083cf98de40133dbceefa4ff47ee2d0cde27ab08447cc805758af36b8",
+"sugar-dates-only.development.js":"1139528fffd08ec5cccd8521b27669bddcb6bd44c7bbb279ad223edad30cab54",
+"sugar-dates-only.min.js":"0fc3942d46f48d5a7187575e236fd6ab6ee028dd031ddf28ef84c1700ffee4be",
+"sugar-dates.development.js":"99115f1344d9d5903080d3dd85fa6eb975991c132d94196e16c37dc7dcdfd21b",
+"sugar-dates.min.js":"47c2b12e80fb09d8398263d59dbf0e575a28024fc8b1a55bbe826c6712ed3ba6",
+"sugar-inflections.development.js":"3d1aff8919f7eea3b593a2edd66db95c08c348de2385cca5d1fbed9eb0ac3d1c",
+"sugar-inflections.min.js":"c27099482f00acffecccbab15ae73b7c637b62d4ec2c3ecfee5f9764c873efca",
+"sugar.development.js":"3c313e33c96ddf234b6f0005dc13dc608bb54e051a913a722666e0f9d9f8ba34",
+"sugar.min.js":"b788e6ee09f3e640714989463fb949d5e0b0eb453c21d802cfe1442528e333a5"
+}

@@ -1,0 +1,9 @@
+{
+"pinia.esm-browser.js":"fe371f15b178dd2fb14838fe5a21686083e00e89b8a050e5303caa270c206df1",
+"pinia.esm-browser.min.js":"a1765c0e129805eb56109ed247b1a542016fe06df8d607894428ae76c947c023",
+"pinia.iife.js":"1affc02dc3de966f1c091627b53549afc2fd6f8e726c863b4d008d12f8124c5f",
+"pinia.iife.min.js":"20c8c9d7dd6ef68fab359c100b5c2681d4d4ad1efc3ac0e9cd90b1fdc31b2f56",
+"pinia.iife.prod.js":"0cd182ff19d30b6801c3105ea95a75b328d208dcf1236861b01481c218aacffb",
+"pinia.iife.prod.min.js":"63d54294dd0ebf09de717920bb34cf59a839b7cb72a371c38b49d7571cbc21d5",
+"pinia.mjs":"69100d7a382c3e3a7d6b4457e240cd5f07c76ec4637ad98215d96885b002674e"
+}

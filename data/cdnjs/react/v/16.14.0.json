@@ -1,0 +1,15 @@
+{
+"cjs/react-jsx-dev-runtime.development.js":"84cae5b052c555141f610a78b9b21a3f35ec13c9f5f560262e6c0d75e08cae5a",
+"cjs/react-jsx-dev-runtime.development.min.js":"e24ace11848f41418a54950f98fc1cbb492c8953d762b41fa25c4399cb5b7dbe",
+"cjs/react-jsx-dev-runtime.production.min.js":"e11e2a61101436021d08e50c4f0bf38ec73d9ed4a9d7403742d1a8174595351f",
+"cjs/react-jsx-runtime.development.js":"3d8fbb0e45b92e262fbcc17e0c54dd68aa9dbe8292a6742b9da3314e4dd54bd0",
+"cjs/react-jsx-runtime.development.min.js":"10f27675b002fe84567196cefcff63aca66e32a5f1a8e5c3ecee1b763cfe52fe",
+"cjs/react-jsx-runtime.production.min.js":"94d09cf69c8b08d524cd0af70b0e48b492b1a604fadbe1191314a2069d6a541c",
+"cjs/react.development.js":"5a56d14711ea41bd4a276e4c1f203a06e654620c0634782d4b854d4b094060d6",
+"cjs/react.development.min.js":"5660351f958b568ed6dfe155a8bf5a0bcf3ffe249deb962a06acb6e182bcd7bb",
+"cjs/react.production.min.js":"bbf34978d6b96d73eff9bf206045e5ce7a7e5cdd660481da549865353dc04bdb",
+"umd/react.development.js":"75bf60f3ea0e3cbcdbdecc902eeb842b6cbe39db8e62f1fa7f91a755d51d020c",
+"umd/react.development.min.js":"bb6024b20d9336974267328eb980c1ebb621a244ce3040df171e88b119baa78e",
+"umd/react.production.min.js":"5cef9367d2bcaba25b74d20e0e139d2cf900e9123e5fde26101aee7f40f6b5cf",
+"umd/react.profiling.min.js":"38e023d00cf0ddb2fa2eed84dd6cbdeb63a7701daf122cba731844685a11dce7"
+}

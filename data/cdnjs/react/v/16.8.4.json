@@ -1,0 +1,7 @@
+{
+"cjs/react.development.js":"938889e854ecad37157516d81876ce29f3837cacd17274ac5f2da7e360043645",
+"cjs/react.production.min.js":"996a6a3851a82f8cedad74c3b27ad929c81ceb64b73ee449c1e1355c9615bfef",
+"umd/react.development.js":"e6a5f34e90a67b6825a6320c0fcd8df42bc7ce8b7b0ec363f89f35c0d0580acf",
+"umd/react.production.min.js":"72d51a9ae220482420d70b21f08c3441b0d749c9b25e18c9ea5c5852c702dc50",
+"umd/react.profiling.min.js":"eb7a5a6284838b9308788e110f9e64937c4ac08823c88c7a46e039cf83e1c86c"
+}

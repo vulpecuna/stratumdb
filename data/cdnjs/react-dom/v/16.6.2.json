@@ -1,0 +1,13 @@
+{
+"cjs/react-dom-server.browser.development.js":"6705f6d7e0432f8353e8c2605a1640e878107c203ac3c24662bde2059c272292",
+"cjs/react-dom-server.browser.production.min.js":"ac189cee018d9875aff773c26867065a519a9e69bdd3f8148a98d12bda3dd6de",
+"cjs/react-dom-server.node.development.js":"a10cdb1eefa9fd7e0d1093708525842e0aadcc2b3e581b56b03454294e12b65e",
+"cjs/react-dom-server.node.production.min.js":"9c6d4217f7448b4afdce097942f95641f5d0138f10112ebce81e7652ac213309",
+"cjs/react-dom-test-utils.development.js":"c17f2fd075b2ea04383631647842b9aaba63f8bec3ec109516dad300097a83fe",
+"cjs/react-dom-test-utils.production.min.js":"7b0052d2407b96e6fe3b6de1fa70f6449d306dd624b0376a5e39a54be072d4b1",
+"cjs/react-dom-unstable-native-dependencies.development.js":"c28c3d52559be229620f49037524b29f0da765f8878c1cf44b36fde74c7e1d22",
+"cjs/react-dom-unstable-native-dependencies.production.min.js":"855ed1d2f9394a4e24c9f15b8f3015a8c14d4a5d2f7e16c3629f6a2756e9456f",
+"cjs/react-dom.development.js":"00185156a486242b9eb2f3f2b2404d38d57542327a0a4498fa31bb4b904fd937",
+"cjs/react-dom.production.min.js":"ccd1e2a8b1e6be139c3989a7bf74c5577e4a70d6d40eba87f4272460e11cf539",
+"cjs/react-dom.profiling.min.js":"1991e6a5c2c922d1a5b748b0d5ebde2b8f0891fad47fda6f2ed88b0d65d198af"
+}
