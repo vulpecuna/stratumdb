@@ -2,7 +2,7 @@
  "source": "npm",
  "tags": {
   "alpha": "5.0.0-alpha.17",
-  "beta": "5.0.0-beta.73",
+  "beta": "5.0.0-beta.74",
   "latest": "4.32.12"
  },
  "versions": [
@@ -313,6 +313,7 @@
   "5.0.0-beta.70",
   "5.0.0-beta.71",
   "5.0.0-beta.72",
-  "5.0.0-beta.73"
+  "5.0.0-beta.73",
+  "5.0.0-beta.74"
  ]
 }
