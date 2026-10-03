@@ -1,6 +1,8 @@
 {
  "cdnjs ClientJS 0.2.0": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ClientJS/0.2.0/client.flash.min.js.map",
  "cdnjs ClientJS 0.2.1": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ClientJS/0.2.1/client.base.min.js.map",
+ "cdnjs ace 1.35.0": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ace/1.35.0/snippets/scrypt.js",
+ "cdnjs ace 1.35.4": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ace/1.35.4/mode-slim.js",
  "cdnjs moment.js 2.29.2": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.2/moment-with-locales.js",
  "npm moment-timezone 0.5.36": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/moment-timezone@0.5.36?structure=flat"
 }
