@@ -1,0 +1,17 @@
+{
+"DockerComposeYamlReadme.md":"431c1dbc1d9eec715973a84a906bab4f7ee64eef24c7e0f2360b150d886087b4",
+"WebAuthnMetadataReadme.md":"deb84fe5dc10d2423aeaeeea4e6781536e142ea5846fae451ce73d97ffa472bb",
+"keycloak-default-client-profiles.json":"bae5ba79e3ea0751eb3d0f7d42a031c78e3ea51984ee545e33fca07d3c464ba2",
+"keycloak-default-client-types.json":"717934784e5e7936c2bc6bacbff79e7d0bad94b641a455b06121411e6617ba02",
+"keycloak-lax-client-policies.json":"9702c6f1507ab4ab2055326fc2a15f08e6d469a941020cf0183cec7de5f7b2eb",
+"keycloak-strict-client-policies.json":"0732642b491fed337b9d80942c744fd1f4e0b7d9031830367a9a3c4018072912",
+"keycloak-webauthn-metadata.json":"0c66d479b16038d782fc16fab01ce99ee0eaed121011701cf8d9c4158eb08628",
+"lax-security-profile.json":"d47ef3e9a845bc34f2261911d60dd6f312581f6dc3ff7f18008334765840dd95",
+"none-security-profile.json":"46ac5d9f4cec43140d84096194e68ad2083b17447d90f9f71a356e56ff612de4",
+"org/keycloak/protocol/oidc/endpoints/3p-cookies-step1.html":"4080ffc9ca89666f1492cd9742da52ad6e56bd36191233f9d17f64f1610c22f8",
+"org/keycloak/protocol/oidc/endpoints/3p-cookies-step2.html":"27abff3edf4192d73c66f42fe9a773358b54c46a38afaa5f1cfe1753f68415eb",
+"org/keycloak/protocol/oidc/endpoints/login-status-iframe.ftl":"936562bd6cef0acbb6a6090672cdf471576afecaa4a82a12da0f2cde1d53b7bd",
+"org/keycloak/userprofile/config/keycloak-default-user-profile.json":"9273aa73df4809754d5f1c1887492cdaa1616a3625d7ed01446c7c167e9b0cb0",
+"scripts/authenticator-template.js":"274ec36c7535b358b651efe197c4c2d0f197cc1a5d25a433bc795ec2346a99ac",
+"strict-security-profile.json":"bb4e8fdec2164ed387e1dc44a21cc1974bd0a6df9c28e19f21aecea189b155f8"
+}

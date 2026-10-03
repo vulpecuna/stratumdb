@@ -1,0 +1,9 @@
+{
+"DockerComposeYamlReadme.md":"3728b4bf00d7bd172cb6714fcf77db61b82cdfc4f30d740373fdedc53450a848",
+"keycloak-default-client-profiles.json":"291c8ae06b6324bf1ad0debfac304bbd213c61bb1453b977c4dfa7013283de69",
+"org/keycloak/protocol/oidc/endpoints/3p-cookies-step1.html":"17ad90bed3afd556e1685a5e3bd6cbc087e519614b78ac2eaf2edb426544132b",
+"org/keycloak/protocol/oidc/endpoints/3p-cookies-step2.html":"27abff3edf4192d73c66f42fe9a773358b54c46a38afaa5f1cfe1753f68415eb",
+"org/keycloak/protocol/oidc/endpoints/login-status-iframe.html":"96c6f0cec591282c2e6ac2f92ef16643b1141750b316e18f3c3f04aae183e700",
+"org/keycloak/userprofile/config/keycloak-default-user-profile.json":"678e36d2b3d77474fc020b4096d7d04271f464870dc4b7eb9827e5f25a2c1e0f",
+"scripts/authenticator-template.js":"274ec36c7535b358b651efe197c4c2d0f197cc1a5d25a433bc795ec2346a99ac"
+}
