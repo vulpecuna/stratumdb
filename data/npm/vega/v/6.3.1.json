@@ -1,0 +1,10 @@
+{
+"build/vega-core.js":"77a884b6089b8119b1fdbfcc643df98bedab194b22423e0a88bae71c38805abc",
+"build/vega-core.min.js":"4e72a30bc6a357e7d6f4b0c5deceba835543d0aeb51215d7b776151e49ccb9e0",
+"build/vega.js":"d4bf7ce88c6cdd9932008e577f3a151a69682a5b67924b1bd5add019bab2cfee",
+"build/vega.min.js":"70bfdc84b15f11f3fb3469a24af03314b3222dece4f2c8615e542f183f8f775a",
+"build/vega.module.js":"e5f6e41c3fb1cb3aa75c295c737714c8e6e8888a52ad28d73a91908c479f7c85",
+"build/vega.module.js.map":"89b2ad2274a55c15753ee10f62446d21b0042d31fcb5d951d9b03be6f8b410b0",
+"index.js":"3bbb78f5ae27c34807b110432d12280bb543dd7bc9d57d3ed77800ded102213f",
+"rollup.config.js":"43f58d9f4d11be1b8490e2db38a1832191e72f4a6ad54fc0a6464b9648f8e437"
+}

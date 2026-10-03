@@ -1,0 +1,16 @@
+{
+"dist/fuse.js":"57ba7fa591127f46c037095a1a252e79c4eda9436e404c52d49fd98260ee8117",
+"dist/fuse.js.map":"b0372138a5507e9d3426a2ba696411dc66065d5b642f1c1f11dd4d8368733858",
+"dist/fuse.min.js":"800ef6f64494b82c5774053b25d5b6e3e5d93862fa589a7df673a839686f9182",
+"src/bitap/bitap_matched_indices.js":"16777fa86070daad2e293bfeae6c078cc0c0b3d02731e90a7eb3e292fdc4d0dc",
+"src/bitap/bitap_pattern_alphabet.js":"8a9ff357bed0242d31822005df137db41130136929c0d5e133661c78c6b98505",
+"src/bitap/bitap_regex_search.js":"d6402b811b7f09c996df067d2da6e51af9964527d338e8b6cf597d1a01bb7bd9",
+"src/bitap/bitap_score.js":"544a0a37281e76e80c66fd20d14ee4ea58f501ddd05d7c25c170927dd7453aea",
+"src/bitap/bitap_search.js":"270eadc6ded668199c2639e24217f25e095cc16c0c9adab65c9d223f0abeda16",
+"src/bitap/index.js":"bb3484c96c33fc60ec00aea4fd3dfa1562a261207419344e8d6d2f822dd201a4",
+"src/helpers/deep_value.js":"3da660ff692a4efcb6c82d3a2cdec894af23d96fbec4a413742cb6c876676b85",
+"src/helpers/is_array.js":"82168ec70fe1db9f210cdfc18b3216c5ff281fc0204ba1e23650525864ad154e",
+"src/index.js":"fc83534ce56d7b8b23c7797762c800126abae40fdd11f2ac9e77ebef1e7ca7fc",
+"test/index.js":"987d5aaf137fb29cb7e27b1f3893ae4c0659490eff77b15225cc3ea6afcb0dda",
+"webpack.config.js":"0ddf20151a18dc67ca90c9814ac5022842f87bff5c2602aa57630c357b10ecc1"
+}

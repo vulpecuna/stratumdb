@@ -1,0 +1,6 @@
+{
+"src/index.js":"3ba4ca756c70415482736e93537d268ae5a6d89f36c696e87ac389e898e407a9",
+"test/get-set.test.js":"42e13e9e86e5987e0b98b299e3a6e19c8c75503cbadcd105f579f21420e7d297",
+"test/manipulate.test.js":"754c917b9a2d92df94cebe865b3f52a950c0da00a0671c96e5dfb8d419598092",
+"test/parse.test.js":"5efa5fd2b46dc3e83356231b4a62f660690157c8ca7bc1da38f15e82cc7bb735"
+}

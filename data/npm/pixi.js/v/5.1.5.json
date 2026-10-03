@@ -1,0 +1,11 @@
+{
+"dist/pixi.js":"d1e4e480285ecdf0263e8b83fe5cb2e20b9a18e44f281eabbd2e2c41ad126640",
+"dist/pixi.js.map":"28f6ae7b5361916f904d98a732b2214651b0849babfb62252f90fa2ac763e602",
+"dist/pixi.min.js":"fa9e6018d48d4ab550a9914f9f59db48e121bd791fb2531207bbe02b8102c669",
+"dist/pixi.min.js.map":"69c3d59362b059726cde1772f7fe254324621533971a7dcb587f1fbe36a974bc",
+"lib/pixi.es.js":"856b7f36cd5e3d363dbd0f722a24dc62f0df5c1b88211324120318edd8a9abf0",
+"lib/pixi.es.js.map":"3e3f6f96f186fe232ece24d057ad5b7826cacfec678f289181543e1054c8a117",
+"lib/pixi.js":"c1edf7090eeecee52149c69dac58450e4e9e6b4365e5c017c8dd681373e87baf",
+"lib/pixi.js.map":"7586e1ebabfc4a90e0a5e6b1ee9f5fb15ee577321ba8d9b0f66961cbd43a2a93",
+"scripts/support-pixi.js":"97628138be1275af1b52d3b572aa40b87539686c21ca6ea1abc54b4489c8b7e6"
+}

@@ -1,0 +1,14 @@
+{
+"dist/fuse.basic.cjs":"9858753e167d00323d93cde1a69b03957d1293022b7307108b083e3120b6050a",
+"dist/fuse.basic.js":"2071f18c45c5dd9e8f5d7c77bf73da2c5cfdd25785facf9b39701c8c4f3e8631",
+"dist/fuse.basic.min.cjs":"048e500dc7a761c7ff2111a823020c4a36607efb5f5123055d623d7933d80045",
+"dist/fuse.basic.min.js":"fb3e7a3e8d78410875ba35a4c1133df5fc30e32f2a1a1bddea000b86ccbd2c02",
+"dist/fuse.basic.min.mjs":"d416062f9a7ec92d8abfbb3f1deb5dc2941e7c2769b4a48ae787ad8986eeed5e",
+"dist/fuse.basic.mjs":"b61c596b9125d8e82cd483c3b5eb7af8d2f587fb98e17aa6202ce2a6f48cb112",
+"dist/fuse.cjs":"0513a5aacb72a57b60356a973851f1ff044ef61f3cc8f7b6d76575671269c5db",
+"dist/fuse.js":"ebfccd719eca8be263a392aa42327a3142115b5c4914bc6d3a08fd92ffdbb47f",
+"dist/fuse.min.cjs":"97b0971e41d74bc31813db4431eb1d4804125f0b1323a9f34a1d75b47b703ab2",
+"dist/fuse.min.js":"8935c1dddfc94cef83a1cb94a5e8a20e45b4740bb536138b5c85b178d8885b17",
+"dist/fuse.min.mjs":"78b2e747ec85b34eef7fec2c7a755bbc3a472556afed9e477e93d5a37923c589",
+"dist/fuse.mjs":"9d118f9b51f8807b2005a22320670129e25fa4e48ce1dc59562e35695921ccca"
+}

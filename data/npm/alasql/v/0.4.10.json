@@ -1,0 +1,12 @@
+{
+"bin/alaserver.js":"3338d802eb634bcc67c5cef82b00fddd454c02738c9d8f000df6881ca9a9dbbc",
+"bin/alasql-cli.js":"10dc99d4ec2ba487df3b4e315c8b8219a1c97269254feb10a738bf44c377c9df",
+"dist/alasql-echo.js":"d5f2eeb0a13fd771b36aaa29a4fbd6995ed872b38767d20c34ea51e7c81201de",
+"dist/alasql-md.js":"e663cc78babb81e6f2ea58c0f5e3a2803210a8c84e717385bbbd47e9333bc1aa",
+"dist/alasql-prolog.js":"3170bdd928851690cc082e452b6b96ee2ca9e8e45212a7cc22c2da1c4d470009",
+"dist/alasql-worker.js":"176515930a108f6585327d6d6fcd1d66c6e0e838cd8bae9107dfa89152bfa7aa",
+"dist/alasql-worker.min.js":"d708177a0fcc28c6eb5446fbac8ca23e8a3e7ac58d82643998dbf046f2d4782f",
+"dist/alasql.fs.js":"17259a4e0d1aca050ee8ebe22ce229010a7e8f1b4868df3c5746f8b1aaa8bcde",
+"dist/alasql.js":"21c86df953ea3416d7d4355b2456b826d2466bc38dca18d24723a9fe5a10eb05",
+"dist/alasql.min.js":"b73e8a066c8c0dc9c58522519b3b4de6aea6c34ad503225ed892439217218711"
+}

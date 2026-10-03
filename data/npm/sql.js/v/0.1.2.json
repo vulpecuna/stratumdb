@@ -1,0 +1,9 @@
+{
+"js/sql.js":"882e6ca5ba3600a2fd20ff8365d771613dc31b1583d8f1c1cf6df9f759095f0b",
+"test/all.js":"9c42e124cc2e27a9e879cabbf1366b88e89b67a0d09723da7e2c293e10bac168",
+"test/test_blob.js":"2001da713bf3433eb57f66b707479e66f037bc03b42aa42db62adcd0009bcae6",
+"test/test_database.js":"d2031247a46d32922e98f1f535df8544cac18db3ae8ada3900bafc216cb5884a",
+"test/test_errors.js":"76fb2944db962a9d4880d5314a5e953fc380805ad4f1ef75d5a66d09ae472fd9",
+"test/test_node_file.js":"7deec238dc63f40f79bbad57b83c36238658fa95798207e49a1f3bb216936623",
+"test/test_statement.js":"33292503b223ca63b4887e4c47d80daaddb024204f512d2e89eb41e952615a26"
+}

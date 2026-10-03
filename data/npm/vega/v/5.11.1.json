@@ -1,0 +1,15 @@
+{
+"build-es5/vega-core.js":"7a53375c224a6151bbdc8bfcfd6a28f9e60e7b102207cf7621b31c2b8256658a",
+"build-es5/vega-core.min.js":"faefe41904f6fc3181ce6838b1c5e5e6c64d1daba492ae58b2071044d818d595",
+"build-es5/vega-module.js":"5cef8268c07f678609fd498d11a845e80fb2b8b2e351925f3aa34fac4eb4ef60",
+"build-es5/vega-node.js":"5feb4ee85c01e8ea9a3c75e699c84d8a4471ba4933865d2924aa0861b0b6ec37",
+"build-es5/vega.js":"13fd5b3fccdae98b3235bb0b9377d64067421075ab072c698e607abfe4b2f5a7",
+"build-es5/vega.min.js":"6dea58326da3866ff53f2974b050d44e701c2140752e3602a74a0750828ed1c9",
+"build/vega-core.js":"3f7259898937fd47edd899c0e9fd5dd208f955e0124d37815f21a066fb1a4867",
+"build/vega-core.min.js":"1c139ba237d8f19f40e986f9073f4e3502e0a6f14b833d5a657f47f3353685fe",
+"build/vega-module.js":"5af283733afc769b1edf811d5a4933e791ee962ad2f7e91093eb2ffe20acb4a5",
+"build/vega-node.js":"3155651b2918c728d7b26b167d387f32352a005c9f0f2baa92b3cdf4f61d0d5a",
+"build/vega.js":"e993d363b64caac15f69db4b6463c63185ff2b9d2eb0bb8ba5307bcf17f53b19",
+"build/vega.min.js":"20a72d480008a3a40777b6f95180ffe1f6565009f4f096f13ce74525437d4b0e",
+"index.js":"9f062ed44fbcfee353294a643f8da3bc5896f6fe348d0b46e50e12babb0f39d7"
+}

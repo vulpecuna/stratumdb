@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"0820749b51eecc70c1d18f3737b6a085fa4d3dce26b787c7b79249d10a0122d4",
+"dist/localforage.js":"ce6fa9e197e02a916a63bc1225f91a3fc99ed9d567792265584d8c768bdf50f4",
+"dist/localforage.min.js":"6fe0ba2a7544232f9e2a2e141ebf4953741cb97b22427daf8e2f43c96d79b105",
+"examples/main.js":"cecb82b9c2af3bd0e24aae135e91968b075e2a6cfbe57d3a7fa300c13e6b4ffa",
+"examples/require.js":"cc807cf70480498f4fcd719bab10923dbcbd222e3805b5996caa895920e7bd8f",
+"src/drivers/indexeddb.js":"5b00c8ddafe246dc92cef0f202b15148449e118abe9549843750818ec0f5fd6c",
+"src/drivers/localstorage.js":"bf9043bbf92cbc3b83da87cf57ca6f4813f49e493d70acf744f69ca457ae3d8a",
+"src/drivers/websql.js":"355bd588990a1eb4f8135f34655bc97c19ba0340aaffded3932f801ff1b78607",
+"src/localforage.js":"6a240d1adc4c7b929fd4646a6b164e031d33e8415e11755833d1443aa61d4dc9"
+}

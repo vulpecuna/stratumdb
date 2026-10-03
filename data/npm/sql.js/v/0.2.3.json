@@ -1,0 +1,11 @@
+{
+"js/sql.js":"241ded7d3ea3cd04231e3c8a6139646a76e29b4f3fac489d1632e050ef3f6dd4",
+"test/all.js":"9c42e124cc2e27a9e879cabbf1366b88e89b67a0d09723da7e2c293e10bac168",
+"test/disabled.test_memory.js":"7fb7b165459b51b5369451c885efc421e48b8c687e0cb28182ad9d7cbd3d393d",
+"test/test_blob.js":"2001da713bf3433eb57f66b707479e66f037bc03b42aa42db62adcd0009bcae6",
+"test/test_database.js":"48ac13111b3254cbeaf321337c7892ae66b6282d420a4d0a3efc21c572f82b04",
+"test/test_errors.js":"a3a7a18857c279cc9d38888743c9c8b7dd70e7893c8cb812f85c870a21cb8560",
+"test/test_node_file.js":"c19f604ebe3160d42e3c318598548fe8d3c21f02421f130af079da6c10cd49c9",
+"test/test_statement.js":"07d3938e72b5dd8576773cc00cfe257b1fcf85eb03d90f552129b9d22d2c9b57",
+"test/test_worker.js":"7f37258c8b929d305b403eec6a211dd17904ec4b58d2291463081b6a8d462144"
+}

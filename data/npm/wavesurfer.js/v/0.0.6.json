@@ -1,0 +1,15 @@
+{
+"build/wavesurfer.cjs.js":"727c3e375f91bf211791af30380a714d7624cb7f2d95ef772fc36fc1d6b1f05b",
+"example/css/style.css":"2bb4046675c966af292cc7e05fdbf76526e4388dbc15fe5a060eb3d1ccb291af",
+"example/elan/app.js":"9c62d0520834cceb16ec41bfc63928ba714d4a953662e0d7924631fbdbc29ca4",
+"example/elan/css/elan.css":"e50fed6c46de14f850e2b3d552cf65eb95c76244115170b048c18c3270f69ddc",
+"example/main.js":"144ab5cba91f0bc32078585cfa9e8dbb480d656caa50997238fc2ab9aad59a4f",
+"example/timeline/app.js":"07c59d46ce0dafd9407a51024e32ca2f708163b3791dd6c3ddaab61d9a9d163d",
+"example/trivia.js":"4c5d3aaf4c6e8a0be6735933bbe8f46b80e14434a90414b22854ff9694b6a627",
+"plugin/wavesurfer.elan.js":"5f7e89793b22d67173fc3aa44fee80e6045d05ddb4a7de1c9c93ba72a55f358f",
+"plugin/wavesurfer.timeline.js":"90e547dabf374a15ceabe43da3ad1302fbe22bf7761a46216afe551abc7f2e46",
+"src/drawer.canvas.js":"2e9cb136fb58a90bc49d9d51471ca1bbe8f00e3f3cdb0b76fc5070ee6369e571",
+"src/drawer.js":"68197efad255f7c09311a321f0294c12deb61a23b79d8fd3a36f01dc18c1b3cc",
+"src/wavesurfer.js":"ac8f9852280508274b2c42fe2d11a0f2a5c7e573e24679c6dce6ad44d6dcfedf",
+"src/webaudio.js":"8f51e983e33cab0caf5f2cc9400dce87ca271c2de55470b95ea4ca901853e3ac"
+}

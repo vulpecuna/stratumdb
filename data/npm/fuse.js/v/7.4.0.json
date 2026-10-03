@@ -1,0 +1,14 @@
+{
+"dist/fuse-worker.cjs":"17a2a10be1c45ab5483b2f953a86203cea5f342bab10430f8c9e73b1938a4efc",
+"dist/fuse-worker.mjs":"e3c633c7b8763abfd859bee73272afa42a4518153b1d88d3b17e4fc7868dfd05",
+"dist/fuse.basic.cjs":"72e0b0fe12ef812aa82686e6a5ec7ab9e04dd125390a2e6ebc515b4c7a40f45b",
+"dist/fuse.basic.min.cjs":"06ebba00683336f4228001692c23ee3b20997cb45298cb0e58ff9fa53315b3a8",
+"dist/fuse.basic.min.mjs":"a354b40391791be79e08aeb6449107fbaf9e8e8b78add4900e62727ded5727b7",
+"dist/fuse.basic.mjs":"2363c2821c424b239c4b47d8b94b35a956ce78ad5d912155388029e9de3a7991",
+"dist/fuse.cjs":"0e1b9740092c7ec46208716437f1ae42067f0992583319ed0dd61d1ef3f4b4e1",
+"dist/fuse.min.cjs":"a1306c2fe4003df0c1598c888c60c3eac723e9eae75058659d7ca3c809300c77",
+"dist/fuse.min.mjs":"83a7f815ab382070c7535101445db41fafe774d12bb9f3e863ba2487b1a2109b",
+"dist/fuse.mjs":"26c5ba5dcf832472c2113e95ad679f64a07f074de8eb4f0bff8c524fa033e57d",
+"dist/fuse.worker.min.mjs":"4fbf0c017500b810de934bf244aedcc0ee0e91c1379e9f65b4aae2954768a848",
+"dist/fuse.worker.mjs":"b44ce5efa13423bba8b5e5f299414c0f28bd84b30e67dffa3eb2b4177ea51194"
+}

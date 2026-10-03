@@ -1,0 +1,9 @@
+{
+"dist/inspector.js":"c6cc526a7065a6e86b97e3139ec30ab83015b59911d9dff400aebdc0af47cea3",
+"dist/test.js":"e6d16fa6f908a49e3e9e2bd969681dce1ddbc1a46aa8a9e5925ef9e0ee33b524",
+"dist/trix.css":"4f9f49b8e796ed37122f56aad73917ab6380dfd042ae3a986f97eebe373f19ec",
+"dist/trix.esm.js":"86563cd45b27c641c01874e4a6e027aad9e365d21fed0d49a48fa82c7ca547f5",
+"dist/trix.esm.min.js":"25d06d5f5d3e3760c3337feaef137fd2bd8ccbfe1912d9b4c14b9455721698cf",
+"dist/trix.umd.js":"8292ee2418a8ae7a3f9c65f13492764f16301dbb130cb289dcb5a1e300e7a198",
+"dist/trix.umd.min.js":"65ede1b51959538bd569ad553b9fc4613933814f096de8131894b48347075a91"
+}

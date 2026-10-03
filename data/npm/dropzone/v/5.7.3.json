@@ -1,0 +1,11 @@
+{
+"dist/basic.css":"c701a10975dc291e975454372f58cb367f2db08c0aab6b389304a8024b47f213",
+"dist/dropzone.css":"e97daf6a6077becd7300979f0267bf687854789975de660ab3754aa481a6715e",
+"dist/dropzone.js":"3b2665e9dbf43dffa8f1be36ee0af4a4ac1fa492da26298437ae67b63276470d",
+"dist/min/basic.css":"ff81cd64543d6a8478d33c8ca5c7edcb8f537f362e3a0153a560fc5a26614872",
+"dist/min/dropzone.css":"9ff0aecab9bebf5e4d8a6d2627666b1251e50a4f2b689b3fe7b59e0ac2330ebe",
+"dist/min/dropzone.min.js":"f508c7a2a09dcb261a2810c97360ab5570b01e7a26da8ee7230d7ef2d3acdf80",
+"src/dropzone.js":"988915a9f9a15b8b31e4a8b3f10faac8b4bd5c73146771e40a86c241c5d67cd6",
+"src/emitter.js":"a9ca5a12aa3ccb7c97116ce9842fdb27258e15b6000b87bd54453bba96dff5bb",
+"src/options.js":"464296df4ad8039eba2630bc3df16f71a6e83b7b8950ccde1684747370a0fcea"
+}

@@ -1,0 +1,9 @@
+{
+"bin/lcg.js":"56866e67ab8db354f10f3a7575818b0a7522e5cb0f0cd20ae6c45b8ec8075124",
+"bin/read.js":"e89c51aff2c4c209b5acb09d34ee35e595bb8bbd249282e1c9b41bf27f902b45",
+"build/vega-core.js":"68886f4bbe028d24a42f6c0565aa68821a138865bfd14b83a3255ea850bd21e0",
+"build/vega-core.min.js":"48e50d3bedc585a75e9a905517722f8d0a648ce5c11fbe486296a8e61faab4be",
+"build/vega.js":"fd6622c564b9208e708b746252f1209b9b49136353f5517f50d212c565b93ff9",
+"build/vega.min.js":"892a0be6bb0b11a5b37ea84b4a44ece065f97845cb2ecf7babdcd6d28c177862",
+"index.js":"0bddd489e8e29c7a1a93d94a9ddbcd7f17a5e75c3e65ea4b778928af9c84ecb2"
+}

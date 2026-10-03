@@ -1,0 +1,12 @@
+{
+"dist/basic.css":"348e847f0489861b3b81704f6f02d70f4d26b08dbd064bb7183253f20616fa07",
+"dist/dropzone-amd-module.js":"5c7643a148edfd0a54b794edf95ad767f8e4a14a0890893f84fdc5ea591f82a9",
+"dist/dropzone.css":"d19ea63ab74b12d82abe3eed89d6109c26161b71b61802296ad0162a10f1f953",
+"dist/dropzone.js":"be75e383d4e92e15eea94d0e7153bbc7e0e947f1f5a427952cb49e43f23f494b",
+"dist/min/basic.min.css":"46f0e667866d3edad69997626c26bcd23084df69b6d71b91e52b96eb37c9696e",
+"dist/min/dropzone-amd-module.min.js":"00cc1e90f59e2a0550a2fc066a6474511bc34bb8cdf2b1cf6abc337f15a7de8a",
+"dist/min/dropzone.min.css":"7b8ef13a45ecd495c56e38e9a11af5fcb85572a4b34661a63eab2b510795b3e8",
+"dist/min/dropzone.min.js":"a7697c55e2f788bd49d0dc5c5db115b68c98482f956c46eb7b92876f3ab57eaf",
+"index.js":"1e0c9951dfd63afdb72202493df72181ee587557b1231190738c664633042a44",
+"test/test.js":"cc45716b34f26965dce3b0881b038b7d3c9bf4832939d9250a809ccb17764ca7"
+}

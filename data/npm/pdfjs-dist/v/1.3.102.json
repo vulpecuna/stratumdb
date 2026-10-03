@@ -1,0 +1,8 @@
+{
+"build/pdf.combined.js":"60f4db2799d3cd0e785810451d3d93ebfb8075aefc651ad773590d56e64edef8",
+"build/pdf.js":"e78fdf5c0df4f68c7d01bb179a02435a7969951c46517a7a61839adc3b3d1ed4",
+"build/pdf.worker.js":"0c11bcc89a94a0e4ce8cd7b63093350f9994e950e05a8aecacd9f824d53039ae",
+"web/compatibility.js":"1d7d093f5c6b57112514617194614018942d80ab6e0566acc70ab6b53d1c7721",
+"web/pdf_viewer.css":"a75bd2a7c16ed70ed2792d44dffa893be4c6ec8a9efeeb610b203bfe7db46772",
+"web/pdf_viewer.js":"4f0ab37aac411915b8f458139d6ea83b11597a1da8b882823a6232687c35307f"
+}

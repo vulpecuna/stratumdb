@@ -1,0 +1,14 @@
+{
+"build/vega-core.js":"b3e8cad7e2e2a9f0caeb82760dfdd1fa96e2e4193fb0ef9b8d662e668aec6a85",
+"build/vega-core.js.map":"e193e5bdeec1d9c6f9caeb3d97b245739a6d420e2b259701d2083cbc2cc2ba19",
+"build/vega-core.min.js":"8aee7341631f53128ef6d4bfe60249a71e5e7e21b691f768d66d72ef3faddbf0",
+"build/vega-core.min.js.map":"5ae79eb2e26c058d8e16e6d7cf4e7b0864489860d98a94433b67e212784504b3",
+"build/vega.js":"bc67faa1bd40267add064187966bd68b6af816b37473a4c7c2f8709a59e3b17e",
+"build/vega.js.map":"944ec6aef749b59733ab833dd2c84cad6982e85993ec6ccc0f00d166dbb0a06b",
+"build/vega.min.js":"ea6f2878bc0c3ae0e6afdfd6f73ce12d3056b226123e32bc4474d910ece716a1",
+"build/vega.min.js.map":"cf347536f4f588016e9736640b135e7a3e13d1b9e5d823edc2d15c07f9382f92",
+"build/vega.module.js":"7f797412375f0033cbbf7082c5a3a05444b79abe412e8a45cca48e49fe9d4b38",
+"build/vega.module.js.map":"880d99c09c4a59467db151e81c928fd81cfe7d000168747d9b77e1ab0d15b97f",
+"index.js":"3bbb78f5ae27c34807b110432d12280bb543dd7bc9d57d3ed77800ded102213f",
+"rollup.config.js":"43f58d9f4d11be1b8490e2db38a1832191e72f4a6ad54fc0a6464b9648f8e437"
+}

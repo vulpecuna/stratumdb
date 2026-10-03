@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"1c189d222bdd3a21170d2489dc8770e79e2ce6a34b85693fdd407ed6d275faf3",
+"dist/localforage.js":"bb86b6e8621a317baca329d41cfa148e2a36bb3291045f191801e6cf89fd5185",
+"dist/localforage.min.js":"ab4912ba64c0e1e95805f9a9fb527c011f963c2499ddc3a524684182ce54eb85",
+"docs/javascripts/all.js":"0c245e4741281663a418f5e38cb54f30cc13266cd070d64559c9290d1c192920",
+"docs/javascripts/jquery.tocify.js":"514073e92020963491f3786a2f282e587d1067f60fafefa27941a89dd17cb047",
+"docs/javascripts/jquery_ui.js":"c7e46dae7f7bd23b67064cc8fe01d00fbef90b14a935ef288d63d472fb0fde78",
+"docs/javascripts/lang_selector.js":"e12f14cdb38c754b33ebbc8c7043f1b7902fa5b58bc2c16acf60d563f5d3b28e",
+"docs/stylesheets/normalize.css":"c692ad1a7d71e6ca9d152375bd143133ba4f67583efc8112f03eef1a1cd5daf2",
+"examples/main.js":"cecb82b9c2af3bd0e24aae135e91968b075e2a6cfbe57d3a7fa300c13e6b4ffa",
+"examples/require.js":"cc807cf70480498f4fcd719bab10923dbcbd222e3805b5996caa895920e7bd8f",
+"src/drivers/indexeddb.js":"5b00c8ddafe246dc92cef0f202b15148449e118abe9549843750818ec0f5fd6c",
+"src/drivers/localstorage.js":"bf9043bbf92cbc3b83da87cf57ca6f4813f49e493d70acf744f69ca457ae3d8a",
+"src/drivers/websql.js":"355bd588990a1eb4f8135f34655bc97c19ba0340aaffded3932f801ff1b78607",
+"src/localforage.js":"654f306abcc032c6af42d309201550ac160a7e96a7ecc36281214f94cb51ee32"
+}

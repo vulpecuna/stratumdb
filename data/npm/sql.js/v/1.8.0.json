@@ -1,0 +1,12 @@
+{
+".eslintrc.js":"02d8ad671738aedf8658668d16d07e1d93be7d24ab0fb47ffc626ed4225449ed",
+"dist/sql-asm-debug.js":"593ac468ad1d7c1d9512f3688f67d27ec685bb1d9f1656a777864d9037918786",
+"dist/sql-asm-memory-growth.js":"ceee0a9ba21b525e2c93e18c4b0a01fad7d2ed90c6a606a1a5059a5961e80a91",
+"dist/sql-asm.js":"b5f2415a643a1af94a94ecfe07650e916d948861e4f28286839b12dcd01e9993",
+"dist/sql-wasm-debug.js":"e9623d6ef8455b4274bec1859530437ec64cadc7b2ebe9aabce59a6caa1d44ce",
+"dist/sql-wasm.js":"2ef9c614e826f1e6fee7d6b8ed6a42676ac2c296fc47fdb7b9ac59699b992ba5",
+"dist/worker.sql-asm-debug.js":"65c752319490c37303141a0e1ec88700145991d7338a78901516bca73432bf3d",
+"dist/worker.sql-asm.js":"1a48c38300ee0a3fb4f9570908475e520f824b834b42b339ac90f47ffd6308b7",
+"dist/worker.sql-wasm-debug.js":"16f366b64d8b6bc18cf15fea770e912b4d3a70d1993037724f74fd70e3086ed6",
+"dist/worker.sql-wasm.js":"9bf50312e8bf375576135db8d489b21b0ac9333d0167d3cc57c46ad34a32aa90"
+}

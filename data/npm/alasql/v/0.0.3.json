@@ -1,0 +1,16 @@
+{
+"index.js":"e0a30e84c24b623f6a1cd27a41ebb0940b828932ecff39d2bed8bd6abfda31c9",
+"lib/assert/assert.js":"2d25103761e11a508911bf0c006548d358248a5c79f05f5334d751c9ee5a995e",
+"lib/mocha/mocha.css":"6bb2a46eabcef2d53ce2505d6a6e0ea4540e58d918bc5ae183221a43937f7c69",
+"lib/mocha/mocha.js":"3a913036b10b841358cb8bba462c373f5833d3814d2e09809d37cc85d168324d",
+"lib/sql-parser/sql-parser.js":"12a5b129c900b1bdef27c923e990cbbc76b95ef0f1443217a5b3f0f1594dd1e9",
+"lib/sqljs/sql.js":"6692b938fc1d3c316f4ec7b326a5bbafea3b703fb32935cc6c3349fc5ed78a5d",
+"src/alasql.js":"ebf36ae09a5534d17fddc1959d03d2ce1d03373663d3ccf2edc94d2a31e6ab8d",
+"test/tcreate.js":"282cad694629c736669c0019ec08a5d5fe96b61d9087426a62237d3ccbb5034d",
+"test/tdatabase.js":"d9299df373328bcc2400cb3d43167bdb00a65be4cdca88d74797d6a87fa71d1b",
+"test/tdelete.js":"d77fe21b983354ab2737df1b6b270a378afdb8e8c3c096513ab9c96aaabb598d",
+"test/tjoin.js":"800effad320964180ac0af8ca3e2c4d1c8e0f2172006fd80a13294d7ff1bb460",
+"test/tselect01.js":"c9dfc5fd7365425fde2e961e86ac2f8cb13bdbb457b90c59afe809551ba501d4",
+"test/tstar.js":"0f18bfd236ce0dd6c9c39c5c3da2081361519758790f1c7c4921e2001cf692d7",
+"test/tupdate.js":"bbd12ce6dddb106e405caf64e224dedf6b106074407d6651795e7b19332469be"
+}

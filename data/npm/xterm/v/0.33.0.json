@@ -1,0 +1,13 @@
+{
+"addons/attach/attach.js":"d88fdacb1a250076be68a95d5f381c15a43f6bb4af1705ed6da9f98e26809ee2",
+"addons/fit/fit.js":"62f9b38980ac34dd636d6339af46e2394d5868135f22c1c3f43c9e4d4ee2937b",
+"addons/fullscreen/fullscreen.css":"52b10c104af56a443e32450f74a00a0801b67293a4734848fcd189ca1fc8edad",
+"addons/fullscreen/fullscreen.js":"b1e345cfb4fd8bf9e3659adee642e22f82957a815d908a97bfd683d7c3a3620f",
+"addons/linkify/linkify.js":"16e66b5ac08f6682e924eeb3b5198a949901f13218cfc6cd4e1cc02e0b2e1282",
+"demo/main.js":"05bd96bb4084337a71cfb4344ffa3beb629fac965316bff1d3d6351250e908c5",
+"demo/style.css":"6e69a1e53d473ebe46138159ad4d3bb273d2502256d9925697dd110c2ff5bbaf",
+"src/xterm.css":"f42367b7a8642abf42bd63a697fe13e48a8e512e9604f6697f1e8a4c409ebba7",
+"src/xterm.js":"21ea3bbe01af4c46bfcc1c201fdcb6e406eb9c990d9aff68bdb54329e4d4af2f",
+"test/bench.js":"6b45768bbf30d597bab81e6c59478018f6f82e78b6060497a61f913b6414331a",
+"test/index.js":"a1439dba11038b33d5d842784921b3a11f80cca281eca1bb85582c962fe83c29"
+}

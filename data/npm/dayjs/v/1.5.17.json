@@ -1,0 +1,12 @@
+{
+"dist/dayjs.min.js":"d1e35b5e35c1cbdb00eab3c9bb3f3bfa5ef4fdb4ed0894a0bab7fb36edcbf301",
+"rollup.config.js":"1fa2089444c2411ff0483f4382ee60c7886efafd45b5a9d17c01eb084c2a0b1a",
+"src/constant.js":"ee436e421aa3ebf66e73bbea20274cad2f23b819b15a30e8df7e01cf5afeac45",
+"src/index.js":"e24e322388a38814aad788d4600b279ef2195f124684f32e91b4f9d27fb0bf4a",
+"src/utils.js":"d2b136c17aab350fa17ca3dac09eac156ff8c1d58e24d345636b780646593c1a",
+"test/display.test.js":"eac791be04f900f55557c6dc05b6610727f5718a5d1a435f0eea26ad27d02d1b",
+"test/get-set.test.js":"8597a315cce5d2531d7132f8bc9b941696c784e52406cc1f5c2ff23c49923582",
+"test/manipulate.test.js":"2599ac9c84fd9c020317e9408d1986363221c9783022e74820bea50cd87d2b53",
+"test/parse.test.js":"ac22655e123150be0350f35f0b0d84210944a6f92591d48ce70af39280dce686",
+"test/query.test.js":"9df162ff1f2b7c8d7c231453266f0b771096d24c33a330f8c0e6d97c0e6c7fc3"
+}

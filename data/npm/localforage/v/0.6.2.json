@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"947b371d3d06d71b3daa199b57f71ecf2bbf40720842760b66ba225409d8795a",
+"dist/localforage.js":"6476774265da032d4a9412451c69199142a3fd430c839237ccca5bc20502b496",
+"dist/localforage.min.js":"a15bfc451a7c4c687edf5515d0a4195671ff0655d17936c262e3b030f4cefc5c",
+"docs/javascripts/all.js":"0c245e4741281663a418f5e38cb54f30cc13266cd070d64559c9290d1c192920",
+"docs/javascripts/jquery.tocify.js":"514073e92020963491f3786a2f282e587d1067f60fafefa27941a89dd17cb047",
+"docs/javascripts/jquery_ui.js":"c7e46dae7f7bd23b67064cc8fe01d00fbef90b14a935ef288d63d472fb0fde78",
+"docs/javascripts/lang_selector.js":"e12f14cdb38c754b33ebbc8c7043f1b7902fa5b58bc2c16acf60d563f5d3b28e",
+"docs/localforage.min.js":"a15bfc451a7c4c687edf5515d0a4195671ff0655d17936c262e3b030f4cefc5c",
+"docs/stylesheets/normalize.css":"c692ad1a7d71e6ca9d152375bd143133ba4f67583efc8112f03eef1a1cd5daf2",
+"examples/main.js":"cecb82b9c2af3bd0e24aae135e91968b075e2a6cfbe57d3a7fa300c13e6b4ffa",
+"examples/require.js":"cc807cf70480498f4fcd719bab10923dbcbd222e3805b5996caa895920e7bd8f",
+"src/drivers/indexeddb.js":"bc9b517ef5ea15554822717f0c70e78bcd34b041cef3dc5807da800b378c0dad",
+"src/drivers/localstorage.js":"5ff8ef038e81f82c39db3611c079aff691725680521f7b1ae74103b9ebe2c3d1",
+"src/drivers/websql.js":"24c20d28b479b7db4cdcc09930aeaff73231ca8712a0d5566ce4b798684b4586",
+"src/localforage.js":"5b927e452596f4c197a1f7ba33ca76f9cf59a89c622fe00134c690d22294ff06"
+}

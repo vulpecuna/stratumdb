@@ -1,0 +1,12 @@
+{
+"index.js":"0167eb3fcc3b57af2f9dc912aef54cd01bf4d34d853abbdd37eae4ad79aac65e",
+"lib/entities.js":"a61ab046bd1454ec3d480bd4191c73ef438a034e3194ce9caf4fe498486a25f5",
+"lib/filter.js":"8d0b939bc4a4835f8d2023bb4e9b1496c490f4f22b2eb829b3fd9330b735280e",
+"lib/index.js":"1a82dd3e74d2fef69981fba1ee252be451b7313dfcf607f8b37a5e8527050e74",
+"lib/validator.js":"971e9ac82b18d9fd1d4589b154c385e38ff53ea2854c4e359628d99dbadf707c",
+"lib/xss.js":"35e3e37efe50a2d47afce55eab8c3d90bbda5d0df8e7eea060c739c8094fe5f0",
+"test/filter.test.js":"9d922363e3d5f435f1ea69f665101b572323ce6a807af5396e86c8d6d0ca53e0",
+"test/validator.test.js":"17ec72e8e5233c3c962f8a540bdf38ff13e666b22e69f763a20586ebfdb7dcd9",
+"validator-min.js":"a61334027cff9a7ea10e12483558538e593069896248f1857bcd42e2592b7e2e",
+"validator.js":"7e3de91f3b5cce3435c7a7819491dff8516d36bdaa439b7bea40a6cfe5516d12"
+}

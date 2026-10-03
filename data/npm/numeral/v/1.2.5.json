@@ -1,0 +1,17 @@
+{
+"languages/en-gb.js":"17d9b7a5632a15519d51ecf03db881b6c90542be26b71c438236476163146d50",
+"languages/es.js":"f42d0aae87469a604da6bc2b7c8a5b975cc69709ec84646aee5d34259bf52763",
+"languages/fr.js":"0a4d5d477bf199c9cba411ea25286093c0be6ba706f06fcfcab8094b23370070",
+"languages/min/en-gb-min.js":"e6f85e82c0ba7e4c1f64a61a0dd32248acb84e81a1c087c46dc1c69172424ac2",
+"languages/min/es-min.js":"772f8d073ec6c674bd0b65a4d228ef76b8de0d6a551df0eaa0642816a3312380",
+"languages/min/fr-min.js":"412ec092d0a03c2c0f4c49803ac4f9a3fc7b5525037f7e9f1fc057c42e222e90",
+"languages/min/pt-pt-min.js":"ece867cac9b7eec4c9af89a6bbd960cb4561b8963277d274331fe27163d84e2f",
+"languages/pt-pt.js":"102a375383d67c0f2be07f6cbf624a730879113df7e3b6fe3713fbab594d075c",
+"min/numeral-min.js":"34adab23d221624c665c6f98dcaf901ae02e6faffbcb1c2870e5f360b3cbddc7",
+"numeral.js":"b947f1903feaefc5a894587e9f6d151fb80919238a521948a414d7917d7e8b77",
+"tests/languages/en-gb.js":"3050a45371bcfa0b4554371064c7b4392976686194f260ffbf2ffe7c7dc7d9d0",
+"tests/languages/en.js":"958a8c3395533b4590f8df0d1c0c829d2d77a1f47953fe02027f33e2ead3be36",
+"tests/languages/es.js":"035899e6aee90a7ed62d8f8486667955050e436ab3c8f2166c39ed35ac3f5e70",
+"tests/languages/fr.js":"c5ea0ac79b68644569e7286300cc2523b3325d9198ea626824476079ae8d2767",
+"tests/languages/pt-pt.js":"d80e88921e6fa2d03500ae47550af9afbd70d96ff1e36f65cf8eba0e944ee1e0"
+}

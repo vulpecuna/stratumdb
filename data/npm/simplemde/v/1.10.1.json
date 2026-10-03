@@ -1,0 +1,11 @@
+{
+"debug/simplemde.css":"5decd52f4ce8bc6f032d1e0790f4e550486288020abd3bc2532532b5ec7155df",
+"debug/simplemde.debug.js":"b2b5aa9b9a5c1e62214e9c11e2b04bc4e1f5e10dd4cf7eef9ce5496612ffddab",
+"debug/simplemde.js":"b4e16edb077dcb65fcd6110c97cf2c809d7811d68a3d0d69bc3a5767486b0fc3",
+"dist/simplemde.min.css":"cc296883a1bd7ca17d9dc91550b8bb8e599f73ad95c16e5cba5f8c780acb6831",
+"dist/simplemde.min.js":"32ae37cc54a731ac750c988a3735197f339c6ef2b1e386a65f81e904a599f102",
+"gulpfile.js":"a5562bd35c259c90971b78cc3a0c31d64b5b1034af40ced230003d065a3b0ed8",
+"src/css/simplemde.css":"be1f19212d419e177458e62b60c564599f59cf00944bfa10737352b468b46d77",
+"src/js/codemirror/tablist.js":"8cfe36fedb55277787b3294db6eba542d60e7e7fdea250dcca0711953997f7be",
+"src/js/simplemde.js":"ed9d1ae69b7ef37a7c70ef4958a34f57ef7207cf52bc39ccdfbfcefead4d0165"
+}

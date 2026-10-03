@@ -1,0 +1,17 @@
+{
+"dist/backbone.localforage.js":"d96435a7e2bb4e69c63f2b39b589a96583f4ed9ada387ae8c68d8ceecf710df5",
+"dist/backbone.localforage.min.js":"2aaa91ed72fc9a0bcc7de042031fc4aac2b57fe215acdb3575489ef78abc8364",
+"dist/localforage.js":"ddcd9dc31918cf31b726496d12d99aa3f68f1d8c1d175c00cf7e1ede95f1ec98",
+"dist/localforage.min.js":"77fb5af5ad6535c195c8e5864f0c04055a92d2884900b85d6c5cd73cf61ccd78",
+"examples/main.js":"c6814086301bf7ee44c47002d48ab019d51cee5041b0dab25039dea74642e34a",
+"examples/require.js":"cc807cf70480498f4fcd719bab10923dbcbd222e3805b5996caa895920e7bd8f",
+"src/adapters/backbone.js":"d96435a7e2bb4e69c63f2b39b589a96583f4ed9ada387ae8c68d8ceecf710df5",
+"src/drivers/indexeddb.js":"b6f700b69c1d126971361670baf339ca6d9a44db8e5662a5659ec96446b5afb6",
+"src/drivers/localstorage.js":"898857a1f803552fb87db040d856d078100b0e495b03b135d293f147e5e29f93",
+"src/drivers/websql.js":"e60a9a7c7766afd19bb007299761cb65d08d3e22b5c983a62f0541118a24879c",
+"src/localforage.js":"139c792cdac9ebd4905d20386532d3f06b0323f7590565030897e4ccb8e5dd1c",
+"vendor/backbone.js":"5a36cd2b29bc952610f3d8689348056a9a0658014552d77eb47b23bc0f3350a8",
+"vendor/promise.js":"7308ecd2221ecb569a45862b6541f9e3d7b2345343e760fd6e76ff8e33cb2326",
+"vendor/require.js":"6ab54217426018a4bf31629f3fc12514f165bd240c284af9144af06eeea8850f",
+"vendor/underscore.js":"6f3dee6d1ff67ae1b9d8b07e46d9002767d7c97b78f5c2189c4e14a4dc041bf2"
+}

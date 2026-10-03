@@ -1,0 +1,17 @@
+{
+"dist/es/SearchableMap.js":"a1d132544974652126173d86c7c2c89358ad8a2cee6373b730cdebdba781e2ad",
+"dist/es/SearchableMap.js.map":"0a3495083b53a90128a89dc8c77668438c407bc37755cf0ef572fa98fec73aa8",
+"dist/es/index.js":"60d8a651973ad1e426fe096862355032ede48025b755bb08a8eef2006d688ff4",
+"dist/es/index.js.map":"28c4f47cab956afbce13edd3378ee1499e0f332daef9d6ec3c2905a2a898576e",
+"dist/es5m/SearchableMap.js":"a1d132544974652126173d86c7c2c89358ad8a2cee6373b730cdebdba781e2ad",
+"dist/es5m/SearchableMap.js.map":"0a3495083b53a90128a89dc8c77668438c407bc37755cf0ef572fa98fec73aa8",
+"dist/es5m/index.js":"60d8a651973ad1e426fe096862355032ede48025b755bb08a8eef2006d688ff4",
+"dist/es5m/index.js.map":"28c4f47cab956afbce13edd3378ee1499e0f332daef9d6ec3c2905a2a898576e",
+"dist/umd/SearchableMap.js":"addb330983af1c404c4732f165123a1e45636c2c0a426662ffb56d2c2a6e0950",
+"dist/umd/SearchableMap.js.map":"067105cd840ad8fd6ef56c25d7b53ecd2693df7fb0f8599693af9a69123cb1bb",
+"dist/umd/index.js":"a4d4dc6b047553e8c8c6a7f4ecc9694f73e00d6f95b3dcbc8d42f7ee96cbe41b",
+"dist/umd/index.js.map":"dae56568f8864d56def4296cfeb3ccb5a5f21c5ad7b0dc612b47fe1f45bac9ae",
+"src/MiniSearch.test.js":"08c54def951baaf1534c875e09fa346014af78e38e24a4abc09025d805f14429",
+"src/SearchableMap/SearchableMap.test.js":"5655a29f5e3dad75d23def4a4bc43f24f333313ee43646cb83a7d78a14a9e9bd",
+"src/testSetup/jest.js":"d764764cc4fa3acaa9bd9715b71654be6744eae900fbd2021859cab13a3f62b1"
+}

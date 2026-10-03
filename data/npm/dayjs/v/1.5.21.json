@@ -1,0 +1,15 @@
+{
+"dist/dayjs.min.js":"10357abb94c45db8ae05543218462872f516f67e60bfd44d76fd2b71f2d234b3",
+"karma.sauce.conf.js":"92c2d12abae0bbe309f948c073df63d65b748122d4e9ebe67cbd7e67b5e4e53d",
+"rollup.config.js":"1fa2089444c2411ff0483f4382ee60c7886efafd45b5a9d17c01eb084c2a0b1a",
+"src/constant.js":"076bf31f1939d2daad7bb21e340c5a4adc1690e2640efeac5045bfc2f101676b",
+"src/index.js":"14eb166f57a6dc23404155008ca705141402a98b744b2690c300f341b1147212",
+"src/utils.js":"8e7f0631a2967ae57a39f54cc759133daf4e4a10b48a15f558789da49f37a6b1",
+"test/browser.spec.js":"5451cbb0e4568b50a90cf9efa921a8915a9cb2f97d7eb8b3a6efe0c7cb32df7c",
+"test/display.test.js":"777c5254b9ef359c42aa5e79c3f7b28a6008f04784a4da5c60463acc890a47f0",
+"test/get-set.test.js":"95e14b2e9810e22b1e581f907db86e27e42195f801eccd7a9e242a7ae7e3b9e8",
+"test/manipulate.test.js":"ab18786deb6f592d990bc670b50e5e3b1dc20b9d77e7fbba15e35a5944ae240e",
+"test/parse.test.js":"60f26898a3fda54dfdb0e1412c9198f2ee631baf46a428eaebcabf656d5b94cf",
+"test/query.test.js":"9df162ff1f2b7c8d7c231453266f0b771096d24c33a330f8c0e6d97c0e6c7fc3",
+"test/utils.test.js":"885f733fd7291474f90a7b005d7d92f5ea020f1729f72c77c06a10fddc474811"
+}

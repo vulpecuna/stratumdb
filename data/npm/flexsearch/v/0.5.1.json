@@ -1,0 +1,15 @@
+{
+"compile.js":"3cdf666a56b121fa72f6089c38d383462867cdb1307d93bf1330a5833b0f3d3c",
+"dist/flexsearch.compact.js":"ce4f715c613fc4bf7116475a30b8913f28f713fa6ae3ff066d704089a624c1d1",
+"dist/flexsearch.es5.js":"e4140cbf7ba25a1bbbb14f8081479be614be73a1e8c9cd973b8dfc35e9b3f0ae",
+"dist/flexsearch.light.js":"4766f471b5c7f9553ace058cf626c148ab96f64207d08d095d6c16d3b19f75a7",
+"dist/flexsearch.min.js":"f244197064a913789784ecf0246b608694c36b1cecb85a4af2f55f6a8e3d2013",
+"dist/flexsearch.node.js":"6af195870892e6d8988485c95f2ce4f2b2c9ec2abd77f90dc5ee1c9d13e70d84",
+"flexsearch.js":"b2e0d1ea001aadc3c787bf37719d63e64398549f5525e93df1f227b67ebb7c7f",
+"lang/de.js":"c9297a06f3e4a62e8392c32137fc3d0dbcd90d2d03899fc1b578c8500a3b924c",
+"lang/de.min.js":"b4515e3a4821cd0ee33f83b5cbcdce897576f0415d22f2b0302a05eee8e782a0",
+"lang/en.js":"ab55d1d3517edcc1e40d4f85f59858a8c96ad9c85232ecb90d38700cd1fddcf6",
+"lang/en.min.js":"1256eff054e28c9baa0abd254891824741e6a7a7e0de0277a4c3611eed80c175",
+"test/test.es6.js":"5e315c00bb176222f258734bb5afe9eb6367ed2b4dd04598a6c375559092f0bc",
+"test/test.js":"03eca4e403d2f522aefbfb8d8221dde241822f7f79323bc271ecad2155f1ed6e"
+}

@@ -1,0 +1,13 @@
+{
+"dist/dayjs.min.js":"270ed1eea28c1c865dddfc0e47ff0a7215789503da21769ef53790b42189e0a4",
+"rollup.config.js":"1fa2089444c2411ff0483f4382ee60c7886efafd45b5a9d17c01eb084c2a0b1a",
+"src/constant.js":"ee436e421aa3ebf66e73bbea20274cad2f23b819b15a30e8df7e01cf5afeac45",
+"src/index.js":"1eb0d9b82cf9253a97e683bbc22d606221b1e5a48ca4cb492d7e794f8113cb2b",
+"src/utils.js":"7c9c2f41645f9c4b84f0379cc87974d77f4619cb6a731890e042dfb498346518",
+"test/display.test.js":"b68c8b8d1a80a1467d70c75ab7d1ed5f7a0e87f4a415f1128978402cb88de573",
+"test/get-set.test.js":"96b2a1ba6fa8d54854eb7ba8750bb3013b5ccae1e5cc63b9458638e5a89bddb6",
+"test/manipulate.test.js":"2599ac9c84fd9c020317e9408d1986363221c9783022e74820bea50cd87d2b53",
+"test/parse.test.js":"b60e6bd26b6cf13d642e5f9d7c99dd0231f3ac51e69dc93ffae3db5b90345535",
+"test/query.test.js":"9df162ff1f2b7c8d7c231453266f0b771096d24c33a330f8c0e6d97c0e6c7fc3",
+"test/utils.test.js":"b5aff8c1261b3e7c4a3fb27db0dd78ee5c566fa3cd7ee8ff665d7aca2ba2cb03"
+}

@@ -1,0 +1,13 @@
+{
+"js/sql.js":"c82b5e486af67d566996dd31ed5fc2c263ef9f1127bd1ca2138f3ac0b984765f",
+"test/all.js":"9c42e124cc2e27a9e879cabbf1366b88e89b67a0d09723da7e2c293e10bac168",
+"test/test_blob.js":"2001da713bf3433eb57f66b707479e66f037bc03b42aa42db62adcd0009bcae6",
+"test/test_database.js":"eee48fc9d87b48e2eb7a9c64958f12907a595dfc03c8c83c41703285a2d3f53d",
+"test/test_errors.js":"2ec75a8c4c5074ac00dec98fbb30723b3fd1204b0ba496fcd00aa032f5c73a12",
+"test/test_issue55.js":"8d5ccaff9f5dae43c1cfb68a411c64a08d23bb440845c94f50e43ec924151caa",
+"test/test_issue73.js":"f9c7ffd18976a286eefbdc7d2d821a5ccc4c116ec7add4a9bf04710968cb3e83",
+"test/test_issue76.js":"6989d432b975c4c61b06dc3caa4ac198d8de435935a98490bee35845b769dbd5",
+"test/test_node_file.js":"c19f604ebe3160d42e3c318598548fe8d3c21f02421f130af079da6c10cd49c9",
+"test/test_statement.js":"5b493fa826ba54315379bdfafd7de6790f4f16fc197da5ed47f8b9092554cbf2",
+"test/test_worker.js":"7f37258c8b929d305b403eec6a211dd17904ec4b58d2291463081b6a8d462144"
+}

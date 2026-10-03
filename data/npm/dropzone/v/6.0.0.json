@@ -1,0 +1,15 @@
+{
+"dist/basic.css":"2ef8737c4aa00f2175669c7e5d2927d97468324895b9376391d6fe82310b27cc",
+"dist/basic.css.map":"9e15179c14e03154632933d8c33336667febb2543132722ea7b2aedc3b3f42db",
+"dist/dropzone-min.js":"d4c9b66c2623cdb400be6bd70c219b49fb3845199d4bce9a85b328e0d5859e5a",
+"dist/dropzone-min.js.map":"3ff3b14d285a8a2383b08cf4e065f2bf7b8fb2aaf7b27ee63b074e397fbeedfd",
+"dist/dropzone.css":"e219d05f7a03770a09d2bb943e01076fc441d74576baccf7a14d810269f83a6c",
+"dist/dropzone.css.map":"1e9ae395ac9b23c33da658947a2908d730a8340217a844714f91f0eb946a9cd1",
+"dist/dropzone.js":"61557b5899c83c299941f511e546e880b5f5cd57cd58c810f8a72914f363abb5",
+"dist/dropzone.js.map":"332cf33eb121c25e7e5f977679ab1dcbbf6c3c45373505dc3c23dab2bf702a42",
+"dist/dropzone.mjs":"d6de1f087aec46020d9bfcfe15db95c73f98b17dc7f8fce480010edc10dc2861",
+"dist/dropzone.mjs.map":"11aa99698967b48ecfffe531ed4788e281199f2864ed6463032bba220bcbdb48",
+"src/dropzone.js":"12d9ff2d3b95e335b8763ca6454ccb1abfb5d08a8f4b4e51ac3605ec56baa649",
+"src/emitter.js":"d59fb16aba282b81ac8acd2d363ff0fe20db88fa2c1a06e1624698d7a546b4fb",
+"src/options.js":"5d8436b9e7756245f65af7b58e321f6d93ff0133283693647e5ac54f123acdc6"
+}

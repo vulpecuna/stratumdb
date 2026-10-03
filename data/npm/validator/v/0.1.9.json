@@ -1,0 +1,12 @@
+{
+"index.js":"0167eb3fcc3b57af2f9dc912aef54cd01bf4d34d853abbdd37eae4ad79aac65e",
+"lib/entities.js":"a61ab046bd1454ec3d480bd4191c73ef438a034e3194ce9caf4fe498486a25f5",
+"lib/filter.js":"8d0b939bc4a4835f8d2023bb4e9b1496c490f4f22b2eb829b3fd9330b735280e",
+"lib/index.js":"1a82dd3e74d2fef69981fba1ee252be451b7313dfcf607f8b37a5e8527050e74",
+"lib/validator.js":"b7cdcf794eab0fd3673aeee147267daa845ae6de56e7e2c155ad8428eb2e91fe",
+"lib/xss.js":"35e3e37efe50a2d47afce55eab8c3d90bbda5d0df8e7eea060c739c8094fe5f0",
+"test/filter.test.js":"9d922363e3d5f435f1ea69f665101b572323ce6a807af5396e86c8d6d0ca53e0",
+"test/validator.test.js":"a40ae77c0a666ea3d16a18808e9dfba6a6eed61d7797e295e960eba9774b4f9b",
+"validator-min.js":"e9a19c66d7ad06e069543ab1628d6b7aff420db0527989c4460d45be0ddd75a2",
+"validator.js":"628ad815cff69fb39c03ffa05a390dcfe19a0c3959350db98ace16cc475b3d2a"
+}

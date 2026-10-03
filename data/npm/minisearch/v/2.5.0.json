@@ -1,0 +1,13 @@
+{
+"dist/es/index.js":"a5a579de3e860aca54e82f61d26fcf95d4745f80bcc2de1ee1c7717717959854",
+"dist/es5m/index.js":"ffddb7e4286eaffa39dff98a1ebf5b715d95cefe25ec3dbd5350572e9a6f3eef",
+"dist/umd/index.js":"a42933bd0f854fc16844f5bd600c3d4f2c0a3af64144578c330db34583b20285",
+"src/MiniSearch.js":"bd04b9f5380266030ef71fd424d7341fb58500fed89c35a19c5c163c26f66ae9",
+"src/MiniSearch.test.js":"ec7da70cd806dafe58785c9dfbf25355c72515ea3b67eb53a6bec71badd50f43",
+"src/SearchableMap/SearchableMap.js":"9a89097c4797c5d97e1114a1f10444f1fd2838c819479dae2ca57cd2b6da8eb3",
+"src/SearchableMap/SearchableMap.test.js":"2b0c11f96f3d6778c48b4f020a0ee2566e830d27780b6c7ced967bcac7fe3197",
+"src/SearchableMap/TreeIterator.js":"40786f712144cd3528f516bf6ddcb3c04b8004a2e404beb430bc83118931b7aa",
+"src/SearchableMap/fuzzySearch.js":"85d86688018985194407240501d38488d68b3c6e1a335a4a391803b7277a0b55",
+"src/index.js":"e482858df02952cf3e512d8d198abe0f67aebb038ba6daa6d0d40547e22835e3",
+"src/testSetup/jest.js":"d764764cc4fa3acaa9bd9715b71654be6744eae900fbd2021859cab13a3f62b1"
+}

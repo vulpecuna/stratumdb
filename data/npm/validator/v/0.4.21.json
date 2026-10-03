@@ -1,0 +1,16 @@
+{
+"index.js":"0167eb3fcc3b57af2f9dc912aef54cd01bf4d34d853abbdd37eae4ad79aac65e",
+"lib/defaultError.js":"4bd960fcad1eccd41ee26279a17745cbd002921347267b78b723080e3513e3ed",
+"lib/entities.js":"3edb5038cac015b3189f6c24d3c484eb4bd751d163b64ac709a59003ba5e79de",
+"lib/filter.js":"4c4636095776447574e9cdfeb6536df1fd293e6b97fc5c9017f68d433cbda9f0",
+"lib/index.js":"1245eee3aa5fc8f81d4b1f35e19bf79e84d96f30adf8c168908429b7107e422b",
+"lib/validator.js":"577cbd64218ffc0c4abd30adad7010f5a609840a36fedb0b278a8deb8b90e96f",
+"lib/validators.js":"797efecad28b62d60d5d8af560be6ddfc2ed7c8cb6dcc290f054ea5160917393",
+"lib/xss.js":"a2595b5b0ef4b1feda48d245f79f45c14bbce36e9ba5b9ba730fbcfb49f38502",
+"test.js":"a1e918118739d4e5c1c87c3c00d12a21f5a64a0f70e3e2722cdba6c316e14800",
+"test/filter.test.js":"2d71fcba1b9c2fd78747fe9163c9dbd6b3a6737c2dd11f9051955810c09c9025",
+"test/run.js":"08fb2dc5fce3b1375d5902b704d17773a8d3fafe72920c9631919780c5ba760b",
+"test/validator.test.js":"6af4d69c6ffb61e8dd73428f68512ae7adbc2e48484c511788c119e53b27157b",
+"validator-min.js":"de16be331dead6be1d768348d1800da125073df0dab0359267808329de3ce6e3",
+"validator.js":"3486f37b2bf3395e66832455a3d26fd5980facf3363132ac9e85f50cbde2a91a"
+}
