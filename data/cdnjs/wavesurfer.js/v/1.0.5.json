@@ -1,0 +1,13 @@
+{
+"plugin/wavesurfer.elan.js":"5f7e89793b22d67173fc3aa44fee80e6045d05ddb4a7de1c9c93ba72a55f358f",
+"plugin/wavesurfer.elan.min.js":"adabbb0519629241ac71363a3a3f6ce166ea050eee6edad277127799805b9ae1",
+"plugin/wavesurfer.microphone.js":"774a724ddb8c46e871893d02b04fb282414fb477893239c9f8eb95f8d22f7398",
+"plugin/wavesurfer.microphone.min.js":"e1a06f7235d4a68a610c4329feb9d66063ce10e484c03457447ef0dcf719b4d8",
+"plugin/wavesurfer.minimap.js":"133c3932e8ed60627f24750fcdaceb3ec9fc62202b8b2e7816a368ed7faf09a7",
+"plugin/wavesurfer.minimap.min.js":"b40eb1007e920b00d545a9a6cc21a3209f2ceee914d2cd9101dd2e18b319d395",
+"plugin/wavesurfer.regions.js":"19d752c4d1040b13afb7d5ba76fc887a2e4d4efe41d607cd7b934879ae568bff",
+"plugin/wavesurfer.regions.min.js":"fb297ee2d648392dce737d93c7702b2c1e7f9f199c3f36cc3daa3a4400c85039",
+"plugin/wavesurfer.timeline.js":"71de2f2fd53b28dd4e3f32b9109ee55d3f850e9699597c588130ba758f939e5e",
+"plugin/wavesurfer.timeline.min.js":"f1a9d6fe23acfc17edb9eb0c1956b2be01d3f2f34f0a1c86990115b56ebf2ad3",
+"wavesurfer.min.js":"159b4327dd57c72b07bf57b26f99c0d15db79c8fb3aaf7a1a3a82abfa0af738d"
+}

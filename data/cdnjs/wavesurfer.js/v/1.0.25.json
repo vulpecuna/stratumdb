@@ -1,0 +1,10 @@
+{
+"plugin/wavesurfer.elan.min.js":"109ccee41a68211c731fc3a5330ae789a439644b317bfde95588c0209eb82ddb",
+"plugin/wavesurfer.microphone.min.js":"5c11564db8ec0ca16b1eb5578579cea78a41c67524b571b922d7bb9a1720ab5f",
+"plugin/wavesurfer.minimap.min.js":"fec74f0d3af1cc9252847dcd383b2ae93cbe96b7b03c1a964dd44d72f989900d",
+"plugin/wavesurfer.regions.min.js":"40c7a50a287f6135853e6a3ecbdd143b4bd116d550b0af8fd1d0c12698824871",
+"plugin/wavesurfer.spectrogram.min.js":"53f47ab3122f988cc3179587e75d0b6acd5b3b6b76760f1b3ead81bb0c21a322",
+"plugin/wavesurfer.timeline.min.js":"71ffab8dba5e1e0d15e1ba51fc600ae4054b3c1f0bb3605eb759813036b73a70",
+"wavesurfer.min.js":"9b48693950cff4e8c7682091655496b99f18228c4fbcbefb4c09c5086c8bf50c",
+"wavesurfer.min.js.map":"0c3cb29e6624fe96b349cd7ac9d3035c427770f1dfbbe4c506c7b4d23af9f6b6"
+}

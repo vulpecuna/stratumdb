@@ -1,0 +1,9 @@
+{
+"plugin/wavesurfer.elan.js":"5f7e89793b22d67173fc3aa44fee80e6045d05ddb4a7de1c9c93ba72a55f358f",
+"plugin/wavesurfer.elan.min.js":"adabbb0519629241ac71363a3a3f6ce166ea050eee6edad277127799805b9ae1",
+"plugin/wavesurfer.timeline.js":"90e547dabf374a15ceabe43da3ad1302fbe22bf7761a46216afe551abc7f2e46",
+"plugin/wavesurfer.timeline.min.js":"203095b38aac0fbf9a332327eaf201cfc27ef7cd1badc51b2c25f64ac1eb430a",
+"wavesurfer.amd.js":"85ad9e9579854753ededc716badc66e2edd08dcb7ba97863d47679c0912be3ae",
+"wavesurfer.amd.min.js":"ec2118e37523dba2bf943a61c1926f5dd72b433bc271928173f665330381e262",
+"wavesurfer.min.js":"c5f7a7509576ec4a3de326bd7c0b58c40f708111db312b4b16e8164ac068ef52"
+}

@@ -1,0 +1,11 @@
+{
+"dist/sql-asm-debug.js":"4fa2ad92b89d428fa3ae8ab1d2a61f9ec13aa311b2df1fb8865c445ab14c11ad",
+"dist/sql-asm-memory-growth.js":"f6035ca1bc23fc3c1188b0e5f4c9037fde70f15262e3632063003b34ffd8a7f9",
+"dist/sql-asm.js":"bc49856080655eb51b9ced07824fc5b61f352bc2d7a6b2c1991b1d8cad0ba540",
+"dist/sql-wasm-debug.js":"8bc92d9a1131e990cc53ddc45e82011352158cb1f3e079b5ba95bb3f903b2675",
+"dist/sql-wasm.js":"93a21b1c7b888a0b4235d3745de52034b33871781f1394b83e5552e455b0c4a6",
+"dist/worker.sql-asm-debug.js":"0c8a0899dc72dc52cc011aef602efe196558cf4544492480a2d147782d2f67be",
+"dist/worker.sql-asm.js":"4f0279b6de665d2646a423d3b346d33fedee25b7af9a351c0de5979d5eeaad15",
+"dist/worker.sql-wasm-debug.js":"e38cf113bc7f6c886237fe4ec9662c42867f1b9fd3828a86e44262566245076e",
+"dist/worker.sql-wasm.js":"9ad0263559023224d47d51a2c0e95294cb4a656e6dbf71d8272c555e8db654b7"
+}

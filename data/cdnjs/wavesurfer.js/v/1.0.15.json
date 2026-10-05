@@ -1,0 +1,15 @@
+{
+"plugin/wavesurfer.elan.js":"5f7e89793b22d67173fc3aa44fee80e6045d05ddb4a7de1c9c93ba72a55f358f",
+"plugin/wavesurfer.elan.min.js":"adabbb0519629241ac71363a3a3f6ce166ea050eee6edad277127799805b9ae1",
+"plugin/wavesurfer.microphone.js":"db62c5d5de6d286b35856a512bac4427061652185bbe7c2a90d5abe2811aee7c",
+"plugin/wavesurfer.microphone.min.js":"3a5ebb3c49bf6e62621cff7d911858e521544b36904b15d1709e67a9d0181eb5",
+"plugin/wavesurfer.minimap.js":"4d5c42f04bff00138604c894c7394e0656b7175ad3f601217bc9f5ce2303e5bd",
+"plugin/wavesurfer.minimap.min.js":"c7635be9d5d97d9d84965f2ac769c2a79b5aa2a7e175a7a67497e5ea6f179462",
+"plugin/wavesurfer.regions.js":"13db9b29a88ab63083f9d7b27a18f613f4b822852a12e33c3bba295725236834",
+"plugin/wavesurfer.regions.min.js":"a688aad9a241cf5c421081e39ad3d4acca2de42c10a7c72b68b4c8e5701460e9",
+"plugin/wavesurfer.spectrogram.js":"c1d635ceaa710d963e092e56e1932a81851b67e542832915a3c417b0489ac31f",
+"plugin/wavesurfer.spectrogram.min.js":"067e0755c313f7132b9edc991259379ddf8a284341bdeced942bda65f4faeb39",
+"plugin/wavesurfer.timeline.js":"026a30e2195bee291384eb6a53a152350a5b9b5461dc1734050cca57972108c8",
+"plugin/wavesurfer.timeline.min.js":"70dd958be2e83305e9132f20b71151e3390881b9ef70bdb892db5830ef91a5e6",
+"wavesurfer.min.js":"4a11280b8cfd578178f2cdbcc9fef560c2c573d2485a4ca89aee939a21da0639"
+}

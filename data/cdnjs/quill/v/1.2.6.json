@@ -1,0 +1,17 @@
+{
+"quill.bubble.css":"315fecd70396c7f828773463a532babeea9a5ee3c4535f05a41826f79f9ef3f5",
+"quill.bubble.min.css":"a9b06ab7e2990f1e34f93001e4c20a7ae47e11b7f3edca1654fa87752d177f1c",
+"quill.bubble.min.css.map":"f9f9b3c440f2aac1814f721d12d345984398c1ef82e1431c63b15838b14ade01",
+"quill.core.css":"3a4ce121e7bf062573a2831ed31b9ad813939b69a23255b94eeb6c26cf956fb9",
+"quill.core.js":"59b8b67ab52c266cbbea476102d5327024c3b70b34a92d88c7a0a087aa258e96",
+"quill.core.min.css":"335ad593f1ca7b4161034f6f40fac18e911dcc9b9d12c00f46e1b2d90d65ea0d",
+"quill.core.min.css.map":"f5bf660a3c2855f061805741fd2d684d62200dba5b35c6758ec26287dc9cba62",
+"quill.core.min.js":"d3c1acf98dd73911c521dfeac150ddea893add8d53686b1bc204e356d74fc2ce",
+"quill.core.min.js.map":"d57f70b1ed52860c36e7abeacede31c861a29d8629479c65c8ec150bb5ce3a4f",
+"quill.js":"087a5f544d3e2c8a96193414270597e946ee6eebf13ca617d5c67e1e6b4efb29",
+"quill.min.js":"4c4516df55152504d84b669a3d6af5dcf2ee66f0277ab7324257ff49dc1795af",
+"quill.min.js.map":"59f302a21da877e9f1e6eca60e6044727e0294bfe2e41fae07eb84b262c3e902",
+"quill.snow.css":"3ff9b66e28f97f63b7838be7849c34c1d5617b850557618e6c03c260976a9565",
+"quill.snow.min.css":"1ca63843a710310ec1e14de46f367621874b76b085d05d493df9f130e5c2211b",
+"quill.snow.min.css.map":"d336dd3094a54ffb4ba42fb051e3e6c45d181e9739db5e15a8fee4e1bd63254a"
+}

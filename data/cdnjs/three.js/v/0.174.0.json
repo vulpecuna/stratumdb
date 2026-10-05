@@ -1,0 +1,12 @@
+{
+"three.core.js":"8af04b9919f19452d7e210db378a4be62f7952f3256739464c088a660d7d7c7f",
+"three.core.min.js":"5b48b9aeb135d530189b434a983ddf1d9483f67cf52f26adda8622a7bdd30708",
+"three.module.js":"8cd1b1ed9c81fb3e433615f5277f3feeebfb7404836b1fa22c282c02da26b080",
+"three.module.min.js":"55a51b908c29dfe6b9589d4556dba6fb870a14a118646f155b96b0d33e3e2bea",
+"three.tsl.js":"5979d2d36752a8c745b46ffb3ca7da4d5912f434812d25ebaeac0e3c079de99d",
+"three.tsl.min.js":"30b87ab3b96832330b44fea84782499aafe95b54590ba1fe14a42bb8ff8bef36",
+"three.webgpu.js":"54d20056c160e53def8e31f3fb5d5bb910226a9fbfb80d72a8a44065d761a400",
+"three.webgpu.min.js":"fa163945720e3643a2c4c8b113c568bf9753ab9de3f15ecaa9920aced33296d8",
+"three.webgpu.nodes.js":"e3f1fc5498a0aa28c7eb04f2f756893a67798c8b1cad8d9eac083f0b40d20592",
+"three.webgpu.nodes.min.js":"ebb9fe0a404ec64545196f1f95356bc91ae0959d80a7c0e1da04fda62ceb2137"
+}
