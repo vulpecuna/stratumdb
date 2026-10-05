@@ -1,0 +1,17 @@
+{
+"plotly-basic.js":"517db8e87dcb4131014cbf8bb165bc5bad28c7f3a0f34644b028b4afc4922fa3",
+"plotly-basic.min.js":"856b7716c7f7653479782c51f663cd00db5c7abba21af7e027ec33965645d8b3",
+"plotly-cartesian.js":"9d3aafa9e5064364d91ca0cb8d07d548442a3c95bc4f92a943e814627954f54b",
+"plotly-cartesian.min.js":"0c9ac97f9c7c08cae149d824dc6743560177eba08ef533c2b82127d9af6b0aa6",
+"plotly-geo-assets.js":"884451df779446b85fc6525aeca7abe3e0c09dced3dfd2abcdc08cd05814c56e",
+"plotly-geo.js":"d74842aae16c3a3d7469e1551d09fad471b90bbdc4d24ed423575f910cbdf2fc",
+"plotly-geo.min.js":"52552419998b2be9adc0a5f0ab2abdb229074b0afb838ae427c272ae18c0598a",
+"plotly-gl2d.js":"13bb9df08661a2629d12849830049cbeafbcef9968c4be64725d2bb4ac2abab7",
+"plotly-gl2d.min.js":"fff79f2d1e0cd435dc1e2c4ba1948c37899ae48c903f056f6c8d62df5ed8515b",
+"plotly-gl3d.js":"084750def92772f2ba8fd0bbc942b0cff212e649cdb72a8df0e02c03f5d3ff59",
+"plotly-gl3d.min.js":"a3ee49521fb7e64bba64df8e5a51977aecba86c06fd342eb37ec5cc8b7c26ffa",
+"plotly-mapbox.js":"3d6f7760f3acb33303eec00e80ee622d87a9827e1b62931d9072757276882991",
+"plotly-mapbox.min.js":"669d16214fddf224eedb393b425964449c0a30603dfae87b7c3080e1cf5d2fb3",
+"plotly.js":"4a2acb9372ee2e9295916c17cf794fe8d520b1f30a1c882a8e75fd252d8fe4bb",
+"plotly.min.js":"a1bb8251cd332dfe7aec950a364aa1021e85c5f6c952be57feecf1e30f5a448c"
+}
