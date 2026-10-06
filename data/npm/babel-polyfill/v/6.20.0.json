@@ -1,0 +1,8 @@
+{
+"browser.js":"903a9e162c3c8c558e2e06eb585524ff8b15313820c759eeec89aad15b4156ad",
+"dist/polyfill.js":"f2b34c42e131e0edd4ae9ebf5e0e2abd41436849bc0c1ece99c3c8f7b08239c8",
+"dist/polyfill.min.js":"903a9e162c3c8c558e2e06eb585524ff8b15313820c759eeec89aad15b4156ad",
+"lib/index.js":"a8e3a3a6e4cd68e367057bbdaaa9f0c47a3bff97742e2140670eff57f02ff420",
+"scripts/postpublish.js":"bf8e34d8a187cdad7608f3058ab6848f9f3017b2f2e6ada61216f21235f081b2",
+"scripts/prepublish.js":"241b893593ea9aa5d4f229f8d665a3df73d449a14630b662d98e27d07afabb5c"
+}

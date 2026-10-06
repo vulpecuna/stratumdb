@@ -1,0 +1,15 @@
+{
+"dist/kjua.min.js":"0dbc5c8e3984d9d8ff292b439e6236ce1b0eaf18ced64d87f0f661324dc748be",
+"ghu.js":"c441e5b439e3a5a35e2b31c66d4bf0b6b43ef429fd3d92a9b60e3a76e835d2f4",
+"src/demo/scripts.js":"68d01bacc1d259648c6587d2fab7e85356a9f56379e668a4a6210cdde3faa2d6",
+"src/demo/styles.css":"3bad3d15315d7f9cc3e7ee2e8c83c3a1c85d61f8a46c3be87ea5c92433a2661f",
+"src/kjua.js":"eed11df24c3ac46bf5d382c450d13a3bda4971bab917af07db4d80230294497f",
+"src/lib/create_canvas_qrcode.js":"529971de44cae899e667581d549bbfab0599faecfa516c8409b8e2b446d335b8",
+"src/lib/create_svg_qrcode.js":"7cd4ab5073a3dd8b6d8b2c33889a17ec085d1d112adc833ed2f2473b61b1d7c9",
+"src/lib/defaults.js":"b9e0c5d0647d17ab262e0934d1d29ed739c68c0aedac618065c45eb9fd7b5db8",
+"src/lib/dom.js":"48639e87ea02e521ad192540e4461f71039bd375589a0e11db33978b168d2452",
+"src/lib/draw_mode.js":"c0399bf5758332645650801817a9ed743889d126f01303b3ab33f25227634edc",
+"src/lib/draw_rounded.js":"1395abcae7682a3e7b236f61b404d084c339975f8b18c5ea1d93661ee96ef239",
+"src/lib/qrcode.js":"534c6218142807f9de34a1c3bff38fc52600d4eaeead697b5b311c11687a198c",
+"src/test/scripts.js":"0342f5c47f0ff4c41e707bfac5660c1b00b8ab9d32e4409b2badd0e640b7307d"
+}

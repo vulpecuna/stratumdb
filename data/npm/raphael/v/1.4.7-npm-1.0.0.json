@@ -1,0 +1,13 @@
+{
+"plugins/colorpicker.js":"9c222a1cc695150464e7cf01dc1fe7e85038d719cc2614c66f0508d0e5f28cb7",
+"plugins/colorwheel.js":"b4c1d2e2aa7570dc0e3ec73b870b393c17d1cb0d5112bc28ec2c08eada4103c7",
+"plugins/jquery.colorpicker.js":"4b0fe9ec0d0d1c36454cc21122eec861c985a4014d15ea526dfe1bbf3153ac47",
+"plugins/jquery.colorwheel.js":"3934f3b737c3ba61b40f177b7482830e4457df7731f0509716673e1823ba0b2d",
+"plugins/raphael.blur.js":"0a0cd4de049b724ddfd0fb154be82a6c305fee55811d7f2132426c170a065412",
+"plugins/raphael.path.methods.js":"21e294b2431e9cda7bc656268ad47d006b824a3bdcf95cdd577c32da66d29134",
+"plugins/raphael.primitives.js":"6a7a61616db171bd664a8540a8def36ca6705194a928db31f706635ea3527671",
+"plugins/raphael.shadow.js":"424d2feffd2ee93fa1632cb7fa6b6914f55d010b19a852e5c35fd632077d8e46",
+"raphael-min.js":"02b222c6bcb7821ef028f592ba4c7f559e55b375f0cf2f5ac55b98cd4c111560",
+"raphael.js":"6a09e737ba1b2a8b9419b01836f3b40af3924b9c1327ff89a55fe104b12934a8",
+"test/vendor/jquery.js":"3cc5c121471323b25de45fcab48631d4a09c78e76af21c10d747352682605587"
+}

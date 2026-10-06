@@ -1,0 +1,17 @@
+{
+"dist/index.js":"a6009d966a5c9603aee8ec107cefb4bad4492336142acfbabbe95d4b9f6bd78f",
+"dist/index.js.map":"3417e418cb2d17764167de2aa2542590ef43d8a567403908c4c59174164cbad8",
+"dist/main.js":"d1800ca5029438ff1cc49394a2c3fc0e02a4a2dcace704ce1d0ab12e98b19aef",
+"dist/react-router-dom.development.js":"2f9f62d98f0cee6ecd0d72168c4eda75e3dea8c31beda1b9886c350ec05660bb",
+"dist/react-router-dom.development.js.map":"0f81a1bdb442cecbc61fd06f886f3ae13c2f61e4cac4ce73868afadbc07de38e",
+"dist/react-router-dom.production.min.js":"af971bb32bb5a7a1873d60def56f48fb5435e5845d3ea86d810b6200d44d2d76",
+"dist/react-router-dom.production.min.js.map":"c12f71dde3ba4da5bc2748a8779dee6cf46e85967b9753295a6923a06343a10e",
+"dist/server.js":"4935e29468112823f0f8c4855cb1e2cdc701924d0a17eb48b9b14e403d967a1a",
+"dist/server.mjs":"0ff86121f86a721432f42b63d9b88dfd8e61f67aa79bf975415e7ee23116a59a",
+"dist/umd/react-router-dom.development.js":"72132c115f8f0d9da38a3f7075e8d44643700876c4fc774bff07186bd5a570d2",
+"dist/umd/react-router-dom.development.js.map":"439891a2ae9b457f63123e22f0ef6f917f4420edb2f7a54a8fa990f691a82cb5",
+"dist/umd/react-router-dom.production.min.js":"61bf2e14f19a14dbfe22dc487a4c2f4461951aab654397064472d3012178efa5",
+"dist/umd/react-router-dom.production.min.js.map":"fc6104d93c74def42ffe5f405b36e2fda4789fd4c910e0553b40f9e59530cf2f",
+"server.js":"4935e29468112823f0f8c4855cb1e2cdc701924d0a17eb48b9b14e403d967a1a",
+"server.mjs":"0ff86121f86a721432f42b63d9b88dfd8e61f67aa79bf975415e7ee23116a59a"
+}

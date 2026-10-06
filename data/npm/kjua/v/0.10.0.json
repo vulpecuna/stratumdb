@@ -1,0 +1,16 @@
+{
+"dist/kjua.min.js":"5b627e8633c7ce8ea404c3e32c691fe5f1a35a6dd1a2aaf04c49def38ba22279",
+"eslint.config.cjs":"00db191afb16b98e8f906d65eca48c01e9363bff75ec8c51c5ef824dbb440048",
+"ghu.js":"c441e5b439e3a5a35e2b31c66d4bf0b6b43ef429fd3d92a9b60e3a76e835d2f4",
+"src/demo/scripts.js":"68d01bacc1d259648c6587d2fab7e85356a9f56379e668a4a6210cdde3faa2d6",
+"src/demo/styles.css":"6cbcb1be4b8a094b87d4d34ef283df5a0a1f6264f15bdb5dcd6ce10c03478825",
+"src/kjua.js":"4641fb504b7f51c1e227777c279138169a6e3ea451e328953a5b25c86709126d",
+"src/lib/create_canvas_qrcode.js":"8dda16389404b152a998936cc46d2bce3f8ae5b637ec17d4d1b16425e31ba500",
+"src/lib/create_svg_qrcode.js":"9d4f796837f668183fe6c74152437eabd304f535533f07db2603278eff3135c9",
+"src/lib/defaults.js":"b9e0c5d0647d17ab262e0934d1d29ed739c68c0aedac618065c45eb9fd7b5db8",
+"src/lib/dom.js":"6f28c50486c675d6aa685c82f7c0d485c4b4911c9a1ab43ccc3d1adb11ffcc0e",
+"src/lib/draw_mode.js":"c0399bf5758332645650801817a9ed743889d126f01303b3ab33f25227634edc",
+"src/lib/draw_rounded.js":"1395abcae7682a3e7b236f61b404d084c339975f8b18c5ea1d93661ee96ef239",
+"src/lib/qrcode.js":"534c6218142807f9de34a1c3bff38fc52600d4eaeead697b5b311c11687a198c",
+"src/test/scripts.js":"0342f5c47f0ff4c41e707bfac5660c1b00b8ab9d32e4409b2badd0e640b7307d"
+}

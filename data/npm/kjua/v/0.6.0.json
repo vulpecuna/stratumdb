@@ -1,0 +1,14 @@
+{
+"dist/kjua.min.js":"726e5aeaad205afd9dd5a0472d97f5401f20f71c8b9d60e660311bf2aa513618",
+"ghu.js":"c441e5b439e3a5a35e2b31c66d4bf0b6b43ef429fd3d92a9b60e3a76e835d2f4",
+"src/demo/scripts.js":"68d01bacc1d259648c6587d2fab7e85356a9f56379e668a4a6210cdde3faa2d6",
+"src/demo/styles.css":"3bad3d15315d7f9cc3e7ee2e8c83c3a1c85d61f8a46c3be87ea5c92433a2661f",
+"src/kjua.js":"7bd014e0aec4f37b99b6165ddf396093c4b851745848b379f83c5dbbad4db020",
+"src/lib/defaults.js":"356fd988e839fd44e3bb19ef5f5f2962d86f66e40389cd0b104903757996c5a7",
+"src/lib/dom.js":"dc7b388e5d5cced971a496277077c8a2a57f953dcb791da1fc3ef9dd693eab9e",
+"src/lib/draw.js":"bfc57d6c910ebde710c1723cb89d4256c11a89664e4696477aafa89ded877fc2",
+"src/lib/draw_mode.js":"c0399bf5758332645650801817a9ed743889d126f01303b3ab33f25227634edc",
+"src/lib/draw_rounded.js":"0fa8d958d7aba259fad407b35b5583ab6ea3a5887ee251be9492d1dbaf8117a4",
+"src/lib/qrcode.js":"8a28e019e5b622520d22da16ac3c16900c2f07bc2ae229b8f9d9272943c6b197",
+"src/test/scripts.js":"0342f5c47f0ff4c41e707bfac5660c1b00b8ab9d32e4409b2badd0e640b7307d"
+}
