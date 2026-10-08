@@ -1,0 +1,15 @@
+{
+"dist/bundler.cjs":"6d50e426a1b79d33b2a2ee4ce9aedf1063b407f16e4ce579710a5dcd2832d01b",
+"dist/bundler.cjs.map":"0d84cc9a8a27c705fe010002addb94eaaa1b189736d15f0dba00958526c2c0e3",
+"dist/bundler.mjs":"51289af0c08c7e0d67649e1de12f1e487c5fc411cec411d7881c5ca05e5099b7",
+"dist/bundler.mjs.map":"52ea7e37e6666b0a3984c806a3c6e2b1a6153d6a470201a4b7ad723b0b492e82",
+"dist/peerjs.js":"4db4ab50a42e81fb69051bcabc828cb1104ed8ca530ac0789a5c9d0307b1162c",
+"dist/peerjs.js.map":"31ba9f55266adb19c8cb901446bc5c0c179424e6d0cce2daa59fc01ec6e23b57",
+"dist/peerjs.min.js":"a07051b5c7bf1a6e0399730ecac9fb5c477f74c4fe739475d74d37acaf92fa17",
+"dist/peerjs.min.js.map":"a3764e050ee191cfe8eba52fc4d0a41d683ee9afae96dfd3e605f4a2420244f5",
+"dist/serializer.cbor.mjs":"ba4fd9278739840ff9e95b531013424c0f0dc427fa1e44a843c56af007546036",
+"dist/serializer.cbor.mjs.map":"3fa9fc1e70c49ac96eb7444bdfda76908c0a7f3bf557000f22cedeb2e374989b",
+"dist/serializer.msgpack.mjs":"d4cbf4f4d452cc60e4a56c45007ccf3186c9abc0959881130f8ad900d7b38ab9",
+"dist/serializer.msgpack.mjs.map":"b1481742cea7eeff04f42d30e625d164d8012cac0dd3022a3c2b24d6ee7bd45e",
+"dist/types.d.ts.map":"4ee7e4bd5db7abfa77e715ed8db827e7713095f187341cb7a011e327aba6f5a0"
+}

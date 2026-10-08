@@ -1,0 +1,15 @@
+{
+"babel.js":"d35dc858cc7ad4c2ddb34c802105eff670bbccbd1757066738ebaced573b427a",
+"dist/DO-NOT-USE.min.js":"348435dde6698d8e24ee27759ddf4cfc8e0b1ccba65425f16c01319e77b725f7",
+"dist/DO-NOT-USE.min.js.map":"b79f0b568a5bf1b666c095d331f9ad53d8184a0b04b459bb1bc83580f134d7fd",
+"dist/index.cjs.js":"27702d351e963e0e110dbd15d4595e63da8026fc17733ae38280d03e30adde04",
+"dist/index.cjs.js.map":"ac87d50337e0e797e934902d419f3742a8e2da63f4922a0b380682ee19827378",
+"dist/index.es.js":"0f77162c0b5394b9a2aee76a1893ef4692f287f6bf73c4b89d5f4e6187ae2ad3",
+"dist/index.es.js.map":"2214b695c91a60bedd6f17ba0ebea83962634587210e7ff2445a30309190a027",
+"macro.js":"e721cbfb94824c3ff514f7440081dfbcdd0ad70f9c384f791fe90e603e4f0d7c",
+"react/index.js":"ecd0fbec617aa0c4033177fb748d8586c8f9f1fd4565f31d9585d6c2497f2d4b",
+"react/macro.js":"47bcb06ca3948a9e2008a881071bab7b77a42c5b28fb620bd0f7878ada02d4ce",
+"server.js":"bd6defba69064d5732ba3ca9c1fd24b99ce411caab159f84accbc26e0b6bc336",
+"src/index.js":"f4fd3487c945d74aaeaf1bc6534daffde984eb882b57c334d7ad86e41da91e52",
+"src/sheet.js":"843af11409f91c3fd834fdf7a7c890fda2ccce0f4f4137cf9bc48049969abb74"
+}

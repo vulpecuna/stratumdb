@@ -1,0 +1,15 @@
+{
+"bin/vite.js":"eb75ba580179fb1f95bef50c076764fab0379dc1942e7333f8d173c21e1478ff",
+"dist/build.js":"93cd8487b7387afbe6b8ece1f37d098c9bbfa8489ac0b783419e35f1d3dfa20d",
+"dist/client.js":"3667a4360c3ea4aefd5cabd5cdaa43272e40ae97bc3e313ece59a873234414ce",
+"dist/index.js":"113fbd339549dbf6b88dda991ea9272e106142e24d675730118734c46e2e4dcc",
+"dist/resolveVue.js":"c6e09303d807c706a4f4f9516974d848a902522c479e96d837007ef7d44b6747",
+"dist/resolver.js":"d79209cfc316fdab8a8621cadc4d824a9808619a9b7353e07fa0a89d00914f4c",
+"dist/server.js":"eec9a0873c1e3f0a2814d581a8d6f0b1b6083c4147ec4805408b4d6abe8a08b1",
+"dist/serverPluginHmr.js":"7d37ce949f21dcb8f1f6fe2b7a9067c8d097b93ee00f14a292d3ce1f6eccb494",
+"dist/serverPluginModueResolve.js":"928c452ab3d99c9218bd81853a543f9ece56f2b6f691b18444c42c041cedd87c",
+"dist/serverPluginModuleRewrite.js":"48f95c1e2f765e49fc655c1ef4d4f1a07874f05937bc636b9863cc2172fe073e",
+"dist/serverPluginServeStatic.js":"286e83ae4120c32db50ad73e5e150ce1952b1bde1b1a391227405f5e96451315",
+"dist/serverPluginVue.js":"71f4133da407e8fe4978ea4b3a9d021f1772395fc41446277243b1e8eee87d92",
+"dist/utils.js":"e638a2364cb4abc6f64e73eff1c9ca9ed908b7f673adfdd053f27e023844d669"
+}

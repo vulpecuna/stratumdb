@@ -1,0 +1,13 @@
+{
+"dist/peerjs.min.js":"9a31028cc30b369a99062708fed6633b6f95d0a679ede497a7f837512f5934f4",
+"dist/peerjs.min.js.map":"94b3efc91665b755c47ea8dade24935a261bc8839d28b9e19599a704aedf4b1c",
+"dist/peerjs.min.map":"2b773ae705105b7043cdb063190e9aefa114c26e18ca96a6ae947cee734e9dff",
+"docs/build.js":"dc7e88d3859fc5edd45df57cf62b1d79badfee3ba65b6e718456e9b3bc391b4a",
+"docs/css/docs.css":"f9bd943c70326b9c4fa5b1456fd0e07926e247fd8f6e8dd590fc810c809fbe52",
+"docs/js/docs.js":"1d9f362c5969dd60efc263a4279d9e2ae39c7cbe86bfeab534f15af02707c020",
+"docs/js/jquery.min.js":"89a15e9c40bc6b14809f236ee8cd3ed1ea42393c1f6ca55c7855cd779b3f922e",
+"examples/dist/examples.78399e21.css":"b77356059506a9169e2ee7e2d3b8d92639be210f31abbd16a02c2d78511d4cb5",
+"examples/dist/examples.78399e21.js":"a1af3d54060b56e23b7b9d103c3eb324ee537eaba9c830cf8951dc2290ea4cc2",
+"examples/dist/examples.78399e21.map":"c038f9407427945da5f9b9810bd7e0d48bee1b50a5203e7c07a30437f49d803b",
+"examples/peer.min.js":"c195ab99719f9b91d6e67b86044dfa6758a8bf9f8427f896911a57d58bb18ebb"
+}

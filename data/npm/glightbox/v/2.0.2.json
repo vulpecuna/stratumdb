@@ -1,0 +1,14 @@
+{
+"development/jscompiler.js":"9d50f06927fc68e6b2261dd9519b2028add0ce884389d63b0c2f27d579cbb4d9",
+"development/notifications.js":"d5b0bfa73a42be7dbdcd47c00a73e191b5e93156d5fd9757f14914273cf84753",
+"development/package.js":"a6d9c5c15cac3d1dae342d50d231de23d5cae5d145ca81ae809a0a8040f562b7",
+"development/postcss.js":"f5042bfbcb739ce157ef5d39e0344ddeff6f024025e2042d8ff7f8b2834894f9",
+"development/watcher.js":"a356daeab79c44ae1a6bcf47dd70cfb2ae89f2e788a2f39044d2fd0b1952ba7e",
+"dist/css/glightbox.css":"729a93eee0378be53156b054471cde28c74a561a23c744ca6f030b066bf18402",
+"dist/css/glightbox.min.css":"ccaa7547dc45837e60f87d510ea7953fd95c784fe8396711913da888f16abc09",
+"dist/js/glightbox.js":"a9d4849bdb81b944ebf904173156ec3184ecb0df266913830bccefec43d57589",
+"dist/js/glightbox.min.js":"25f468b00f4ee1fd25d52995fd8afee845253a7ce79cf9bfeee431d8293e2697",
+"src/js/glightbox.js":"760e5a75c1304b0a416e0f2753de2422f9cca2dfda943f86b7b1e3afb7337152",
+"src/js/touch-events.js":"d1c365a5bceebba695316e3f0ff9dc0ba3da0fd21b4e70382b622ea0c65cf97b",
+"src/postcss/glightbox.css":"5993185c3cc787ed9e9d6762fccd0134ba704930df0b45a75b86c8ac877de920"
+}

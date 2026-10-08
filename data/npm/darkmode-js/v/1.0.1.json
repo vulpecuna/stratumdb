@@ -1,0 +1,8 @@
+{
+"lib/darkmode-js.js":"18c76dd894a35261b2dee4e7b59555d6904c24e52fead1f4caee86993cd7cbdd",
+"lib/darkmode-js.min.js":"bdbb0d782f2e9e9bd96e78d0543e80feaa1c7590029c6539dc97eacfbf3fa0fe",
+"src/darkmode.js":"fd923551ecc376ac6e10ec30ef011daba3af693d837dc279dce8ad0719e61bdc",
+"src/index.js":"f13f7cb1f86abbd5dd77f96839633976c6633a76c5ac4227ab6126e3ed5dd6f6",
+"test/index.spec.js":"eb1f40e2d58a7f0161b507714d7074c1a6b1c50afd9576ae1977e626326f9d35",
+"webpack.config.js":"43b3b4e7d0a47f8dcb95309c8caab9b9c19c9d758aa47653c447c47e336cb67c"
+}

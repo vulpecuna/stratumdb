@@ -1,0 +1,16 @@
+{
+"adapters/jquery.js":"fedeb332cfd7cd581e029bd462e5f0ad7ee7fced2139ca45f835f864e7858c80",
+"dist/caman.full.js":"b071a836491a7e47f2d3bbbbbd20a956b92aacd783fd52971665132a416e8cf1",
+"dist/caman.full.min.js":"a66bd11a4476579128d961ed64d5ef7ef7fad5e7456778251ec040a18d911204",
+"dist/caman.full.pack.js":"d58f46e0f15dea35402ca7ed77161295ece77e413097caa1a70b27952de602f2",
+"dist/caman.js":"f8c47f74dd5e93a31f8e61bc70cf7c4bd7d90b2b4589a0e82b8b3ba99e5a8cc7",
+"dist/caman.min.js":"29034b7157ba1425f5d53dba0d1a9d7cf8ae39bbc2c198e0cde57ba6c69e071e",
+"dist/caman.pack.js":"808898175fd32557cf7bc715a86091351cb75a55fd0a52d7302567a727bb384c",
+"docs/docco.css":"75f8cb448d0ab1d6b9d0fb9b430860387b3caf593ffdddcf313a95be97e454fd",
+"test/benchmark/benchmark.js":"c4ae9624e389e132598210f8beb3df205cc809dccf3cf6d2d28612e2779e5b16",
+"test/benchmark/flot/jquery.flot.min.js":"ac53465e7668d3a365e27ebbc50c12662c702f2dea8bb5bda25508cc9499e734",
+"test/benchmark/styles.css":"4be177a6d8abd033fe9a3e1c32f5bd0926b7bd7d61821328f423164afcdfb6c0",
+"test/caman.qunit.js":"8852c76c8f0a94d77d4c8405ea311b2beeadcbaf8f223f66fa2fe9cb146d913d",
+"test/same.js":"fe31773e983f35e49a775eacba266c956e30bb6d9c2af4515725713bf2d81a94",
+"test/test.js":"cf07cc9624372ee267d0503c45389be44019a962978f4988bcd0ad02c838afe1"
+}

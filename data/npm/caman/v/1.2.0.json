@@ -1,0 +1,15 @@
+{
+"._Makefile.js":"4786cffdf271a1d3e21a0c4c64b55718d16ffd7bcf2b5af4e48720610c86e9d3",
+"Makefile.js":"8a738a6e6c65de728794dd793c3aa37394ff8999f9f901117bbe78d9521b9ce2",
+"dist/caman.full.js":"8230469d10891b5bcf57e9532fcce938c24dcbdab922859b05f8e0dd32106931",
+"dist/caman.js":"63a15a01315816d36cea116970d1b0ecde14835ad8772b3a36d44559a747bb26",
+"src/._core.js":"a6980d43a5736c600891e0c42aa131ee2f1ba16dae1260d5046ad0cfbbb6c826",
+"src/._util.js":"8fe7a245b95dbddcd614d516bd93f891415e90db15213bc15fa7db6cf99b0176",
+"src/core.js":"0cd699d6a3584873831d220bbcc665ae20c38a0df69e38a7a0784c9d429911e0",
+"src/filters.js":"691a7a43d6efd3ccc7dc73abb13aa799f5ae5bf7c40f454396056e8edb2dc40c",
+"src/plugins/plugins/blur.js":"e2fe7105f6ebe0d648d1e3f1a24782149e5e2535f476a6ba829090ac5c1c3f2c",
+"src/plugins/plugins/camera.js":"9e6f207fbd12aa895f61971efc9c5ecaccf62850b724179d999a86c73e71fa35",
+"src/plugins/plugins/edges.js":"0c50a3ec0071f8e05beada9de855be5e05e86d528d9714bd218a9ef27d450fbc",
+"src/plugins/plugins/presets.js":"bc5a77ee269abe093e7e88f679040ff859cecfb60b7919f9485d82f68c67e652",
+"src/util.js":"5820bc98a45e2bc09acabf2f8afcecb2c81491e73e0e96333e33df1013b42466"
+}

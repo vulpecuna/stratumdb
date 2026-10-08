@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"f1c926ff2950bb30428d1908e82329123e8ffa972849ff4f129c47a2280aa75f",
+"demo/css/demo.css":"6f8ad1d3458ba224e8713c966655be7b5f76b2abb961769b59ca40f14f82204e",
+"demo/css/normalize.css":"0f17c2d9989821c53bc18c6e64af800994ed84b90352b972228f8482a8ddfd46",
+"dist/css/medium-editor.css":"c5c5810de8b0463a2b7fe18ea763af16f9a09e4d4c3cdea22ba696534eeadcb2",
+"dist/js/medium-editor.js":"4d5ce67f57b85d5c0fbc985aa085f8813ef46cf4803d8c01e2a950d03a28334d",
+"dist/js/medium-editor.min.js":"5ce0315a79d1b968395a3be11ae9f3b322a2b8931daed4f3f97ef427c061c078",
+"spec/anchor.spec.js":"d6e5d2aeda7d961247f3811821a65c1285d340195a0b3cb7e2f7cec52a094339",
+"spec/buttons.spec.js":"7fcd82ecb2582bc9b9b28934ed6bab92ac814cb9e2f77dc4737f0bf36c6d592c",
+"spec/elements.spec.js":"d1ffccb1f0541bbf52dd8e318e1b30c4c99085653e8d8e4b9826229bba84a189",
+"spec/helpers/util.js":"f2cda79cfe1e740eb7fd8313153f7b0f90f698381efd3321b9c428a793b38362",
+"spec/init.spec.js":"012e43245536543f2eb03712c836d274f7ac7eb2a5a239e2e91bdc7c95060aea",
+"spec/placeholder.spec.js":"7ab8b613668de24e697280012ff132e64c60e45810597046a10e430b3bc62b28",
+"spec/selection.spec.js":"cdfe78cbc16208a4737650afa6a151f0226da5bac89d2f9577549f5f0f9cf55d",
+"spec/toolbar.spec.js":"4f4656b67a545fbb526762c1d958dca6579695d22ba009a88f1aa69aaa9f73fc",
+"src/js/medium-editor.js":"2bb579f2ec5739605e687898c52b8ff9e1e4d3328737764b8bacc6de9954728d"
+}

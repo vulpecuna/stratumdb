@@ -1,0 +1,11 @@
+{
+"dist/bundler.cjs":"19dbbec6835a973579c08a2ade3c7f9767283f12d4e14909feffdbb03f2c842c",
+"dist/bundler.cjs.map":"60d7e3fbe8c79482d99cffe3c891f48c61d966eadf364778c03388043d30edd8",
+"dist/bundler.mjs":"93609c70b719be52301603826bf8c4fe0e13a8bc170241cf8c26a19d68529051",
+"dist/bundler.mjs.map":"c741f47e4a18c6fa008f5864e45754ab053a5a99424cbcb1d4a26f9182b8c0c3",
+"dist/peerjs.cjs":"8c9395689a15e7a2c2c76ca1d3f1d6cd0a091e6723c3e1a4056ecaf5e609a16c",
+"dist/peerjs.cjs.map":"7ea6d49b32fcdc4b382a1a81c11ddcf34751f70566c5f41217d60af3a8d322f2",
+"dist/peerjs.min.cjs":"7b7e0f8f80ae3a6b094b5f18fa651eaedbf76c01485b146db7f5b072857544f6",
+"dist/peerjs.min.cjs.map":"854c67bf067bcad027af0795e90a0d76e2be6cfb54d88333ff8ca94b60244b4d",
+"dist/types.d.ts.map":"0dccee222535dbd8bd0cf32dc8dcd9cf8c0b102932f3ba546e9cd80c53d18010"
+}

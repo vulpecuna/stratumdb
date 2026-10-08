@@ -1,0 +1,11 @@
+{
+"adapters/jquery.js":"fedeb332cfd7cd581e029bd462e5f0ad7ee7fced2139ca45f835f864e7858c80",
+"dist/caman.full.js":"8a985082a3eba601581b0f71420344406b5e0894b2dd5d4d7f7548a0e14d4621",
+"dist/caman.full.min.js":"17a67cdf088c77f3aa57a941dd6692cd4dcb59c37e51834bf88731d6b32c89eb",
+"dist/caman.full.pack.js":"d2a48cf19b594ce0781166539bbfb410cbc2ba9be1aea65df94f74920fcd9f61",
+"dist/caman.js":"376d3564da3a392bc4fc1d645b72032e0ac30a78326e6fc3671d1759d4e4090b",
+"dist/caman.min.js":"224611050e33107ec97b16875fa378504a8e057f07bd3eac61a68d3bc438b24b",
+"dist/caman.pack.js":"5f17cb37c5c19083b153d50a4e665b6553e8b1037bf0fca68a01997911ee42e1",
+"docs/docco.css":"8b1c90082aef9726e2ef7e501da5725ef47c5e77bb45db0c52c9fa4740cf9f95",
+"test/ext/grey.js":"6829eb4b147638c2d3bb925e4cea0e2b04cf81dbb38793dc4d36033f0d871125"
+}

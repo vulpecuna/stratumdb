@@ -1,0 +1,15 @@
+{
+"dist/bundler.cjs":"882dcf7e6df6ab9998589db1693988f4c7b06f4ce7e4fe2273750b42ad098aba",
+"dist/bundler.cjs.map":"efe6fce5a40eabe81336febf2639781ace2c199ded4c23cf4914cec06b3b5b5c",
+"dist/bundler.mjs":"1062b45731adbc946746c52b0e345b1f938666e2eddb3aa1515dc8603e70fb22",
+"dist/bundler.mjs.map":"3ad4016d92527871a72cdcb33f42940347a84c63ce03f20d7d2f4c31c6247555",
+"dist/peerjs.js":"3610791f9f72df66d4370f2595d5c3e3e82000bb16b39f1e0ed5c43506d49bd7",
+"dist/peerjs.js.map":"a198ee3e128ef4ef68ca323cb586a7cf0ea0bb90cc43c83dd76838b3f91a05c6",
+"dist/peerjs.min.js":"4789df49b204bea3db9549a28978380dfdfebd70ac6909f346a9982ab36cb280",
+"dist/peerjs.min.js.map":"3948117c3f7e43afc8f80f582a87c70a4978152db244296d3780e65bc1ba1d74",
+"dist/serializer.cbor.mjs":"a8ea98465be1a2958d7acb13090d678f823b7fe39cb129291a25f2735a800f62",
+"dist/serializer.cbor.mjs.map":"cf643eb697882211dc5c32aca15ffe72b019c4e4462935818b637b6c821435d4",
+"dist/serializer.msgpack.mjs":"11f387eb6a9e35bb31bc6add45535d4c8248104c3ba73f1c07ad9a08a6522b74",
+"dist/serializer.msgpack.mjs.map":"44ad80639cda4b86873f0409bf5fae44f33730a6ef77c150061efe3f02311b47",
+"dist/types.d.ts.map":"d8c587efa141f7de48930652d7135e32790e26fcfde4651542709883c7c67a88"
+}

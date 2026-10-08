@@ -1,0 +1,15 @@
+{
+"dist/keen-slider.css":"d581612d4a97421efc2f09d6ebcd8e18ea045f4c1b8d310e9c3e2f25cca6b83f",
+"dist/keen-slider.css.map":"cbba0fa65c15271d041197021edc3e3fd294d672e8e9088dd4393fd22a2a7607",
+"dist/keen-slider.esm.js":"78038c0a0783a757b1d8544f24607abe9d3e258c0f669e4bdc255e926141b04d",
+"dist/keen-slider.esm.js.map":"a144418d009dbc66946baddb884b4d2943056fe768f0068f0bb627dc5e566643",
+"dist/keen-slider.min.css":"79d52d3996c34e98123e33461a91bcbb839f5871c4d1d32bad559af676c2b2c6",
+"dist/keen-slider.min.css.map":"344f64f5bc5f10968772fa707fabb68fda715700ee88ca46a4396ef962770b81",
+"dist/keen-slider.min.js":"29667e17f79f34569437d0a35be7e0bceb886196ae9874d5b4b73714a715d282",
+"dist/keen-slider.min.js.map":"1cd1ae7ecc81ff0030c6ab305bc1f0116c0d50c3f3a5e5e8c078043d7b6b7071",
+"pages/index.js":"49ba6c7dd1182872792ab1468e36c6d4752d702bae5b8ffc972b5fe1777d77b6",
+"rollup.config.js":"311ef87449f915e256fdaf267620f0c90025a873e36fdc9f7c6e8348f22d70fb",
+"src/keen-slider.js":"630f2c08738c06731a8242a26062da7b5b17aca2d912210ff9209b7eefd56a16",
+"webpack.config.js":"7f828a223085d4c7c463aea07996f9f543b7378dd04a3a7fa204f6f4df451a2a",
+"webpack.config.pages.js":"3eb494da9a8b5d67453113048b5af0c3736ac8043a2594f808c329137b3dd8b8"
+}

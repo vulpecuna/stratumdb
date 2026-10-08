@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"110d0b388cf42623ef22d0289919c36c386028b16c8b0f490e7850cfcaeee0b2",
+"demos/css/bootstrap.min.css":"29a15ce48cec440f2745da88f96e6e59174cab6127d9f26e981bda384b8676a0",
+"demos/css/docs.css":"31b16959046592caff37eecfec569e1d10491d9713e51f13ab23a96a97af1e4d",
+"demos/js/bootstrap.min.js":"6d0c489d9ab712d6670a54b4e665a39072926d309b001e179ccd721102b558df",
+"demos/js/docs.js":"8b002fbcc20b02aad8c96b1e40ac41ea81893a90ba69509ee4def0d7046ea487",
+"demos/js/jquery.min.js":"91222f96f34735ebc88df208017e54d4329b9202e3e52367fb8b149698a1a5ef",
+"dist/cropper.css":"a198e43d0cbd71748ea995298d921424dcf3cce139dbfd8ab8c058eb7a9ad6f6",
+"dist/cropper.js":"dbb53b05f2e841d9ade050f2d12f720ab8b5b59901ceb9b711a2c623adb2d245",
+"dist/cropper.min.css":"ef19d63ec2919ec727b9cf166b9dd7db4c43199ceb8ee16aab327d819a327e1c",
+"dist/cropper.min.js":"02349ab2e30a1a85e8f282c7ec326f0dc4bcd907af27ff771f5b5a60a17e0255",
+"examples/crop-avatar/css/crop-avatar.css":"6de4b1ecb92755aa7590913d1a95aaa2b4f4fc233bd216fe7356faabbbe9353c",
+"examples/crop-avatar/js/crop-avatar.js":"2ba2f9c53d761886737f1e3d28d283a3a442612197450b0f6c3e047ac73b1d3a",
+"src/cropper.css":"c4b7777386a14dc977de8372f67e742f632db73cb71551fa15e4b36c01a0e3d4",
+"src/cropper.js":"f427c2fcfcc47bae0693b75dab6a9f70514d8b5004228ec27a8e2a42afa8914c"
+}

@@ -1,0 +1,9 @@
+{
+"dist/bin/peerjs.js":"5628734ff2194469cfcee4d97f043252f9432cb5662bc6a2f956d734b359057c",
+"dist/bin/peerjs.js.map":"58779d618562ef3ce3cbe992debfb20710dbb4d78c99a2810987499a38e324ff",
+"dist/index.cjs":"a2465a24f1137bdce80c85925ef9ac10dcaf1bac072e394bc8c56fe8aaa29d47",
+"dist/index.cjs.map":"6d874450eba6e7c80badc939c7956cbcf3c9f344c36e74b2a95007b9d38f5268",
+"dist/module.mjs":"5480fc16fa1d61e4835c56df593b244507b7f4498c6a076c3f0ef86b242e2715",
+"dist/module.mjs.map":"dc5c965a38f920d03cb8c28baadeb64ab7c92db3d27bcf9951c86200743de7ca",
+"dist/peer.d.ts.map":"77a58e0e6349e4ccba360aa274fb75520e26688cfdeb5ac78dac76f18bc65a2a"
+}

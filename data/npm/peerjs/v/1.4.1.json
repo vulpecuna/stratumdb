@@ -1,0 +1,9 @@
+{
+"dist/bundler.cjs":"d937ded70da357d11f28736201a9cb5e0f54ca110f721d8ea9c7aa01effcf07b",
+"dist/bundler.cjs.map":"a3b5fd320b4b0a8b9ba78ddf61673b1d0756b638f0f5be8774420eaf830d489a",
+"dist/peerjs.cjs":"174b4dd12ccb725e941a10d596b8a7dbf92396474a0572a9796b0543df2e4ea9",
+"dist/peerjs.cjs.map":"6082a02f0e6b2217b03af9076f640db3300f695c665077175790e8672aea371d",
+"dist/peerjs.min.cjs":"4c8f4afe017e9a0e0de47a508a3849a9711be71d3c75520eea92bba3ba7ed616",
+"dist/peerjs.min.cjs.map":"60bcb8ac951c1770fc29af4430a7f45fee3bc6cde27348459afb4bc6d30f8811",
+"dist/types.d.ts.map":"acc6af34580a53df1eb3dda4b50dc695f7122d5be7fae3a659adaed489f5c4e4"
+}

@@ -1,0 +1,13 @@
+{
+"dist/bundler.cjs":"5e579484092e54c69bb692f77d955d0e5c4a8609b57d2256f48bcbbba5d7692f",
+"dist/bundler.cjs.map":"087a0d3722b4b0a6a04ac3fc4782028d1108a37c76e45b9ccca8200992ad7c3d",
+"dist/bundler.mjs":"63edbaa549b02050c2f488ffc05880483e26fb86852e71c97f7bb1b92c127974",
+"dist/bundler.mjs.map":"7db600a6bdec02b4087f71039d77bfc027a07039f1791cf394e7bba9fb55d24b",
+"dist/peerjs.cjs":"652a71c02421b8d4b195d55d4bf73d9f4c4cbc353cce4e67e404ee3d6a3dccdd",
+"dist/peerjs.cjs.map":"17afab43b66537e95f37573a6acbb0a25de0b003787401046969c069b7652b0f",
+"dist/peerjs.js":"652a71c02421b8d4b195d55d4bf73d9f4c4cbc353cce4e67e404ee3d6a3dccdd",
+"dist/peerjs.min.cjs":"96d76921cd02426e1a36446688a97c846adf830c515898cb8bf3167cf45f3c3c",
+"dist/peerjs.min.cjs.map":"4402dac2b924776c4ce3d66b71e59c8fd207d855c8c513cdf493de654b5a989d",
+"dist/peerjs.min.js":"96d76921cd02426e1a36446688a97c846adf830c515898cb8bf3167cf45f3c3c",
+"dist/types.d.ts.map":"ec9ab82115887c8873cefa495dc4ddd485a914c44ebabd441146d5b148259d41"
+}

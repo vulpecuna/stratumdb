@@ -3,8 +3,8 @@
  "tags": {
   "backport": "19.0.8",
   "beta": "19.0.0-beta-26f2496093-20240514",
-  "canary": "19.3.0-canary-17eca7b0-20261006",
-  "experimental": "0.0.0-experimental-17eca7b0-20261006",
+  "canary": "19.3.0-canary-d75b0697-20261006",
+  "experimental": "0.0.0-experimental-d75b0697-20261006",
   "latest": "19.3.0",
   "next": "19.3.0-canary-d5736f09-20260507",
   "rc": "19.0.0-rc.1"
@@ -1283,6 +1283,7 @@
   "0.0.0-experimental-d7215b49-20251013",
   "0.0.0-experimental-d7382b6c4",
   "0.0.0-experimental-d75105fa9",
+  "0.0.0-experimental-d75b0697-20261006",
   "0.0.0-experimental-d763f313-20251210",
   "0.0.0-experimental-d7a98a5e9-20230517",
   "0.0.0-experimental-d7dce572c",
@@ -2933,6 +2934,7 @@
   "19.3.0-canary-d5736f09-20260507",
   "19.3.0-canary-d6cae440-20260106",
   "19.3.0-canary-d7215b49-20251013",
+  "19.3.0-canary-d75b0697-20261006",
   "19.3.0-canary-d763f313-20251210",
   "19.3.0-canary-d9158919-20260615",
   "19.3.0-canary-d9f4e76b-20260903",

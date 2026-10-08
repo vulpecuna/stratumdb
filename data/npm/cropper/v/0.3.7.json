@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"2801c7a738d97826864d5dd86e1408aab995274e1601ee43e999b43c82219499",
+"dist/cropper.css":"cf7f12c4faddeff25d8277351f47984f0191bf64dda14aa28e716359b655f6e0",
+"dist/cropper.js":"04ce75ea43d0476f9665fb71b3f2068b13fabd0045211ffe51e0d09b55564637",
+"dist/cropper.min.css":"676c6139134ccb5ae252acb77324150a4d65f4092d7d284beb62db534026528f",
+"dist/cropper.min.js":"f55eb151ee4819510c1c930ab61558ef397d0baa0f3741ebfc653289752eb425",
+"examples/crop-avatar/css/crop-avatar.css":"c7de20a1cfff0a8b4946e96653e5fd1f45ab04d0ffd6a9ad33bbc31a146fec48",
+"examples/crop-avatar/js/crop-avatar.js":"f80de104a1590115baa62366085d0261f1decd0aa60148ffa21836b8bba72335",
+"src/cropper.css":"603c313e19b2c1526ad733e68cc9456721295f0a5bc921cc6e4bda8a56493632",
+"src/cropper.js":"398028edcea2c403275fd6aa034ffc0187600220675acf75d5e99c5c398b0c46"
+}

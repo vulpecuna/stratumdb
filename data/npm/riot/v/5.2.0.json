@@ -1,0 +1,12 @@
+{
+"riot+compiler.js":"e8e765f5a759e2d32943f5b65393be31e1702c9aaabcd91d7b90aa0f0fcfaf8c",
+"riot+compiler.min.js":"e96454d0e17e4a765362f5f885da6f6f3a60259c92f895cc17df5ef2f3d6c1d0",
+"riot.esm.js":"f0a59767af391eabd09efed3ad60e578038c4ac22aadc17b5b5757f71922fea1",
+"riot.js":"1a7e8fba19ecfc15e7689a8a595cc04f426032624f0c887e48e17cc8e29efe88",
+"riot.min.js":"0e1b442deb920bfef9f96be7a0340852afebbb8f51baf250fd6bd0affc192292",
+"src/core/component.js":"6d5a1ef88a96a35cff6c1261a9f84788f3d45c42072a8e94e3c269ac7e8ba184",
+"src/core/css-manager.js":"eb0362049fb9ff85f1ccdd6e83ee04221cffca5454226bf72546c5a93616640f",
+"src/riot+compiler.js":"c0bd7dd28b9bd3f5f58fd51b42dee5032ae9bb63d6a01045c06bb9db10498761",
+"src/riot.js":"7fa02b8241db9cf03360236d8c4a3f540cea7c1c1384c35f288bc537e6bdaefb",
+"src/utils/dom.js":"ec4ef85c6240c7dbf4fd35b238ac1e63699d551f56e179331ad0cc8543dc9152"
+}

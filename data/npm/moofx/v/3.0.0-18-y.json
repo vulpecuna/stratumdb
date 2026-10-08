@@ -1,0 +1,12 @@
+{
+"adapters/ender.js":"ce1ea63fa8175d0a0fefd824e3eec6136b5d4f9a2a8ef7521ed151c3746b210d",
+"adapters/mootools.js":"ab29b9e56a3e7b1f4407e8b14f24f90e8d292bb22ebc39a60721c6d2fd569880",
+"moofx-min.js":"83e3817e72166bf7ca27b611e834eeaeb769195ccbcca53da36c66ff570f2561",
+"moofx.js":"2a15c390c2b7684f97f9f938fab3fcaec86c4d908030dc155015fd8a49cea2a5",
+"test/jasmine/jasmine-html.js":"348e5222628d91208c21910119bf09b2be0f5926a1700c27cad26b3d904209db",
+"test/jasmine/jasmine.css":"7a51a5b96e3061d513602f12e93dbd02851a49110fac17df7562d3eb447aba84",
+"test/jasmine/jasmine.js":"131e4559f9140abc301269420e1462094c368cf8a0aac490f63f087944a22d42",
+"test/src/frame.js":"565edfbf35d0fb250d61f37c827111ecdf91a7b29a15d5fdfbc2acca19e3bbde",
+"test/src/getters.js":"34a7fe8ac2c191d12efd9b2265f9ef9d2415a8c2835d7196688e34f5e3c09aa0",
+"test/src/parsers.js":"539596e58c62bf359cda4adcb63b3fe3720f8762d1194e8cdff894c5cc43a516"
+}

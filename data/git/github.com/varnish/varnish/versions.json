@@ -1,0 +1,15 @@
+{
+ "source": "git",
+ "versions": [
+  "varnish-6.0.17",
+  "varnish-6.0.18",
+  "varnish-8.0.1",
+  "varnish-8.0.2",
+  "varnish-9.0.0",
+  "varnish-9.0.1",
+  "varnish-9.0.2",
+  "varnish-9.0.3",
+  "varnish-9.0.4",
+  "varnish-9.1.0"
+ ]
+}

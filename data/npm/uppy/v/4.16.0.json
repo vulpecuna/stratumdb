@@ -1,0 +1,15 @@
+{
+"bundle.mjs":"ed9494678bb15e5f8aa0d4d916762f8524f811a9028016847c7996b4f48e7eea",
+"dist/uppy.css":"0c61116f7e4b48ae603f50364b58400d765a47873a30c9b19fb0cba736e6fa78",
+"dist/uppy.min.css":"96f730c5eef51e10242f256097270e1e35181d5bb7dc961e0f89270939526da4",
+"dist/uppy.min.js":"e7f5a50a40bf9b20d718dcdbbddcd26cbf031a7260fb827fbad9da6cec1e31e8",
+"dist/uppy.min.js.map":"aa96d7edd4c53b2f638a1fe71665db5a2bbe611697d7989f5cf4ce4eaab53412",
+"dist/uppy.min.mjs":"063ef4b9a2d3179b47fd37fdc195adaffbd03d4f91b93516e90b63b291ad737e",
+"dist/uppy.min.mjs.map":"570c6f0d18c1d32ed449251e2558732a09528d75cbd55e312c81b0d45b458b23",
+"lib/bundle.d.ts.map":"db5882ed30869bcf3005df5470201d58f8ad547c68aff4be2c2ead86b27b6be8",
+"lib/bundle.js":"68a3b2f06b6661b6bce55dcc54a2d1c57b57f972a3d5bbc51cfc08b0592d7cb2",
+"lib/bundle.js.map":"1a502b446bd186c0da027bc9e8d06ec8272c38fb42d89d4d0f7ca023f1e2f4f7",
+"lib/index.d.ts.map":"9da6def4b8585c8fe0936f76c6ab8db0006cca6429ef2b28501a715d69588f2d",
+"lib/index.js":"6830d4e77d05d3d582971d0cbdc06917e248dced2a683ab3d9418cf11e9c8d9b",
+"lib/index.js.map":"20782a790d889c81751f2f04d14beb80ea42887ff92cb8cb78ff2aac3aceb8fd"
+}

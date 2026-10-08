@@ -1,0 +1,11 @@
+{
+"bin/vite.js":"07d7fb6fdc6b9632cdcf4028fb30dfea38b6b88f8703dc150839916a9443c3da",
+"dist/client/client.js":"7cac518a0d7b749b7d9a63478a043d83374eee0a79d090047993872fbad177ba",
+"dist/server/index.js":"aa634c21d8a66f99d2026820ed5e409373f66d6f53324106dc38901495953fe3",
+"dist/server/plugins/hmr.js":"038e8eef153b5ff61bcd98f97efffafc44df89ac9fac579432aa74312db51e90",
+"dist/server/plugins/modules.js":"763c2ba226fa3d53dd37639889578a308efb30a353b45ebd7005066d415330e5",
+"dist/server/plugins/serve.js":"9364a74242bf56d24c840f4508c0a89335c4a36ae5eee1ec18abe7e8939bddcd",
+"dist/server/plugins/vue.js":"bf71af16b7b969001f541d22cb43b165a88f3a4d385d6a2b633033a0c76cdd24",
+"dist/server/resolveVue.js":"b9dc588060de7cdf10d50f12968a2c2d0478db5ebb928969a3ad2ac6907fee44",
+"dist/server/utils.js":"85827347bed1cf02ba026597ebe95e632fb640150ca2e240465725a56ede1c6d"
+}

@@ -1,0 +1,10 @@
+{
+"karma.conf.js":"e0384c04218d42d6febc4764e6a3333e26331a7f41411e0864479cf7b11b28da",
+"preact.js":"29d39ab5523ec09a3caacc51934c1cf8058d6d23b19e151bc4f39d0be8584a4d",
+"preact.js.map":"8827cd3d3dd6b363ebf8b8b96eae9a0d343a76b8cf97fe9a3beca315503bc645",
+"src/preact.js":"ce52d29c2ee7b5c72f16f138697c49688c1edc83320032c5645e9f58d6789269",
+"test/browser/render.js":"6cad42ab0f9d2c36e9c22bf9ee010b8bcb469c754bf19d21134e5fa5dd274a2a",
+"test/node/index.js":"ea56e5e81eb76b3873c1812af85ed907f63c33c034b312889446dc1d6661cd13",
+"test/shared/exports.js":"8043f951298a55f3edbe5d15833fbb2770d4a69a3ee9f96fb79846c1532355a1",
+"test/shared/h.js":"baace94e020bb9dca412f3eae23a549e2d235aab449671cb4015980acdaef244"
+}

@@ -1,0 +1,12 @@
+{
+"dist/esnext/index.js":"d226b3708ffca529f4941b71dbf560d037c51b1fd9d909755bcd89389122876a",
+"dist/esnext/index.js.map":"8527ece9fcefb5d90f004ab9b7948c30f1043a14f18d2145ab2947ae53128a27",
+"dist/esnext/quick-start.js":"dcd15818eae3317c36a67281962f9df5974c3708142a31d5dbafab87b31ded31",
+"dist/esnext/quick-start.js.map":"20134da600dfaf1a919174a7e5d8b2ba6c42ca579afa5dbe1e09a3be9f51da6e",
+"dist/index.d.ts.map":"09d7bffcedc4bc317224ddd234f0aa4ad20e758c05b31a9e4686c8d5ca05bf6a",
+"dist/quick-start.d.ts.map":"695121d4cd0fa73602702288c5ada8d10bd738c54fb5e80a2826f94f8bf66eb7",
+"dist/umd/index.js":"665bfe05de472061a8d59947bff463c7d1ecb422359442dff7b08bcf3bde6224",
+"dist/umd/index.js.map":"2ff0c7991eb044d615f09cf38530845756ea57102697b338088b7f9c0f9ac4a4",
+"dist/umd/quick-start.js":"4d318fcc7246864c829bde587d89f54b642f10eef50c7ab6c9b3573862a93f21",
+"dist/umd/quick-start.js.map":"c09b56abe392541776c4da161d4841424ab1b722f10b1e6e88fb018a98e51bee"
+}

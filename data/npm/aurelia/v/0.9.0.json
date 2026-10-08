@@ -1,0 +1,9 @@
+{
+"dist/cjs/index.js":"09631d0d94d68247e28b526933b274d55ea9c0ed4cad73e92739c9eefe860c6f",
+"dist/cjs/index.js.map":"979c6bac62577adbdb5c70d838c0098b328ccb10da4752e57643ade0e6031969",
+"dist/esm/index.js":"d8314e4e4e842d271e0741073f73edc8d79a8f8f2505b918541bddc4eebbc293",
+"dist/esm/index.js.map":"b2528d65e28c9d5b72332bfb76b8c6045daf8270b49e2e0d287881634e7f3952",
+"dist/index.d.ts.map":"8ec8252ae72707141318cf5b524d084a422e1c754e8dd9e6af16b70536f34c93",
+"dist/native-modules/index.js":"f886b382cdf33cd47cfb04c7f6d7afb4f3c0479d125bd7d9de9bd7354053f972",
+"dist/native-modules/index.js.map":"b2528d65e28c9d5b72332bfb76b8c6045daf8270b49e2e0d287881634e7f3952"
+}

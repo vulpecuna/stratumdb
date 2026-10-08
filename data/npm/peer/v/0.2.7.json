@@ -1,0 +1,6 @@
+{
+"extensions/memcached/server.js":"3f49ef17d16a3c3cb933b54b54c08d95fcb9efba359f0f702c87a96e319f4da2",
+"lib/server.js":"a858a75654f97459923530c6968a7e5fc40162d6a545967b2e9abc806361f0a2",
+"lib/util.js":"821ce6539e6e8f96db12d878f23d4f78180d3c85a8cfe9bd7c48389f56eea29c",
+"test/server.js":"41a9ce648869dd31ceb86d1a1045497db71f780fb438f0592508eb94697d7a9a"
+}

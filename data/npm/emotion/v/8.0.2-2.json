@@ -1,0 +1,15 @@
+{
+"babel.js":"d35dc858cc7ad4c2ddb34c802105eff670bbccbd1757066738ebaced573b427a",
+"dist/DO-NOT-USE.min.js":"4c2c19a00ffc48ba778fc56577f9a9b0c2e96d95328eeeb3f18780b30533b9e9",
+"dist/DO-NOT-USE.min.js.map":"594be662eba840d6fdc8618b7a8723f86142cfaf9fd240570ea13fb4d2d3dbbe",
+"dist/index.cjs.js":"a374070bfbdae9dacabd7e00bdf910578435505bab99a5a9d948a8d3a0599d96",
+"dist/index.cjs.js.map":"70ebf1b4934bce52c1de41a369edea20e69979acb3af893d809ac3c1ebe8b677",
+"dist/index.es.js":"3c2d8a2ae86f447d93c2b17f2e0763f05de937ab3d987178dce5be6343a22c1b",
+"dist/index.es.js.map":"360753662fe06b7c79ed6d4e0d6dcb6a5514524cf309a7a497daa0cc0e07ec9a",
+"macro.js":"e721cbfb94824c3ff514f7440081dfbcdd0ad70f9c384f791fe90e603e4f0d7c",
+"react/index.js":"ecd0fbec617aa0c4033177fb748d8586c8f9f1fd4565f31d9585d6c2497f2d4b",
+"react/macro.js":"47bcb06ca3948a9e2008a881071bab7b77a42c5b28fb620bd0f7878ada02d4ce",
+"server.js":"bd6defba69064d5732ba3ca9c1fd24b99ce411caab159f84accbc26e0b6bc336",
+"src/index.js":"ce9847e6f51664f4ab3d3f9fb4c8c1494436841ec722ee30e49aeaafe6067d16",
+"src/sheet.js":"fd4cae871157a07dc7689094c884a5df15601b23f09ed89c2145b04516d614ac"
+}

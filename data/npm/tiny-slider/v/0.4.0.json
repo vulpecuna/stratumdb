@@ -1,0 +1,15 @@
+{
+"demo/js/go-native.ie8.js":"eb2ce4997e7e73c2808eb8b643b3a29bbec14ff05262cd7ef7df65f325d22818",
+"demo/js/go-native.js":"0fed7de54d389140c7f0f7e31609d2b628bc9e69edf990407781880ef8474877",
+"demo/prism/prism.css":"19975cefc6e7606146dd6f23970c35785cef03bb43d5bc35dc222e22cd7254a7",
+"demo/prism/prism.js":"bd56ea7865e2018a868dd8579d6df913e1db9f934712c8a3db1f6b51ebc640b1",
+"dist/min/tiny-slider.ie8.js":"aff34cb298b1e6b701b902243cf36ef9c15b423f2d7a73e0a96300c0a1fccce1",
+"dist/min/tiny-slider.js":"d1e0584b430d0864e3d7551d654f85762c5cdf8e4704b668a43919ad7d33c411",
+"dist/min/tiny-slider.native.js":"6c060b1db57ded96b5ffd1779785c873da90a44c3144d86558d4f34ee22f3b40",
+"dist/tiny-slider.css":"0465af6c14075020078d3502c3e22d5799274801cbe69e653fcd4cd07da61e32",
+"dist/tiny-slider.ie8.js":"79faa4a8d49025b22de604fd49dc1fb2875993fff38781f3bdb12d5f1c97b9fe",
+"dist/tiny-slider.js":"384005b474b88b3b9d099bde82b7d2bd7fba49fa16ef4972e921df192dd38756",
+"dist/tiny-slider.native.js":"49ee728a41198c93cc20abf36ab9016f815891b549e82b32f95d1b0b4e111daa",
+"gulpfile.js":"85f6574f653210a36b94372590b8f03e99d7f9c2f52be8cd807d602f5866cad0",
+"src/tiny-slider.native.js":"49ee728a41198c93cc20abf36ab9016f815891b549e82b32f95d1b0b4e111daa"
+}
