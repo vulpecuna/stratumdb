@@ -4,7 +4,7 @@
   "alpha": "4.0.0-alpha.7",
   "alpha-rc": "2.0.0-alpha7-labelgrid",
   "beta": "4.0.0-beta.8",
-  "latest": "3.0.3",
+  "latest": "4.0.0",
   "legacy": "1.2.2",
   "rc": "2.0.0-alpha10-rc2"
  },
@@ -144,6 +144,7 @@
   "4.0.0-beta.5",
   "4.0.0-beta.6",
   "4.0.0-beta.7",
-  "4.0.0-beta.8"
+  "4.0.0-beta.8",
+  "4.0.0"
  ]
 }
