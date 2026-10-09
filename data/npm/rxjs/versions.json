@@ -3,7 +3,7 @@
  "tags": {
   "forward-compat": "5.6.0-forward-compat.5",
   "latest": "7.8.2",
-  "next": "9.0.0-beta.0"
+  "next": "9.0.0-beta.1"
  },
  "versions": [
   "5.0.0-alpha.10",
@@ -172,6 +172,7 @@
   "8.0.0-alpha.12",
   "8.0.0-alpha.13",
   "8.0.0-alpha.14",
-  "9.0.0-beta.0"
+  "9.0.0-beta.0",
+  "9.0.0-beta.1"
  ]
 }
