@@ -3,6 +3,7 @@
  "cdnjs ClientJS 0.2.1": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ClientJS/0.2.1/client.base.min.js.map",
  "cdnjs ace 1.35.0": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ace/1.35.0/snippets/scrypt.js",
  "cdnjs ace 1.35.4": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/ace/1.35.4/mode-slim.js",
+ "cdnjs devextreme 25.1.6-build-25261-1935": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/devextreme/25.1.6-build-25261-1935/css/dx.darkviolet.compact.min.css",
  "cdnjs moment.js 2.29.2": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.2/moment-with-locales.js",
  "npm devextreme 16.2.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@16.2.1?structure=flat",
  "npm devextreme 16.2.1-16286": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@16.2.1-16286?structure=flat",

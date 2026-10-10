@@ -1,0 +1,15 @@
+{
+"excanvas.min.js":"f98cb332c803a746862b762c94e95379b2407d1a87af8c69299590a4e9473781",
+"jquery.colorhelpers.min.js":"8d46e2ab166064df24237c9d7e09313c575a945c0d78dc90d481efbdc4423c0c",
+"jquery.flot.crosshair.min.js":"db73845947dec27380b35806dd827ccb7ea9b5769374dba95cbcb1591783e588",
+"jquery.flot.fillbetween.min.js":"6a3a8a914948d5f57e2ca99eefe671f52c7f5faf522803e83a3217993f8c7c8c",
+"jquery.flot.image.min.js":"2ff3bb385a94f2b61d22fe560b40e2c6f893085b917e76f69420d8507c68d11e",
+"jquery.flot.min.js":"26775b8dae8ecf7c3a55f1306dd2b805655c9e37e2f64da4ee1985609660b764",
+"jquery.flot.navigate.min.js":"26ea7b9b29966ea01aa3d3b927d8a08aecf33948b0c656e5c2e44396f607e4f5",
+"jquery.flot.pie.min.js":"ca6e70260de6fc4cc8cb74f4845f3a33857c8407d68df8fdf3847e04a2854702",
+"jquery.flot.resize.min.js":"2d06b85ba46dc1088cb7b046a31220e9e50291b968642257264262ccab1ea73e",
+"jquery.flot.selection.min.js":"f16cc05775874089dd32728ef68eb1cce90ff000302ce7842677150135a714b8",
+"jquery.flot.stack.min.js":"44bb842afad3b300a0aa1f9ac0d32d1d6c700b586129fab932411dee09c6d0fe",
+"jquery.flot.symbol.min.js":"e22a55810838d80d785b5808b7ff68a3b459a960bbdc278f0a9c0a091a23d73f",
+"jquery.flot.threshold.min.js":"2f12f28d5da4c2c3141a2987628613f774d55085e06fec037da77a9eaa1d1965"
+}
