@@ -1,0 +1,17 @@
+{
+"dist/pickr.es5.min.js":"d0c3d3fbf5adfb9412b8068cc876bf65215878d1236b872d824b726cd6d8ddd6",
+"dist/pickr.es5.min.js.map":"8e4c5e18a9865b52b0cb45d9b1ed98b88dd6ceb3d6d649efefa071974cf991a0",
+"dist/pickr.min.css":"8ca96b0c19e53e00ab1ca4908dfd1bb96f1acf4381492aff5f2a26caadc95004",
+"dist/pickr.min.js":"5899443353b3a3d31fbdbe27caa02fb98477f3424e4a6f2f0812973b6a05627a",
+"dist/pickr.min.js.map":"6c043dc048eac0978d079399f7cdb20e384e51229c91dd81cc0246fd99646929",
+"gh-page/css/styles.css":"03bf6ff820991a059e9822fba9d150212f2ed5b9f5b48d04b0e3ee1a0eda088a",
+"gh-page/js/script.js":"b8731f7476c40dea8999ae0388e81aaff7cd3c99975e98c95c1e804cb88e5fe2",
+"scripts/build.js":"86547455d090b46206b1c14809c6b752f548f609e918928513970c6fbc4c0185",
+"src/js/helper/moveable.js":"446a10e111eb4eff53801235b7aa8415cac048561a66989410cd2c8c93c46133",
+"src/js/helper/selectable.js":"106817ecb9ecb141db60c19b5e84782a746c3c447a15e69465704622cb3cd080",
+"src/js/lib/color.js":"a8fa8c436c53ef47f3fa63082f6c3b36d3648ab902abe8e590ef9327d23b3ad2",
+"src/js/lib/hsvacolor.js":"04ddee6aa1e03d2adabf3ec0bfb7bc1086f34a501459cd9ceabf293569628f2f",
+"src/js/lib/utils.js":"55f6ba164f2ead13e8d3c1be090159dc96360fd89d832c33f644e10d8ae8bbbc",
+"src/js/pickr.js":"34ec9895349b0c3ce07964e5795eace413af7bc39c57d44e864d41e3bb3212a2",
+"webpack.config.js":"fb11645fb4ebcacd9abd5951422e8c2c57d0726e933cb999abe742a45cfa782e"
+}

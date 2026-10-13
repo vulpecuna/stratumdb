@@ -1,0 +1,12 @@
+{
+"dist/index.es.js":"b9355fff2cf787237ae25d2e20c5b22c7fd47c8ffd08049adf2ecc31448c3f19",
+"dist/index.js":"40281e69acdc75950ab2bfcac084d54b6ce3b4673e23a59f6fbe3ffb17caf173",
+"dist/index.m.js":"e179518f425e56fafe6eb827e1c6872a5b18c474b13f0c0c6926a6ba431ab67d",
+"dist/vue.es.js":"186fd89751acdd7ee2eceb1528e7dc4b3fe7d11a148a05425e14dc3badae94d2",
+"dist/vue.js":"daa000afc6aee2e5bb620466269ed0af707827c280d512d337304e9744ec12fc",
+"dist/vue.m.js":"8a2b58a0f565a613eb180fcbd1f74acf0670adecf98a8f1752cfcaea38b5b2f8",
+"src/js/Route.js":"7f423532582dc04df4d14c5ee1e0f30192e16e619cff5d6505b7bb17b36ae443",
+"src/js/Router.js":"face6de0ccd50f2f15b9eb6985b1e65ec80b9bfb526d4428136af4378d15bd94",
+"src/js/index.js":"9aa3758846e195134d32e69fbc087bfb1da43fa7298c0c3e811fbb80f4b5916b",
+"src/js/vue.js":"9e69ead1694898d1aee94df6b8104f6339ad3553e459c89a375553864a0d7ddc"
+}

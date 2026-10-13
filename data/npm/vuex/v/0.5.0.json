@@ -1,0 +1,10 @@
+{
+"dist/vuex.js":"a93d2c07b2f58155b6414a27e07a9d8d7eeab1f9d0ee10c2aa0c0669a6dacbcc",
+"dist/vuex.min.js":"9ab3cbbba9eee63bf28f260880e5de08700207e39a31b625e06125802fb6b3ec",
+"logger.js":"e50a00ec775347ec18ef157a3e8bdc2709dcf45390ee590f2fcfd2e70b5fa359",
+"src/index.js":"32362e4f58c46909f32c2cfc20d2641e61c834bac7b4a6e02fdd54744bdafefb",
+"src/middlewares/devtool.js":"6a59d291967b3d72cf11d9f2f7c56f6c7bc873ea510c6b5c058a18b2fbac60f3",
+"src/middlewares/logger.js":"f1800982e3120235967905a9437afd66b092337494112a87d3453b261379487f",
+"src/override.js":"aa5b86e78f3f92859826dc951b7e3ef2bf272f7756f22d79d5fc02ca86caf8df",
+"src/util.js":"156cc2786f64707348a05c2626ffc8877f5ac72d8302cb53fa3a10ce32e5da74"
+}

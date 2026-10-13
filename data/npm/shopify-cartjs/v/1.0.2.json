@@ -1,0 +1,16 @@
+{
+"dist/cart.js":"2465cbffd41c4ea0368d4c1c3fa078a32bdcef210e3c6bebd44a68194eb81e1f",
+"dist/cart.min.js":"e35f1d60e9fe8cc36b7f0fd5d0cf107be3a544e504dbeb68f0989d0db979e3c7",
+"dist/rivets-cart.js":"9122e8da6f01bcd6607aeac9e5b73983d9d9508354b4e39cab950fa799fda664",
+"dist/rivets-cart.min.js":"ee812d407e58f038479040afce5264f439d02a12148d6ec952a2a0db2a68c6b2",
+"docs/theme/assets/bootstrap.min.js":"24cc29533598f962823c4229bc280487646a27a42a95257c31de1b9b18f3710f",
+"docs/theme/assets/cartjs.min.css":"3652cc7a27bf3c3051fa12b839ca138e5e982fd72bd51f6e90ec599ab39124c7",
+"docs/theme/assets/rivets-cart-compatibility.min.js":"efc1a6e9674b4e51c3f3edd24b638c28003c605ab9a266ad87835ffe37fe3f55",
+"docs/theme/assets/rivets-cart.js":"964d5bb17cf510edc22032e1ce59f4ca19b8ba2a70c2c7e4a66773277f8403aa",
+"docs/theme/assets/rivets-cart.min.js":"ee812d407e58f038479040afce5264f439d02a12148d6ec952a2a0db2a68c6b2",
+"docs/theme/assets/shopify.i18n.min.js":"7c7004b430b5b405322bbe74be07b6118c179449872fae2d7d6615e03bc7ff6b",
+"spec/cartjs/formatters.js":"b81763816526d7df20d00cb145dc9e9ac1911d647464cb33abdeb6e4e41e0959",
+"spec/fixtures/carts.js":"ff541d997cee2fc7fa093299b725b9d4dbbce5fe5158105684716606fc76696e",
+"spec/shopify/currencies.js":"0ec086ba75efc26c6b36a0cc8e698f7fa272be0d91b6e0d35c997b92455c5e77",
+"spec/shopify/option_selection.js":"33080efaf573e36e59690767c958edcd4725188557734e082aa8f8dcd443c5c2"
+}

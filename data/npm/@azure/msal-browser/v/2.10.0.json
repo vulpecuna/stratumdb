@@ -1,0 +1,9 @@
+{
+"dist/index.es.js":"20f7fca22821d61135a5942bdf2afc88c134c5446315209c779df51863cad26d",
+"dist/index.es.js.map":"f7fba20286fa2b0a6c477f4ade66d84dc502a33b87358973ed4045befa34f984",
+"dist/index.js":"ab7ddbae7c766f3bddd2b7bc75387c6059ccba6b2558589738436b4b17b3e390",
+"dist/index.js.map":"4dd2ae4c384dd6eb86e84ba41d1ee244102393435b16318c5da97ab05f8ce0e7",
+"lib/msal-browser.js":"648e207de7937d572dbbf5b6d7981a524f29f1ef9b6ed36c01d8469be0701f34",
+"lib/msal-browser.js.map":"bfec384d9428b9dc04f16904f0432549308f25c10aa1fd7e294d9e7af0a38a50",
+"lib/msal-browser.min.js":"80d66e0beb0d8ca4f3cb6602424b7a4ffe659cc7ef6e5621f633d28da682d182"
+}

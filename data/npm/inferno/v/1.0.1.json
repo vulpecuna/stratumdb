@@ -1,0 +1,17 @@
+{
+"dist/inferno-compat.js":"f69d0ec6861b0ab0513bd6d4cccfdba15997c34ff8399fb2caea2113f45bab6b",
+"dist/inferno-component.js":"e6a8fb990a0698f411c44a8b367280fc0443203c58d514513f2b10190c3be993",
+"dist/inferno-create-class.js":"3d136ac295d82cb75307186585e2c4392431af68cbe4188f65fc3be39b43ec16",
+"dist/inferno-create-element.js":"be15d5f220c73ad1c1cdfaf532638d85afc219feb0f6ada4fc7a6b16606c21d6",
+"dist/inferno-devtools.js":"8811f4d08237f5ca076492bc1e7d6ac8f13ede3ed0d781c87e7d74adccfe81f8",
+"dist/inferno-hyperscript.js":"04255f51ca45a31f9ccc1781768811c43d160eba0eb76fa05954ae37db73027a",
+"dist/inferno-mobx.js":"8c8a430af4d89e538248961d2e3f7a417a4fffa9f961e8a1f33b028d8049157f",
+"dist/inferno-redux.js":"28133f7805e481b272479dcc5f3df2b1d0274cec2d9a29a9e362adea0a24ed62",
+"dist/inferno-router.js":"d177c7910a57b94729a5be45a1dc43203264f1e20d71273f8d43de1d312eb54e",
+"dist/inferno-server.js":"38810d694527de96345381abf2b4b6c19fd55c4444652d37d8aff94c5c1121e2",
+"dist/inferno-test-utils.js":"0569cec08bc9d07c605861e0c5c87f7e93f52c02c4bf08d9aa823634ada3d54a",
+"dist/inferno-vnode-flags.js":"630c7f4869ac5cec382da44876d600e0ccaa6d4b3f0cc76fdca138c1045d97c5",
+"dist/inferno.js":"1f8eff54c49bda5c0b16b67a047083ca1c94c5c1a7ea27cdb6ca61f581351219",
+"inferno.js":"94757d7e08dc515c85930f77bba7801fe3370f329a30fb5b386df45635fe27c0",
+"src/index.js":"f2343467632acc1bc399d9b116faaf6c874cc5ac67fe34d6b9d2c13d850d887c"
+}

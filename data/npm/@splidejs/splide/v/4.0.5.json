@@ -1,0 +1,16 @@
+{
+"dist/css/splide-core.min.css":"f2049727040f23541feb3f5391225d23508f8a7bf29983fbc6c5c52890bcbd4b",
+"dist/css/splide.min.css":"e98acab7bbcc53d7b86f0b656e5012aa1bef12de3fd0911027fcf258e14a9da3",
+"dist/css/themes/splide-default.min.css":"e98acab7bbcc53d7b86f0b656e5012aa1bef12de3fd0911027fcf258e14a9da3",
+"dist/css/themes/splide-sea-green.min.css":"ccaafea0b83a55fbbb3470835675dbe221f539864ba77930d05ee1feba13339e",
+"dist/css/themes/splide-skyblue.min.css":"e4c870943fb8629942fa0999aff9ffb96ea0af96baf754c35793373b36bff1df",
+"dist/js/splide-renderer.min.js":"89532fbe9cb2651e7440d6dd2cea24bd698211e3be17f5704d1e37e24547dbe5",
+"dist/js/splide-renderer.min.js.map":"55299bd4fb38c13ff0e439c803271656a3c4583713d86aafa3c850106226fdd0",
+"dist/js/splide.cjs.js":"abe4b450dfae254dc47bd947875f81ee230b2d540bdb50e6c9ef6fbb01a9b113",
+"dist/js/splide.esm.js":"9f57fbf008ddacb7b75b73e5719c62446499664d68d98a2d47d229172aad717a",
+"dist/js/splide.js":"1e5feccc9fb66a36aad806b80cdfa54e1ffb67f11f078d56028b64ff10509cad",
+"dist/js/splide.min.js":"8981776bcf1d9ac89e7d2f5fb182457fbfbe6793858241d5c6e49e9729d9f91d",
+"dist/js/splide.min.js.map":"a76c614d18b603c05d590ffc81feb91d96af963dccf4f68cdb0b8c911b3544dc",
+"dist/js/utils/splide-utils.cjs.js":"e9807916ebeed98da5bd8072f85048f40be4cc835bdbf6530a1e918183eac692",
+"dist/js/utils/splide-utils.esm.js":"f9113359135bff06f5eee68bddef69d70cfd38ce643ce39ec63f23a370d91691"
+}

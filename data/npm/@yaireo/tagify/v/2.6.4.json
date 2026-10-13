@@ -1,0 +1,11 @@
+{
+"dist/jQuery.tagify.js":"c6e8606b33c71211a22f2541829a262ded5f9cef4d62226333dfd6e1264ffc60",
+"dist/jQuery.tagify.min.js":"91f79ad2ef90f998075775dd09b56ee07be2e9a9cbc691addb383c3f0e094b80",
+"dist/react.tagify.js":"ac50ac56115f9f1ca3dd4afe6c986438d90281d22e2eca70d79ebfeca9327ea3",
+"dist/tagify.css":"40faa5f185a3267b65be130b2371cb4b5200778f5edb28a67fa5fcfd734135b3",
+"dist/tagify.js":"cd96910b345fcbf41a055343057c1d9a8869271f8f14b190f8dd722ab90e7a5a",
+"dist/tagify.min.js":"1d4229615b391490a830384bff1075646543a808b57ca26011c25068b60a920b",
+"dist/tagify.polyfills.js":"4a86176b2cefe7d2abdb7bd209739519e921ade7d1b2b2a2480a46cab205aed0",
+"gulpfile.js":"5dd84c9fee2f671cb6d48febb7cbe84b4cffd03d19efa5a4f41993421ec78dd9",
+"src/tagify.js":"b09e2501f109f2b80c51aa27cf31b15b4f8915d1190ee3dce6a7fc3b6039dfad"
+}

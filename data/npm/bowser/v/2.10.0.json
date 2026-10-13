@@ -1,0 +1,12 @@
+{
+"bundled.js":"51487a8703c5ee45c06ca245a8be5f1d7f0a6565c45349a4759d2302e88b3e39",
+"es5.js":"f560f7104d2663728abc2e865575b9505dbf688a4d65c5c4b72ff91a59012fa2",
+"src/bowser.js":"2e203fed7dbdfc59f2b9220e9ff4f9048962ff71fdef70a89df19ce2ce6e69ae",
+"src/constants.js":"0b51f9e4726d1d0fdb1f7e440897d0f7ed7d39c34a3c2339beda7fd5124c72ca",
+"src/parser-browsers.js":"4a035fcbfa8c7901dfda0bf5d8d46169d626fc99113bf41b58ffdc7f10dc65df",
+"src/parser-engines.js":"77e92334e4e20d1aa1f3046d571b64df971951b88787184185241d275bec5800",
+"src/parser-os.js":"b747ac60e600aff7a61703bf9e7c1f71e7608041badeea9c4b25622cebc387d2",
+"src/parser-platforms.js":"f322414b4ef378847bcb9b7e80afb5b7ccdec18d2e3ead65bb9020a6e88fdfac",
+"src/parser.js":"db4e0f1301d3d4b5629a39b252aa67245cbdd06a481606e33731bbe80f5f4543",
+"src/utils.js":"7c60acdd26d2d7781b6b2459d2bfb30198d87c7c1ee8d98402520995348c1a24"
+}

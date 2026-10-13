@@ -1,0 +1,15 @@
+{
+"dist/css/basic/emojify.css":"c573fec724de41e90fbccfcd52bf8f7d28087fe2af843e61c5caebd5fea99716",
+"dist/css/basic/emojify.min.css":"50eaef30eb120d2ad6eaccd52def190d97b307187922821f813c1d3438138e25",
+"dist/css/data-uri/emojify-emoticons.css":"9b77a0ee1dceec1d9cec6f4130b7d445d592d17b7d8d96fe3c6f13250436e9b1",
+"dist/css/data-uri/emojify-emoticons.min.css":"d4f89f14f176c7b4fed99f3f70c5d653eb1b1078867d8a65a284f3e9d81d1a35",
+"dist/css/data-uri/emojify.css":"bf207bc0244f793946bb8b86c12d4a10af4adcf8721ee58b831914697dbe42ee",
+"dist/css/data-uri/emojify.min.css":"ec85aa4b2789fda810564879148c269648c19564fc7674d540f0879457a0ceb4",
+"dist/css/sprites/emojify-emoticons.css":"b6979fc90cdb6ff496701b2ba36ab2a2eba454e3b65addce596e22a76e4307ec",
+"dist/css/sprites/emojify-emoticons.min.css":"6ce34b773b956cfff44be4f631f2c377bed05536ec25580f4b0f13fb101f08f9",
+"dist/css/sprites/emojify.css":"d101bbecac36fb237d0a0ca5e299d6fd3e40a70229e2d6dff17f5ad8c56f30d7",
+"dist/css/sprites/emojify.min.css":"4715fe90f3aec174bced70d524123a45e2e136fe3e8fe69de00758a9640a1f7f",
+"dist/js/emojify.js":"c1f6bf9b64c67dbfe20d2f52e78063603a1eade4b681cd12aa32f518ce382333",
+"dist/js/emojify.min.js":"540079b4094a06f81ac70f2827572b58c55b76605597898fff633c30d465fb81",
+"gulpfile.js":"48738dc45f5407326cd391509fa3481dd7b7366eb9b542d5af38dc70a1e1ef49"
+}

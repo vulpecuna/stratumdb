@@ -1,0 +1,12 @@
+{
+"bin/cli.js":"3b29fa73402786c6447be3ee793c7bc4ab24ff8583252794b57dd8f91c70799f",
+"examples/basic_usage.js":"550ceb96e3370a466d7b1670c9032b2d86beffd60e022e88daafa65ba8223cd8",
+"examples/chained_operations.js":"2627d4372909ab1a0a9092b5ce2fac7475a473c030772b8ebf17b6abc9db2040",
+"examples/complex_numbers.js":"b1df7b2b9c79bf33561d07e16437b15a0dc4d61b1dbf6d8feb0609724857c1c0",
+"examples/expressions.js":"3406b40b05e11c7da4faaee7f606a8e25c8bdf50a3c986cef1d190d6f581d800",
+"examples/import.js":"04c431d1e7d6805df77ecee0807fe0603348cf87a6cfbc03ae3e4a115eb942ad",
+"examples/matrices.js":"9a37164a08f56bdc12ee4e1aff387a3b5eda170d0435f1da23f46602263a702f",
+"examples/units.js":"08186c9a7132613412a5c1b428cce2e87999e4cec54200c1fbb34f9ea08ba602",
+"math.js":"5798566f6dfcf4fb5986f06605105a027a2a2223771e21132bddd00121b956d7",
+"math.min.js":"ed7ecbafac93f81c4b7fa5775a3ccde05f813e6316b68387e020dc3590ed403b"
+}

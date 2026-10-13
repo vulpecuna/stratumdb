@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"f7568f6fb951432329a4b489efe08ad29e73bc627fa52365f9df45881e6991a9",
+"emojify.js":"0d9746eaaac492d54071fe49f91309926f3a38c65d5e221e24dee4e18af54639",
+"emojify.min.js":"f24581cca000262d4b0e3c39cb8fda46748278ccbf04f07834d7fe1a098a1117",
+"images/emoji/emojify.css":"7d0918fa7afbf0f3106f18d0f4ae3212bf79eb37fe6d9e771bd3885ae3ed1daf",
+"phantom.js":"4c1a2200c56b644c1e8b56c312892e13625fd288f9fb2d8f187a55547994d9b0",
+"tests/dom_spec.js":"608c0ee16d531a4ac00f77e6990ad66a7d3fd8888fa1c7eb4dc8c68cbfb445c3",
+"tests/runner.js":"31d3af1c3247871d70a0b04cb750b6d806b74e2324ac6cf345d87146828eb79d",
+"tests/string_spec.js":"7494c6f2b10e5e90dbc40d3c72f55c06bfcbdeb184d4be1ad27f0ad95535a99c"
+}

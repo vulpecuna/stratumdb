@@ -1,0 +1,12 @@
+{
+"lib/anime.cjs":"44d3f8996e2c4303feb622de7253cbae3b46bcf37e3f878abf4bb2172e612a8f",
+"lib/anime.esm.js":"b1d9b95ea85a35d3311f7d3342a3fdb63e16ba175f87634ed4adb3378c8ab01f",
+"lib/anime.esm.min.js":"0b6d17419a109847fbf583f9f2ec5036441eaac81379d9bd1a7e954074813c9b",
+"lib/anime.iife.js":"c7a5475844ea6519e27fc606000681a36835cd0543c3c212e45d3e9b84475062",
+"lib/anime.iife.min.js":"8b86ff7a44d0651f4005b576ff08a64c056d0ea90649833a838b4ad695309f0b",
+"lib/anime.min.cjs":"ecb5b59f87bfd4be5f5cfd317107e19a7c369b5d33c0ebfc89e41540f0b7bfdf",
+"lib/anime.umd.js":"d079db53582c93c41bc9b1375b97e08045276bd85ebe5d60bdf72620e769a190",
+"lib/anime.umd.min.js":"cb24f97eeebed160f9dedbe4bc8ab44ae458707ff273fa45f0f20cda7305e833",
+"lib/gui/index.js":"5275a74fe7f8060ccdb14f174a83af541165f2647b7f7e46d572d0390dd489a5",
+"types/index.js":"6dd1cbc0b79213e1d63c36a56642eae74921a55cfeedd859972fce727d63d43f"
+}

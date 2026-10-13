@@ -1,0 +1,8 @@
+{
+"dist/browser/piano-analytics.es5.js":"52beb50dd998045bda7ef0555fac721276c58ae0b5d3dbe67ec46e3991756195",
+"dist/browser/piano-analytics.js":"547c63a261f690d7c189873ffde986c280a7f48103a0b134bdb507c60d03bb02",
+"dist/browser/piano-analytics.umd.js":"626622e3d2d0cfdf666f3bd706e5e5c18ed19e6f3d208cb1ba12ad80645e8f57",
+"dist/browserless/piano-analytics.cjs.js":"eceb5e29fae8cd6047702f8faaecf930ceb649d776aeb1eb1dc6c702168ccd4c",
+"dist/browserless/piano-analytics.esm.js":"8b8029ccb7f09a304f2009fad8d0837c57924197bf34bbfe34fb30efda6f333d",
+"dist/browserless/piano-analytics.react-native.umd.js":"f3ba99f92380ae03730d31ce138d4e896e063d07e606bc9890ef0f9e00f9fd1c"
+}

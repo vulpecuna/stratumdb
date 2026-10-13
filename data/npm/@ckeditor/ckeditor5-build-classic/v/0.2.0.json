@@ -1,0 +1,12 @@
+{
+"bin/create-entry-file.js":"4e5639f5dab409710b36ba7b8c465b77c085c74e71449da3e51f43c9a17542ce",
+"build/ckeditor.compat.js":"c12ca593bca381db3faa1f99ef16f9eb695f051d931ce3300404a7101216aa7c",
+"build/ckeditor.compat.js.map":"a639fe8ef26205f13eae8822c5d4dc3086467720c938d936fd110c3bcfe6a452",
+"build/ckeditor.js":"a18cd07fa0fc7393723c691aeecd0d536a97eb4c7469031cf500bfb665bd7654",
+"build/ckeditor.js.map":"52350b8c40bf5334e0613da38fcb93d4986f32d89ac1e373bbb026927283bdf6",
+"ckeditor.js":"fdf7bdab0d580698fed1149965b01890f2cf686801ab525951bb38c838855407",
+"config-build.js":"20d550847af2019f061a96d6269422b1018d5c9c0b728993f21cca4c25093637",
+"config-editor.js":"9fe9c2aa3c6cefd6efd5c80095293a1154bbe2cc3314603e951f2107b1349a5c",
+"webpack.compat.config.js":"65ca362bcb0643cd66d5a8488b03e962b219bc4d4a0c04c6d3b84976b41ceda1",
+"webpack.config.js":"7a051a58dbe5c4d77ce9ef4a87b5701994556c1be15b448c287157f70329ff5a"
+}

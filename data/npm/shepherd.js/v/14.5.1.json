@@ -1,0 +1,15 @@
+{
+".eslintrc.cjs":"a5d983a30a5e0f227a304e32e8cde070d64bb74ca6602b8fc7159239f1bd16cc",
+"babel.config.cjs":"8381b9625613277b466f836154ed789f72e53a93a977ba6f5b81ca39b1f84a5a",
+"dist/cjs/shepherd.cjs":"3327b75b9e04357efd0dda3d9fa6778161028e4527bb30724e92cd7bc02ffef6",
+"dist/cjs/shepherd.cjs.map":"310b98a76b7787d16e8323aae4ec050db984999c2a20fb40adaf753744d28a3a",
+"dist/css/shepherd.css":"f934e7a0c3c8567b70f08739753d575235fd142fe342be5e3c37e94b58f113fd",
+"dist/esm/shepherd.mjs":"7356b542e0e68689706425bb9b5832b93cfa9eaf1f567d195bfcaa588c975b46",
+"dist/esm/shepherd.mjs.map":"36f7923fbba89a9ed7f04785b081694283d02d69d65350f2d039c097822cc890",
+"dummy/css/fonts.css":"a5b04478905009a13e0ebef6172ab724550af18721f1c5062508c741688cffca",
+"dummy/css/prism.css":"deeccd11141c438948091bce26ba6787e03f404e879ef726e1f2ff68b9cecdfd",
+"dummy/css/welcome.css":"10eb635c5571c3b2459a8abf7a40b441524844ff8648af559c6ea5e83d3d35e3",
+"dummy/js/prism.js":"c3eec44dced195da0fb95e6ef662623d25c9a0298ad8d0eff4f1cd33b666699c",
+"rollup.config.mjs":"1628fd4b4d6c3a09d0462a168ddd8b21f35c196c4c4ff4a7c439cd1df8d44d07",
+"svelte.config.js":"c74139af66e0e136dba680932d662cfdb162262e379578455380c258d759ac9f"
+}

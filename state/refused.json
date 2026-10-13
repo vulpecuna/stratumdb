@@ -6,6 +6,9 @@
  "cdnjs devextreme 25.1.6-build-25261-1935": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/devextreme/25.1.6-build-25261-1935/css/dx.darkviolet.compact.min.css",
  "cdnjs mapbox-gl 3.9.2": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/3.9.2/mapbox-gl-dev.js",
  "cdnjs moment.js 2.29.2": "HTTP 404 https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.2/moment-with-locales.js",
+ "npm aframe 0.0.9": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/aframe@0.0.9?structure=flat",
+ "npm aframe 0.1.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/aframe@0.1.0?structure=flat",
+ "npm aframe 0.1.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/aframe@0.1.1?structure=flat",
  "npm devextreme 16.2.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@16.2.1?structure=flat",
  "npm devextreme 16.2.1-16286": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@16.2.1-16286?structure=flat",
  "npm devextreme 16.2.1-16288": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@16.2.1-16288?structure=flat",
@@ -37,5 +40,6 @@
  "npm devextreme 17.2.4": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@17.2.4?structure=flat",
  "npm devextreme 17.2.5": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@17.2.5?structure=flat",
  "npm devextreme 17.2.6": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/devextreme@17.2.6?structure=flat",
+ "npm highcharts 11.2.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/highcharts@11.2.0?structure=flat",
  "npm moment-timezone 0.5.36": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/moment-timezone@0.5.36?structure=flat"
 }

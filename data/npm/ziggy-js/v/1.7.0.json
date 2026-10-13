@@ -1,0 +1,12 @@
+{
+"dist/index.es.js":"098285fbced2a319a3781af9db3aefd970ae9ac308ad67adbc417f1fef5fe7f8",
+"dist/index.js":"f63a20b408284fce3ed512e047ea34168eb24f9eed09bd6eac347d6fd4525386",
+"dist/index.m.js":"ca883152948b9fc8a38ec956cb025a5f90e685ff7384f9d1e0595b75a2621395",
+"dist/vue.es.js":"c8191043b970591ab93b03daa5f2cb782fadbfad7d7a701b045502e922a35c67",
+"dist/vue.js":"8c962f8361e1b7daa5c7b8520facca5e58334a4fa2d8412fa1e9bcf9e67ac33c",
+"dist/vue.m.js":"b35efa0bca2e4a6d9fa0de1f7d36898dca2f0bab8ff1ae2fe9675b0fb26172db",
+"src/js/Route.js":"119d207752a76a2848e1a5d19c346feabda480522754cfc6ec772076050d7886",
+"src/js/Router.js":"d90a69e02b2fb2c66d3c82566a52ee0cac27217cb405a6d3c77167fc9a074118",
+"src/js/index.js":"17544740a0b1f27abc33fcab81e368aa43d50c6b9a4a3c1e5c327de40fa4c84d",
+"src/js/vue.js":"3bf12c54abc102d0c5098c1722c1cf41e29872b0b70204d9a48ada84f3b2a99a"
+}

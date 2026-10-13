@@ -1,0 +1,12 @@
+{
+"dist/isMobileBrowser.js":"03fc598af725f849a8120517004383cd6000040d8caccd9e4455cca59986440a",
+"dist/vue-strap.js":"2fe5727ef6b2f68dd18ee1f2cc8ba8630422bb9cf63546c291eb869b70d918ca",
+"dist/vue-strap.js.map":"ab949da408a78d1e5f5d7929ae1563172be48df85f11794486e14eb16a73b9f2",
+"dist/vue-strap.min.js":"07864f9713c9e648e1cfc5fc1cf9774478a9de7e8fa96bc9fd2f2f3a298c3215",
+"src/index.js":"58aa51f1035d0a2caf3435fccbae78f40929ec90d268c7d7956bd441cd1bed79",
+"src/main.js":"4412ba209cda94238518d2dc7934c738d13334f3e711bfb56d8c11eaf3e0c22a",
+"src/popoverMixins.js":"a325d89da0860537b6188b674f5cf8b12882f5f0fee08110aa0181cf6fe2fcc5",
+"src/translations.js":"078a27c36e5b9b05d5b343671c7e1dbcc2898ff9f6c4659f6726059eb3c2759e",
+"src/utils/NodeList.js":"7cb3e63feeae0d18d99f3af2901020c3c72e141e882bc229641c1d3dbe993347",
+"src/utils/utils.js":"fab5fac2ab190579c5949fdb418a98605659bfcd707f026a6d843a15a84f2520"
+}

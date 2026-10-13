@@ -1,0 +1,16 @@
+{
+"dist/inferno-component.js":"6d199e766adf52c0a0ae2519cf1d70ffd7b68c66208a2aa5774b65f5722e92de",
+"dist/inferno-component.min.js":"bbac1f0c20bb41006d6ff931e084b31a364234143f19418b795650f8c9fabe6f",
+"dist/inferno-create-element.js":"4fc98151e317d35763d1a0939c0e024ca5afde2836c8312448633798960f98f4",
+"dist/inferno-create-element.min.js":"66cd772aca6fad9b085fe02462f17d59251c06dbc94b4900d5995ee7df6b7367",
+"dist/inferno-dom.js":"16b348e05225d0be5605b35955b2773112c2421f0f66180bd0e675feec665e82",
+"dist/inferno-dom.min.js":"9cc44c9779f2634cf6c8f1acc3c93c6e1fb2281060e56eacfc891dbfa17f5619",
+"dist/inferno-server.js":"9f75785b77d6c552b16ebc3493cada63a758cd14c672aae4e7e3cbcd69167f36",
+"dist/inferno-server.min.js":"c21c560784b2c83a493a5345925312d521b2b9638fad088a05006859da990ce2",
+"dist/inferno-test-utils.js":"99b37434bd59aa68b4ee0e1bcab67c4f410ec3af06796484deb70136c20d0ae2",
+"dist/inferno-test-utils.min.js":"21ff220d35300d8fada9c01ab525a6d9305cbf9fe11739f94ab84df6b8eadbff",
+"dist/inferno.js":"5f6e67224c32777c726ff39e9112487823f3f7728314b62ff47caa0c8e8ab463",
+"dist/inferno.min.js":"89c5908c5b96b18433c617f66c40daefedd1c82b1bc9d28ffb771a510d8c2a65",
+"inferno.js":"bbf0b2322e3eb1095c8154c534b808422c0fb5eb1be60d4ca085599ff2231910",
+"src/index.js":"b3617ee7fefae90147a333f3e7192b4edb601f6a25cf887d0c90535afa79bb02"
+}

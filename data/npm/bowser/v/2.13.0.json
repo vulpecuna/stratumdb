@@ -1,0 +1,12 @@
+{
+"bundled.js":"1aec28778ee20f661c733902bc6dc33f5635376f2474a1dbdab44011addbefde",
+"es5.js":"3d933ab109c6749fb0a5d4a62a0583a3ef965e4ef5af988ed7fc7d9def4c5fcb",
+"src/bowser.js":"bde0ab96ecf0e58d60ec3e90ad8dabcebf82d92a0251fde61e0bb74f517f070a",
+"src/constants.js":"b03a15f10a4c7019fe985f96934757037802d50add0507ea0447591bcd0c29ce",
+"src/parser-browsers.js":"023ce4f1be49c45f6105bba2480e039b0bc87f8cd56e08e57883fd404ae513f4",
+"src/parser-engines.js":"77e92334e4e20d1aa1f3046d571b64df971951b88787184185241d275bec5800",
+"src/parser-os.js":"ba15c933e9e5fcacbef30ce59390c9cf960b1999740d6d0be71f0a69ee6ec173",
+"src/parser-platforms.js":"95e126cac03d4652d3e18a8025c40727e945a5f58bbd0003b1963ceaea63aa9e",
+"src/parser.js":"1b7258703e68a35db5c2d4e56f5f2eea9ac23eee52bf9edd11016cba296fe9ba",
+"src/utils.js":"87dc377180d48ef18257f9976e5d4a1334792f20da38bed04bf5c81dcec6888d"
+}

@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"8971cd6926d66cd464b06a4b116d1246f755706186dc800c4f99b264adea2d59",
+"emojify-emoticons.css":"210f939a3072992cf578fcec88dfd79fba0e57cf1dc056189eaaa28cf1de5aaa",
+"emojify-emoticons.min.css":"1639544aebd71002decbbd67ffdd814bd5ae4be37c01186e324076959b23e2dd",
+"emojify.css":"454332e30ae49dfdb50b1f79ebe3bf29bfd64b16f59bf0d9c2217b0995c76f93",
+"emojify.js":"a0af9e6ed32edd466fc6ee4b68ce80b60e15ddc3424cf6ebe7879c59fcdbf6f5",
+"emojify.min.css":"d238eda568e2cee0d059b57bc1cc641cb12cc5373445a2fb5ad3481686d4f3e4",
+"emojify.min.js":"bc04d2811fef6d091493a6c26720c25a587b8653e9a6fd182bc06fce963060c0",
+"images/emoji/emojify.css":"7d0918fa7afbf0f3106f18d0f4ae3212bf79eb37fe6d9e771bd3885ae3ed1daf",
+"tests/browser/dom_spec.js":"ae891a3e620b6ba02d7c43fef2d99006aca9918f625623bce47ca768f4683436",
+"tests/browser/emojify_tag_type_spec.js":"a65678a3b4fca25bc8e0fe5066a5a38173166f11ac32f5c7829a72a4b70948de",
+"tests/browser/runner.js":"5ce44062f7c6f02fd604e83fd27f3aa3fde5cdecc119790632f9ebcac57565c4",
+"tests/browser/string_spec.js":"ebfb1c65fe4bf7aae0fdac276e69d791b41f9f76c8a24e431990f5bb833af2b8",
+"tests/node/index.js":"a1f0980f7cc2da0d14c7e5dec3cc0e60d811253bf294c3c262440042ae16f7e4",
+"tests/phantom.js":"e62a37d03bfa511a9c16dbfe92237dbbb6080e936ba13d81ae03bdbb124a2b78"
+}

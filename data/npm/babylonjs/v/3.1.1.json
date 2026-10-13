@@ -1,0 +1,15 @@
+{
+"dist/preview release/Oimo.js":"277caae51462c5433179dca73bc1beb3d04c3a66f6ce47707f4545cc836d8a35",
+"dist/preview release/babylon.js":"4ad03d9117b677b73462a91f9f1df0a9335bfa04c2cdbd26a8b7766d479dd91f",
+"dist/preview release/babylon.max.js":"a0c70f20dae8680cc3b724e297296e75affa5fde902624544ee402c888dbd606",
+"dist/preview release/babylon.worker.js":"d3481db655cdf10c075c1e8d6f351bf9fd5f3918b398691c4604adf1d484b3e4",
+"dist/preview release/inspector/babylon.inspector.bundle.js":"2038a6c808a392bbc85164f23a79116b7a4f256bbcc184f32caa2066e6ef8987",
+"dist/preview release/loaders/babylonjs.loaders.js":"cc258cb97d055e2a39b88a44a826c8b063512708cc8782060ee71b11f48d9420",
+"dist/preview release/loaders/babylonjs.loaders.min.js":"17e2d21c4620ab8cf6e4b6c65c178645901d0edffd6bf52930d5245c9c24a38f",
+"dist/preview release/materialsLibrary/babylonjs.materials.js":"31248d3575efa1c3b2885c2f431d274e40901c63d025676aa75ec6faaed25fc2",
+"dist/preview release/materialsLibrary/babylonjs.materials.min.js":"9da14c1389a39b864073ce87d84a075bb400880f0fd1c33b939f0f179ee17a75",
+"dist/preview release/postProcessesLibrary/babylonjs.postProcess.js":"b8f6ee4bdeaac4b41c7f0a55ecb5090264d58ec4c487beed3577a2620ef6b9b1",
+"dist/preview release/postProcessesLibrary/babylonjs.postProcess.min.js":"a1a38195af60664907f8b741b244773ce97736c4d22b21b14bebc16ee5c1496b",
+"dist/preview release/proceduralTexturesLibrary/babylonjs.proceduralTextures.js":"43a38832e28d059e81b01a4526321958dadabd654341aa7aef122f69e28b0146",
+"dist/preview release/proceduralTexturesLibrary/babylonjs.proceduralTextures.min.js":"ca88facac4d22127ec37527777517da02ca8242ac95dea712455866e47418f02"
+}

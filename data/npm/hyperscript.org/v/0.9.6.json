@@ -1,0 +1,11 @@
+{
+"dist/_hyperscript.js":"edb03b5921b80ba5afdcff79af255ace611e1343baee380ccd27eac936b9569a",
+"src/_hyperscript.js":"8f9b80dd1f881c872df9d07ef7a5b5b0b4e54bd738cdaf24433d91d5feb895c1",
+"src/deno-hyperscript.js":"19349e4e0e91fcb8e9075fdbf69b0ece799c9e1595d113a3f72bc4621010c8bd",
+"src/eventsource.js":"83b427e04da4665c9f5c77bf3a5aada9dc83b96dcc5099ae351c5054f6fa1dfd",
+"src/hdb.js":"dd0147a1d7d7834eafbd16914a0f58069d0268bd91fb8c0f3b8d3369f683a867",
+"src/node-hyperscript.js":"1fb58298a3653e741d0821baf0ccf229553faace3b342d6ddd068576c9d62c39",
+"src/socket.js":"c77275382c288f0b9540ff1bc53f2142533f0e1505368ee1021011ed903be61a",
+"src/template.js":"5dc54295784e044faae77fb396f7a220f1179d80de91986ec8ba1798ea2e8ee3",
+"src/worker.js":"ea44c81371ac9b6098d0b84578c000982b73413aa0f494d4257968fefb266787"
+}

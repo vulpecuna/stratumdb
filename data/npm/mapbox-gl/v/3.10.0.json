@@ -1,0 +1,16 @@
+{
+"dist/mapbox-gl-csp-worker.js":"97e9253c9970cea2d28cda195ff9676d4cc565b873998962db8cd9e7f0a6ca18",
+"dist/mapbox-gl-csp-worker.js.map":"70fbab6cae7f40d8bd40a3c7ca489d8f332beaf658f5cd606d04bdb1e9920b05",
+"dist/mapbox-gl-csp.js":"ef03efa9b48a37d455b3250ff49cf043529a09ccfe1a804814587af269788792",
+"dist/mapbox-gl-csp.js.map":"8c588412611c7d1b66d4a00e11d2c240b591e7d5b486d17fbea59fc3212d0eff",
+"dist/mapbox-gl-dev.js":"c9cd4f31fac9f5e4a08bcb7a3d0abcc762852738072b1d09e461877696da4796",
+"dist/mapbox-gl-unminified.js":"08057abf48af4042344c6382eb29b76069dffe2311f76b73f87875f44ce7084d",
+"dist/mapbox-gl-unminified.js.map":"304e328181db193e57671ebe5375cd23a5e665f26d3514380789c7f49a49f6f1",
+"dist/mapbox-gl.css":"c8180949ede9d9c021e2a1980928dd04146f303dcccd7e62d00da6e0f34f5a76",
+"dist/mapbox-gl.js":"de2379fb8cd3dde45808fa9784a3aee6571e77cdf00792e547de63f4c3325604",
+"dist/mapbox-gl.js.map":"be2893df15b9682c37e79ebeb682482a32a849fe0aebc048f0c0d782bc81bca0",
+"dist/style-spec/index.cjs":"c2327a3e2521026f332b164c8efed7e5677cd688960125d300a53b825ed8443b",
+"dist/style-spec/index.cjs.map":"c1ef97b35bb5ca90dc0ecf1cdad8add5e0a210b16f96d14c32c37fb48d0bed70",
+"dist/style-spec/index.es.js":"66c8db20a0d2459fe1a62f18db65c74f13e9e369da098ba5f35e7f3501c3b69c",
+"dist/style-spec/index.es.js.map":"e789bdc2adef987abc6c6d1a277c3ec6184f531beee51a25fc90862de62d762a"
+}

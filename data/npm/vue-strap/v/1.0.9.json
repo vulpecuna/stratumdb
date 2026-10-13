@@ -1,0 +1,12 @@
+{
+"dist/vue-strap.js":"6dca49c9ae5563ef2c40d9fd5271063eefe916cf19cdb886b358039d8d7988ff",
+"dist/vue-strap.js.map":"ecea41919a6941af3a761484ea87cc1f88c51047fb4a8a91cd1d69f8f634582d",
+"dist/vue-strap.min.js":"cd991e361b7b585561d20140adfa890fedc02f74cf9300e304e4a3d5f53c8f56",
+"src/index.js":"ce894571034229901d864e59b8252cccaf154dd24d177a9abf93980439770a74",
+"src/main.js":"df2d654de23bc85a2f6ecfae37ee1598735e061b3df3fd06040b28321fa27019",
+"src/popoverMixins.js":"fcec93c4fb6320bc245fab569cd4e5de93a15c194796e3225cadf9b12ca09535",
+"src/utils/EventListener.js":"5a872ff9491a20bf8e495d92a8c1cd0e104085b29e74c3ea57faaff366fb5684",
+"src/utils/callAjax.js":"9c9e80c2e3d35a32eec3541f6ab4852f822a96db1437b7b5e02be7cf43d51d94",
+"src/utils/coerceBoolean.js":"1679ab8c3e136962b940fa40a8c285bd4f399be6471d199bbb7dd7e340016070",
+"src/utils/getScrollBarWidth.js":"e4cdd5d24d80eba24554c3bfcc614f7102ace44b751ff2fa257bbe19223f5e13"
+}

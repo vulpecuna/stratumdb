@@ -1,0 +1,16 @@
+{
+"dist/logger.js":"af1411c51510cac831cf754b12fe106ae546463e9456c2538a358d2875f739e9",
+"dist/vuex.cjs.js":"ae7680898729457024cf7aed7846990bace2f33682f1e31c3e57445cbd8a7d2b",
+"dist/vuex.common.js":"4be201d3b986c31f7a43610b19dad0a05ddb03f01ba72c231959150befe9ebdd",
+"dist/vuex.esm-browser.js":"04f290b90710d11893cdd77ffcc1099c3af25d839ac1781cef8f05a9bd035198",
+"dist/vuex.esm-browser.prod.js":"b7fa232065f11ddb8eb60f785c4cbb1256d83d3d33b0dcf9a9017a66cb9de297",
+"dist/vuex.esm-bundler.js":"789c0e8f03c98f92af1006a68f06aa558147558f0b637588479b5c3eb7c70c2b",
+"dist/vuex.esm.browser.js":"0275f05229b35b759e0928d1134d4647c3bfd3b3443158a48d88d562c10db3c1",
+"dist/vuex.esm.browser.min.js":"956a463402ae30adb50f5965ca865341b854e11c335c0e3b3524427e1bd45280",
+"dist/vuex.esm.js":"639764ed99c93d103783c2b5c2ac8f88379e7296639bf640614ac474c077a1e0",
+"dist/vuex.global.js":"571be026bc4981d997ed8341b8c468838f3c71ff2dee20d49f4574eed0bf2b35",
+"dist/vuex.global.prod.js":"4bf38a94adc10bee9027651c129b256631b9bbd33bc446d77fd7b46d0a1d0597",
+"dist/vuex.js":"debd05bb601f86de995e5c1d2bbe3c345dabcc98bd97c25653a9f8ace48dd39c",
+"dist/vuex.min.js":"376afd6edeea3264ce844fb0fc2c3557b54b38fd0cd5f496dca19b00863b7716",
+"dist/vuex.mjs":"3db7e20edd4afa5a798af73be2c7c36fc539136c33e1d84ed83f3fa44aeee87f"
+}

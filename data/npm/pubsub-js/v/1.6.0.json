@@ -1,0 +1,15 @@
+{
+".eslintrc.js":"f099e4f2b05033ba8ac2a5f34f778cde87665bbb21bc4a002d59601e93525661",
+"iframe/pubsub-bridge.js":"77529a19e3c604606bbbccf0ef53917945eb79993af17ec7a3c37cb57c9484ad",
+"src/pubsub.js":"627e3d1b6987b2297761cb81057e880af408684c1fda51401b24d76fd842e4b5",
+"test/.eslintrc.js":"32edf4b0d46e5b191ae1d1d509576e2bdf20d633c1cdeab27d8abd5cacd975d5",
+"test/helper.js":"ca1973643d74f6c84df8a431343ba5bdeca8837b7b4d3d7d9ec2e1f18e8f2392",
+"test/test-bug-9.js":"cf0a13159a81829be35b6eb282384706ebbc5e39b5de3df28ac9b5ee5f839579",
+"test/test-clearSubscriptions.js":"72f9c4b7381904fbfaea0a07b00f7874891da2008597f446a5bdf7e1ab73e52d",
+"test/test-hierarchical-addressing.js":"0893012a2700bd5c4206d55f9200cb1c69d95d7c09119db8fa421a28476e22c0",
+"test/test-issue-54.js":"2acb36c8a75a4c4300ab4eeedd81b5fe1ac1d2dceb244d99ce4dd1433faa2dea",
+"test/test-publish.js":"14ef33c980b13c2dddb02e203db2d61f125ce0a7f92f3a7614179850896e10bf",
+"test/test-subscribe.js":"a6ddfac01f7ea10b897c9f006ba8e0e61e236fb3ad1487e17990a128f60616db",
+"test/test-subscribeOnce.js":"54f27efea4c459885805986767fe56144f5644b4c613ed80401f82901a755698",
+"test/test-unsubscribe.js":"79f3b50464e081b33f6f5e92cec75b1b1afd1a932dc0a1cba69ece61c8802898"
+}

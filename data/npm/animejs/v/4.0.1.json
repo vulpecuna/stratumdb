@@ -1,0 +1,11 @@
+{
+"lib/anime.cjs":"94830e0f20fb5d84027d513eda3f3e040ff2ea869088f41c7ef9cde77fac6510",
+"lib/anime.esm.js":"16c6a8f5997fbfa8ed77d194280acdb5b45cfdbb401bb024c989a2a1b9ff59fc",
+"lib/anime.esm.min.js":"23174e2d784e408a7f5d26776f9a5a4644325e4fee67aae9f9c04e1fc0e223ab",
+"lib/anime.iife.js":"157ff4cca3f4697311b127388f0b43d438411b945c5ffc6ccf9b2da717f6f432",
+"lib/anime.iife.min.js":"b5c26373af289271e6c6dd9c06d7fef56a4f3f7dd48261b4888030248176a24d",
+"lib/anime.min.cjs":"644c8dd4f4f86badd623fe8f75089271918fe3f4122b280bcd64ab4e8fc0a7c2",
+"lib/anime.umd.js":"412635206e9d43814e4ab066c34c8a0c5ed24864697426ecbc1790bb6b8267ab",
+"lib/anime.umd.min.js":"b1f760b8134e95730e2e4a9a7c1e360ef04550f1a52ca4174a26fe1e488f7292",
+"types/index.js":"369883d850bd3f8db80a772180df1fd722ffe22159f65227915145faafb5da6a"
+}

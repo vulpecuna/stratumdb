@@ -1,0 +1,9 @@
+{
+"babylon.js":"102651d7af4105de40719bf89a4a39cd732d89a6c441067f057f73ebc9751d46",
+"babylon.js.map":"819c560a716cf590547c03ada54d5ef350fbcb8c77c8b579e0959df09fd1df95",
+"babylon.max.js":"102651d7af4105de40719bf89a4a39cd732d89a6c441067f057f73ebc9751d46",
+"babylon.max.js.map":"819c560a716cf590547c03ada54d5ef350fbcb8c77c8b579e0959df09fd1df95",
+"rollup.config.umd.mjs":"842bbaa83b2f8f8a36a30bdecd51981438d7c0cf0c8155e53810092defbc488f",
+"scripts/checkNoChunks.js":"2d4f38c7c0287ae8d5dfe60a53f5b2f75a61eb8016d86773cd2a2edd1d55d9ab",
+"scripts/postinstall.js":"474d7fa355745ab375dc676dbc35b66b15210e81fb54503dce83307c988e80ec"
+}

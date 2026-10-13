@@ -1,0 +1,16 @@
+{
+"dist/cropper.css":"13fc836fcaf5ca2469f881c8d1f08ac93415b46d3d983631bef99566185a9ae9",
+"dist/cropper.js":"f8fccfbd5216d71f9ce66e34e4f709426374462eb82c316fc368ee0410f607df",
+"dist/cropper.min.css":"6d316a592cc519e6fdd54422081e3e35acfd469a663d565c7a4931273f2f3af5",
+"dist/cropper.min.js":"4d43aa2af2e6989ece10107d3f5ea72e1906fcdfe766d7378ba75df89f761848",
+"src/js/change.js":"f9816c245dd2ce788f6a8d2552da4f9ff866edd810ad8218fb3ac0942e9e9461",
+"src/js/cropper.js":"66b225b4f0036e015c182c1c6199afc956797fc28cc1c7f9830b9f2f1f691a8e",
+"src/js/defaults.js":"a288d1b6d1ca99eaed07f73560d4f308377d32f79e8ebfadf11d8a77cb935c73",
+"src/js/events.js":"c9d21e18998567d4dc499ea1387eaf5652a875678eeb3f05c26673d7425cf1f1",
+"src/js/handlers.js":"aa31bcee90e1ec19feb2289a2719c00afde02d222d566a7a0b85aa556063628f",
+"src/js/methods.js":"eb37324f8eeabbaa040e82c9c63f692aec6e1f219231b10344a872da07dbbd69",
+"src/js/preview.js":"41f40d80f36753f1c7cc13305aaa74d230693bce2e6f4f4f37319908b13bf885",
+"src/js/render.js":"858dd21989b08b3f0ea573e4dbff31793b2bef3a2429ab276dca66bb49cc21d5",
+"src/js/template.js":"75f4d3307380a894ffa2f491e2de673493af28a9d0bcecf3ac40a2096491473b",
+"src/js/utilities.js":"d90f2f6d98bd4ca516aa3ad318f213d21b143f6856713d128c34052041219664"
+}

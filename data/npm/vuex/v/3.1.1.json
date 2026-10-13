@@ -1,0 +1,9 @@
+{
+"dist/logger.js":"c634887b943645259a50de4efc72e895c4ec1986ee21822899bfc9b25e5f80f5",
+"dist/vuex.common.js":"55fa062e825857c9e93476d9befcadf68592bb3bff4141c6b7a67e67fdf93ed6",
+"dist/vuex.esm.browser.js":"e514473fce272b5fe24938ef97ba92d2cbfed84c2a0e842e86f567a17919bec3",
+"dist/vuex.esm.browser.min.js":"b0611af237c7d4eda71ab6891d937c4ebe8cfdab316e6aee0cdb4c757efc7cf5",
+"dist/vuex.esm.js":"d3f06bc05f9d1f70b7b901201ccb76890a315a9ac0b18d6203e39b871eea71c3",
+"dist/vuex.js":"2200b0c6cdc5f5e302f21e47bc26e12dd9b6e633a9526d2617243fc00be3f574",
+"dist/vuex.min.js":"e973901e74ff65888bbe2e58b95cfb957d5db316bb185a106f543d99176d1d65"
+}

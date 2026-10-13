@@ -1,0 +1,11 @@
+{
+".eslintrc.cjs":"a5d983a30a5e0f227a304e32e8cde070d64bb74ca6602b8fc7159239f1bd16cc",
+"babel.config.cjs":"8381b9625613277b466f836154ed789f72e53a93a977ba6f5b81ca39b1f84a5a",
+"dist/cjs/shepherd.cjs":"9987004ce62bcc3e1db4195d7fdff6634e38260e95c1d0638e27c57d116e2a80",
+"dist/cjs/shepherd.cjs.map":"f8d145a3a64c37201e4ac4992f5bc6c8c7e709d6d0adb9744cff08d0b9a6faba",
+"dist/css/shepherd.css":"487b5fd746dcc875278366f7b6ccad79805aacbe73605b4f64e2fde91051806b",
+"dist/esm/shepherd.mjs":"730aefe21fc419041279aa84fd4ed42eb5c4dc6f7f4eabd3b1cc09a587c98083",
+"dist/esm/shepherd.mjs.map":"daa41bf482388b2e5d2e2ee8d757b2ef570ead8dee134bf24bf1191ec7037196",
+"rollup.config.mjs":"4f654233728184b3651bd92c1aeead9385764a7d51a5a25d44ad367461c68709",
+"svelte.config.js":"c74139af66e0e136dba680932d662cfdb162262e379578455380c258d759ac9f"
+}

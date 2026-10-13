@@ -1,0 +1,16 @@
+{
+"dist/isMobileBrowser.js":"03fc598af725f849a8120517004383cd6000040d8caccd9e4455cca59986440a",
+"dist/vue-strap.js":"9711a644b188fab3de34d1d1cadb4b75fd92e51475e99f0281b4dca5046cd8e2",
+"dist/vue-strap.js.map":"a83084e39af389121f51c5727d95bd22d857d89ec8ca2382065f455defbd339c",
+"dist/vue-strap.min.js":"a1ace255ce335eef6c5dc51d3c227bdb43b92648cf75b893f2dbdf43e48fa893",
+"src/index.js":"58aa51f1035d0a2caf3435fccbae78f40929ec90d268c7d7956bd441cd1bed79",
+"src/main.js":"4412ba209cda94238518d2dc7934c738d13334f3e711bfb56d8c11eaf3e0c22a",
+"src/popoverMixins.js":"880e6fbecc47121cd6468432818ea906710f1d541341b47cc2c00a95da2d5c28",
+"src/translations.js":"078a27c36e5b9b05d5b343671c7e1dbcc2898ff9f6c4659f6726059eb3c2759e",
+"src/utils/EventListener.js":"1d1900956c526c11533ead8b2ac2df2ba8bf8579240b55537da16a55742ff644",
+"src/utils/NodeList.js":"7cb3e63feeae0d18d99f3af2901020c3c72e141e882bc229641c1d3dbe993347",
+"src/utils/callAjax.js":"80a9cda01fd9efe0c4d0fa6535b67512d9a0eb95363b5a7454c1947a0038ce51",
+"src/utils/coerceBoolean.js":"a73692b9102198ead2ede8c526dd68f72cb6525027e5986a22fc7d369c581071",
+"src/utils/coerceNumber.js":"4e7e78d5b801d06a15ce58b31fd25dda2574935594118a98310b5efca5a06160",
+"src/utils/getScrollBarWidth.js":"23106ca6ead85b76ae86ffcd061468738b583ed19c1167bf04952f9a477ee825"
+}

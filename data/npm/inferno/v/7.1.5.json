@@ -1,0 +1,11 @@
+{
+"dist/index.cjs.js":"57b8fec595e5f7b6ec53ad9af11bd08d2e627cb187696c753ccfc1c845c3e249",
+"dist/index.cjs.min.js":"648678f34dd75552cd5c1dd8a70b99557f287f1089a30d46a46172c93b12801c",
+"dist/index.dev.esm.js":"55eed48072ae9c8cce37951d189647134cb249dfed3fad14bfd9171ee81e0050",
+"dist/index.esm.js":"ac1530b714460562282076bf9ce2b5cab763abdfa71366187fd7b71d7df3584c",
+"dist/index.esnext.js":"7eb7ba448c9249fa99173efc5cdcf4f446b80cd2be9a0cd718b0b0d6daad107a",
+"dist/inferno.js":"b59d803dfa34590431e37cec0246e0d106775f544dfdddd3be66408572425030",
+"dist/inferno.min.js":"bdf060a8a39014d77cb501503343cfacce80382a25c74308e00fafbf69d6939f",
+"index.esm.js":"174bfea2f1a5db926b20b03828de22472ef745b2a4b6947d109652fc67e998f9",
+"index.js":"44a8008cc5ae390a20057e361cb266e09d4e742af90ca02d1a0f59bd9a33970c"
+}

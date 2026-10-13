@@ -1,0 +1,17 @@
+{
+"dist/retina.js":"c4fa0e4cb91c7e3f92072d1c4a9c0ec2d9d2e65171d2c12b23bf39edd3459183",
+"dist/retina.min.js":"081ac47ebc414943049836ff8e1b06aceb20c1c27419aa8807f55f88e8dfa29b",
+"gulpfile.babel.js":"88fa81b5cb513cb634f121596dcbef28fe27a09e7ef3572f6655084b37b12dbc",
+"src/retina.js":"81e589cc7b22a754c89c20f4afca5552c8af16758798a5abdfb5ad004a30dd2a",
+"test/DOM.js":"7746e2bacdb7c6fb01ba6e99d15d6b44e5734026b926e1bfeb698d9a60697504",
+"test/fixtures/image.js":"fe683dd2a0a6cf659f87604bb3858d225e86681d7a198ee2b2a1b510a6300b51",
+"test/fixtures/less_expected_output.css":"d75c838aaf4ab2b593df6435933da62127fe55f2813b6081cab3bd35b9dd9e2f",
+"test/fixtures/scss_expected_output.css":"2cec9597cabfb4018b1eb479a8656f03d79ce7f434a9f35708a3bea661bbaabb",
+"test/fixtures/xml_http_request.js":"0d68d0ac018bf0ffeef65746b6210c75dd38e6729430769d4f181da7db42ba99",
+"test/functional/public/styles/retina.less.css":"64cc3ee5d93f50c533e93af74d061ec4a61c165c2e14c8f6f015b6e39c9c10ba",
+"test/functional/public/styles/retina.sass.css":"949cbb7815223c084d9f738dbea36882c05e96f2ae1b88ac55dfe205c2dea5af",
+"test/functional/public/styles/retina.scss.css":"02eaea25e09abd8a4248ee0a4b5c12bdac187418956ad1f4c809008d3553cd82",
+"test/functional/public/styles/retina.styl.css":"eea609bcf686f1ad41b73a942c64263b4cc3e856ca1c18bb7470ec9cedb13fb6",
+"test/mocha-runner.js":"6e1c308ca2e1ceab0b035ad68f255448c9db59ef364e5f19ffaf45366de1b397",
+"test/retina.spec.js":"b6524a7f6cfa66bf63b4b6d9b328389507076551d8904a03235e571cf61e470b"
+}

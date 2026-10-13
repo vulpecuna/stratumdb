@@ -1,0 +1,8 @@
+{
+"babylon.js":"694c1747adfa089da3ba040bb3a1085f8bf0bd26eb3f1178ad24c5097de8f2b1",
+"babylon.js.map":"c96e15180dde9e3ff53f9c64e1de0cb62e7ed998a58eb16be6afce180182c581",
+"babylon.max.js":"dd0a720834cef65d370f95010895e2096dcec7c7e9cb8859f4609338002d7ab5",
+"scripts/checkNoChunks.js":"2d4f38c7c0287ae8d5dfe60a53f5b2f75a61eb8016d86773cd2a2edd1d55d9ab",
+"scripts/postinstall.js":"474d7fa355745ab375dc676dbc35b66b15210e81fb54503dce83307c988e80ec",
+"webpack.config.js":"12c22eae9e5494cd0bd4e73f7b485b0f8c7fe766cc0f7f1874dc0f2d78ad4dc6"
+}

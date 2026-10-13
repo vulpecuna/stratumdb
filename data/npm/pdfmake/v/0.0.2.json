@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"f080223325217aef36709d1d3500bf92d5275fcecfc21223aad984ce92b67b15",
+"bootstrap/bootstrap.js":"030eda737c6677483f06944243240fd63330424cff07c936c8869b60f4e031ee",
+"src/layout.js":"12bed9d9bb532b9b6d759035ce66578b5e5951a60bce3ab522d7194eacd7b55a",
+"src/printer.js":"c1a27aaeb7b65b74f72a2d1c933fd51f00cd36b010bbc16779927a07e5b22b4e",
+"tests/columnCalculator.js":"930a57e8dca07c6d2e5212c99efb4bf7635fca6b9717b99e7d1e775b0f8c39dc",
+"tests/docMeasure.js":"132b233dfdf4c2e6f6be04cad9979a942de5c4ea015c5d1c39aea2f1f02caaca",
+"tests/documentContext.js":"328dbefa0426b9bf77478815796171d9ff7c00abc5754f84c8451dc826a1d764",
+"tests/elementWriter.js":"1bf10fc39d7c56f7f0850e7380e4d1cc38a3ba8c55afde779e94370a0a0bd1e7",
+"tests/layoutBuilder.js":"33d609c0e75781e26296695992ab4ec4c03a0b11ecbdd2438fec7b1b78ffc427",
+"tests/line.js":"b48876efadaea0c7361cedb66c4864c570fb6bbbf5518073ec519e8b8f32ede7",
+"tests/pageElementWriter.js":"80e3d206541cf1da22385c9e0c582c27459cb666f14f0930d6fd921c07a3ee3c",
+"tests/styleContextStack.js":"e75a7e781552b994fd34b7583724e0195d07d532b85a0ee11777ff762919cf9c",
+"tests/textTools.js":"06a46934003def2a54045b38cfbce69b98ae11721fc09739dc103818c24934c7"
+}

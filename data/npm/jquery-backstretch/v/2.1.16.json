@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"f57c7a09c72faba424ee9b0bcdf9647aa09fa2673b5f7d92b4070ebab9bf8979",
+"jquery.backstretch.js":"00a152cb27626d57b6601889309d2011694ff8c31807e99b6f4a5dfa6df772ad",
+"jquery.backstretch.min.js":"85990e35a1bd9710094c42c86b371a1cb549c880a191aa795b1d6ceb43de8618",
+"libs/jquery-loader.js":"c71740a8eb5cb57057c2e754557b84060614dd10bad7c2965939167ac41f853e",
+"libs/jquery/jquery.js":"e93f01b4204d8c131030b184d44aae78263567ec14718a86b6867d8e34623fcf",
+"libs/qunit/qunit.css":"22121cd9196af853e9aaa53d71e56886713067e10c3cae393d8cffcbdcb58faf",
+"libs/qunit/qunit.js":"70a268e8b161d4e0b250c1188c0faace2a62c82b9ca9ece8462c2749dda130b8",
+"src/jquery.backstretch.js":"00a152cb27626d57b6601889309d2011694ff8c31807e99b6f4a5dfa6df772ad",
+"test/backstretch_test.js":"2f25c0a8a0230b8c81b7ae9c1d8f1ab8f5663fb8e6e3c653939be1180f215f4e"
+}

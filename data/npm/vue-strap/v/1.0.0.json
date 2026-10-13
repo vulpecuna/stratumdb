@@ -1,0 +1,11 @@
+{
+"dist/vue-strap.js":"0ea7ef1b8f12c092746f7f5e77605295ac81b661d64340a81956fce77c0991b5",
+"dist/vue-strap.js.map":"d8d63b7a17628d40d11c8b146c6b4c8b6e107b688a23a5fe63c0cd798220eea9",
+"dist/vue-strap.min.js":"a8e1403ecbd94f2ff67e9830238ee14aa3f7479aac0a17a35a09a5191fd65994",
+"src/index.js":"3a9e786fe8c4cc93b8439650b28f8df6f8cc844e9dc62eb6070cd3bf782e4804",
+"src/main.js":"b40a1f0e23ae63a60af791d291da835183189c36d28a8591319945d5cbd33f4c",
+"src/popoverMixins.js":"2789a6b8300159fca5a836fc70e8fd96d3ef6f8eac059abbb24cf2a21233c499",
+"src/utils/EventListener.js":"5a872ff9491a20bf8e495d92a8c1cd0e104085b29e74c3ea57faaff366fb5684",
+"src/utils/callAjax.js":"62c87e269f7c80fb0d84165fbb5fd6232d7840cea70ee309a8f8b67f455985fe",
+"src/utils/getScrollBarWidth.js":"df78c15698331003d2de2f68fd6ec6fa05a6b845222030442621fca38a2bc4cb"
+}

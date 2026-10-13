@@ -1,0 +1,15 @@
+{
+"dist/cpexcel.full.mjs":"7a7bba23b6b6f23b5c69fbb631f78d1d455f74b57e4aa54e9a2f81a8ab844964",
+"dist/cpexcel.js":"5f0cc8cc3c764e924a2877f32dcd93709756d0b6c26d2471bfd911ce6f8e81c2",
+"dist/shim.min.js":"0c16091947c28ec153e281cd303d8b3867bd1d964607af6ad4f264ccd9e512e7",
+"dist/xlsx.core.min.js":"4f42c0e32e68fd153a84dbcd2aeab1f0a221d05a2b5b7b7e1ace5cdec1939e2f",
+"dist/xlsx.core.min.map":"afc1bdff1ec33868b6e4f63de97fb37bd70016365ac360dc460c700d5ae3b371",
+"dist/xlsx.extendscript.js":"45ca0f29b36d4fd46d8b8b22640b423319074bdfaddec7961c7c48298fa194bc",
+"dist/xlsx.full.min.js":"8cd05e8ff955113537bc3dfd63b9ec8ca0776a6df47d7f90f30c4f7178dc3593",
+"dist/xlsx.full.min.map":"5a01d8be084ed32f659ed21164bdfa270886bfd2ee0ffaafb54c3c0421357b4c",
+"dist/xlsx.mini.min.js":"d2e2a517797282e02144ba4e4300e1c021414673401ab35bcd64cb97387f9ea3",
+"dist/xlsx.mini.min.map":"6bca98c49da56f9f738fcc04a14970b771da34a229da024fea44f63325272e70",
+"xlsx.js":"57d698eacd7af7b289ec7b3cf644cdb37d779c5646170841245e4cf58ab53d16",
+"xlsx.mjs":"922b8ca90825111d3af3a19098613d53ac4721ac58d05c0ac25fbdf9def2472f",
+"xlsxworker.js":"8c7687fc9b7b27c730d6332d7a7afd7fc0a5f9c5eb719b9b7bf9b1e9c1031cb9"
+}

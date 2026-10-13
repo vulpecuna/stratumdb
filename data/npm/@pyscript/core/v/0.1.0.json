@@ -1,0 +1,10 @@
+{
+"core.css":"95dde43d57f2ca43e12d9f90db2aa541378f4db10a18d9280bc16a0eb2d36f92",
+"core.js":"fad4ad357d9c55c9e7a1ea884c98ae8db3bb7671d9a8fec1db22954d50c4a114",
+"rollup/core-css.config.js":"8f7af5581db3d5da8105968bcf5fdc9a6fa72ae0ea974ee0ae044ea77a0482ee",
+"rollup/core.config.js":"e471e6db49061ba05c7dc22a9d0784c2c0cb63d2fd7ff07257747eb561ec45de",
+"src/core.css":"467376f9bfff077291d3f487d2f8cfd4ad58393948141b3026848d60f97ba315",
+"src/core.js":"eb8a02db3e16e9b9d3d87925b182aadce53b1967338cb2a437a59709db8a2ff0",
+"src/exceptions.js":"a2d4cea484202e7f6bf79def51b923ee5760521720f2f6228d8f8f807b2c3eb3",
+"src/fetch.js":"b2c56cb8b0dce474d486940ef0de4a0f3ee8bcef26ebe2b8dd6b019691e530c3"
+}

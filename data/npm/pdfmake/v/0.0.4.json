@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"cdbeb41d0fca7c3fde87c0e00adf53e5ac1bf8099ba95ee6705b45f0cae8d0e0",
+"bootstrap/bootstrap.js":"030eda737c6677483f06944243240fd63330424cff07c936c8869b60f4e031ee",
+"src/columnCalculator.js":"42297aa71b59549a51c6fe0b92925dbe0ce70712456086b9b095992342f7ef60",
+"src/docMeasure.js":"fe425dcd9d9dd274e94be360cb2401d9810952e2ae7d79de5e4ee343155f77c4",
+"src/documentContext.js":"48f2a2bc36d0b5da2e9412c39c7e8a9108a01f13bf4315516853cb349bf4de85",
+"src/elementWriter.js":"bc899aa191bb7d4ab6126489ad78110a8dfc29d71ffd26cfd220ffa2fb6728a0",
+"src/helpers.js":"9d57977d98d7e9783c33c071d15744f31a646032a449e9a1494afbbd8bb34fec",
+"src/layoutBuilder.js":"f0dcdc8612fddbb68e798ee6809f59ba6ee6b5d8aeaf08abf9e5c79495c32ace",
+"src/line.js":"e11bd5176b4d358bbd4a52a4f10576ac9f9265994c7d44d72ab2ec52c8115b40",
+"src/pageElementWriter.js":"f835ccb11f10d9e81dfbe03685239a633d58d8933ed5f6f0c2418e191735ed2c",
+"src/printer.js":"6c8d742c6a5aee2f8de167d39361f37cd63d2c33e1b12234ce5ae0864d884991",
+"src/styleContextStack.js":"bdc6dbf60a1a3a4e96679620581a43bbaf229b6d1f03c5836ee2328e8710d4b4",
+"src/textTools.js":"7def6c171483901eff05a685ac65ce725fc0b9f59c5a1c42e60ff364b9a87c5e",
+"src/traversalTracker.js":"d3d77500d41e221d12eee1408484cdbcd07d7dddf788b6bcb7d7203ab54700ba"
+}

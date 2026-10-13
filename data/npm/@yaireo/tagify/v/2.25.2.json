@@ -1,0 +1,12 @@
+{
+"dist/jQuery.tagify.min.js":"ffec05a075eda13d200ab5cf8eeecec126dca41eba50bb49ccd3a80dc46450b4",
+"dist/react.tagify.js":"c51bab20d7df3b983989a44b49ee032e58214c19773639ddf1056fb63529bd6c",
+"dist/tagify.css":"03fdab623064bb7fce49ada5d394e836f400832705a807fb46808cfcff7aaef3",
+"dist/tagify.js":"625c0bf54f1a195234c38d501270dcbe450127a1d2c3c4d216138a2d1bf98c8e",
+"dist/tagify.min.js":"d2ce1d87fd2ef141584c003f4dc48b535bff008a9f7309dcb580224941845ae1",
+"dist/tagify.polyfills.min.js":"f73f5350a876a1e997cea53435a4a103d9bdbb57fe59c95224618af2983ee139",
+"gulpfile.js":"5f0769c541fc58662758a490ee4b539369e16b7994d6b6d51962221734d36039",
+"src/tagify.js":"f09c9e5a3cc4ae15f207081bae3e262a666cc3dee882c84d3899a4cb19d288d0",
+"src/tagify.polyfills.js":"7e45c4f61abeea6d1ebf41b68c6e6d4977bef4fce3c4bb73188128b0df75fe52",
+"test/tagify.test.js":"3017d23e44b3a2e48f95bcf38fe9077bf8c8b6a6a4802d578a3098b0b583c093"
+}

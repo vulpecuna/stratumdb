@@ -1,0 +1,11 @@
+{
+"bundle/datadog-rum.js":"cfa71f26a92619ccca0f44b587714bb88ad0665a3afd88957fae8a1de34262d1",
+"cjs/boot/rum.entry.js":"4cdacd8be98d002df25d08b6aa91cca70d47dbfe2dbb68afb9fd9f3a3a37320d",
+"cjs/boot/rum.entry.js.map":"1badc77c43bf8c3780087f369a623cd5c996b3f873af24c9f6d5d8158255b3c5",
+"cjs/index.js":"caa968b718990f99c1c816746e91339918879dfb8d57541b4fb4a3f3912d626d",
+"cjs/index.js.map":"bd5b5dfbbc88d72aa2824cc1dc535e87b229c5449d15da71707ef97d3d19d4a4",
+"esm/boot/rum.entry.js":"ed708e56c43e4ed807a5fe059cab12aa009df7f9afa6caa5bd575a063f8516ad",
+"esm/boot/rum.entry.js.map":"3e9dd0b821ec1477755e89a94ca4f11de4c57d7cf9da1bb8a51eaa8387e5c61b",
+"esm/index.js":"2c4adebfa8705e8a9aa87077ae5d9a67f069fda5882a37cc1cd41a09abdccce6",
+"esm/index.js.map":"748dbb2a1fad16e5e99a245cbd06cd25e983ecc61e21b43473edf3f2e23b85b5"
+}

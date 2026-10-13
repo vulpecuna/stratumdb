@@ -1,0 +1,14 @@
+{
+"dist/logger.js":"3df60d224a9a13537cb8e38f6785f4799236e6937ecaae9dae8e0308b2ee42c1",
+"dist/vuex.js":"4ccbacf8c6cead24bd62751497e0b9ceb5cd8089decaddd8d2d1d451b5f14b8b",
+"dist/vuex.js.map":"c1aa336f7c68080d7afc11fc44a475ea47181d603f883bb5c8eb5ee8f0436304",
+"dist/vuex.min.js":"857470f645e5b0e1d98ab7b33b5865eea6a23630905aed7d3a0f8796d9c580b4",
+"src/helpers.js":"3d1b6d608c4b2e4dd6efc760fe93c573c1ae77666ac440247bc5b0ff4dde6b95",
+"src/index.js":"2ab0a62307a7588ea16fab4d19fe58e0420119bdfb15673442f86311e75752ed",
+"src/mixin.js":"e40c9bc3c33892da33cdf25e3c20a6c187959287acb34cb5db010ef8e50b6579",
+"src/module/module-collection.js":"a3549e81edca14ffbad561575be7a8c75b785b65bc01c5c10171e0f56b05ccb6",
+"src/module/module.js":"59636dc91c58288737fd00c8a844477034764f5a529db61e0abb817ac4c5e0bb",
+"src/plugins/devtool.js":"268c0a5e8546e992b94ef72048f175b1c5c5139ad17c551f0e7e9193ea6a9c2b",
+"src/plugins/logger.js":"0a1478be20cfe4838dc9c8ebdeb0761133de0e36510fc5f590f1d28954da0c70",
+"src/util.js":"caffaf8b0d23c56bf3a1e44245a6311e2dc01eb72dc00cfd8bb11b471a720501"
+}

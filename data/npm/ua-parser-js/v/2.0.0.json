@@ -1,0 +1,13 @@
+{
+"dist/ua-parser.min.js":"d391c926a5b8f107bc726140c59aadb1608d7a94aae998a59f85d3ad09b91b6d",
+"dist/ua-parser.pack.js":"b737fa34cdd59de63c8c6ceaabca1f110b9d4d24f6dd32df15dbe8fbe9636923",
+"script/cli.js":"e7bdd570a3825c7e266fb7a300f333712e13b12079bf93b9e00814f38ab837e7",
+"src/enums/ua-parser-enums.js":"0ca84d67d54fc2e51929bd7efcb03bf08d9aab0f614638b8db57bcabe2b47b08",
+"src/enums/ua-parser-enums.mjs":"f862d125367ea259b0050be0c4bb2d88b26b348bb671f76651bc7de2e5ffcfcc",
+"src/extensions/ua-parser-extensions.js":"2d317084d89d05ec8558ba2543b2ab0ff85e7929b34ba8ba9336737205a0f2e7",
+"src/extensions/ua-parser-extensions.mjs":"cc6f23a71fa8022d917cfaab2c86b47022a3906e7cacef19731b57ed001d2ccb",
+"src/helpers/ua-parser-helpers.js":"8fc651396d52c292b8bd8c9c6b84d587a7e6ff0f0ee2881b6650709f33efd469",
+"src/helpers/ua-parser-helpers.mjs":"b43ff43a914cd4167b5320bc86af23020703bac755a0948fb133b35d96d3a3a1",
+"src/main/ua-parser.js":"9678fcd6588da63c8ab1cdfaddb38075061616d1054dc2431786ac3194eeae11",
+"src/main/ua-parser.mjs":"08941b749631f38df82734362f842d04fd2bba38438c3f14a8cda9241c72b280"
+}

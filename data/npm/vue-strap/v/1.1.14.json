@@ -1,0 +1,12 @@
+{
+"dist/isMobileBrowser.js":"03fc598af725f849a8120517004383cd6000040d8caccd9e4455cca59986440a",
+"dist/vue-strap-lang.js":"d42016cb59b72c96aecd62d32f95f03c6a50b2f8ed01f784f2712b5f3f1b6caa",
+"dist/vue-strap.js":"a32d84e713ce6bac9d96608196f0b26cf2cca4b74e8647098e1392125ef82001",
+"dist/vue-strap.js.map":"3bcca3ac126486100fbe04d7f3da5cb95a90d552c364d86370349bdf7f01bb48",
+"dist/vue-strap.min.js":"e637a423e44073f2c9e0896362cf67a1ab50c5ad23cab2f7aa6a17c7b51b32a8",
+"src/index.js":"58aa51f1035d0a2caf3435fccbae78f40929ec90d268c7d7956bd441cd1bed79",
+"src/main.js":"4412ba209cda94238518d2dc7934c738d13334f3e711bfb56d8c11eaf3e0c22a",
+"src/popoverMixins.js":"d94af3a79e388a089b58163f82166dcaa5d0461913a850a88e6d7e81c469fd82",
+"src/utils/NodeList.js":"7cb3e63feeae0d18d99f3af2901020c3c72e141e882bc229641c1d3dbe993347",
+"src/utils/utils.js":"4775a3672f798e13cc6cb47bddd04ad32dab831bb3e46803c5343d3818d4930c"
+}

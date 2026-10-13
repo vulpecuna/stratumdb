@@ -1,0 +1,11 @@
+{
+"dist/preview release/Oimo.js":"a4316961af9aa2892e6ecc72d95576b3eb58804ed5638aab5ddc41bc8877d33b",
+"dist/preview release/babylon.js":"78be3f7389a6fe4a1f2b172a9132cfcb2e90918814876fb2d00e418c64a64542",
+"dist/preview release/babylon.max.js":"adf49fda5069a28a6a6afba8876ca38d917b25b0efefdb3f9bc3c4175c09e104",
+"dist/preview release/babylon.worker.js":"66231640e232362b48cf19481f49fec02cf55548e2ba65817094933da87853a3",
+"dist/preview release/gui/babylon.gui.js":"2e11bf471ca127a882d19b3a940599516b1a64226019cf72036bbab3fa632de0",
+"dist/preview release/gui/babylon.gui.min.js":"80fa6ffcf5bf34b95b0769a0b9648a17ea6014256ed9227745f0a0ace6c05c37",
+"dist/preview release/loaders/babylon.glTFFileLoader.min.js":"f5b55fb285b95108d332e48a0fab964c89de14902f37caecc149724578f6480f",
+"dist/preview release/loaders/babylon.objFileLoader.min.js":"333682fd03ae7e4d418b5ec9bcbac2e86e15162fda82043749c8e35d19b60e1c",
+"dist/preview release/loaders/babylon.stlFileLoader.min.js":"2e9c345e49b35a2661b18e750cbf05268c9324fc0e8d0151879064364c82858e"
+}

@@ -1,0 +1,15 @@
+{
+"dist/ua-parser.min.js":"09a88b25592f575828a6a58cee8cad77a2bb19d14be5ef38aac156f619380e28",
+"dist/ua-parser.min.mjs":"9b523997b3fdaec300a60ec66b88c6e4850463854f2076113ab1b9195e539bf1",
+"dist/ua-parser.pack.js":"3523a01c92c59f1116fb2f3d762cce1f05641980d882054d35279c547710de73",
+"dist/ua-parser.pack.mjs":"ac6b64e3082c0cf8670616cf99319f463e70e828d21969dd0605fb87ab96edf6",
+"script/cli.js":"e7bdd570a3825c7e266fb7a300f333712e13b12079bf93b9e00814f38ab837e7",
+"src/enums/ua-parser-enums.js":"5613999bb27e980ce3c5f916ae40b1374066e93b83b8e72f5f533f99bb2b7dc9",
+"src/enums/ua-parser-enums.mjs":"883490d1aebd178752582137315e08560c2b464b67e8ba613afabe52db699eb6",
+"src/extensions/ua-parser-extensions.js":"b5fa4636331a0a7b0e0476d0417b1cf1752ed0e95aa4158dbbb2d3c1d3705367",
+"src/extensions/ua-parser-extensions.mjs":"b9c78b407afec27cc02f24ed0964c89e0326a897f6ac568ef12291212ea10ea5",
+"src/helpers/ua-parser-helpers.js":"c71585137b2c40a62beeda559805c02735c2cde3007767c645f061ab0639b0a4",
+"src/helpers/ua-parser-helpers.mjs":"79cb237abcc6e76f5d4ac5138667cb93a2aea578f7c007542efff40f8a80e88e",
+"src/main/ua-parser.js":"27630d327939b9fff246a44100ad007cb37bbafad2014902f1f1904255e9d124",
+"src/main/ua-parser.mjs":"259133f9546c9f577c0ace3c89fa938f5e3a5e4a47a4503598f5c6c0ae4a45c3"
+}

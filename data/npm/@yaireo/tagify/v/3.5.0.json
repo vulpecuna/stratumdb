@@ -1,0 +1,9 @@
+{
+"dist/jQuery.tagify.min.js":"597591bb95497a58219374ff525ce1a75dfd543f522b3a20d54f07ecfca59331",
+"dist/react.tagify.js":"be2f260fd8c896f7ca3bcdcc61cb7e080bf8a9560a50fdde6f41c527ee5c3a49",
+"dist/tagify.css":"fba22c40389b21a714089c3012e2c12f8ee91e348e1663e9cbb95e5921a1e5c0",
+"dist/tagify.min.js":"db18313e799e68e4c958388425894f7767e770e4d8a1e012d9e6c7a6f625ab80",
+"dist/tagify.polyfills.min.js":"5244c22443f82350f3ace1ab0f8b4bd88bd4fdda45f4ea19741981b82798d482",
+"src/tagify.js":"aff7101925c32d447042e4d47cadf01dced1ec222deb1dc4ffb29c859913e889",
+"src/tagify.polyfills.js":"11cf61af3034a3ffe9f63db22eb889204a1fa45db1fda5964f810c12c13547ec"
+}

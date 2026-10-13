@@ -1,0 +1,9 @@
+{
+"dist/base.css":"328afb5528651feb938a64e060dd4afedcd0a476550f517f4bf8adf9910b3993",
+"dist/esm/index.d.ts.map":"b706e192bf9d4460dd34ffb2a94d715c7f9826876c91453995dfde9f20b51bb1",
+"dist/esm/index.js":"c48c033773aa5492810668cc3f87e3bd948b089a41dfcfedfd59f55aab10c5f3",
+"dist/esm/index.mjs":"c48c033773aa5492810668cc3f87e3bd948b089a41dfcfedfd59f55aab10c5f3",
+"dist/style.css":"0767e1e47b07b0ba8c5b9923ae3a8bfcb06cecca263ed55a9f18e1a5af9a8b22",
+"dist/umd/index.d.ts.map":"b706e192bf9d4460dd34ffb2a94d715c7f9826876c91453995dfde9f20b51bb1",
+"dist/umd/index.js":"88fbe29828a7eef92e9956c6899f7755d4fc2e747b24005b47326a9e19a4e099"
+}
