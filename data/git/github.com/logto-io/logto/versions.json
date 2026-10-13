@@ -872,6 +872,7 @@
   "@logto/console@1.39.0",
   "@logto/console@1.40.0",
   "@logto/console@1.41.0",
+  "@logto/console@1.42.0",
   "@logto/core-kit@1.0.0-beta.29",
   "@logto/core-kit@1.0.0-beta.30",
   "@logto/core-kit@1.0.0-rc.0",
@@ -972,6 +973,7 @@
   "@logto/core@1.42.0",
   "@logto/core@1.43.0",
   "@logto/core@1.44.0",
+  "@logto/core@1.45.0",
   "@logto/demo-app@1.0.0-beta.12",
   "@logto/demo-app@1.0.0-beta.13",
   "@logto/demo-app@1.0.0-rc.0",
@@ -1138,6 +1140,7 @@
   "@logto/phrases@1.30.0",
   "@logto/phrases@1.31.0",
   "@logto/phrases@1.32.0",
+  "@logto/phrases@1.32.1",
   "@logto/schemas@1.0.0-beta.13",
   "@logto/schemas@1.0.0-beta.14",
   "@logto/schemas@1.0.0-beta.15",
@@ -1320,6 +1323,7 @@
   "v1.41.0",
   "v1.42.0",
   "v1.43.0",
-  "v1.44.0"
+  "v1.44.0",
+  "v1.45.0"
  ]
 }
