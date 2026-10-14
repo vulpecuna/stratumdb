@@ -64,6 +64,7 @@
   "@pinia/nuxt@1.0.0",
   "@pinia/nuxt@1.0.1",
   "@pinia/nuxt@1.0.2",
+  "@pinia/nuxt@1.0.3",
   "@pinia/testing@0.0.1",
   "@pinia/testing@0.0.2",
   "@pinia/testing@0.0.3",
@@ -95,6 +96,7 @@
   "@pinia/testing@1.0.3",
   "@pinia/testing@2.0.0",
   "@pinia/testing@2.0.1",
+  "@pinia/testing@2.0.2",
   "pinia@2.0.0-rc.5",
   "pinia@2.0.0-rc.6",
   "pinia@2.0.0-rc.7",
@@ -215,6 +217,7 @@
   "v4.0.0",
   "v4.0.1",
   "v4.0.2",
-  "v4.0.3"
+  "v4.0.3",
+  "v4.1.0"
  ]
 }
