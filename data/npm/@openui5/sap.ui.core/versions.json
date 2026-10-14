@@ -53,7 +53,7 @@
   "latest-1.149": "1.149.1",
   "latest-1.150": "1.150.0",
   "latest-1.151": "1.151.1",
-  "latest-1.152": "1.152.0",
+  "latest-1.152": "1.152.1",
   "latest-1.153": "1.153.0",
   "latest-1.52": "1.52.48",
   "latest-1.54": "1.54.7",
@@ -99,6 +99,7 @@
   "latest-1.98": "1.98.0",
   "latest-1.99": "1.99.1",
   "publish-only-do-not-use-0401f503-5d9b-4d8b-a630-fcde2b5963ca": "1.84.59",
+  "publish-only-do-not-use-1ab4d4d5-bc77-4ff0-a147-604528ccdcdf": "1.152.1",
   "publish-only-do-not-use-3c6af244-1664-48b6-9ac4-94c85c790523": "1.148.6",
   "publish-only-do-not-use-512140e9-eb9b-4e78-afc6-ec10a5888dd8": "1.148.7",
   "publish-only-do-not-use-640af582-cc0b-4494-b000-5d5da3fa654e": "1.108.53",
@@ -870,6 +871,7 @@
   "1.151.0",
   "1.151.1",
   "1.152.0",
+  "1.152.1",
   "1.153.0"
  ]
 }
