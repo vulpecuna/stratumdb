@@ -1,0 +1,9 @@
+{
+"plugins/sigma.layout.forceAtlas2.min.js":"305cc52933e51dc4e1b7e12c43bb71d0b4f9025ca9de3d0cf6c15870736f338a",
+"plugins/sigma.parsers.gexf.min.js":"afb31d17d22a9d5565f397747db1bbb99eabaab92a5c6a6a677e03dd045023c6",
+"plugins/sigma.parsers.json.min.js":"18f02199da47101ea1d38753f645ac4cccb2abe7fa33665af9e0a60cf380ea7c",
+"plugins/sigma.plugins.animate.min.js":"e725428c3daddcd7ea5f78128c55006bfc30a29f239eead63f7c9934a77ba238",
+"plugins/sigma.plugins.neighborhoods.min.js":"f6c20f0014c65124af1e795e472862bfcc8498322eaab9fb622183a899e1c906",
+"plugins/sigma.renderers.customShapes.min.js":"543d537f9629cfb458f5c182479aebbf499ca0b25b653237ce144813ff489d92",
+"sigma.min.js":"4e73d731d7b9896492761bf482ad2a9ecb949fc03f50093b1d4680a84973d2cb"
+}
