@@ -1,12 +1,8 @@
 {
  "source": "npm",
  "tags": {
-  "alpha": "7.1.0-alpha.0",
-  "beta": "7.0.0-beta.8",
   "latest": "7.1.2",
-  "legacy": "5.11.5",
-  "next": "7.0.0",
-  "rc": "7.0.0-rc.3"
+  "legacy": "5.11.5"
  },
  "versions": [
   "2.3.1",
