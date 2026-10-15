@@ -3,6 +3,7 @@
  "versions": [
   "gitops-engine/v3.6.0-rc1",
   "gitops-engine/v3.6.0-rc2",
+  "gitops-engine/v3.6.0-rc3",
   "v0.1.0",
   "v0.2.0",
   "v0.3.0",
@@ -603,6 +604,7 @@
   "v3.5.4",
   "v3.5.5",
   "v3.6.0-rc1",
-  "v3.6.0-rc2"
+  "v3.6.0-rc2",
+  "v3.6.0-rc3"
  ]
 }
