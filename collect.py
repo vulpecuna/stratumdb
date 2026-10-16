@@ -330,7 +330,11 @@ def cmd_npm(names: list[str] | None, jobs: int) -> None:
             continue
 
         def one(v: str, pkg=pkg) -> dict:
-            listing = fetch_json(JSD_VER.format(p=pkg, v=v), allow_404=True) or {}
+            listing = fetch_json(JSD_VER.format(p=pkg, v=v), allow_404=True)
+            if listing is None:
+                # Not published on jsDelivr yet (a release minutes old answers 404):
+                # written as an empty map it would never be asked again.
+                raise Transport(f"no listing yet for {pkg}@{v}")
             return {f["name"].lstrip("/"): base64.b64decode(f["hash"]).hex()
                     for f in listing.get("files", []) if WEB_FILE.search(f["name"]) and f.get("hash")}
 
