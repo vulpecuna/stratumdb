@@ -1,0 +1,17 @@
+{
+"dist/vue-form.js":"06dc425b263f2885722a8e5178e2f52834abc0d093c388fc88930e7a0e9f6311",
+"dist/vue-form.min.js":"dd5c19c7a4d824341710eae0dea5fd3f4403100871c0819afbbc2b55cc88c97a",
+"karma.conf.js":"fc05c780c514b2f31123b90bf558933b1135bed26a528d32654d2bef806b3374",
+"rollup.config.js":"c4ec641209825eb9cc480d6c750afb4deae349eea64e8441c7c69823dbf6c264",
+"src/components/field.js":"1b42123d7e641278320934d96ca352551a27778efa80fb067811d5770e934ce3",
+"src/components/messages.js":"c016248f94afb7e23b3d2b1184786629d3708f422293ce66235bc97aee1b3185",
+"src/components/validate.js":"06d5316a0796585fb5a2a78794c0d80455f4c0ab9d2ed4e790b3dc78e27901ee",
+"src/components/vue-form.js":"036961002c8e46637b326f6a478f846323bf7925c54a7d03345506955b5288df",
+"src/config.js":"9f879c5c1beaf77db6b4555d25a81d03a210904edf87554abc0e5fee7051ea26",
+"src/directives/vue-form-validator.js":"a5ccc67f6cc431c449916d210acc55c60f1a1d0129708f95890b4c845e715587",
+"src/main.js":"830786ff54f42e9f80bdd295e3d114cb6127a7cbbcfad7ee4e0e3635f649b9cc",
+"src/providers.js":"6751c16fb8fd4ca6ab2a6788ee8946b0a1897aaebbe81e32daf6383b3201ff54",
+"src/util.js":"beeb21a7e8c7f5a04ed0425520b90c0740276b11e5f8d9ebb16cd7dfdbf7d8c2",
+"src/validators.js":"d575c848e81a07a3d14538c6f80b9b9426264b5266d0f31ddb41262c6a6ecb12",
+"test/specs/vue-form.js":"93fb6ad824731316713b8b2dadb13a57e9d7fac936060afef6f8bd6a693a0dca"
+}

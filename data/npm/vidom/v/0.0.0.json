@@ -1,0 +1,11 @@
+{
+"example/cmp.build.js":"5b152ddb21ea3fd9c50b6570b651211c9e9ef4802c774ed0b31aa265f23c1a26",
+"example/cmp.js":"ca7c076a63b096cc89dfa6d76688cd9fc8f16ae4792c6c655255e7a4c8d43024",
+"example/vidom.build.js":"381a31107fd3db4b788d2d4d756785c3becb2f9196711a3f8c90c5c74a7f0962",
+"example/vidom.js":"5219678cb75db82dd174ffcd9cb9f5bd8dd8f29fd79b78ce8dc162f082d43cda",
+"lib/calcPatch.js":"f8c56ea26731b30f4fcbdd08623024355ee453430f6ec52acc45141b93b26760",
+"lib/patchDom.js":"8345531508c10ffde0b263636170144b21f4fd06b1cbd12c3c6e922f75374c99",
+"lib/renderToDom.js":"804b79e783ce51e6cc603f9d53ea085fdc348d6c2e5afb9c2e6d643229534b96",
+"lib/vidom.js":"8200f09da1bcebd046e688b7eca9a2396047d02ab8cd8234f0cd6b631fb5d34f",
+"spec/calcPatch/calcPatch.spec.js":"b5dc63f138c3aac8da91a68d83fef2ae5d614a8631bc5163d1ca60c57db2f2ad"
+}

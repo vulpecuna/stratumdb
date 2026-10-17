@@ -1,0 +1,12 @@
+{
+"build/xsound-server-session-websocket.js":"807fe658e3761b10dad6a79d0764932e84982bdfea5ce0a0ef4a8c8160cab0e5",
+"build/xsound-server-session-ws.js":"bdac60c9bff91b1e9a159783afaac601a7dab3f064c6f3ee4ae846c0d414952a",
+"build/xsound.js":"8b89a428a4ca8589748c7240d99972028366e8fd34d2cf1b55d3e51183051cc9",
+"build/xsound.js.map":"6b663f1e3c03a292c3f6717cf24dd2928793045607a9c3fbedf927a1e0084d47",
+"karma.conf.js":"5784507f39731889c739c586ad90df45e1bdf21b700b2aafac70621d2de492ce",
+"public/app.css":"380d9b2a09754281e0c8b1a6a3499b7f87ebec589eebbf43c640227a0aaad8ef",
+"public/app.css.map":"6919e05b657eb28d8243af81f1263940772434985adf2b05777aa3568dda4e21",
+"public/app.js":"e1d910175aa55f13941bbb18b4ba4a426e2a9e9fa3187a96101e4b6917b6c2f5",
+"public/app.js.map":"0a239cae0800d9407c71daa6b02ed84f8f2ed4c270690d7f8d90c4ba601f2db1",
+"webpack.config.js":"bc84c40453cf744976c3ef97b3731d3a7ff9450a12e433f02fa72aa1e473afa3"
+}

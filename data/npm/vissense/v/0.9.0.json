@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"aa0bf6d352905f6c87acee932f2b246f180677b7a139f8d45bbef7ca2d3f4a54",
+"dist/vissense.js":"56f89e3c300aa936795b49cde889c002f0ea33c059f1371191b62bcb45e66031",
+"dist/vissense.min.js":"5ede23a9fa9aaf2ef13100dd07f3dabb16ec8e2980344633a909702660fe9597",
+"karma-saucelabs.conf.js":"53a2a8bd74a9121f1df417229259a2afee1a0f8a80fd4d3748b4a38ea12e8598",
+"karma.conf.js":"a896eb009e5c4c120b9fa0244519d57c979017bd4f5eb971ac94923f53fc810f",
+"lib/vissense.js":"43004fd5970fd22074633f149a42569dc5868cb1e5dafd86b40bbb0c466fe371",
+"spec/customMatchersHelper.js":"99ca026dec7dfbb621a623565501be51ddb927f5eef839c86dfa50f582423bd1",
+"spec/fixturesHelper.js":"113a9a192b6f67107b8f80e4503ea421e36e7d1d153e89c2490e66daf650b522",
+"spec/phantomjsPolyfills.js":"50a385ec21bce2cc3b0ee37cdf3283e241450fc9f337d2033b3b4288dbaa50aa",
+"spec/vissenseCoreSpec.js":"3dac16aba856460f058dcc11b7b03f957d5ece3c9c6f24c902aed391efbe09a0",
+"spec/vissenseFalsePositivesSpec.js":"8ebda8b130c67975c5be66e3ecb9e37e3641b8b8ec97411c05402d6223dddba3",
+"spec/vissenseMonitorSpec.js":"b43856c150f39b11dfc6748a67907b0fe1b7dfd611fe49b2d9b1db0eea346fc9",
+"spec/vissenseRequireSpec_.js":"96fbfdff0f39cb2768b64e6384a7e948f66cf9fb1d40bb0c7ff327d1dd96ca3d",
+"spec/vissenseUmdSpec_.js":"581a80cdb586bf69b1549bdfd4c8081138b33892349ae4ef0ac85ad216efdfba",
+"spec/vissenseUtilsSpec.js":"c0cf59bb92a2ecfacb1b875dbcbec1b7edb84d4e85f0828a5f9a4f95ca91a60a"
+}

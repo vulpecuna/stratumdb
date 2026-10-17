@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"526969bfd602c4be275535f290eec5290f2559a8726cbdb7cb3fbd60dfc3a31a",
+"examples/css/style.css":"ccf1a324f931ec891978a414fd2033d8f9177807ac27caa049e794bbfd68fe3c",
+"src/css/videojs.record.css":"bad8b33498724db3e54ccf9711017d02becfc8bb2feeca8547cf6acfe11bde11",
+"src/js/plugins/videojs.record.lamejs.js":"f7743af55f45d6805cb28817c72be7966cac499b125d1585cdddaeb4b7d38e49",
+"src/js/plugins/videojs.record.libvorbis.js":"0e27353fc6f42304ea7b37ad581b122b5f63db7c4f633a8115632c63cfce8316",
+"src/js/plugins/videojs.record.opus-recorder.js":"23140ba13cb1bed7c91cfa34b997e362f26d8bab391d46bc134c9ee7691962a5",
+"src/js/plugins/videojs.record.recorderjs.js":"5d418c2ad050c17e1671d714b720563200368165f7effde49045546972303e45",
+"src/js/videojs.record.js":"5d3b6262a4aa67585d2c175133141a3c98e8db95d6c9c440b002edc4d9712cfc",
+"tuna/tests/tests.js":"d1ca10fa080da4b931cd76192a7811fa28277d7d5da62cbe214d997bb62b65cd",
+"tuna/tuna-min.js":"40704c7e5c5facc87a816c85f51e379790a505dd1c7bdf217cb6306d413a336d",
+"tuna/tuna.js":"5d0b5182f431f5b8e37b302306000347dc8b6a1f365e3405a3e0cbdc067634a9"
+}

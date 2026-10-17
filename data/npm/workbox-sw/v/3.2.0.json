@@ -1,0 +1,10 @@
+{
+"_default.mjs":"2b52effb6db70b5a8288cf880b67cbbcf5e8b556df4232c16d16fb340ada7c05",
+"_types.mjs":"99c099303d05891817c52949086930b2f05b59a8edacf4ecebbc5fea9130dd58",
+"_version.mjs":"c439f711f2bc36e8cb59b0085d0668160faea82cb79d820ecfab1e3e9ce68529",
+"browser.mjs":"9f992a315bcd3990ae3fcb856270815593446890c8ecfb9214c3ea52184fd882",
+"build/workbox-sw.js":"e4daeb93584ce9a41a4f89c3292c2183e99c01e65e66e72c8c7f7dd0ff4ac005",
+"build/workbox-sw.js.map":"ccff9a7341393f0a02ee79d5ea004be0fced2bcb329a7705a356f7d9bf28c123",
+"controllers/WorkboxSW.mjs":"19bc4df060a0ab9f289830679a08057bdba7f3ea680ef8e6db4f6b430a4193e9",
+"index.mjs":"421bdd34f16a89cd49288183e6b1c7d313443bd95868d7a81ad8b33a1ac78a82"
+}

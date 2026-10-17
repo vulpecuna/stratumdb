@@ -1,0 +1,14 @@
+{
+"dist/rules.js":"b990a9b59f89dc62dc15aa78a3deea743ff429ca98b1e350e7c57beb4c4333e1",
+"dist/rules.umd.js":"ee197188a01b492ef6431648f0315285bb8a63b15d00ffbc5a878e213def47c7",
+"dist/rules.umd.min.js":"f8f8922c18036b20d7a7ad7e5e2926f01a5875eda23c6174f07534f2d098c153",
+"dist/vee-validate.esm.js":"8b578712cdc15e3fd0b8a4b6ef5868c39ef1cfc8ece95d38918cff672e75e981",
+"dist/vee-validate.full.esm.js":"a9481d47df9c1a4eba7d885811efb814fc14abb2a4b1d1399be2187a7f0f05df",
+"dist/vee-validate.full.js":"6ec5592acb92481a52a3a962de9b85bb3de39874e30bccf75f8eeaead01caf88",
+"dist/vee-validate.full.min.js":"f2d46a54ac12ca7a3b4eba532a7c59080623b1c799b283b0595b4b8e96b05ddb",
+"dist/vee-validate.js":"bb5cdb82560ce6edb45ebf72251c74c4055db14c79642cfc3ffec557860c459b",
+"dist/vee-validate.min.js":"f3b8e64268291148c883d8804f9d898e51e4d8f8d7b04872d69dfb7c5273b0c6",
+"dist/vee-validate.minimal.esm.js":"bcf326b4f45ef38c8cfba32b0693d6387fef55cadbb9f4938099816ecc0970da",
+"dist/vee-validate.minimal.js":"778ed7f11f618636c4e602ccd3532ea6261267b24bf8803825c4250c61ff0b5f",
+"dist/vee-validate.minimal.min.js":"396bd269a1df54a228a2abdc12e277cef821df205c02ee1987080b29192ce4de"
+}

@@ -1,0 +1,14 @@
+{
+"dist/vssue.bitbucket.min.js":"778b7099765ad5e6322184888f2241c6a90896e70f242df0a46ee8d788e95778",
+"dist/vssue.bitbucket.polyfill.min.js":"21d2edbd2605d73ac1e0f89e2d169278207fc70f4883cd7bb1cc796d11ca902f",
+"dist/vssue.css":"b3b3a95819f8b34b88b723924e09819483573191b150566ec90a92eb6d3a3e9c",
+"dist/vssue.gitee.min.js":"006a0ab131662557713345f0056467b32ac46f2e9f92cbc68554d28722cb1a35",
+"dist/vssue.gitee.polyfill.min.js":"acbdfaecaf311029409c024969fd80e09016c8f7bc2f95bfd1674ea26c252de7",
+"dist/vssue.github.min.js":"b7fa6907cd6026a0d0e173755a8e2151c8404f83a86e96feece4752d9620c5e5",
+"dist/vssue.github.polyfill.min.js":"51339e910e418dad5ed2144928cafc104a66f96a5cc93e9f0aab1de4b6ddac08",
+"dist/vssue.gitlab.min.js":"1fef9335f504a5addb38d872d8949c091f79ce03fa013e27d7baed322e9e7dfe",
+"dist/vssue.gitlab.polyfill.min.js":"3faea692742e3f6aa6594c96c2128a9ef07780e345295b826e05534dfd67a9ee",
+"dist/vssue.js":"0d835af2c5947ec3fb395693f836bce299e395f18c0d69f0a54378a250680b76",
+"dist/vssue.min.css":"0b0f0c6e76aa491dfb94e54e582f8c2811440d9ffb8688b557a2c4054fcbd65b",
+"postcss.config.js":"e9460ae3b38624641f034705ac9cb15b924a9b2876aef1d84b3314b7c8531bad"
+}

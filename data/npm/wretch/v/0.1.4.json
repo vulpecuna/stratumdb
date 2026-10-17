@@ -1,0 +1,14 @@
+{
+"dist/bundle/wretch.js":"967f1ab0f4803175ed31a09835c1b8d642d5a18527befa6435604ebf23ed4435",
+"dist/bundle/wretch.js.map":"8ab1609ef1340089375b04ebadeaf11c34341ac30e30262fb4902868cb69ed7b",
+"dist/config.js":"a44d274fe360e800173af2fcfce5b4b31778f8d25859b0df7e1b7258d5ccedbf",
+"dist/config.js.map":"130e35a2c667802b950813f3ef765ca45de45103969bd206cb65440c2cba104c",
+"dist/index.js":"33bb76f6b607ea831b19fbac381288333e211abe3cd9cdea97710ba1a7218129",
+"dist/index.js.map":"bc92a2d8a06c1497fcaf776bb67affb83f1e98eb967f741bf8b33ec02015e708",
+"dist/mix.js":"9a25d4c0060414abd8ea1ab0572d685dce7cc8cd536ca17cf607099a769ceb6e",
+"dist/mix.js.map":"90ae30d61988dca46152abd17e7c0b2f34bf06c440c1595c3f535de0cb19b624",
+"dist/resolver.js":"04932bbd90ed7b72bf3d8418d221fa07f8825be12fede563a70b772c5ee5bf51",
+"dist/resolver.js.map":"e973b0313e41484bc0b341245d5eaae34d4b1c386b061078c0cb6b4c7b86c9b5",
+"dist/wretcher.js":"75d1df2672eff76c35d34734d830c660a7e018850a62060245f06d5fef48ec49",
+"dist/wretcher.js.map":"b625dfceec88140056a461697e0e576b35e29aef6f602d1fed1f263160978e40"
+}

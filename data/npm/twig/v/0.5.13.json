@@ -1,0 +1,9 @@
+{
+"docs/docco.css":"8b1c90082aef9726e2ef7e501da5725ef47c5e77bb45db0c52c9fa4740cf9f95",
+"lib/compile.js":"0ecd10fdb884a07d5b9edf6a9e880b1d9bfdea41399db36ab7ba7e83d0784a9b",
+"lib/paths.js":"128cd1eac49937dc8f9d65c6c8426d2bddedf7a2ac83b831f1918ff0267b1092",
+"test-ext/test.original.js":"ec3aba485380dd4b4836bc73a13143dfbab24a96595ac262e0d2d2a70f63a1f4",
+"twig.js":"875d7a11670d531a19c11ba712922874ff232fdc1e52ed062b1c0ddc19219d14",
+"twig.min.js":"7b43f2e8d598eb8db122123f6ecf8d9211e2d68dc1c49d94b02b72d1213f6cbe",
+"twig.min.js.map":"00e3b48d1f4c4485893c2f47d236eab75f3c5c6b06a70bf7e4d83bb352bf4fc1"
+}

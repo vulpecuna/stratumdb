@@ -1,0 +1,17 @@
+{
+"build/zooming.js":"946e76dadc3c9a7df4e470fa8e9a8c42e51cad42c8169dbbef591e1737890199",
+"build/zooming.min.js":"6d07f4e5bef1cf2ed3e57d6f846a97d6c81a9fb5f718c29fb406ee3e3d3045ec",
+"build/zooming.module.js":"6e93f8dc8eb6f00830dad66a18e7056d5501e38be4293b2ac5fc62944fa7b74e",
+"cypress/integration/demo_spec.js":"eff2106731c6f03855ab11356bc75cfaf8b0b460cc2175f5ab6266a0dc4acddd",
+"cypress/plugins/index.js":"2b269a357deac3c776f7359de4482cb597a4f82c29cd7093c7224fd46cf63a8b",
+"cypress/support/commands.js":"a00376a529f859d52069350f8fa3282996ec9edc376f1fd5198912eed1eb250e",
+"cypress/support/index.js":"daacc7584c905b8ba7623ce00d31f720bda21b3ed1f4f1c0c3d23669521dfe15",
+"rollup.config.js":"a40c0bda36932c417eae071508597190ae3b8110442b201ddc948c116f6e836a",
+"rollup.config.min.js":"4a3639819a25ea0576de861f389f5a577b75b22f4e1422547efc9c7da2ba056f",
+"src/handler.js":"45f74f4560666a785b6b4745da4057d0f1e897c14d5575bdd8bfab72f2ac5e2f",
+"src/index.js":"42f44e6259621276411261e4356a96c15d446b0cfe94afdc9c50b920f088510c",
+"src/options.js":"1249617d7bf82851dc8ea17176f77815ab4de1fb18072364b9fb45621f7c6fb8",
+"src/overlay.js":"9b71b33167759cc3d37f2c8f33e451143e71da459641f29faab8db61c6b25fe4",
+"src/target.js":"db44425b7f4b9d1ccf60c0f72815bf3d473c32f46520b901ed6a31e46211ccd5",
+"src/utils.js":"7a44db281eaa2a02a7260b0e6106564941f155c08c2fdcc7552a0fa780b3b6ee"
+}

@@ -1,0 +1,8 @@
+{
+"dist/index.js":"32c49cf27862cb1b4cbd991a528ec0b6b05f9f003e40d9eefa3814dde7239da1",
+"src/index.js":"5ccfe4a2e75d2e76ac23b345bff42c3e094dc1eeca1d5b0976454749daf949f9",
+"test/components/paginate_spec.js":"6297580ae863dfc303295e1950638274f35f97fc6a615d35f93f8e9826f7e8b4",
+"test/karma.conf.js":"3e639fe77019e9b7ed9406ac5390c623693548418b261cacf877dccb74d38477",
+"test/test.js":"0c494bc149ff617f5ecc4e29a761672a560a7bd6646d5b03f5ea3518fd46e1b5",
+"webpack.config.js":"f5cc57ba105ec1434ee7d898855d8c8a471bcab177a9c38f6a29ecc0be1d0781"
+}

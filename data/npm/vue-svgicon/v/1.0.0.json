@@ -1,0 +1,9 @@
+{
+"bin/svg.js":"ae0223ccf52373a9ee40370b773c15f310488f5d46172a1e2d672f4e196ba1f0",
+"demo/src/icons/arrow.js":"2cec74cc86ae025f10cff408b901d2b3c8bf0368e03e8a06d42a001b397e6470",
+"demo/src/icons/colorwheel.js":"cccedf57d6aa646a812a8635f8dbf4aec77c477a237221a1c374fa31e838a89f",
+"demo/src/icons/vue.js":"4b58538b148d98d8e3b5c6af3deaf53a3cb2f21f3bff3d5fc4e05b2772872120",
+"demo/src/main.js":"9f8293a49c1d2271746da05a0280a502a43cb7748fa7c506a6fdc328f8af4791",
+"index.js":"65fe156d58ac32b320ae74706efa5709c94533a249a0c3bef65224aa8d0278e8",
+"webpack.config.js":"7b6581474f4a7ef33288ecc508a9a7d0f25c1e8fae818dce8d941c96067be720"
+}

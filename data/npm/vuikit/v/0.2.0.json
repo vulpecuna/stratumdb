@@ -1,0 +1,11 @@
+{
+"dist/vuikit.js":"fa3f1cf0325d19c92c04dd83fbd7d3614e4e034ed4913da819c8c7b162118087",
+"dist/vuikit.js.map":"d956306f38bb0052611e0471de7314f27892e12e375c24581d218e3466fd5ee7",
+"lib/Modal.js":"3d4e6db34c3707f3b3c73e01f038a2acbf9e870c978c90e329cdedc9c4a4d2b7",
+"lib/Modal.js.map":"d90d868c6d1c75223e3ce18e3340947ca1fa35f1dcb71aba37f282b655c3cae7",
+"lib/Pagination.js":"d1cfad6e226a435f01b6ad333f8c293a33369ffa2a4bf152934dc8fa6b47dc10",
+"lib/Pagination.js.map":"8501a87d575e501ab0db5058ce9c6a7325a98f2262a334ccca688f7ee70d3ced",
+"src/dist.js":"4ebf49e5b85c8474df7f36546e5e2d85843577678b8f48ab3031796ee137b468",
+"src/docs/index.js":"f6e60716077b974ab957b22fd2f4ea056133c5ca7c937aca24e89ed6b59cc76d",
+"src/main.js":"57d3bb9183fb881d2ce960a51d407b84da3c4dbd2c79a81a47d5331cddf9afdc"
+}

@@ -1,0 +1,8 @@
+{
+"scripts/schema.js":"5d66ebfc5e72a386ff7a2cf21bd24ff41597c5adecc10df1978e519ea48efd3d",
+"src/embed.js":"fd8b0a9c4a0bf37b19dbe144b95042ab455d0964fe86d6e10dd736532f9c294f",
+"src/parameter.js":"2d98d24f923536af6a38b70b35af8f482d7de0bcc19795cd4f3fea6f99a72985",
+"src/post.js":"34a0405dcb3b3f045f47cb1fbc87a9008fa6bc207a2e6364243c70b41ba33038",
+"vega-embed.js":"5b8a6af409ed662c59d812c027aaa996c648e552d52b30bbc5f76cf053461028",
+"vega-embed.min.js":"146206c169ef2994c5e2765f99ebbc608dcc2c3e5a31ca360a03273ae0122c42"
+}

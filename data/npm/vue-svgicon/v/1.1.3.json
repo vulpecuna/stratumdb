@@ -1,0 +1,15 @@
+{
+"bin/svg.js":"3e2ac7d5f53cdca68b005fa48c676ba2096c9f9c502d943d3b182b9d90abab39",
+"demo/src/icons/arrow.js":"445a902910873254a34274da8d8f2782c8a973493d36cf1768201fb881a39400",
+"demo/src/icons/clock.js":"fe630b5cd24df1fec77228d2e845ed9efc58e445419648722453bafd3b39b136",
+"demo/src/icons/colorwheel.js":"3f7c0702c227dcb29e2bc06447ede2d5a229f18c8bb7908a12b475909faf4e48",
+"demo/src/icons/index.js":"3c500c9270c9e36e00cf5d14ff087fa7a843cd5579e4328f5fcfabca23775da0",
+"demo/src/icons/vue.js":"e6a43a9b6b3eb1acddcd537b5437a0fc2b8d2d1466a2642addb63918d5a9199d",
+"demo/src/main.js":"0b27a57de1aa336a26a456a04415b4fd80fe059b907800990d5926aa952941c9",
+"dist/demo.js":"89826280927b46d22c7133ae28e94e2a24958573ff5271cb2045b5c0b8346ca9",
+"dist/demo.js.map":"866921b086de5a1c0e37beca143e70e77f0f247bed9555ab8a4b480df64a53d4",
+"dist/index.js":"ff4ca779489f3fa5e1a7de16773226f3b6a9800de8b0bda6e72fa1dffb67df3e",
+"dist/index.js.map":"88ec77014a156367d76d7f477ccc34cfa13f87f8c8d4ba651ae4c8d58ce906f6",
+"index.js":"95f2e76e59def1f1e003f2d3e6f92be80bca19a15414df05ddbb17c42f00f9f7",
+"webpack.config.js":"029c701bcd11b23daeee54966b7d39704042f736ca316903999463bd0248bc86"
+}

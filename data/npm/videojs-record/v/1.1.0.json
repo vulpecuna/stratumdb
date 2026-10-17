@@ -1,0 +1,9 @@
+{
+"Gruntfile.js":"694c16a2523b77b7d1a9cb7ecff00a892c3dbe67b441a1d68b29e6c64ff60550",
+"src/css/videojs.record.css":"c94ae0fbe90634bee1d40138609ee034fe5bbdc270f89aa13671af5f0592ae90",
+"src/js/plugins/videojs.record.lamejs.js":"f7743af55f45d6805cb28817c72be7966cac499b125d1585cdddaeb4b7d38e49",
+"src/js/plugins/videojs.record.libvorbis.js":"46702c1158b414b9deb192e7ead0106c20c45cbcb6b70a0224ade6bcd0605b33",
+"src/js/plugins/videojs.record.opus-recorder.js":"23140ba13cb1bed7c91cfa34b997e362f26d8bab391d46bc134c9ee7691962a5",
+"src/js/plugins/videojs.record.recorderjs.js":"5d418c2ad050c17e1671d714b720563200368165f7effde49045546972303e45",
+"src/js/videojs.record.js":"45734d2ab311851060e5bf601e93f9be9eace723eb18f3b547deb74e64089c23"
+}

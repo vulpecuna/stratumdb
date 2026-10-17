@@ -1,0 +1,9 @@
+{
+"dist/vconsole.min.js":"171fe578573f022b95732f29edfe9448d3f6a08d56a8a00d0e5789a870b6443b",
+"example/lib/demo.css":"6b6c1a31028413875a5197d74817c33ff34481e970a1778c41fd6f4a0a440dda",
+"example/lib/weui.min.css":"83598d62f84183693992db2bfb0163e09a36c5ef2b75321e072b017b4984d8c9",
+"example/lib/zepto.min.js":"e094daff39a7fadab01be75eb3652905ff64fd5c67ba4b10929e9845abbf7b72",
+"example/lib/zepto.touch.min.js":"cf961260fed86d663b680706452f216c051b55ae6669d7f626028c0b2e4d8e49",
+"src/vconsole.js":"2bae9a8e3ea11611738019f88341478c9482b590bfc6c9645b627cb1b363182c",
+"webpack.config.js":"0103a5ce04dd8ea780b7cce73ca16bf6fbf789cfd40799da9eba35ab33dd1031"
+}

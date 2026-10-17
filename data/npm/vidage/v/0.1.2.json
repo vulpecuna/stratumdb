@@ -1,0 +1,12 @@
+{
+"dest/scripts/Vidage.js":"52db08e36817cd6ef57218648c514350ce97081dcb9e88b327c4e29fcba30d6a",
+"dest/scripts/Vidage.min.js":"c411c14f68417bad1c783a6871192e48dc68ce21a1f12ac7af91dc09d8eea970",
+"dest/styles/Vidage.css":"95d699c38bbbe9c682d7bb88053d87f2cc2cbb173e79df02e51ab5af20f95a2a",
+"gulp/index.js":"3b0d397acb21db2716b6fcdd586952b2d2b875074c1fc2e639b7cb4d65dcca07",
+"gulp/tasks/clean.js":"f5f97a035b2a14a36e63558484a419d77c46c428b6958006dcbaf206375956de",
+"gulp/tasks/default.js":"2d85281731875b6b66869e58dc94dee8d3bc6a598fa4acf58edf887fd189d441",
+"gulp/tasks/scripts.js":"44cf023d6f029c13d0a01a16fc15d9ce2a0f1464e6a0bfc9fdb5d5770836302b",
+"gulp/tasks/styles.js":"37d0c4d47b3ef0bd9b90933688bbb844bc3f9a972e99e542fa5381090dff4f5f",
+"gulpfile.babel.js":"de30881954297b3da5273bea99e1ffcc728d6dc48d4e9bb876c160d467570046",
+"src/scripts/Vidage.js":"9915c912c06a1b219b64473bf06a559fb6280899a98f7f6b9b0ea2ea767aaa1c"
+}

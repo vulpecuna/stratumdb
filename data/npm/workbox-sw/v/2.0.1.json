@@ -1,0 +1,14 @@
+{
+"build/importScripts/workbox-sw.dev.v2.0.1.js":"275e5f1ae9d101cb990a2d6960a16a631eab9f692132b53be297bbdac8a5ce5b",
+"build/importScripts/workbox-sw.dev.v2.0.1.js.map":"15ffa79a5b3d2e4f5914eefd10dc15bd6e87a3acf4759e26d36e7858d952e62a",
+"build/importScripts/workbox-sw.prod.v2.0.1.js":"4bddf0d4ec05dcdb1628a48c0f4c49c00896e38f035cfaac1807b2fc14a4df57",
+"build/importScripts/workbox-sw.prod.v2.0.1.js.map":"f36b57afe7375f0e3fc21bf750b2040b506b7b30f33f56a22ca45342b77a88fd",
+"build/modules/workbox-sw.dev.v2.0.1.mjs":"0a13bf3e96efa951b3911127fbebe4c1ef80219c99a37d6e679d97ef57655493",
+"build/modules/workbox-sw.dev.v2.0.1.mjs.map":"08ff0292eb00b6ec9fadaedf57930c787d444a526ef34326b82665f6db9d9d73",
+"build/modules/workbox-sw.prod.v2.0.1.mjs":"6933ad3e13f983b6435140f75080e9283ca02d3fe9241107a4d36c22fc4cbbb7",
+"build/modules/workbox-sw.prod.v2.0.1.mjs.map":"39750526790b628e50ae0b390f4a817bd989f24005b499c270dd1121915c068f",
+"build/test/browser-bundle.js":"e44b86826af195fda634b5895f7d96e170bab3103a13f7586dc1414daed40ad6",
+"build/test/browser-bundle.js.map":"ac55aae65da6885493feedc72f1b88069d237789b37f5943438b567f46271a90",
+"build/test/sw-bundle.js":"f22aee5e74474c8faffe5b5fc964e2be0b933e098c98da23883263a3648b8f9d",
+"build/test/sw-bundle.js.map":"d6a1b92d94491383836a37390715a5766627ef1e44d176f63f5bd356a25812c6"
+}

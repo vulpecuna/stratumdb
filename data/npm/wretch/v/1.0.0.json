@@ -1,0 +1,16 @@
+{
+"dist/bundle/wretch.js":"65ae57923769dd697473f0f68d8497650cc75783fba62cb1d0c769132d603be2",
+"dist/bundle/wretch.js.map":"e4c351eb5c0cb0783f2ac2af4c136f1a8dc8735c77a90fd161d178cd2f91ecba",
+"dist/config.js":"e9dbd1d2d0be49deb3ec12ef47b849929a8fad9f3de579b8eb1200ec84388238",
+"dist/config.js.map":"6dceb05c440b100f7ba2c625c2a0db1d9da8e47292c63925164932916cecd8e1",
+"dist/index.js":"64511b9d9e576f9e6e5f9e200a4037acf0d8d9eeba9b384fe5032295197a9dc0",
+"dist/index.js.map":"0159853f50c8e330083bb8171d919ff4f54d503e15760f18d569d0a19466a58d",
+"dist/mix.js":"9a25d4c0060414abd8ea1ab0572d685dce7cc8cd536ca17cf607099a769ceb6e",
+"dist/mix.js.map":"90ae30d61988dca46152abd17e7c0b2f34bf06c440c1595c3f535de0cb19b624",
+"dist/perfs.js":"b4a0303ffecc6dd5eaad992f01c5d8a49b0a2c738483957c049f591ec28d9118",
+"dist/perfs.js.map":"b3a60ba7e2690432cf5b696fcdd130066903eae86d6538a9df4de31ec223d49a",
+"dist/resolver.js":"f5b64e8edc207dc801e680d895b7c45fc6955f4f1d4f75f6c215c8e47d51dd0e",
+"dist/resolver.js.map":"4d977043552dc39f3d24fa801cc308c4cf5a8d256a3d52adf6716ffe8d5f5b7a",
+"dist/wretcher.js":"fac935e77b0988bb5a8aefab860c91b20efc037fdf2a4985de936b18c6c75bff",
+"dist/wretcher.js.map":"8d1f3bd2381037431f52c896f5d9771c46b4b6e1429c3247ad4fc2a259223775"
+}

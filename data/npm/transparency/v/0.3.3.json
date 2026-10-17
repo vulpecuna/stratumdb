@@ -1,0 +1,16 @@
+{
+"examples/hello-server/public/stylesheets/style.css":"2828f3d789d881ac0a37ccff297b4574f40955c6b8278332166659cf6867b539",
+"examples/todo-app/css/style.css":"a1e0053776f8c5a46654e31e7d865e73c5162955e785bd8129b4d6d62691e6df",
+"examples/todo-app/js/coffee-script.js":"bdf81fdbee30135c7941b7d851b7b1108357e3eb8d461727d265fd5e5c71b44f",
+"examples/todo-app/js/jquery-1.7.1.min.js":"88171413fc76dda23ab32baa17b11e4fff89141c633ece737852445f1ba6c1bd",
+"examples/todo-app/js/underscore-min.js":"42d8fad13bc28fc726775196ec9ab953febf9bde175c5845128361c953fa17f4",
+"index.js":"799229f25970cc9faaefcf76bd765e5a667a550081bc8382dad91bf57587b646",
+"lib/jquery.transparency.js":"6b068237e269537eabbc7557b50b0de3983bf6d64306e1a64e7f080b3f2e8887",
+"lib/jquery.transparency.min.js":"377ab0305198e22a953ea886916370feea0cf1271d6ed5e36ecc119719be8baf",
+"perf/js/benchmark.js":"c28ee98d8aebc248afe3321eb82c7d7e0c7f0bf09127a1a6a42a2e8c05abdbb9",
+"perf/js/coffee-script.js":"bdf81fdbee30135c7941b7d851b7b1108357e3eb8d461727d265fd5e5c71b44f",
+"perf/js/jquery-1.7.1.min.js":"88171413fc76dda23ab32baa17b11e4fff89141c633ece737852445f1ba6c1bd",
+"perf/js/mustache.js":"d62321aaf2a5a3507b5f1dafd5c4d809b401fa5b6316e496bf54800dfffc7cac",
+"perf/js/perf-test.js":"72bb8091be836857c8c1cd0ca0a7be33efe19e5b7d75a0c9ab00ab1b2afe6202",
+"perf/js/weld.js":"faa935c466b7cfe645a2888fe8cd98385b1b02456fddc6e46f968fc66e90888a"
+}

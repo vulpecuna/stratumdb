@@ -1,0 +1,7 @@
+{
+"dist/vue-markdown.common.js":"178d9a1fc0afd8db9f4ca94ba136fae0881cc635eb869e400f20981ed9730724",
+"dist/vue-markdown.js":"ed803c4f223faf8ff03c071d40a35dd08a3e4bc5768cf810a38833124d713d69",
+"dist/vue-markdown.min.js":"31c1bfb0839acc1b5eefe2855a338dfc7a75eee208acc04daa76f8643677f7ee",
+"src/VueMarkdown.js":"9bcb8dfc3b8f339329101aad0503b280366e748cb2c0d50c74da56fe10bedfff",
+"src/build.js":"845f2521676177bc5ddfc16922b65fa5a24920031d779d47ea5c93d4f5f7cbe3"
+}

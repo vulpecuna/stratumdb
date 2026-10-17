@@ -1,0 +1,11 @@
+{
+"dist/vue-paginate.js":"1b54075e49303286a663bd50b12ccc5871afd1d8b82859aa5ff43d5f026d243d",
+"dist/vue-paginate.min.js":"c5bb33d49971cfd47eff8e7f0d97364c74f64958635cfa3afea88575a514b2a8",
+"karma.conf.js":"2a0d0dfe4eca81dc99935617affb0d9de5efdd139299917f22090f53a141db3c",
+"src/LimitedLinksGenerator.js":"dfc433083af90933d1eda0a3fb4de09ff76fb683c6de94be527f5561932dc78f",
+"src/index.js":"924cba3734d826f99b6b62838ab486d28f41f08011055d6920de6cbec36a5711",
+"src/paginate.js":"190da99b5ee9e8cea36380c1901c4dfd1318e359d0188638f54bcb43eec782c0",
+"src/utils.js":"04fdb15bd141333dadf920e38628b35122a81739867e44bfbc5d2e6edc0a5f71",
+"test/functional/test.js":"661474c22a8112251eb841c597be9e6855183fd12d3342a04ab46e4f74715a42",
+"test/unit/utils.js":"805b13c11ad8ccdc50adb3c8c83edfc12a891190a3ce82dd715b6dfddc76a074"
+}

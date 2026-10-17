@@ -1,0 +1,9 @@
+{
+"Gulpfile.js":"d59faf45ef2ca99f59a7ab8d81e5acf0b47fecd6a4a1359c40fe79d19dacbf91",
+"lte-IE8.js":"29544644ca101d30b2f21cf420f129db4ef400839066d4642deccf6b14b94217",
+"polyfills/ie8/EventListener.js":"3cc66357b067812d56757a478f4f15e235909057be75409a646e0f68b0af1043",
+"polyfills/ie8/indexOf.js":"e5f7c7c4aaadd28a146b060fdca6bdf21af3246ec21eb3f58ec4617bc8951dea",
+"tests/index.js":"8b4b8ece7c141b6b4f03f340acdf1f1628a9b94dec74691143c57800b6fcf90d",
+"what-input.js":"cf282cfb9e627f7105e40d44010f40d13d43f0b7633fa3b83597931ef9bda758",
+"what-input.min.js":"318237fe19ba86df0b418b554c1a0721c418338b67525d545e78e0ff303f8f5f"
+}

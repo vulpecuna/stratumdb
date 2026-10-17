@@ -1,0 +1,10 @@
+{
+"configs/rollup.base.js":"5dba0d188d8c8c867d05824468e46d3ade36cee4d328ff4a85368673f9edbb3b",
+"configs/rollup.dist.js":"6b30f020c00e2c0ac5cc7dbbaca6b8add8de8ec3874a35840111d7572048de3b",
+"configs/rollup.lib.js":"365860326163c5d08f0ee2d0588da929c9da231412417754f83828c313f02151",
+"debug/vidom.js":"d4ad1beb10c109cac49cb2b27c1f1b07ed2197912efe1a8aa71117e5d54709ec",
+"debug/webpack.debug.config.js":"0a87ef5f48aec33a696ffc806182d66fbce5e81f58353a08b5583f7fdfe81fac",
+"dist/vidom.js":"0abb61addfc8aecb1ecb1fd9c7c462625c788edef5308119343ebd863cd649f0",
+"dist/vidom.min.js":"f84acc3bd7b3757e8e2fea8ef9c303783b25549fcbe2ffdd47dae93b2381d313",
+"lib/vidom.js":"dea10cef6a81a468b4162449046b6d566b96e831dd5222532708792ed1e7df7b"
+}

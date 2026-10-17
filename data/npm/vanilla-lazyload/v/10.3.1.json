@@ -1,0 +1,16 @@
+{
+"__tests__/lazyload.setSources.test.js":"bf1be17ab9afe58d402ed2d46570a8c889c75dfa401702468a4abc4d1b38a71a",
+"demos/perf/jquery.lazyload.min.js":"cce53cb17e63ec7e7b40e9b7cd0d52709605e19e82e11e069bc26f1ac081eb9f",
+"dist/lazyload.es2015.js":"1a5aff6a5f5a5704702dfd4c108768a2268eb350210d37b4ac62e039b0201c45",
+"dist/lazyload.js":"4131a83ee99fabbe0c411a786bc9a660be07ecd7d15cca85337f45ffc69e6abb",
+"dist/lazyload.min.js":"d79af4ef9bacc02e63c320d747ff38cc5d1c7b0154ab2f335a5d6312a23abdbc",
+"gulpfile.js":"d80bf3523fb719dc437d6bea2ef7ffaf60c55a78f6852ee684f1105eba874abf",
+"src/lazyload.autoInitialize.js":"9b6e61b122d12a4118676500fd98f6be085f14859750136f386cdf1afee83c4f",
+"src/lazyload.class.js":"0a8e99ae22b829b82aed53fa2e32aa8f53a4c843803f18624be2cfb30d4c9c4c",
+"src/lazyload.data.js":"08f9db4ab2b11e5bd44df288c028fb47b17aca052c6ef77637f7ecd919267e55",
+"src/lazyload.defaults.js":"adf1711cfa7b713d885ade8bc995b3b22aecba0e01f31e82de5cb3350b31e0f7",
+"src/lazyload.js":"2d9dbba28b0e9dbba5a292811c107eb8998ad27406ddda9c6faf003d6ce03175",
+"src/lazyload.purge.js":"2411947131cad94c21f365de49a56059c41143b89f12e0ae5bf2b8744e9cdda4",
+"src/lazyload.reveal.js":"f39122e2915db5e09829781795f586aec6ff109ed66fa73b57a7e0e9ffc3795b",
+"src/lazyload.setSources.js":"bf90d2e5ff4f6ac5349d0326e621177a6e958bdac4286388105afea235483bed"
+}

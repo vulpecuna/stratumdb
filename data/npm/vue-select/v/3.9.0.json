@@ -1,0 +1,15 @@
+{
+"dist/vue-select.css":"9fe54b6a28bbe8bd71fbd1e8c30aaa8601254f06206310344c26e502f60c5617",
+"dist/vue-select.css.map":"f1b3cefffaffed0e860de9ff79a551132b949b5d50f5eb8365228e313d0d358c",
+"dist/vue-select.js":"fc1107f3e10af8eea19b531aa44fe9722669fa62620c53201d63c41d93c0b6a5",
+"dist/vue-select.js.map":"93a396b60a7684ec346e342063f9295354b74f319ae074ac354418a83d6ca1de",
+"src/components/childComponents.js":"22dcc52c01d375cb954f414be328713e1ad2fdc0fcd259ffafae15434541a90f",
+"src/directives/appendToBody.js":"558fb43bc342494a9298c9c49ca9246ad55f687ce587107a2e42ea2225e973bb",
+"src/index.js":"8887b19064b5d877ded06ef914fa99926ef9ba84740fbcd77a2cd80b4448b608",
+"src/mixins/ajax.js":"f01d4cd35426f410bfdf3a35cdec225af11fdf630418935726742b6f6bf39fca",
+"src/mixins/index.js":"9e69f660b7733c5fdbb2e343a5f8f0a23b84d8605076567ad36d9620f372c814",
+"src/mixins/pointerScroll.js":"9b3bf80147a8b3bbd86f41792cc681ec1e37651388f8599a13c75a2f0355748b",
+"src/mixins/typeAheadPointer.js":"d06b94cf627fe5c5136aa281a602cdc8ac297e9d0210482286a860e3fe849002",
+"src/utility/sortAndStringify.js":"55ec19d6ff27d56f396ba5171477b5ca949a5cbd72c2fee755488d3d5152d134",
+"src/utility/uniqueId.js":"6fa03fe52c12b4a4d4e58bf501017506970ad302cc8c751ad6a03e573036a4bd"
+}

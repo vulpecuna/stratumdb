@@ -1,0 +1,15 @@
+{
+"dest/tilt.jquery.js":"c541c301b1506d334968565a69b6b8184ef44fe2484644cede1d619cd740f450",
+"dest/tilt.jquery.js.map":"141e3d600eaf65a68393c74b3713e13615d00e7ed3185b419a6a62e88e93c264",
+"gulp/config.js":"67232511bbc1c09fa5ec39ab367c4d81e3f18fe7c56ea414e9adca47b9bae2c3",
+"gulp/tasks/browsersync.js":"2e2ba16fb01f286dbae1b7d2ac35d53181991934a74e644caa1cae3f00af4c4d",
+"gulp/tasks/build.js":"1c33eece9c230dbf2e3d17b722e157e546054fbb2f18b44e26fee065934eded8",
+"gulp/tasks/default.js":"15313de97e9d1e2fd50e4a137147227c1654ee96c5ad5e40b3fdd4be8a47e7e8",
+"gulp/tasks/js.js":"c1d8c998cec2514888bee03b2037074d9a61850db54c1b292d61dee1dc4ab735",
+"gulp/tasks/scss.js":"ffa01119d2d9880a7fee43386f476414755053c69dd0445fdd880c644c025477",
+"gulp/tasks/tests.js":"90513ce853974de5a046985cdf0ec95fe3ab862c44ea1e7957f1c55fa2df735a",
+"gulp/tasks/watch.js":"3f6eaa11dedc9e8777454f166ab81907ece874b669c23481d02f41a770604b3e",
+"gulpfile.js":"c7177cdf8e165e037af5da0ce6b0ce3131b18b6f2827b4b7413e1a3c5ced6ef0",
+"src/tilt.jquery.js":"072727fdba34fa84c01c184f22a4617eb008146a793d13ed70577c0d02baea87",
+"tests/tests.js":"ce2c5b7a0bd8f3f7a8f4aff581c581feca940794abbfeed6938a5dba9831ed34"
+}

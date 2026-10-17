@@ -1,0 +1,8 @@
+{
+"dist/vue-router.cjs.js":"d17317a8108897ca6a0eb4d0faf9fa39b7e98a76f24d966a3b71f1fbf7592127",
+"dist/vue-router.cjs.prod.js":"51e746db738b6db002ff64088ad49373b1d39e1cdf452785137b0f1b0f000941",
+"dist/vue-router.esm-browser.js":"eeafc7d777a010d4f4c7e3fafdb2de059d3a3bd114ab74db8d8401ac6b777503",
+"dist/vue-router.esm-bundler.js":"9fbc4881b0cf48d16c750f9aae1741791f3ea3bc508b49dc19686afeaff3bd54",
+"dist/vue-router.global.js":"8bae37f417e4d759b01bd762277456760e923829fdd0c36be07190c9e3a4d58e",
+"dist/vue-router.global.prod.js":"2c3a795df1b6102c42d29784b5c241170f3d4f128fdbb6b203508a69b45fe8cb"
+}

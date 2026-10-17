@@ -1,0 +1,9 @@
+{
+"build/build.js":"25d3333953d232fae39dad190c11b043544af913e913f9a37ac9bc85928f4008",
+"build/webpack.config.js":"5ed92eafc42698c803f33a8ce8bce150ad249ef96a4c1f456cf52a9bf24074fc",
+"dist/index.js":"fb9d16d2656abaa57173268b302d7699d3826b465388517cccde4a78c702dbf8",
+"dist/index.js.map":"504950452bf6f96ba0f36beef75ae8e0fa2beddaa197026bee027970c828e0e1",
+"src/index.js":"46d2525e29fdd8a08ea90065e1cacb0d53c5d2104bf3cb4ee4d2e19974bdc965",
+"test/index.test.js":"3fabe409f567e7ce8383fad4b54c9108f98b72b5e40dc1ec894cfdffac3dab95",
+"test/karma.conf.js":"136bbd7cc705e5cbd7918281eb957308419d1076d9645cfb4a742f46c6228666"
+}

@@ -1,0 +1,11 @@
+{
+"dist/venobox.css":"51fcf2b2e22797c692aef74c2a2f54b7f937a5f306df60d5754d533118c908fa",
+"dist/venobox.js":"cddd9c28a100218b051a26b9acb031e6ee38abf55b8f8af3a216b12e5c420841",
+"dist/venobox.min.css":"fbe1a421d53afc369becc7aa6d15b7a09c0f3696fd014000a62b41427a06092a",
+"dist/venobox.min.css.map":"42c76eff44583b3c7a0a286e6c70e2a66139b39c2f6d103c56f83abadb5db9bd",
+"dist/venobox.min.js":"18f6190e029001dfee18b1b0dd16cc6d94093fbaf6622a556cb6494ac5a9a86f",
+"dist/venobox.min.js.map":"cd1c8065f1f8caef60755452c4a3f3a4c116a3f661f3723c0ab69b22dc83bd01",
+"rollup.config.js":"9ec9df636cfac4af4dc8c4d27f879d379992cdd21b2fece7f116811a849e5b0f",
+"src/venobox.css":"c0c4a96700f3e9ccc9b20c26a5ad25fe03104a502cd26bdbb3d5b85fd759e1b8",
+"src/venobox.esm.js":"ff1f15853074617efe75ef99890d4712a4a61b6bcce84ebdc4a3c19b72f820bb"
+}

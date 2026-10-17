@@ -1,0 +1,15 @@
+{
+"build-es5/vega-embed.js":"1ed3c8fbe627645c2ad587640a5be131ea3393b338d65eb2f7d87b5a595c7862",
+"build-es5/vega-embed.js.map":"8d380f18c7990a50a4b9115868e22ea5a34cde65ef47c4b767e66ac28f771075",
+"build-es5/vega-embed.min.js":"d3549e8fc4082b0dc039fd07f4d649d969405a94e054b09c81f7e3b3f2cba225",
+"build-es5/vega-embed.min.js.map":"3a51a46d62685462fe7e66eb0b64e4aa37394a551ff486371daa31565dcbe582",
+"build/vega-embed.js":"6cb8b7dfef99ec6b57705198ee15e1390a6b105b768867901ddb78f792d4b6c3",
+"build/vega-embed.js.map":"514618e3778d2bcc87a648170b29dd61db8602ee467492c392739d8da3b1b48d",
+"build/vega-embed.min.js":"bfa19a72ecf5cdfb25fcc1bf17f35078789264c53d1f14c5aa33d58e50b8356c",
+"build/vega-embed.min.js.map":"f750850be242847d7a2cc70f257766139e85662d341c7087d6dd32d3de734fe6",
+"build/vega-embed.module.d.ts.map":"15bec10c9ab1511b1c4065addfe5e714a43e6c06aca593e14a285dbd3c294841",
+"build/vega-embed.module.js":"7a6b6898181809ce13cea58e28fd174583896ce2ccad64723f1f5c86cdf94aa7",
+"build/vega-embed.module.js.map":"c40efca95faebf9b3288fde7d205455e961dec5c0eb122a9ab3c1baf2869ae14",
+"node_modules/yallist/iterator.js":"d02451fa396de7f9ec93cc6fb3b07aaa7be637acb3409a9ddebd1c2de9279c1a",
+"node_modules/yallist/yallist.js":"8da42898f7c29b359916e9f756d3d3b5d095079d9ce5f6d5d7327909e0c55442"
+}

@@ -1,0 +1,13 @@
+{
+"dist/vue-router.cjs":"23c69369b9a8f926f8f1362b0de9a7220626490c341501a98cc698c25b84be21",
+"dist/vue-router.cjs.js":"303e308867863a150ec18d352483b6dd9acf07e13be7fc437fc643c9e417ce83",
+"dist/vue-router.cjs.prod.js":"d56a7f3a3ca49b42c542ae08ec31c695c8ca4e6cc402d6c80860bc8dcce3a685",
+"dist/vue-router.esm-browser.js":"f5f0815ec613e13c493bf35ca0ed59ccb74ae2026c793e76277425b28615e523",
+"dist/vue-router.esm-bundler.js":"f7239d5af4847bb2f2fa2fb87dc2eb8b879706c4d09a685f9a732dc5a761aaab",
+"dist/vue-router.global.js":"edae8264d2c00fff992f80bc686cfbf7a890a32b6468d58aa10e00e7cdbecbf8",
+"dist/vue-router.global.prod.js":"30292a62c66bacc1054306b7b3f3b1b539473af29da18071c4c4c9f6932e8ef8",
+"dist/vue-router.mjs":"84abee8a93ab82ae09de4351382ee264d0f31f6801596db3e8838fefbbd435a1",
+"dist/vue-router.node.mjs":"7023a9faf9b2eb944e843903472eb3cd7cab14e0ec51395281307963c479652b",
+"dist/vue-router.prod.cjs":"dd01c3ec26780446f2309c49498ecd7a30d2af874502d2e987e8908758023d30",
+"index.js":"10558bd22dd767bf058902af8462c3313e3b831f7422480f1009cbaa7d372230"
+}

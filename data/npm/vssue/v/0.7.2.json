@@ -1,0 +1,9 @@
+{
+"dist/vssue.bitbucket.min.js":"c0a8d9741a5708c6708902e0fb8803ebe99fb98b7db90153c2a78294b1c2a8af",
+"dist/vssue.css":"1ffea0980bca9a22292aca53f0c6b43160881e7e0186ae8a42773c25a84a6f53",
+"dist/vssue.github.min.js":"e0198d597a7f114611e60122d6043ae0d458cbd2d9a10c56d03ea8a079ce6e3e",
+"dist/vssue.gitlab.min.js":"488da8180ae169cbbcf211359ccac4085ee8e98a509c34ba834f181ef3caeb74",
+"dist/vssue.js":"bb473501174089d7ce2faae2b8a1765b8d023dffd4e28d19e972d060c375ea43",
+"dist/vssue.min.css":"b3d452832e6b0235663797c9e287852ea6f042c76943cc3576ed753e9365cb0c",
+"postcss.config.js":"e9460ae3b38624641f034705ac9cb15b924a9b2876aef1d84b3314b7c8531bad"
+}

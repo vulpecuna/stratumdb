@@ -1,0 +1,14 @@
+{
+"browser/bundle.js":"df7e4ffa1cf8180cc1d577801b4051829eaa3b6e4ede8e420aef42ab8fef97e6",
+"browser/index.js":"bd32926c9ca88f5a02d369d64a301eac9f63204b703f1a60f6f7e6fbbd31620d",
+"cjs/bundle.js":"67c57683963447f1c54720e3f824879bd8d6b944d59c86ee8d5e048180f793e9",
+"cjs/index.js":"ec3d65208a64e974672b76ce67f91a1f12f0c73f80127084dfadfe00cfb92f68",
+"esm/bundle.js":"df7e4ffa1cf8180cc1d577801b4051829eaa3b6e4ede8e420aef42ab8fef97e6",
+"esm/index.js":"bd32926c9ca88f5a02d369d64a301eac9f63204b703f1a60f6f7e6fbbd31620d",
+"tsparticles.bundle.js":"15fd39eedb07e7ade0ba898116fefb108f1292156070e1709c5d809ee8ccfd7e",
+"tsparticles.bundle.min.js":"5bcab531055feca273a2046606be30d582ee735e34c8c525a8f726214952ab8b",
+"tsparticles.js":"b8a9c9f3a0614b0575560a243ee1837345ed473a2b5768b5f02a0215c0b1cdef",
+"tsparticles.min.js":"e0902831479a0ff625f5c2e7216bff22baf8b6a0616eec1f056f9c9aededd3cf",
+"umd/bundle.js":"c20793958f25739cd50f5e80d9b3bd5346ef430efbeefd485497723dbf57d9a9",
+"umd/index.js":"c1eb805d9544f75f4b2bd47f90b87bf9b70d5a2a173e42dfcce115ecb6db383e"
+}

@@ -1,0 +1,11 @@
+{
+"Gulpfile.js":"54dfc6dcd560cdf487977b832152f4323b1a374e045ac5b635c49588f98ddd6c",
+"dist/lte-IE8.js":"060662c9c7054eaf417f1dfb7bf778b04bb7ab84ce38e7731ecef8bca1675ca5",
+"dist/what-input.js":"d896dacffa0f79b123e4220c0225ed4be1cff4ed608290ca8aafb9f9fa6ea047",
+"dist/what-input.min.js":"62a24c04523db2e85995c31c30bbba66d2e54abcfdd8561c0627f3c13ab7ae49",
+"docs/scripts/lte-IE8.js":"060662c9c7054eaf417f1dfb7bf778b04bb7ab84ce38e7731ecef8bca1675ca5",
+"docs/scripts/what-input.js":"d896dacffa0f79b123e4220c0225ed4be1cff4ed608290ca8aafb9f9fa6ea047",
+"src/polyfills/ie8/EventListener.js":"3cc66357b067812d56757a478f4f15e235909057be75409a646e0f68b0af1043",
+"src/polyfills/ie8/indexOf.js":"e5f7c7c4aaadd28a146b060fdca6bdf21af3246ec21eb3f58ec4617bc8951dea",
+"src/what-input.js":"7ea2682a4f9c9d25c1c175d76e4f0d344b8902ecc01e45325404888d3fc196c6"
+}

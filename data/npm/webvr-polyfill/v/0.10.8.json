@@ -1,0 +1,8 @@
+{
+"build/webvr-polyfill.js":"edc9179aa81b848d645c3d8aaf3388c1c26ce9cf2be1c4596eb4498cbb3f83e1",
+"build/webvr-polyfill.min.js":"7df983690962dd7dfdbf497daf777dc9e6d4c102f35dbcde3b58f59b324f2341",
+"src/config.js":"f5b85acc282485fa53276e22e6df8b12f8c0f17d747bc563bbcee0c94cbb965a",
+"src/index.js":"7942d1845ec58e48860b8e1c7c406b0f45b62e484737076912c1ce8886c407a8",
+"src/util.js":"1b56d2feeac9ad22a130768255f2e044167ffeeb8b8d908d10ecf7870ed35f2e",
+"src/webvr-polyfill.js":"151e43e0b51a0c549067549dafb542bdc3f2ca444e59a0540102627c0f25c428"
+}

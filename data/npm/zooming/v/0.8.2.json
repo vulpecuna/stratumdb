@@ -1,0 +1,17 @@
+{
+"build/zooming.js":"033faf1bf3bb49a44c18da58f8abd3441d1b9b5aeb3e55a4bee67dc4c3e3becb",
+"build/zooming.js.map":"aeba92721de5b6d08f7acff99b8b02b08f80f695ad0b48672b1466afaec895ff",
+"build/zooming.min.js":"6a93590fc473f97a5c960cb7986abd4a7f81d4e36cd21b3dec133152c03d50dd",
+"build/zooming.min.js.map":"aabe144e2dda65fbd6b460f848454326df303c39b76fda98cbdfa75b4274847d",
+"demo/css/custom.css":"1656ad37ef8ca0a197e26efbb7023150e2eeb15773e6e57d4709cca9039258bc",
+"demo/js/custom.js":"e5783bc584c31d086a068d2474b5da5e356fcda1941fbe01e053799286b4c936",
+"rollup.config.js":"8fc7cf76347b8bed462f5048c4caf25a84755f5a495dfa5fea751604c94eb196",
+"rollup.config.uglify.js":"cd2a24b8623a0dcca0535830fef5471032748bafdfb6b431e15244a7a2429ecb",
+"src/_defaults.js":"a5bc4b7ddac4cbb559a8be6a54098cc22c52de503d83b364c8b0ce86dc703646",
+"src/_helpers.js":"ffc1b62afa11d6e696732feeea45479f7df060b8d4bbe7660e4013bc93886a86",
+"src/_style.js":"97acf7b15410979bf8b1740d1366587f2f7d07f7943eab438971694626f0c87a",
+"src/_touch.js":"a2b10b91a31ded447eb9aff0f5d68229742ed586964c431de2f47cd08a7551e3",
+"src/_trans.js":"42d4606d7a0e1a86c6d6286041c847e94c10e81de5ae997592e8ab3b6508c26a",
+"src/main.js":"397186ee94e20a957fa8fa4daa3ec82ed4fc2c84ed3e04f1bc7c5bed84133260",
+"test/test.js":"974bfc02da2896064733d924e83dbba12edd8920c612a03a481f724038a41f2c"
+}

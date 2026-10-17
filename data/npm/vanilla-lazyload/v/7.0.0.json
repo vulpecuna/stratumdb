@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"1bf06d97b0179367ae0a61fab9d70f67a34e1c542d0ab902edd26b7abb88d4a6",
+"__test__/lazyload.test.js":"107db774c6ab38029ff10943e631bd5d652f06c75bdfd3d955555c3d5f0e66c1",
+"demos/perf/jquery.lazyload.min.js":"cce53cb17e63ec7e7b40e9b7cd0d52709605e19e82e11e069bc26f1ac081eb9f",
+"dist/lazyload.js":"cd18a93c6c57d70dc85f22964a2b91cee09dbcb3253ad4319cdf3bd571fc2244",
+"dist/lazyload.min.js":"5f05177befe64ef6f6a8739343a9e7135b94704511dc40a91104ddec2b684a2f",
+"dist/lazyload.transpiled.js":"ba780d4e8b628a74aaa5cc961a53acb7f00359ba8d543b2ca29392c490cc16a9",
+"dist/lazyload.transpiled.min.js":"7e39f50ee28fed5afbb8bd24e038b2e0d3628b396b6efc5b37030e8e6b860181",
+"src/lazyload.core.js":"1358c728931dcdfba2483178f6806f5f9f0e4ef4d7255c4a532acf63d771acd0",
+"src/lazyload.defaults.js":"82f7192a8e453f3a5bfd749474d1d44728c850a64cef8ad61098a8085e95b74e",
+"src/lazyload.utils.js":"cd38e7a705bfc4d1ace32442e051bf64232c60dc358e6362ffab30e3cdeef323"
+}

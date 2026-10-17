@@ -1,0 +1,15 @@
+{
+"dist/classes/canvas.js":"841d772aa51f078f38121711d0682df3fb95170901fa9cdaf879d6324133508c",
+"dist/classes/container.js":"8b80c3573a93daf4afed98fc3f53b044af8be4aae8f02699682dca6609849ed1",
+"dist/classes/loader.js":"990679bf145ea14e4b6b0909a4537e943e539084d3d8f50c375bbe4501a647c1",
+"dist/classes/particle.js":"ae520e12a9d19f1f21a332922c06f2673319ed36d35f16afd1354e5a5e3149bf",
+"dist/classes/particles.js":"daff15c02cd329ffdae8570c546e8cc4551451a6acbc5e11330753bab23b0bd1",
+"dist/classes/retina.js":"527454235d798322a53a5eadacf93b70303147182793260aa1ba518420479d38",
+"dist/main.js":"bd4451129579c39f4f80037d66c8be9806ac786d5b72ea8d59e6a689a6b286b1",
+"dist/tsparticles.js":"e7936e6fa2e6cc4b9430311d34f7ba6e8f37c9074d14b06e8dcc536b503de196",
+"dist/tsparticles.min.js":"3d77176b351322bf752e3c50c46dd67417d77b03457e527ea1e6dbcdcfce7768",
+"dist/utils/constants.js":"82d18fb9d4232d8c4d96b983e11b94c75c151e92906e4fa4b65fde63db53ab76",
+"dist/utils/enums.js":"619e7d5416ae080babe50e16dfc8d39fe152959acb1229cff7e17d7544be7133",
+"dist/utils/interfaces.js":"f1f5433af6ca7d4e267784d73bdefb0367885cfd5ca68299eb75a5b67f591ffb",
+"dist/utils/utils.js":"4029710e99046c084ac8cd1ad11963f5e6fa11594bc99e01cdcb767cf63a1e58"
+}

@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"022898dfdd85bd5ff0ec2eaeeced8892a9d075cdc0c58ccf7237af1e795398d6",
+"build/xsound-server-session-websocket.js":"da913b3c7644d06ef971434ad403402fd1c10b0b772800234e54cd9eca41cd13",
+"build/xsound-server-session-ws.js":"74e9fa9c6ee705355db67794f19adbe7f7f1f9a6b3b99bfd21b3a8e981f62f4d",
+"build/xsound.dev.js":"c97fb03ad0ccf152093165193d12c63117939e285228bd08f7368c89ec9af769",
+"build/xsound.js":"83d87734c028058cc79988d4b03ca919b1a903d9438fa115d699715c3b966ceb",
+"build/xsound.min.js":"4e5a7579fb8957dc017983b9f0740a04e1eed8c3f166387eec42f057208837f9",
+"karma.conf.js":"285683ef39d4e5dc063f283dfd6fd2749b5f52a795dcfc9b6a38f54743fce14f",
+"src/static/convert-time.js":"0cf2d8a684b8f24c09915e0c8b853c7a1479d9bd017534928923c014c7f8067f",
+"src/static/error.js":"e7862b2cecb067208dfdb5df3d0e6d9a424476ab5609c66673c7149e573c148e",
+"src/static/to-frequencies.js":"bae7de1f480a0b2bec78a16271623a981ca27242d88fda8451e743cbb5f3bc0d",
+"src/static/to-string.js":"737f8c494e287eb35f5e42ab135ca0dc5a41373d24f9a9c4e9377de6e3665a81",
+"test/static/test-convert-time.js":"7afbe01b2772ca17bfa667d087976969e69cbb7744b0a4d1f96b4dff9ab6bb21",
+"test/static/test-error.js":"913aa446a1df5d519b8be0c3a344e813a4659fd1608fabdd6c50aefe5a0801c1",
+"test/static/test-to-frequencies.js":"32ac9efeae6289fff8748f14dcb21a6e64780b989028dd1c40c9c54fe6094a86",
+"test/static/test-to-string.js":"40122675a647876ff216b6acc0acfeea50994c17e70d1e1f71dc2a592323e5e1"
+}

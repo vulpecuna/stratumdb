@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"634eed80fa9eedc318d673dd3b481d8c4d5a7b066d20b99db248b50d433c3455",
+"ZeroClipboard.js":"f39866a3ff6e0944e509a6eb67a4cc8e7149da53aeaafc44d8964f67956f8a52",
+"ZeroClipboard.min.js":"baab5cead21d9e1f8dbd8146847a85ab7b928dc3afc5746c700254ab6db7a884",
+"index.js":"957593e0e18717d259c9fc9ae44663e544334c95d262eca49de45f01a61ea6c5",
+"src/javascript/ZeroClipboard/client.js":"625979f070884bfbe99fceb6004954c7d38f2ea0c75d7e008e0c88326bb83d0a",
+"src/javascript/ZeroClipboard/core.js":"ad564cffe441a0ed5058b939885e411ed5a500e2a5bb3d752274f52134a98e6c",
+"src/javascript/ZeroClipboard/deprecated.js":"39710be10b5f11c496a4ef24f22dec8cd94408aacd1366e95bae38f8d7c36683",
+"src/javascript/ZeroClipboard/dom.js":"58472337585966f1b3bd3fca62602635eae5d8d76e8c6edf5dea849a1f3ebf1c",
+"src/javascript/ZeroClipboard/event.js":"c8e76084ef5916492092292cd8a38edecd3b042e59a6f8efffb01dba213c1a6c",
+"src/javascript/ZeroClipboard/flash.js":"0371e0fb2819e077f85249813f0b38cfd245add6f1fb269ab980333fe911ca19",
+"src/javascript/ZeroClipboard/state.js":"8d6422e3894ef73768aa792f35342375aa263c34e61cc7907b96e31e46299c23",
+"src/javascript/ZeroClipboard/utils.js":"f79d036a4c49495ea67c32ed418f84f31ff1953d5bce75b0267a8fa1041b7b9d",
+"src/javascript/end.js":"4a97bc1a43d1facf5220383bb8d4a33c1a7474bdd76d5f1ad8d5ce7eeb2b530a",
+"src/javascript/start.js":"f2a74316edd3c244e40a706e0e53dcf4fd41cbe3bc8e9ec07d6918ab936c79e0"
+}

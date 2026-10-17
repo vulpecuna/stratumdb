@@ -1,0 +1,13 @@
+{
+"dist/to-markdown.js":"8986b5df54c37266f7911e4ebaaeb074bdaac8529fd87c5b2af69a3f5c8b72e6",
+"index.js":"3df3abd5b0d6038241da2917c5e63da55594835c80e210aad69ea9c5f318c7cc",
+"lib/gfm-converters.js":"12d257fd51c926228a953606893bef1a465341665a3433842ade44d89290819c",
+"lib/html-parser.js":"4a5f5127849994c2ac8fef86f3ef63a78e124a63beb2f95e8e4aec4e6edd72b5",
+"lib/md-converters.js":"64fc1ba4a44c144aca27af29a3bc50ca6043fc9ccd4e71c39c1d01f673b87150",
+"src/element-replacement.js":"fd505dd083f3dab1ad5a7d9d6fbc21886ea816c3b721c566d35903b391fdd755",
+"src/node.js":"859baa1f57837796b69f9838665e3bb6393fc1173137441cb0bf376cc99cc14a",
+"src/replacement.js":"e5d768f3aa12b2d780d97fcc3dc72c5b906f6d281bb1463b4a0eaddcca840543",
+"src/root-node.js":"3cff05b206271a3ad25dd8d854a7d0b2f5c5fd83a0708c458404667f7d26d8ec",
+"test/gfm-test.js":"2f6d84353d3a101f62e91a65bbba4dbbf461929c7430cb4ec6abdf302c808796",
+"test/to-markdown-test.js":"b929f7c2d469616b1fb91428005965dd7da04183d56954aa5f53c70db47b5d97"
+}

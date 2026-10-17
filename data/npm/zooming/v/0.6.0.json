@@ -1,0 +1,12 @@
+{
+"build/zooming.js":"6c99506b5ce9251baa3af3e561e6bc70f843184e74cbb2082f3e86e21665bd8e",
+"build/zooming.js.map":"4073d287802166747dcecd94a78fc625a6bf4d04509067eacd244c85485de0ee",
+"build/zooming.min.js":"15f53b990f12c977716e1ca3bd3806f232fbfe569246636660a813119b5c2307",
+"build/zooming.min.js.map":"40b5697dd080b413f64fb995088881bc801b9660013a7826866accbb27f020a3",
+"demo/css/custom.css":"1656ad37ef8ca0a197e26efbb7023150e2eeb15773e6e57d4709cca9039258bc",
+"demo/js/custom.js":"ec93a2fbb63bf0d1a0210fb99ad426ac9dfcd3977e240dc049af852201b4856c",
+"rollup.config.js":"ad5d2ea6c45bbb4e747f479feb930edfd4cdff7a74a9cb1dd069d72c39a2bfbc",
+"rollup.config.uglify.js":"86d04dab340c613fa8ed6501d99b899f4c1f4cfc72d5f1fa0a95c55b5e61645a",
+"src/helpers.js":"a10bab65330225d875393bfcce988817e7c517076bc3a21fc341a62a459f4552",
+"src/zooming.js":"8a69168568ba22c59474369e9667a7f78d2a88afdb2a5c302423e54101d2cab0"
+}

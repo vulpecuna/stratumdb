@@ -1,0 +1,9 @@
+{
+"dist/vue-moment.cjs.js":"afda25d2a8282be31c0b4aac85b558a9de00f17526c78e0006f3362fef3ccfb7",
+"dist/vue-moment.es.js":"9b1f4285a84079f27c9347868a30d3cf2e00b7cf453627d56b306d44b4ec6a0e",
+"dist/vue-moment.js":"e7d7b6c9fe0c41fb150257498b7b8d80f5df0fbea7124155f17e954ed665c82c",
+"dist/vue-moment.min.js":"80cf4bfad2349bcc62bb0616b6926669e58c05e51ccef3c747ad760bb8d1d824",
+"dist/vue-moment.min.js.map":"11555311853d16df5217a7701d1599537c79c36a77cebf83d47acd5659670eca",
+"tests/vue-moment.spec.js":"24601723263e621bd818312bd8bd6cb35d8b3e3763b710addd6c8fef0bcfc8af",
+"vue-moment.js":"cd3e4053224139ee97068ee533ded6ae8c26ed30a43bb0cf171c01f8d1ac00c8"
+}

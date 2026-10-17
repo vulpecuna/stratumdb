@@ -1,0 +1,9 @@
+{
+"dist/vue-ls.js":"e5d8dd411fcc425f0473a51f71c97aee4a87661a13b4c661f37c24d7b3ef4d81",
+"dist/vue-ls.min.js":"abf5e111119f0978c4c0003a0cedab7b9c423da5a555e8f635299ca3f3aefec7",
+"src/index.js":"4dda4f0d051f1f3918849c15b78fb99741f65dab9e1341aca79624b7a899efd3",
+"src/storage/MemoryStorage.js":"b3a782be99cf1e303b9b1e97a0466e2d6ae574c4153329b29c6e6b5ecd9821f3",
+"src/storage/WebStorage.js":"d0d68c151705eba81c05cc5212aa499e048340a06a0c9f70a08ebf95a4b24966",
+"src/storage/WebStorageEvent.js":"20fa36c76cbc4e077f6ca56fbbf97de5fbeb0aede25cc93395a075cb87f0a193",
+"src/storage/index.js":"1ce7b6df455e4aacde575f5d5a6bea66ae0abef85b5888aad7d72f91bc6a6f56"
+}

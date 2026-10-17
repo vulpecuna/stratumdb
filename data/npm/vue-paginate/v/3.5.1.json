@@ -1,0 +1,15 @@
+{
+"build/rollup.config.js":"f2b9f790c39b26008d48f6d79c0cb25e7a74beeb2dd2e266c6155af2c53f3189",
+"dist/vue-paginate.js":"874e71f8dcdcb9d14ccb4cb39674bd7e6de5e39688e367df8a45c0d198c6e941",
+"dist/vue-paginate.min.js":"2f95f945d0a7f1a702a63cbf6a1ae4bee388f99121d29738bcc8a3d8dc3af9b8",
+"examples/main.js":"72706de574e5c3e5bee609db9ccf02bc5bfd006f90640d81a6e8b87d03c164a6",
+"karma.conf.js":"3f559a6f1f3cb702c4adf57ea585b26c83153a742fe3700c527e3cf79082d0d6",
+"src/components/Paginate.js":"190e12e2000cf0f0416d66e64c81f31b4fe7d228e208c741fea53136ee8588e5",
+"src/components/PaginateLinks.js":"51cc5f1b152d4f4ae6362e6b46e7903f8c50e1f7f2ccd44f806fe3ba732a73da",
+"src/config/linkTypes.js":"48d1ad78cc45611233db618f8991f9df97292b4717e0fb885ffee6579043b53d",
+"src/index.js":"9d6dce9a4ccdb8f4354ecfbb9b56571baa65b30bbf72094fafe5449967f0d657",
+"src/util/LimitedLinksGenerator.js":"fbdd6d379d7bbb1970e0b0a3f01ea81e42c8b4bf04386fc1ee76e9365f60a2b3",
+"src/util/debug.js":"b204c3eccf58dc0d9b7c473cb8035d05d6a4fa07728e9b319bb8cde59f954ff5",
+"src/util/paginateDataGenerator.js":"a5b35bfccfbd02fe9ec667a8d88f4f113b170c8d370c140be2bd75b9f4703fcf",
+"webpack.config.js":"b9bd2bbbc8b7f701aaa0fc83acd271263ae5077c91bc23d807aa90dddb77dfa3"
+}

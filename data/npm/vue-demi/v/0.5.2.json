@@ -1,0 +1,12 @@
+{
+"lib/index.cjs.js":"b4532324cb6f7bcee60419ea473902e603efee4cbaa5574fee829efeeb8da91a",
+"lib/index.esm.js":"a956adbdf907f3516be1fa67f3f4aff4ed2693e614060ead170a6be2693122a3",
+"lib/index.iife.js":"7bc697dc51bcf8af6a690d9f64f276728451329cd654a6838bf30f4621153658",
+"lib/v2/index.cjs.js":"ae8288f291ca981d534f426540e2cf172efdeead9cc2bc2648c0cc644ce6c714",
+"lib/v2/index.esm.js":"1ee4cb5cb639c94d2ada12ea5cf650f18d37a7f16f9fe72170b0dc2a492726cc",
+"lib/v3/index.cjs.js":"2968c1afcea2c06a67457ad62f621e627ab893583895cc437f274c4776a8beb2",
+"lib/v3/index.esm.js":"aaac3bf40a70494ac12632eaa6721bf8461430c04ae7dd4b779a5ae32fbb9699",
+"scripts/postinstall.js":"0f9152cf51496eccfa8dcb99d35f81371cea39d90045e04516dc56ec370e6277",
+"scripts/switch-cli.js":"cf477b88beaf20d7ae778ee443b2cbc011305e54e9a00532d22f3200f6450667",
+"scripts/switch.js":"64fe26514c54d677f61aec0056600f5e564bdb069a68c70f5f5fee53228f0468"
+}

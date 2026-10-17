@@ -1,0 +1,17 @@
+{
+"demo/css/tilt.css":"4d2afa00a8e7a67d779baecd621c6b2266125f06e575f2a5093ffaaf6b3ba86c",
+"demo/css/tilt.css.map":"72a4efd6d7dccaa22072ca6c21b5549599aaa07f64745e410062380771cf5d89",
+"dest/tilt.jquery.js":"e1c41fb7d9b0d4ef7329b7058f760c2aea80e2253ca5c0c043663b96016f1760",
+"dest/tilt.jquery.js.map":"459b3ed4ce485c24a46a152b5b292bad46b9823276898f84b7519833768073a9",
+"dest/tilt.jquery.min.js":"97fe8140569ec8bc4cd34d2dc6ed0cd899fef584bb7c694249044e9ad053a702",
+"gulp/config.js":"67232511bbc1c09fa5ec39ab367c4d81e3f18fe7c56ea414e9adca47b9bae2c3",
+"gulp/tasks/browsersync.js":"2e2ba16fb01f286dbae1b7d2ac35d53181991934a74e644caa1cae3f00af4c4d",
+"gulp/tasks/build.js":"d3756f0b7d23d729322057bf2f85d0a49f14ecad049455f89074691ae659f616",
+"gulp/tasks/default.js":"15313de97e9d1e2fd50e4a137147227c1654ee96c5ad5e40b3fdd4be8a47e7e8",
+"gulp/tasks/js.js":"774b41e1ef470da1c80bcf789a90061ea42f28054bdebab1434962d81b74dfa7",
+"gulp/tasks/scss.js":"ffa01119d2d9880a7fee43386f476414755053c69dd0445fdd880c644c025477",
+"gulp/tasks/tests.js":"90513ce853974de5a046985cdf0ec95fe3ab862c44ea1e7957f1c55fa2df735a",
+"gulp/tasks/watch.js":"3f6eaa11dedc9e8777454f166ab81907ece874b669c23481d02f41a770604b3e",
+"src/tilt.jquery.js":"ef5b67a3596ec649e0bb8e91b5b9ec34d81d2b1102663647316a37be1b68894a",
+"tests/tests.js":"ce2c5b7a0bd8f3f7a8f4aff581c581feca940794abbfeed6938a5dba9831ed34"
+}

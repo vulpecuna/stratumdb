@@ -1,0 +1,9 @@
+{
+"dist/index.js":"663223a84d1418beb290b9d71a54edb89a128c36e25faa5db5acb528ffcef681",
+"dist/index.js.map":"fd35d109cc910c87c2f733530e391fbaff0499bd5f498d149b1a91136d55f384",
+"dist/ssr.index.js":"699b4494493efb1231cf0b2b8235f5ad8cdb5845df01ef1f7eff00f240d8eeca",
+"dist/ssr.index.js.map":"5db2d0612ee5f1d06a6b49d5561426d74e1bfd7caaafc8dca80f5fdd99877462",
+"src/index.js":"fa6e652ddb27028729dc88aa8d445b18552f8c573366715d08008ec32e823684",
+"webpack.config.js":"ee968d3cd598bc1d32d0dda56ee19c752df238064526551c0a6283a86057fbbd",
+"webpack.ssr.config.js":"821dddeea4690d0172297e633ae5dc18b99d8e9f56a6c88c78da9ffc73ccd3c2"
+}

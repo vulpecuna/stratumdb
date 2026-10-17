@@ -1,0 +1,10 @@
+{
+"dist/scripts/Vidage.js":"70478c66641c6f0d56fdb7938e47653e10a62f07a2b23ed3f7b383dd2703d768",
+"dist/scripts/Vidage.min.js":"9c82f3712270f65a1f25f0ce3fc845027e80971d09f323eb322bf17e6fd52278",
+"dist/styles/Vidage.css":"9521a4e453fc386a3a9d567e2a222f907c6fd016a64d164bb5e0536730742cef",
+"dist/styles/Vidage.min.css":"3264b2150e0a72608afd21d858ff4d625772a7213e340587a259547909cb654e",
+"src/scripts/Vidage.js":"d20cfb3883fcff3653df3a1e812c6b2e7bf1878c5440bc4fbbc1efb837dd372b",
+"src/scripts/helpers/feature-detect.js":"2e33c355e59e0b731e905aa5e104f5f23362ebcd6aa45a1a4291a33be04fde48",
+"src/scripts/helpers/handle-video-selector.js":"b67f0179a1213d1dec7b6bb5ec98e104dc691750a9cd86d3bfcb63b33e83f89c",
+"src/scripts/helpers/validate-selector.js":"350d151faef595e1d9344654f2d922a146fa01beead38758001f2a727d373e96"
+}

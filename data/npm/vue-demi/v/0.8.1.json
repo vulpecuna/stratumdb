@@ -1,0 +1,14 @@
+{
+"bin/vue-demi-fix.js":"dfbbc7d66218f2a060fe394599de9d0f9bd0097a060af0fb90e817a98a9e97c5",
+"bin/vue-demi-switch.js":"ffaeafa521b48871be49def9c5a88057c01765c1d98482f0d125dc23e02bdf72",
+"lib/index.cjs.js":"a86df40648723005914c6e43270dc7b420844acf1ffbbdd7ff10e822394995e3",
+"lib/index.esm.mjs":"56d7ae0357883150b7ee577ee74246a4a29fd464c012f7c3bad524f639e2c802",
+"lib/index.iife.js":"80c5b291bd6bd89b266c5aa0646dfc751026c9eaa4d444f4931eeafdc181f8cf",
+"lib/v2/index.cjs.js":"26c0dd84f640fbbf0e71111234c09adb0174bceffda4f4b526474650056c02ee",
+"lib/v2/index.esm.mjs":"81858673b3c702775093436c21355c8f29ded197a8987da9a10902cd1fcfd70e",
+"lib/v3/index.cjs.js":"a86df40648723005914c6e43270dc7b420844acf1ffbbdd7ff10e822394995e3",
+"lib/v3/index.esm.mjs":"56d7ae0357883150b7ee577ee74246a4a29fd464c012f7c3bad524f639e2c802",
+"scripts/postinstall.js":"e078d3a1d4ea18f501f022fb88a0848b33ddc75322f17663bb29cdc911a7bc4d",
+"scripts/switch-cli.js":"08a98426fbd8eecc1addbc2f061cd655808aa0a63edf0a846ecfd356d7bbb168",
+"scripts/utils.js":"e6117298c509e62c4c59954371dfc7c3bbe27c51c634afce3db8389386995d0d"
+}

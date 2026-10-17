@@ -1,0 +1,16 @@
+{
+"docs/generate.js":"533e2a251ec9d56397637d334eafd75d287995d3c8c1a2676f8feaeccb7edccd",
+"examples/basic/index.js":"7b68bb64003b828062064a0b09778b4b5d849a177eefbbcf55b1b417abbb2423",
+"examples/many-cells/index.js":"075a467ed4ad31260c8443c51bae4b4e01abbba0c774aca82e78218ccaaa0f83",
+"lib/Cell.js":"536700e371796ee110b8f3ed9feeff6b88a8cdb0bf74be072fc9406fe49507f6",
+"lib/Row.js":"c6056a0904ce12ccf0852a30ec9d59a33da518ca3bb28183452ef5f60c7439b3",
+"lib/Sheet.js":"e885fc5302345d83dbc442dd1fe4ef7bd36c41ce59f019a2260a7d26aeeae1d0",
+"lib/Workbook.js":"280af71b3810af159146f40528e12d4c0010df7140a8b52c042f86caa5b9a2df",
+"lib/utils.js":"5eaf3de192db7ef990239ae051fc4a95771733fea28f4d044b3f84e06a01ab37",
+"lib/xpath.js":"ec34c823dd9a3a80b4600dc03a27746cb6a6a7dc3169c6e3f1c77715417e8068",
+"spec/Cell.spec.js":"54b5821cc0633f7ffb9159b3124ea22c863546c82614561d474de2a0abd291f3",
+"spec/Row.spec.js":"047a7709f330501f8691fa9a5fa57adbb6191eecc0d0a53b725bd1005baa1bc5",
+"spec/Sheet.spec.js":"1a1e5cd3d8aecbcffb6c9ba7b182df64e2d3cfe400e0eea9aea89e4f6c09ae95",
+"spec/Workbook.spec.js":"a459bd4507c0a8c500b0c30149922bd247a605b622eb861e4d0fd67cfeea7cb2",
+"spec/utils.spec.js":"94ab296cf630aadcac92b5f3ccba732c5e5e742e47c9831f0ca01c6ce372bed1"
+}

@@ -1,0 +1,9 @@
+{
+"dist/vue-ls.js":"4439fb0b030fc2063df4ca66e7c0ad6d8ea1e013cbe53fa9f92cc2a8e5f8e399",
+"dist/vue-ls.min.js":"a8f3ae0a0c7dc5ced790efe8fac76fd0aa4dd0c092333dd7d3a8bb7e0887f46a",
+"dist/vue-ls.min.js.map":"a1fce040cb32c37690919c6901840ecd27827eddfe21d6f06e1d11ffafceaf55",
+"gulpfile.js":"c8bbad1f11062bb92ad56476a15d63284eebb5a80246029b35bec347353d4a69",
+"src/index.js":"3be1e2d4806651815bea4604193abc248083535cd6d28b80756a10d430ccfea8",
+"test/mock/browser.js":"8def4009677e2921edf4bb2a1f149098b443d6a3dfc1cb9c97d7f5e1e838c490",
+"test/test.js":"c8244befb1f9097a2e362adce715baa6f7106fc2215ce611fa82e247753d76c2"
+}

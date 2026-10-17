@@ -1,0 +1,10 @@
+{
+"dist/vidage.css":"fbdf00c5a8fdaa6b281941f6096e59b3b371b3bb8ec13158dc21df4a4949fd6b",
+"dist/vidage.js":"364624d9e350dfe964f6e2b7c2f8afe907d556e1483519cfb2f983ce07b2b0e6",
+"rollup.config.js":"02f54d6f2ca9d29f4d1c15c628a35267fa2062faa0dc231e2efc4616ce64e2c9",
+"src/scripts/helpers/defaults.js":"1a3e7767a5853c098fcba2f20e95f770061dce529397d77b2356df23a1a97495",
+"src/scripts/helpers/feature-detect.js":"23e158d3df7a8b49399dec7cf2cd50df48889bef648301602eee17f9e982775e",
+"src/scripts/helpers/handle-video-selector.js":"476fda26a95d8ef1b5ff797eda26b37d81ac49c24cb25a8b1a97bdb66616c1c0",
+"src/scripts/helpers/validate-selector.js":"4c49926c40da511732702b60747baa9b8f6cd9fd21aab0b2985abe6ffcf6bbd1",
+"src/scripts/vidage.js":"3c1c0dabe8d7df12c00ef972dfa9d809f16a6ede0d79ca88bbeb7fe8bd13ae24"
+}

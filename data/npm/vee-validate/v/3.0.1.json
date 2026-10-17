@@ -1,0 +1,9 @@
+{
+"dist/rules.js":"0c5aa282a448061feaec151d913261c4bee3440c85bbc825e8a589847e850b9a",
+"dist/vee-validate.esm.js":"7363cb80f2d85ee20a01a03ead62fed64468dca19934217598ed7d78798adcb7",
+"dist/vee-validate.full.esm.js":"8aa5f3d48ea6998303e707a086bf2bfa109fc24c5d78067b6a8fce97b0984718",
+"dist/vee-validate.full.js":"b2b5ec521b16f76ddf1bfbe137c984ce48f0a7547a03daab5f01fef95fb6d89a",
+"dist/vee-validate.full.min.js":"8a7fa0b9bb074d99995178599150f4751b7f54304e494edb80d3e0ab1977d26a",
+"dist/vee-validate.js":"505a7623120cb1d1b4f55b137bb0ee1335fbe3e42da609dba492d8e488512aa2",
+"dist/vee-validate.min.js":"ee46cac61cf0f4acfe15696c6c28aff56d44df8995fef1f82e1134a73d29943d"
+}

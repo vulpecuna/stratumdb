@@ -1,0 +1,8 @@
+{
+"dev/script/index.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"dev/script/test.js":"164449401523e6b6c7d0e5f6b17d694a5ffa811da2ee2c40120aa93fe3be3f70",
+"dist/vconsole.min.js":"61b6a3883a9e217ef0bf917bf9ed47ebe984993b4c429a33c34cfab6d8bf95de",
+"example/lib/demo.css":"9e12de4c6e50198aaf39b311a996011a8e896ea394e704df6867d5ce78f326ab",
+"example/lib/weui.min.css":"83598d62f84183693992db2bfb0163e09a36c5ef2b75321e072b017b4984d8c9",
+"webpack.serve.config.js":"dbb4b97546629ab27dc23f76d2b151e207f8a6762899dd2deaa35507eb0313de"
+}

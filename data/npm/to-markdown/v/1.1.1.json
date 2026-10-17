@@ -1,0 +1,8 @@
+{
+"dist/to-markdown.js":"9717b702e4eca9504213dcf37ea4f0542f8a5ff2fd013623325ed6f9bb0c0a0e",
+"index.js":"f6fe8b773ff58388921062a0bc2c3f3789afc2d5a27269399e90c581820eaffd",
+"lib/gfm-converters.js":"31115e5858a050057c54008d2cbaccbac09fa0159f43b9945730a447540845ff",
+"lib/md-converters.js":"833d58fd60138392bf32c488df8810228299fc29bbd528ef8348a6b1ea50568d",
+"test/gfm-test.js":"0c0c4277fe5c9fb09da02af66bea4d3b95cb188e593e4bed79d817ec1eb043bd",
+"test/to-markdown-test.js":"f8fba640b71c9764bd5cb1d4db191d23b2f862ce9858eb6c5108517abebcb8ba"
+}

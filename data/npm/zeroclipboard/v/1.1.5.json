@@ -1,0 +1,15 @@
+{
+"ZeroClipboard.js":"7dac5011a6b20fed16805e2bfbec5f0c22677f8d2721a6ab4701413ff745570d",
+"ZeroClipboard.min.js":"3d8f607cad6f613f021f9807114a2a249840f75f3bbfe7ad1b741f7c173e21ee",
+"index.js":"81a51eee730bdfe3398ca797f425cab2842a06b23c990c1d5864f17582d23a68",
+"src/build.js":"782028167c9e67861d3691859842ff5034531b3ab9a0d6b208364d32f721ad42",
+"src/component.js":"7b34b6dad5ce309f56f4249d444401622d9a351d0101c7f847e4102cad726f3c",
+"src/javascript/ZeroClipboard/client.js":"f463cd1213a974839e02fea288fa5b6b8fb3936607e8c6cc92e0c4117a654e56",
+"src/javascript/ZeroClipboard/core.js":"967dd3ede598ce1eb7b98013d8fd61558e9a5356e933937ea45f901f2218aa9f",
+"src/javascript/ZeroClipboard/event.js":"06620ca55abf5ffb895ee6c1bbcba6f766e5e08a14934fb6125d4d29e9b87095",
+"src/javascript/ZeroClipboard/position.js":"806a2059330c1f422b4b5cbf4154cd791d8a2894f3405f66cb106ce78f50f662",
+"src/javascript/ZeroClipboard/selector.js":"886881323d661b3cd8bcdde93d90714d80e57e4edd275e7dea785170177e8306",
+"src/javascript/end.js":"cff1784459fa0dd93c172a54d701ec3f1bed0ac7bbab1cde81120e473d95fbc3",
+"src/javascript/start.js":"74c2a8cfe7d8f50e5ad97e2bb3ae2589215f078c2b2e3091fe507914f3a2d8ed",
+"src/license.js":"1514e54ee0b5d43ce58cd244373c4eb5b6dabd8798786f5fc6cf8ce943d58d60"
+}

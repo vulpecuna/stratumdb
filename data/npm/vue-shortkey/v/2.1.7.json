@@ -1,0 +1,7 @@
+{
+"build/build.js":"25d3333953d232fae39dad190c11b043544af913e913f9a37ac9bc85928f4008",
+"build/webpack.config.js":"5ed92eafc42698c803f33a8ce8bce150ad249ef96a4c1f456cf52a9bf24074fc",
+"dist/index.js":"ac90ef9615be3bacefbc56d09ef258a824e494b68b5e427adae4239ca7911730",
+"src/index.js":"54a5319bc3bb13ba9a89c013f8ab86ce4d5c316466710400d0257d2d9ec58ea5",
+"test/index.test.js":"a42571ab55179540a01d07f1cf4626aaf3e78e6276e67c85fd59793acd479e77"
+}

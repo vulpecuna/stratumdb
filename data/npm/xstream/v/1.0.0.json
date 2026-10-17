@@ -1,0 +1,17 @@
+{
+"dist/xstream.js":"114c66c8d47a2651d948480ac9a345dba20b1fd796749daffc9a7bf6f6e5d546",
+"dist/xstream.min.js":"7b85e92ccfda7975636528a209e4610ca331263c441ca431fb21a972fcb397d0",
+"examples/map-filter-take.js":"868e1d84c98d17f7ff6cc5a9a83a99f32bc3363da67003e2fccca0d109f98a3b",
+"examples/of.js":"1a1d790f54d291d525daa08d534ae391d62a72fb9bdb8d916de1b53f477e6fcb",
+"perf/filter-map-fusion.js":"489e745f1eb9a1e6bd4c1bbfefee5d413283be7b31a1e614a8c427dd25d7bc46",
+"perf/filter-map-reduce.js":"9a602c2a9a7a5167f4f3b339670cfeebd708a7cf29d22308646daf350c05abaa",
+"perf/flatMap.js":"642a73bed0e9808a475dfd248b07ae096883b2ec95be907b7ab135f161356eb2",
+"perf/merge.js":"ca602a6c66453ea4af47e59247019fbfe88940208edd445854f2e16440dd6eec",
+"perf/runners.js":"7718b9beece86c2cd27c6c9ed0ff9d7dce187a45adc51af9f849d13dc90757b4",
+"perf/scan.js":"bf9213649553c2a63f68fb0d4329e1e3efaf57b74076a92fd9644e72e37da11f",
+"perf/switchMap.js":"27e620dcb5abef0b12389c71aec17badb6fba179f294b92832de1dadb0653a34",
+"tools/generate-docs.js":"5df4a51088ab1016d8f524133dfbaa1b9b9c77fe225f8c0ae29c22de1cacb60a",
+"tools/make-factories.js":"144c16c7900204a9dddefe3f65c26ef62151f413f982420737d1e0b968462234",
+"tools/make-methods.js":"1dc46e910dad9b6d08c832cbc52a1fa9cd56afaa31129400d5c50efeb57eda8b",
+"tools/make-toc.js":"0f06b802415e693022973bff1f6c935aa56c3015fb609959cc271cfea0ccde07"
+}

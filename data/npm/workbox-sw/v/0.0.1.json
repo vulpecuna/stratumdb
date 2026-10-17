@@ -1,0 +1,10 @@
+{
+"build/importScripts/workbox-sw.dev.v0.0.1.js":"d7c26c416542bbbaba7c6782d53031c82fe4ac541743ea4a29081f99b338bc2b",
+"build/importScripts/workbox-sw.dev.v0.0.1.js.map":"b868f52ad5489446ecdb7fc585ac0127f3fe342132f9b12643598b0ff5307e12",
+"build/importScripts/workbox-sw.prod.v0.0.1.js":"2bd977dce355fd78e906e813dbb4c22d457aa6e128eee4caebe8f20472069c00",
+"build/importScripts/workbox-sw.prod.v0.0.1.js.map":"705c5c18fc634281a7ea721d6f25b4e191b8b98c2956cced787ee0244476ef57",
+"build/modules/workbox-sw.dev.v0.0.1.mjs":"e438920d2d21600f87fe81a48832be8f35e9257e896411d55f41bd8a8d4413e8",
+"build/modules/workbox-sw.dev.v0.0.1.mjs.map":"4b39dae82c3eb7dd79a42114064af318d4a3e860ee6536f66e93011ec9a9038c",
+"build/modules/workbox-sw.prod.v0.0.1.mjs":"3933f53c0087a4b76650a55b2e3b5d4208f4b304349876f180b8b3f3280c9fa8",
+"build/modules/workbox-sw.prod.v0.0.1.mjs.map":"0ac2cd3d107f14f6f58bd21482b80dc63c27ddb91c77bbc10afa10608c7253cf"
+}

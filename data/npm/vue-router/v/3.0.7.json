@@ -1,0 +1,12 @@
+{
+"dist/vue-router.common.js":"47b016f93d5113789a5c6362c69fbcb562dff5989a6da4f5bedad332211a5b59",
+"dist/vue-router.esm.browser.js":"c26892c0d117dd29eeb20007981741f86cc5310492666115a41449f4e2c5a96d",
+"dist/vue-router.esm.browser.min.js":"ca870f1e8ac58309cfe4178388c9af24b096da9359b5d19981026c5a5fd86843",
+"dist/vue-router.esm.js":"98bbdd97b56137107a447010daf27d09fb0727a8d68ccb1870b7602138afb652",
+"dist/vue-router.js":"3fdd5f9105b003f4231b4fc788729acf65e98f22cf81b0796beb5c5e8e842b8f",
+"dist/vue-router.min.js":"ead307ef4955c96b6811008418d0e7a1f0fe4e0d62a9d066d2e5ef2b643dce59",
+"src/create-matcher.js":"ee3ab8cd1f4eb93f5796949ed15d1ac61dffa1756c08ac21d815aafa725dacdf",
+"src/create-route-map.js":"c9be1d3b678f1b3fe7f18ee54b799fea01ba673ac5e8f2332fbaf354bcebdf39",
+"src/index.js":"bd214c1cbf32fd19347adb33d65234d4e026d187475e997666a3a1ab3959ae78",
+"src/install.js":"cf0eec5420efe1e8c8292f6dfc49bed4559177f48ead468d401947329fa13f12"
+}

@@ -1,0 +1,11 @@
+{
+"dist/to-markdown.js":"48707c82151271edd10361fa2d8eee9d1d953483e17d801146e5a2077708511f",
+"index.js":"dbee8065977d0bdb9c878f5353966fd981f907283c6d2ab7a33a631c15b8ea60",
+"lib/document.js":"3b2f65c99c0896a184c2b942ed6c745b87b7be5619ab644d691f8d6db2394775",
+"lib/gfm-converters.js":"039269dd556019a7be6954aa4d04c39d046ed03ac42cc1850e88174282735375",
+"lib/html-to-dom.js":"6ed05bdc829c9cd9ba1485a722938c8c2e7a20f230a2af0b57db859d97a44c74",
+"lib/md-converters.js":"eeae2f8821f9e00b5c63dee112aaeceb887bb662f45bd2aa1e7d3fc6b533d80a",
+"lib/utilities.js":"bb7cee89717a7a1a7d9bc7eb9fc5c542269de6d742f28609724a59c28cb7617e",
+"test/gfm-test.js":"050229fd5b56978de9f9564c96bc052ebf6e9dabab82eaa639de9409fdd70096",
+"test/to-markdown-test.js":"6bc1c086d372ee91ca24c546b4e1a6adec9e4d5dab00ebad4828d72180f8794f"
+}

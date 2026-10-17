@@ -1,0 +1,9 @@
+{
+"dist/turndown.js":"b7e8f59e7c80aa531f6feaea211e70594ba5dac88696161b4f907a00b5d58fa0",
+"lib/turndown.browser.cjs.js":"19a4bce9d8301e29a47a8f49431e3a6276e61a42250d6c158279cb3cbd5a49c9",
+"lib/turndown.browser.es.js":"f6ea5dc1b6816677ac0fa642db2c86693e425f188b54496c4c58f4dea1ef9066",
+"lib/turndown.browser.umd.js":"038dade93be8f03bff41aedda168ed77e2abae55d4e9c8c8683b15cf9b0f0176",
+"lib/turndown.cjs.js":"e529a789f72f6ec87dbb0fa47b8c0872c186050d312d739f69e6463e6061dd9d",
+"lib/turndown.es.js":"05d50d12d7f278d3946e2f33b1c56d8748328fb0d1b4eb3766da033ac3598748",
+"lib/turndown.umd.js":"aeb8d26c2bbda41ef792cd4b7411f2a7eca37cf937735753f1ccc6756fc633cb"
+}

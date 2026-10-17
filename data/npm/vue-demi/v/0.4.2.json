@@ -1,0 +1,10 @@
+{
+"lib/index.cjs.js":"1ed68152c7e89bacb7af89b8de22df071bc9f50f3fa11e380a45b685eadbf585",
+"lib/index.esm.js":"d6d7672ee0015a6de4cd4f8a92a8bb20f0a3eac120cc3a691e96a1d068b05928",
+"lib/index.iife.js":"d680853a5a8438e8007bcf89b209e2fd1fd98994a50c9fb40fe8bc5892b30e17",
+"lib/v2/index.cjs.js":"be1598432b1c1c6989f60ada7fdbfd562d030b222c9b7437aabdb9f3cdb5285d",
+"lib/v2/index.esm.js":"94a8162c831d806922cb40ebd1527bc7f336a4adc6457479a92c8746e0aa1154",
+"lib/v3/index.cjs.js":"08fba616fc2e44601d309a2c703f38d3b5bcc02bc62c9a02a09690f7cf867871",
+"lib/v3/index.esm.js":"71be6c6fd199e23635e9a26581476a13c1e3f52d31f470eb7d312e1238e4abb7",
+"scripts/postinstall.js":"3dc1a1112019a2ee09f1b7e5d5a8f614c2c13ae4d158b04057baf279fa650dac"
+}

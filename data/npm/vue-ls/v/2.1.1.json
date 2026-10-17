@@ -1,0 +1,14 @@
+{
+"dist/vue-ls.js":"761029947d2af9e9ea5e14a6e95fe1813c13248bcd9d94678add01a7d36b4ec2",
+"dist/vue-ls.min.js":"2c73ec141be02a4d2ccc7d4e8505e4e58e068ebc2570b372914820e52e2bf41a",
+"dist/vue-ls.min.js.map":"048ca905f0c095731c51a97da6b160c6735bdd9bdd59f312cecf9e898bc27722",
+"gulpfile.js":"19fe6971b9abf4d77028bcc39cde3c06f9d0b1aa7125581b932638109b6df985",
+"src/index.js":"ff111ee52316488f3fe20f59e3a9d26fff9c0b561a0a45dfc36563d4a7d8344e",
+"src/localStorage.js":"d045e06c4a60849fa28a11acdfb97dde533546759109b70d4a689c2fc16b4bf7",
+"src/memoryStorage.js":"0a7eca2f1470a8357d5da280d0da0b2a95ae7a2ae623dbadf2099771e35567b4",
+"src/storage.js":"d8863437b5831ab3144db6f588360477a070c0b7230e0b8d5ab1a8989d8c14b0",
+"test/events.js":"8a1abc1049cda16b3c663e76f8029d286163f9509e8b16ab9adac74c7c97abc3",
+"test/helpers/setup-browser-env.js":"8def4009677e2921edf4bb2a1f149098b443d6a3dfc1cb9c97d7f5e1e838c490",
+"test/memoryStorage.js":"d9a315b5670eccc54ff02260f03168ce0c525d23f076800cbe1c29e947d05972",
+"test/storage.js":"e4faa73d7fce8d4d927f5325314904d217683f75e1dfe03968a79a350c768593"
+}

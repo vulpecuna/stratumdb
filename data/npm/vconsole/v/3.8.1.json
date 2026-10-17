@@ -1,0 +1,12 @@
+{
+"dev/script/index.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"dev/script/test.js":"164449401523e6b6c7d0e5f6b17d694a5ffa811da2ee2c40120aa93fe3be3f70",
+"dist/vconsole.min.js":"9f8760e17db8a6df598be01bfd7f41ec625c35796f1fdd92a09e9f54f208714d",
+"example/lib/demo.css":"9e12de4c6e50198aaf39b311a996011a8e896ea394e704df6867d5ce78f326ab",
+"example/lib/weui.min.css":"83598d62f84183693992db2bfb0163e09a36c5ef2b75321e072b017b4984d8c9",
+"src/core/core.js":"4193a53367d2dbad0e71bf76c7c88dd4f3ed68a58c6089347630a101920ad823",
+"src/element/element.js":"1b0afd4920a35e35e5e095e592bc3d49ff76927687891f8b11bd3310ea1bf16c",
+"src/element/node_view.js":"967e160ab81c842bbda2018024a998c5c693fdda459936fbf06ac993ae2b739e",
+"src/vconsole.js":"6fd635ddf5896d5a57b1e1534c3dd629a3b9d6a563d6c37cc45553e1f0481e82",
+"webpack.serve.config.js":"2926da143fb1397aa8c808cca1fabd275d1ba6ad812762dce9598985489f1a69"
+}

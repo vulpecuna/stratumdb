@@ -1,0 +1,17 @@
+{
+"dist/vue2-filters.js":"c160edc254752fb3a40d199d7dac23e020d25542f0f0237f94039836b14fdb8f",
+"dist/vue2-filters.min.js":"649cb42838fa8dbaa6ab5d106180a34262a78c6d5614b0f259eb386be54359b5",
+"src/array/filterBy.js":"ea64a659ecc65f4d815ef4d91e46df02e1fab613dbb0bf4a198cd538ed28adef",
+"src/array/index.js":"1cd3c3d8640e2915c8b6e4cbfdc147cb851ff649b0ccab93e240812f2f54cbe0",
+"src/array/limitBy.js":"7e07df1b2d6e889e2f4ea4d88b28811cf50bfe7cbde0b1ac1b348c7f926779f8",
+"src/array/orderBy.js":"7174120078a063131aa2dcb3806bc8ee5be47e2b936cc9c0bcfff8a13da74e1e",
+"src/index.js":"78a06df5421c0f795a3dd3978d7a73607408ea86cb6dbd009bf36b237ca2974d",
+"src/other/currency.js":"c1a2436602ab6330ecf2b73e07fb57158ae654cf264ca05dd9f7074cae3f2582",
+"src/other/index.js":"985d2907c9b76bd081763c5ff3c7b3681607bef6c7647385ec791d3a47bb12bd",
+"src/other/pluralize.js":"686f13428c7f7911b75d20424631eaab4281e301ff9ea82ad9b99868738ae14f",
+"src/string/capitalize.js":"e10fe4a53307c5bc4e11f8f92015997d70c6fdd955b7fa0938a164086614fe1a",
+"src/string/index.js":"bb8ae13984393a6273eec41e1b9d391e3271c0a388d7fb798523fe7edef5e8a7",
+"src/string/lowercase.js":"b3972fac2245093392d9011164890706754896100c3f8d982df2ff92a8474e32",
+"src/string/uppercase.js":"977826a6fc264c958b1898eef88bd82311daf973185620ba43427f77351ac8f2",
+"src/util/index.js":"9c8caec8ca30dce7a13d91d2c0847dbcd4fc43fd668bd9beb2117e639db3765a"
+}

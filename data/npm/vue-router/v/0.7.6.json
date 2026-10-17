@@ -1,0 +1,17 @@
+{
+"dist/vue-router.common.js":"ddf85cef010c002c16fd6a0994131c345398a711d8445a841d04b7c0951db701",
+"dist/vue-router.js":"19a8e6701291985b5fe4b8bab9059c17bed5f6340750da9dc76d724e70919de4",
+"dist/vue-router.js.map":"7d14e564b2599dcdb33fd1678340be0e60f4d61b49af75f96507797c58ea37fc",
+"dist/vue-router.min.js":"857ab3f8d173bfbb3ca3be6faeb831c6cb8cce0512134255473faebfc28aaaa0",
+"src/directives/link.js":"432d287dfabb6ace53c4dc0f7e2307dc7f93a5c88d0692fa1299b2250bc68bc3",
+"src/directives/view.js":"6abf11581bd005370bcd58ebe32b2686b917c77babb72b358aa98bb11daf742b",
+"src/history/abstract.js":"123e50a0510dccd4e71c4897a381477ff52f62be898e6f86395cd7d7ca50eada",
+"src/history/hash.js":"7dd373fe233166266b6a1c5fae1df33a0d89f28d2acaeb4dbd3ee0b0b78c766e",
+"src/history/html5.js":"52a2b1541124ced60cf083d3f581c958a37814b10ebab8f88a75be3429dfaf6d",
+"src/index.js":"47d3fa329922b8506dabe6e6ef883da226c2a11ae406d1276e92f4c7478f9963",
+"src/override.js":"c70f4ca9f07b6baf686bdbc2bf1b4f5167966cf42b9f6de9fa71e9126c554248",
+"src/pipeline.js":"cb7d24c6808a29ad37747677539b11eeb16a6ba0a5134218a5ccf8b644e4b631",
+"src/route.js":"c2b6e9d283a88a7ca04693f3596c4f9a64cae30989e43c26975a04e6b8330d99",
+"src/transition.js":"070b671c91d8f5d1499d6999d517c876ef30929475700652cfbcf5ca8e7cb913",
+"src/util.js":"2fcbb38d4506d44a3f36c817923a5e65ad8ea7e5f0f408101dee5dfbc45ce590"
+}

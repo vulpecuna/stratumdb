@@ -1,0 +1,13 @@
+{
+"build-es5/vega-embed.js":"31f364b90dda16ff0f2dc244185da29a03a146781082c5a5ed32cbd6d4e8f157",
+"build-es5/vega-embed.js.map":"58ff642aed5baf6c7f8537a05598ecf6630c9e66d995c5dced4ac897904f759f",
+"build-es5/vega-embed.min.js":"9ec617d8b834b219d693d5bc31285792d1b99e5cefaec0d69e13ed2287fb7dae",
+"build-es5/vega-embed.min.js.map":"2154cbecbeb2c00fb183a694c67b4b5f60e8b3383acdf69aab921ce7720474d2",
+"build/vega-embed.js":"31f364b90dda16ff0f2dc244185da29a03a146781082c5a5ed32cbd6d4e8f157",
+"build/vega-embed.js.map":"58ff642aed5baf6c7f8537a05598ecf6630c9e66d995c5dced4ac897904f759f",
+"build/vega-embed.min.js":"9ec617d8b834b219d693d5bc31285792d1b99e5cefaec0d69e13ed2287fb7dae",
+"build/vega-embed.min.js.map":"2154cbecbeb2c00fb183a694c67b4b5f60e8b3383acdf69aab921ce7720474d2",
+"build/vega-embed.module.d.ts.map":"43867b79bf331da3146bd31dac1e64c9edb5b260cf820f3ca83098c5ab67476f",
+"build/vega-embed.module.js":"f68de59a1bacfaae3183c43dc0713a161c006ff079767ff316ef51121d2aa5e8",
+"build/vega-embed.module.js.map":"738670bd2013f779ab45c1d1645de098a7afbfb9eef928e2538773c23b933a0e"
+}

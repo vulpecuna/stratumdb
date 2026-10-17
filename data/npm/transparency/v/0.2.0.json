@@ -1,0 +1,10 @@
+{
+"examples/hello-server/public/stylesheets/style.css":"2828f3d789d881ac0a37ccff297b4574f40955c6b8278332166659cf6867b539",
+"examples/todo-app/css/style.css":"a1e0053776f8c5a46654e31e7d865e73c5162955e785bd8129b4d6d62691e6df",
+"examples/todo-app/js/coffee-script.js":"bdf81fdbee30135c7941b7d851b7b1108357e3eb8d461727d265fd5e5c71b44f",
+"examples/todo-app/js/jquery-1.7.1.min.js":"88171413fc76dda23ab32baa17b11e4fff89141c633ece737852445f1ba6c1bd",
+"examples/todo-app/js/underscore-min.js":"42d8fad13bc28fc726775196ec9ab953febf9bde175c5845128361c953fa17f4",
+"index.js":"799229f25970cc9faaefcf76bd765e5a667a550081bc8382dad91bf57587b646",
+"lib/jquery.transparency.js":"e8cb927c7c055ae0bd1fc8287f482729477661d76520a46165bb07d44959c92b",
+"lib/jquery.transparency.min.js":"d60b8839c6fcef2ec5e4fc90b3562c7e20b69042efb5cd31fa37ad3d5c6cd413"
+}

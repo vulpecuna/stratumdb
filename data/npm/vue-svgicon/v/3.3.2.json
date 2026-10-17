@@ -1,0 +1,14 @@
+{
+"default/svgo.js":"e40975d7006df83ac3954ab4ee22455036abbbb0e031aecd5cabf1da91384a58",
+"dist/components/svgicon.common.js":"9f0e89467ca810ed22114f3a70bd82c4ba0145ac209044b37de7cd9c3e0fe6c4",
+"dist/components/svgicon.common.js.map":"fa3a2ced287a9694d5d6c5c0e349880e661f07c7065bb1258773eec1bd6f8184",
+"dist/components/svgicon.umd.js":"d5f92e7645da354974b544f07bef26e772c590ba857d2f718b35c4b62acb076d",
+"dist/components/svgicon.umd.js.map":"f30c7ed9d271dd704236ae87210b67a8411d1b093e40ec13e383c5a84f6c7cf9",
+"dist/components/svgicon.umd.min.js":"5c57ef022dc53a82af9d5124ec65546be2fd975f6edae9a1aa638508c1efe6b5",
+"dist/components/svgicon.umd.min.js.map":"36b2801c8b8e81ed394de627f04bfa403598ebcb58ab2b63c8b3cdd741b8f573",
+"dist/lib/build.js":"f02b3c56312b78892f7ca9ba442ea2ec44699455776863805848d96be8a51f2f",
+"dist/lib/build.js.map":"3acf809e405f9caa6f1f08967638917b66e2ee1b3bae7fdc2e0e48c42da06bf1",
+"dist/lib/index.js":"344f85034255b7275f39f29f8e22d4aceba16ab3306d8f56fb8a803e7786c9ae",
+"dist/lib/index.js.map":"b18307fd25e47e0742afca41bb7d668fe77446d49f880455d8ae0706a8eb0aec",
+"dist/polyfill.js":"36420e30173b6a186bed29957fdaffec123b8c6cc7126b48ca9ce242d99c1db6"
+}

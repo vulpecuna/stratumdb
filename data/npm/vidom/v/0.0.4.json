@@ -1,0 +1,9 @@
+{
+"lib/calcPatch.js":"dea39a577382dce962f1dc5e4a7a76295ef245248cdb2ed96962c3d05057d61e",
+"lib/domAttrsMutators.js":"170c0e9f9a7f41aa3de326af9a272ca4d677050768cc2bbe23389831c54cccac",
+"lib/patchDom.js":"6df3d809b3c87089e51b043911eb3f6171c0c3f2f910d8f9a922e7f06be4afcd",
+"lib/patchOps.js":"d93e7f465d7755900eba8b2c8fb51d0bd91698c1e297558419b9087df6603012",
+"lib/renderToDom.js":"1cd187ec9622629af7160cce4f63a262c176e9e7dce951d7a5fa950b85f3f623",
+"lib/vidom.js":"8200f09da1bcebd046e688b7eca9a2396047d02ab8cd8234f0cd6b631fb5d34f",
+"test.js":"5456c1069f9d200cce2bc00f511d699bd649bd2158ef0e564b4d0e438d52b7c4"
+}

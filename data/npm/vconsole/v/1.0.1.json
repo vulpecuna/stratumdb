@@ -1,0 +1,9 @@
+{
+"dist/vconsole.min.js":"ed887c646e98efd9a0ee240df35fc039043aa0bd6096e556896aca4c034c8d72",
+"example/lib/demo.css":"37b28b7cd5f47fbc42f075970bd38367e7fa604faa6bed1ba374eb8dd1367d6b",
+"example/lib/fastclick.js":"1aa08cb3c7aa70d268d24d59c374c14af7bd08e0af8c85f8e4f60a2651f4bab5",
+"example/lib/jquery-1.12.3.min.js":"69a3831c082fc105b56c53865cc797fa90b83d920fb2f9f6875b00ad83a18174",
+"example/lib/weui.min.css":"83598d62f84183693992db2bfb0163e09a36c5ef2b75321e072b017b4984d8c9",
+"src/vconsole.js":"e753f66d597403008fe3b790386ac40bcc268cc653e9eb43ef427bd9af73a2aa",
+"webpack.config.js":"0001c33b09386224912095617907ee60dcd83fd850b87cfc1109b167927c4966"
+}

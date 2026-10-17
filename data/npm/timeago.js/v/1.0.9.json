@@ -1,0 +1,15 @@
+{
+"demo/index.js":"6db643e72b0fe985721eff264babc047212e1d5c9e4d42c3e7fd696f2893ac41",
+"dist/timeago.js":"127f812dea48dd351c843107d5d5a808785720bb15da2a6b1c8898a4571fd5ff",
+"dist/timeago.min.js":"6e8eef63db331da1c56a489ba002db1f2e25529ab963d3b3bf594c11bf148dab",
+"gulpfile.js":"03419ae45455fc7257f1cca18501016aa60ad998219bff527c88135509ef784e",
+"locales/en.js":"ac92e2226fa7ad31b137b39536bb2518d71e6fd0d617394bfb0d69ae2335f153",
+"locales/fr.js":"88756cc6d5fa83a934febf70448d9233476dbb36da12f3488574f8e1beafd786",
+"locales/nl_BE.js":"ffb936a6f9e98e175f8cbad9265a1a9f1fa00f93bcdcdf1fda6f495afe463d51",
+"locales/pt_BR.js":"0a46517cb4d8dd5828199ae81d273b9d0ae8f9146d77808f87e23a9585f0a9f8",
+"locales/zh_CN.js":"28e1f49df2aea7740a2ccef3c36de24377c90c8d04bcb32c7929de42dc5c0631",
+"src/timeago.js":"127f812dea48dd351c843107d5d5a808785720bb15da2a6b1c8898a4571fd5ff",
+"tests/locales_test.js":"ad46e5b78c564520aa6f0029ddc29ccd5c3a4df037f8e3b4edfa9c0baf50a009",
+"tests/test.js":"5f327450f74052e4e688757ed8579a78f3fde5a89d313072315b097f4ced0638",
+"tests/test_dev.js":"0eac6a7a9f9f29e73c93b8cfc465898b9ba9b93fb1122507ec698ba9f3aad40e"
+}
