@@ -51,7 +51,7 @@ DEADLINE = float("inf")
 MAX_BODY = 256 << 20          # bytes of one download
 MAX_UNZIPPED = 1 << 30        # declared bytes of all members of one archive
 MAX_MEMBERS = 50_000          # members of one archive
-MAX_LIST = 20_000             # versions in one list
+MAX_LIST = 100_000             # tags of one repository (JetBrains/kotlin tags every build: ~48 000)
 _lock = threading.Lock()
 STATS = {"requests": 0, "bytes": 0, "written": 0, "failed": 0}
 
@@ -94,8 +94,17 @@ def fetch(url: str, *, allow_404: bool = False, tries: int = 3) -> bytes | None:
 
 
 def fetch_json(url: str, **kw) -> object:
-    body = fetch(url, **kw)
-    return None if body is None else json.loads(body)
+    """A parsed answer, asked again when the body is not JSON: a listing cut
+    mid-transfer is a transport failure, not a reason to end the run."""
+    for attempt in range(3):
+        body = fetch(url, **kw)
+        if body is None:
+            return None
+        try:
+            return json.loads(body)
+        except ValueError:
+            time.sleep(2 ** attempt * 2)
+    raise Transport(f"malformed JSON from {url}")
 
 
 # --------------------------------------------------------------------------- output
