@@ -1,0 +1,8 @@
+{
+"dist/css/jquery-weui.css":"120f2b561af8fe26ca3e6c456a6852d1cddc7adee52c3294c27ba8031142e470",
+"dist/js/jquery-weui.js":"685eab4d1788f13a8560f9981dbc8e7649aa4819147c0c298886b3f5270307da",
+"dist/lib/jquery-2.1.4.js":"b2215cce5830e2350b9d420271d9bd82340f664c3f60f0ea850f7e9c0392704e",
+"dist/lib/weui.css":"93da19c12edd4d438d9bdc5cbad9b8b5cc9e550430156f006841eb43619a1dcb",
+"dist/lib/weui.min.css":"74f16d38b4e8bd46bca9d6e11baf6d7e6f4d742af194e2ae8a7689346c066ac7",
+"gulpfile.js":"25ca787ed2609f8d3749b54302fa870af047ace290bd06479b4fcf40e6445a26"
+}

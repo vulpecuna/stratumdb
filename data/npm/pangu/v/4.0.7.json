@@ -1,0 +1,11 @@
+{
+"dist/browser/pangu.js":"13ced06d1fa523342f9ef3f38a2b8fa42b8c6be29cc4aa348cb8c0afd5aaa339",
+"dist/browser/pangu.min.js":"8feca3e7a71d118d82c2456d1b2cf5f1f3726c51a930627c2711b7192c8edbe2",
+"dist/node/cli.js":"290395ea6620d58851d62dae0725dac3d6893d2bbb07afd7093b690a6b289067",
+"dist/node/index.js":"268e9586b89a259cad3fc01c015cd8f13c4957f4e9899af3fecaf8affd8a3cc5",
+"dist/shared/core.js":"9f51d39c17985580401132105608c6858e1b44f59a9408de12f2d3920cea475f",
+"src/browser/pangu.js":"a38dcb57f0db9464172aa89d04b0fb9b93f5bf2d88da86128e6dc90f1dce7789",
+"src/node/cli.js":"dc97aaf4484f6760f65d8690658282e6602baaf9a4d90ab913526e3d85453dcc",
+"src/node/index.js":"05cdee1f2b20847afa6190239cf16de2080252442ee8cba96fc93a836053ac3b",
+"src/shared/core.js":"9794344615e8d756fb3fbc4a100611f54a52c2f799bc974976e3c7a0bee33378"
+}

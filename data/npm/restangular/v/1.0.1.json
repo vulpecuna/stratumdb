@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"06e422387292907a757a070314eccf2c087509368577cc0a93be19e8e3a827f9",
+"dist/dependencies/angular-resource.js":"ee66cc44ba93aa8b9a807c082c98761ac62d635325d8bbd1243593758a814fda",
+"dist/dependencies/angular.js":"0520eb1197b034a24754dfb6081aeab53c1bd124d83c14353c5379d1a1c44cf3",
+"dist/dependencies/lodash.js":"62598446727957ec7d07aaa872b8ce0d7aa38c07e71a0ba7d98e4f0fe9d127df",
+"dist/restangular.js":"bc8d9006e5f31e0e58b3b173befa2225820a677819f05a7e4b675698928427cf",
+"dist/restangular.min.js":"44c4f622c5e8f80e93d404ec339ae1c8d35052b7a54cebc69b5390ea018b21e2",
+"karma.conf.js":"a2b88c6a9d7b1f4d33115fa0942048a5e54217e0a2dd63690fee2ebf1c28354c",
+"karma.underscore.conf.js":"3c19271f7224e734f1ce3e5abb464cda0aa904f8ee1fc5d0813aa468e897d455",
+"src/restangular.js":"8d95b572503777a9ad637d013a458d56db998fc2c9bc72b157fa92e775f86a3b",
+"test/restangularSpec.js":"cf2a91c41286b5f5692448975777ef06f09d3a31e6c298c0d60b651dec4df1b0"
+}

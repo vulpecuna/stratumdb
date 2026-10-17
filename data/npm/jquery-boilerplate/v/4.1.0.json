@@ -1,0 +1,9 @@
+{
+"Gruntfile.js":"bfe47322f86f7e7c0b9f24c3ac581929e56181f1e3f9dedf40f25b98226cca3b",
+"dist/jquery.boilerplate.js":"02e70f1c9c19f8e3cb933df88a338e7b08f60d265f8323abde233ff82c7a8feb",
+"dist/jquery.boilerplate.min.js":"9fd331253aba0e58914cf6ca24de41358eb3811e190afb7deb402c6a961a9bab",
+"karma.conf.js":"b71fdd4f3dad1d2f2d136071c795f7f6b118695a2dc1fe7fbb468ffd3996db69",
+"src/jquery.boilerplate.js":"60cf5e3d4928b9a5b7ccf640e346dd37c324adf8858dafa884d433655b9e5983",
+"test/setup.js":"4a1a5aa26e3c10ee75dfe039890ce2e30b833e3856a543246185e7de0178b712",
+"test/spec/jquery.boilerplate.spec.js":"abf2b8a34826cb0f3ac8329c054c51be0d1b72f430a7a44decb60baff872420d"
+}

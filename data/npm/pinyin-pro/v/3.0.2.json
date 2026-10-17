@@ -1,0 +1,9 @@
+{
+"dist/index.js":"236f3c5f1dd3e2dc80237f4ab0f2a816e6a2c228f030b4bcc31225b6c2aa4882",
+"test/aggregate.test.js":"c0cf50df34b483dc4e3db1fb276e7b224d94bd8487caa0b8a5c0f6a20316b258",
+"test/lib.test.js":"7f078fa4a38693b3edc27a38bcbe95b66ea7b8a94841f2cefda892736236e7f2",
+"test/multiple.test.js":"fd9aad8781e0b73956bbca3c372ba4fb9cbdb3fb685c3148d6714bb90a08e623",
+"test/pattern.test.js":"f9069d7311b90c9aaf38c4f2723686835a03d70e837afeb014aa30fe96e4bc57",
+"test/simple.test.js":"630fbe294a80018f2f4af0d8c58e2f4038f258762162be00de242673fdc6a072",
+"test/toneType.test.js":"a74d426d00907df0f14e9244e6fc3d56e9a198b44a2947ae96a50fddc4c565a4"
+}

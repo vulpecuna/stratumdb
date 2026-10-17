@@ -1,0 +1,12 @@
+{
+"dist/react-popper.js":"a7157c3fb66c55fe55e721f4adeb5728bd83b732f965ed4d36dbed5cce674b82",
+"dist/react-popper.min.js":"acd0c604714ecdf276b4e0cd4969bc93c2724e54fb59551e95ccb0e897cb7881",
+"lib/Arrow.js":"00e020d6c79451f5fa196fb98074fd774b7f1250553e2f5ec737d0654d87ed0a",
+"lib/Manager.js":"4b619544a0c494c5d7925d1a08c0f9ed0836ffef695fdd84a04854506450a558",
+"lib/Popper.js":"3b4d1b91a3f505480b904cd8b0e2f773c62fe0eea39b5519a46a4c2d52409f80",
+"lib/PopperArrow.js":"dbfe5f3abea5b926e5f752f3510fa93a0152cb52127a9fb9fc996ea4c306fd5b",
+"lib/PopperComponent.js":"d59f690f8bb43ee4d747a6a272f718f0e1da17905c3df65c5a72ee564f2b6b94",
+"lib/PopperManager.js":"15561e9c1f19d87cf1176da27ce119ecd42d75a66104eeb423073971654377d0",
+"lib/Target.js":"5323c78ba2a0c37e350869183fdbe36689abd5866333f5e4ef3e3d5c460ca565",
+"lib/react-popper.js":"f08d1a149990e425980fc88b5fd846b46156dbc50c21f356bc3d666978aab540"
+}

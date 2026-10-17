@@ -1,0 +1,7 @@
+{
+"rollup.config.js":"e64948b444f293381a2b59f8f184c126e53eec612a4b66af82bd80f90b1e8672",
+"test/conftest.js":"46d8381c4a17c18b2c0c01c62f7bded71088d497ba19fc86dc844100f4cc11c6",
+"test/filesystem.test.js":"7849b5fe2a6cdc7e0580b4600e4dd42a5a5bfee8ae5d4ab1c4bca01901dc101b",
+"test/module.test.js":"8800f9a6cc6f19e5349148d982d7b819b0df563bb318f0f74a96e8eb182f59e8",
+"test/pyodide.test.mjs":"f5b344c113dd1d988bce518cf38c40a21125793f1fca079383d1248e959ca714"
+}

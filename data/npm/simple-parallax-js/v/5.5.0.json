@@ -1,0 +1,14 @@
+{
+".eslintrc.js":"1ee46d07286edec7547d2647e2e2970a167c18f6657efac394d0d0efe7d0bfd5",
+"dist/simpleParallax.js":"da01bcbb9b9836a30a5c64e6d6ed7db90bee963da9e43b5eb0e180107bb0fe9f",
+"dist/simpleParallax.min.js":"d63238416d75061439b7ad619292f4e1e037039a6162ec7a7e790e2375626696",
+"src/helpers/convertToArray.js":"e88a1f245102be68508d086a3a5605a1d8fd4bd2d43b3c77f66bc16442ec8047",
+"src/helpers/cssTransform.js":"dbac67025394e0f336dd773aa338c9a5b32e385c63820ca953b31a890daf412b",
+"src/helpers/isImageLoaded.js":"2bf695959699fb792350ff94e455dd1c249cbaec7c55e5425c729684ef8d7410",
+"src/helpers/isSupportedBrowser.js":"f23c98d96260fb14a143f15d5b06fe26c47e1578d666f53a5376b28868dff00e",
+"src/helpers/viewport.js":"d6db4a5e23352600406b3685bb1c273070bdf0f8961fcd93d8b827882e3bdad1",
+"src/instances/parallax.js":"ce23223e8247cb602c5e1f19163a3b5393197135b11643ee5d7b911f0458aca0",
+"src/simpleParallax.js":"2fa67edf20d20c28365942a21bd584d842937dffe879e2c776a4662904ee10d3",
+"test/index.js":"5dcd36873dea971b5694d22383b553630af73e9496ccb0c72fa6e1a29d961d86",
+"webpack.config.js":"550d9a71a145a7290d9916dedf31ece89ca12df4355a3617862153ddcf98f37d"
+}

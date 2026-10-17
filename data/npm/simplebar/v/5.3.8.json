@@ -1,0 +1,16 @@
+{
+"dist/simplebar-core.esm.js":"75433685f0f1a631ced90e6d96d259ba22e0053ccd9ad884765926da61967e79",
+"dist/simplebar-core.esm.js.map":"e2de7ce97749b3f9e9387642bc02631ac18d14a26e074af4c1b1526ca0ba1ec4",
+"dist/simplebar.css":"c9e76321a30fe79540c5a5fe74410d3ca813e12e13065b2eb79ce4e969443d11",
+"dist/simplebar.esm.js":"84d7be1a6383087ff354d4e446ad40b44542782ee49ba319794e81070a72d1d9",
+"dist/simplebar.esm.js.map":"a12175bdd5eabd19ed3bd6130d46df90f0618491494ebb88bc3e038ce518e9d6",
+"dist/simplebar.js":"5ef603e8cbef5d07b3ddbe1b4bd1a721dd05770f5212949889e283cd1160c675",
+"dist/simplebar.min.css":"56f1018c32be3d6be2fbe926c035e3e2321fbb09d5a04abdb45ddf3cfc3ae085",
+"dist/simplebar.min.js":"b6e9507fb570c499c7f80306e10f49aedc4b83ace08371c4024e1ebd04aa7b8b",
+"dist/simplebar.umd.js":"739ed115be8d2ef24ce430d48145817257c42cafc581e954a725a66f90228687",
+"src/helpers.js":"612c262c3de308b60f16fbc577a895638363919e0a733b068dce3b18ad4658ff",
+"src/index.js":"18f424ac4e713a1f2ba9c017ecfad361752a544ff4bc991d89269681fa5a9912",
+"src/scrollbar-width.js":"4fd73dd085e7a1e396161f5821d9612bd9f1c7c9bf5b41d4e6afce0cc5684eca",
+"src/simplebar.css":"c9e76321a30fe79540c5a5fe74410d3ca813e12e13065b2eb79ce4e969443d11",
+"src/simplebar.js":"ad25fb4e1e5ae4cfec57fee847b80cf78c6bea5804fdb90a1d663cc13013b953"
+}

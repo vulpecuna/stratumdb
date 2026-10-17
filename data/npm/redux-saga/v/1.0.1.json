@@ -1,0 +1,11 @@
+{
+"dist/chunk-cbceff6d.js":"3b33f4918e8e5ae313755dca72e9b056285d800a68c58eac1637a6b1f9bda72f",
+"dist/redux-saga-core-npm-proxy.cjs.js":"2e35c3a5cb01fe4cd94ff9e4d44fbac9b897c6a746ba9f752e208ee435812839",
+"dist/redux-saga-core-npm-proxy.esm.js":"92e39697c3473322d1df2ce06cfede0973115ffc7d9550db3929b16f251af506",
+"dist/redux-saga-core.esmodules-browsers.js":"f44d35821fab952703eeaf5b03e26d7f0301cb502f1cfa464697d011640444ca",
+"dist/redux-saga-effects-npm-proxy.cjs.js":"2c4df5fc50f39200def3c8f7834fcf3764881eccb2e3112cffc0e14b2d8d56ec",
+"dist/redux-saga-effects-npm-proxy.esm.js":"45758d24fc71a618e35eb135c27fdf33d6878628bddc6dc958d3ab2f9236c8d9",
+"dist/redux-saga-effects.esmodules-browsers.js":"04289bb378d38fac38034a2e898c640d2ff541955ef067581adfc271903d32f8",
+"dist/redux-saga.umd.js":"eb5241118c96b5a1db70ad94146bb2ec9338b31924fda42b88f52f31be568ec0",
+"dist/redux-saga.umd.min.js":"28935338f3b498863d3cde1f705154a285a3a3a6510f1595ae6cbb2568954f75"
+}

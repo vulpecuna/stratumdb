@@ -1,0 +1,12 @@
+{
+"dist/index.js":"c36867b16d670b074d7f4a98a2ac84ea40b6ad30699abe7ad23c298e83dd1e24",
+"example/lib/devtools-detect.js":"d8678ed084fc6319ca82ee261e263262724e41984fa076120e2049b0348b3fdf",
+"example/lib/logdown.js":"0555a0a8d9de1a0e23d54647bab1fa09d46a6331c470c62838d9b143bf608235",
+"example/node.js":"d4fa6b7bef70a71daacfefcd95bf289c30bc6a3f94efd1769b08800277cfb5ae",
+"gulpfile.js":"b5352966797f7437e9ce4e360c275ccc349d95fc2ca084cbcc437685b9dfda92",
+"src/index.js":"c3db1fb1457ca16e538ea0c98d0202392db771eaba53eae0bdd4099f237acbb4",
+"test/browser.js":"7100d0a95d042e817ece86194ca2cdab40757be05c3b83cbe8236eb8e313666e",
+"test/karma-travisci.conf.js":"af2c7c18b77a43c6d7d0572f62ea6568ee372b4344e04fc6a3bd911c248b4820",
+"test/karma.conf.js":"b51ed0eee95ed140f7e41c3e3ae634de850d35e8ad7e3f9eb73f156a33e664ca",
+"test/server.js":"0af71943652c0f04942921567e0569827d401054d1bc469d2c6826a6ba89f00b"
+}

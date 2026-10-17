@@ -1,0 +1,11 @@
+{
+"dist/index.es2015.js":"d6c3af84df88ed3bc97a27a56cfffad17fd6bec0ec67f30dc5a5704c0e4944ea",
+"dist/index.es2015.js.map":"9e06132b736c9d91831b314409ce437f17d6af54d986f80ecef18588ac8159a6",
+"dist/index.umd.js":"c65d5a7199a4b626152ce33fe5b124d66a70d0af438ad3eba7bae136251cc38a",
+"dist/index.umd.js.map":"623d9e56969d047fc5f1f0e893c77acba90bfa679ab9e000b31e9351e1ff886f",
+"rollup.config.js":"29a3b34935f1a722c1051fd8b4d815bfa02dedb0833404d1d2a146de107f23fd",
+"test/errors.js":"12c9844edbc3b05f80b0be4a58988084cd8ec31c627353aca75e7d5d66ac1bbe",
+"test/fixtures/index.js":"74ccaeea7f24c3da27ab122c50ac76ccbf30709d3b87aaa16df2be63c2b95479",
+"test/types.js":"351c7763c2ffd64d46f7e1b181d0d9a080a89e6e7d986345ec2d3b0adc750970",
+"test/unit.js":"9e5ba3dfe48fc7f552baaa77daac9da1c2252067ad7a7ec8335793334dec71ad"
+}

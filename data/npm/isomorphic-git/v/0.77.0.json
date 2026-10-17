@@ -1,0 +1,11 @@
+{
+"cli.js":"19c52447b1676e73ef253bf62fa8bd2afcbb94affd02bd795194bed42b223c04",
+"dist/bundle.umd.min.js":"89bd7869d5fc22c51aa63abe97b877ce1549e49c0edb00f41e02209ec0b7c169",
+"dist/bundle.umd.min.js.map":"925aaa0ba9a41387280608df48819b18fd6c44240d0bd0fd0f794e4ec18a290c",
+"dist/for-future/isomorphic-git/index.js":"706023e076fd26a869251ac0469945bab1da40a0ad859c12212ac435bc4d085b",
+"dist/for-future/isomorphic-git/internal-apis.js":"e3af853dd7431a0b346b3302459d7a4d089fc72b16080d3bf3d6f90913fafb6a",
+"dist/for-node/isomorphic-git/index.js":"22e23244abd571979cf0f3a93ca62b94e4e54ff0b6ddda6d8b1363eec277696e",
+"dist/for-node/isomorphic-git/internal-apis.js":"020c6877a3f7446714ad2ea9a93bf3c1a1380f38f01fd058f0d342a2c78f0f32",
+"dist/internal.umd.min.js":"45d429dc4d7fa83e393e330af8dab5bf6df1d85b25aac8951b4d852455a56bf6",
+"dist/internal.umd.min.js.map":"eb107f39742af046bfd1446ef549bc22036f555c5a42162ab14974ef94c6ccd3"
+}

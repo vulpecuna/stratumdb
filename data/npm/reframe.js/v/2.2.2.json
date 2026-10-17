@@ -1,0 +1,12 @@
+{
+"dist/jquery.noframe.js":"6f8f577547dc62892305bb156db1f2ce177c52ecc687061b0528ec3139959ba7",
+"dist/jquery.noframe.min.js":"c3747ebbc2837aa5e0cfa048f05ecfc3728a12d3eb2492623276d4331bc3ec2f",
+"dist/jquery.reframe.js":"e84fde00b8e0184b1b9b9e338b7ff7b037095dbf2d0b39da7c0ec545fa8de99e",
+"dist/jquery.reframe.min.js":"8c6a544c895ddc372afa47587dae7bdeb242ab632e1922ba39f7bf01955d78fa",
+"dist/noframe.es.js":"eb1f598babef25b041ffa11dc9f2c08c4f13a0aad91370332ebbab49290c5806",
+"dist/noframe.js":"ec52be66bfb597094903f739bc43b915032b5563cd98606402873e47d3584470",
+"dist/noframe.min.js":"1c7919d8cb8ea94e0673e3cc136f556fd76dc099dad6fe0bcc4baed2c71974da",
+"dist/reframe.es.js":"0d2356476c00cecf64d9b3b584d2c337dd7798c7a580ef374c98ce20e307324f",
+"dist/reframe.js":"8ddbe042fd3b2e16e6047f9bda4265d60d1ddbe58464b9ff92c9f0ec66d6d985",
+"dist/reframe.min.js":"e2a821c632190fe0749a07d0fdee5da744d764ca3c6f887b63f44a984dc6aaa9"
+}

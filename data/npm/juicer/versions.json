@@ -1,0 +1,37 @@
+{
+ "source": "npm",
+ "tags": {
+  "latest": "0.6.15"
+ },
+ "versions": [
+  "0.2.2",
+  "0.4.0-dev",
+  "0.5.0-pre",
+  "0.5.0-stable",
+  "0.5.1-stable",
+  "0.5.4-stable",
+  "0.5.5-stable",
+  "0.5.6-stable",
+  "0.5.7-stable",
+  "0.5.8-stable",
+  "0.6.0-stable",
+  "0.6.1-stable",
+  "0.6.2-stable",
+  "0.6.3-stable",
+  "0.6.4-stable",
+  "0.6.5-stable-p1",
+  "0.6.5-stable-p2",
+  "0.6.5-stable",
+  "0.6.6-stable",
+  "0.6.7-stable",
+  "0.6.8-stable",
+  "0.6.9-stable",
+  "0.6.10-stable",
+  "0.6.10",
+  "0.6.11",
+  "0.6.12",
+  "0.6.13",
+  "0.6.14",
+  "0.6.15"
+ ]
+}

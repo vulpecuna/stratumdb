@@ -1,0 +1,17 @@
+{
+"dist/pouchdb.find.js":"9c439d797c6f8f55969707d43b03841035d8fa83f2c3d4206d92a26a464b18f3",
+"dist/pouchdb.find.min.js":"6d3e98e8bfb83b8c8997051f9d0b3bfbf4dabbe0a6c09ca5a8a1318f0b56d81e",
+"dist/pouchdb.indexeddb.js":"e764fccec463c83b39210c1027dc71706d2fed02541d5613761a9c57b992d16d",
+"dist/pouchdb.indexeddb.min.js":"3c49b8a49fc84ba78d75ba716705483a583f09b4ffe28c7ed5e6042ecd4c2ec0",
+"dist/pouchdb.js":"8e2029090c4865baca928ea10e73302211cad44de5f94f38e0c3eed3681895f0",
+"dist/pouchdb.localstorage.js":"a4af0660520b0289e342915e9c88fa0a773ea807447f5547df11aab74a753c92",
+"dist/pouchdb.localstorage.min.js":"41235d511fc63edd3339196028864bbebca88822c3b552c90b7074571c35946e",
+"dist/pouchdb.memory.js":"af120307086785cc189ee0e7d4c343f1b714c2d806918a0d658106df9da823bd",
+"dist/pouchdb.memory.min.js":"bac73ef24ea13fc6cdf2e6112005f36a6c9c155d9de3b3f060b6ee530df8173d",
+"dist/pouchdb.min.js":"0e0f7db73e7e0c222b2859fd51f01dd26fe234ef9b7041485ff4982a1edd7f66",
+"lib/index-browser.es.js":"7a8b3a4d76b78993db81e2f9016cbc9c7222372434cdffc6f19dece3ec4f03e4",
+"lib/index-browser.js":"b828ba10df35e47bc59eab6f795117a344c74050fbf77f0050d8a4f4c3deb4fe",
+"lib/index.es.js":"fa0aaa4c4bda66dda5eb24fb3158ed833f2c51cb079609eb07eb94187b537404",
+"lib/index.js":"4695aaa11914138f35e32e3245e38afd31d1742c75a3c12ded16d423b1384bad",
+"tonic-example.js":"1722e4533e291478b9f4a5333ef5edc60af8a0b6dabcd1b61eabd5644c7a122b"
+}

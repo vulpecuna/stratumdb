@@ -1,0 +1,10 @@
+{
+"examples/squash.js":"59dabdec92ed78685474edc1c9e8c9b326c5d317e4eb4a9eed4ec1fcbaab5fcc",
+"examples/test.js":"fdb94615e1959c082fcbb989f4d319a3c032b51cb3ef504634ac2f8af00b06cb",
+"lib/q.js":"837000d842df34ef885268829beb0a9aa2c3d79b1159236a946b0b86100f72d6",
+"q.min.js":"8b04df6df1e3e2a36ace28c4fa8388da0b307860c0956a54778c5a9eb4fa6d6a",
+"test/all.js":"94ed843e608dabb60b77c88452de4f110311bfadbc43bea7edb915e599999b9f",
+"test/multiple-listeners.js":"ebf68db3ba4bfedd0788f425ffdc933989286de9703f849560d05e6413a510b5",
+"test/promised-chains.js":"98105ae0bca362a2f89009726ea7bf2f79d598a6400e2a2ed156bd9110c44608",
+"test/resolve-reject.js":"b4bed08e5d625e8af547730486fbc67af4b2ef9af4f989cb630943a9a3215093"
+}

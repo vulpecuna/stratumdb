@@ -1,0 +1,11 @@
+{
+"dist/svg-injector.map.js":"327d7efe3f127f336cc69555cb3d853414e4bc284246cefa4e639fc42966ad4f",
+"dist/svg-injector.min.js":"6de8a53baae498a0bbc295e93716bc8445330aaeb7f3edf0807c6391b562bdb1",
+"examples/all-the-things/js/svg-injector.min.js":"6de8a53baae498a0bbc295e93716bc8445330aaeb7f3edf0807c6391b562bdb1",
+"examples/fallbacks/js/svg-injector.min.js":"6de8a53baae498a0bbc295e93716bc8445330aaeb7f3edf0807c6391b562bdb1",
+"examples/simple/svg-injector.min.js":"6de8a53baae498a0bbc295e93716bc8445330aaeb7f3edf0807c6391b562bdb1",
+"svg-injector.js":"c71fd829f006dcde3a9895f21878efee8183fdbb81b826ceeadb69739744fdd6",
+"tests/cors/js/svg-injector.js":"c71fd829f006dcde3a9895f21878efee8183fdbb81b826ceeadb69739744fdd6",
+"tests/cors/js/svg-injector.min.js":"6de8a53baae498a0bbc295e93716bc8445330aaeb7f3edf0807c6391b562bdb1",
+"tests/race-condition/js/svg-injector.min.js":"6de8a53baae498a0bbc295e93716bc8445330aaeb7f3edf0807c6391b562bdb1"
+}

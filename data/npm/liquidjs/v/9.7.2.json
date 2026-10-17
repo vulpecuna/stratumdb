@@ -1,0 +1,12 @@
+{
+"bin/liquid.js":"73a9ef9445d30cc8559c7a6842d5293abc34f65b5b62cc14ea8716e3a7674fb8",
+"dist/liquid.cjs.js":"15d092c6af21baf3facb02ce6651b3d1c4faf4f49a124e9316b5d295e43b5943",
+"dist/liquid.esm.js":"4e086dbc08ce20f4afe3afa35e2bb23099845e65ec4112a516cda8389cf06671",
+"dist/liquid.js":"d43b0858bd6cfa6920d302785b60429fe6a42ac1780fc1e13e118ae990d4c840",
+"dist/liquid.js.map":"4545b5d893a5125871b863db0aa79889de8b589596fe582f8993e10fdfd4f9e8",
+"dist/liquid.min.js":"8c347752564ca79fa51a3ae6cca27cc2a7e323c92a628da6a97b3230c5c8b75a",
+"dist/liquid.min.js.map":"9ab9b4920a00c857a54171198d087291854e0923c6bd3ef7f77c90bd38583017",
+"docs/assets/css/main.css":"ec78068578f82cd7f0600dbf99faec0b7d21053a31144c4f53953114423df2bc",
+"docs/assets/js/main.js":"09eaf7938dd93402a19b99af629396d0e86da90dfab317fec0947736919ffbf6",
+"docs/assets/js/search.js":"dcccd972fa9b70b8f13ac5762e123920e3c103a0995ce6bec72aaa100d895b77"
+}

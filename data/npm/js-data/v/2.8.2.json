@@ -1,0 +1,10 @@
+{
+"dist/js-data-debug.js":"82e4b3b7db31558a012b427c3da54620965bdcd7bd7c8f924d451b69e490bda0",
+"dist/js-data.js":"25aabc787962f60bf303ff0e6ba954f76a4f46a23ec5ca6064f1555dfd7c9c17",
+"dist/js-data.min.js":"69f51fa5dcf8a992add363a365a61fe877bf26d5591d5b64b29aab89410ef7dc",
+"dist/js-data.min.map":"9d030d002c81777a98b1a9be942d27287106b6103167ab5fa98b9b384bfff37c",
+"scripts/banner.js":"e9e3dba75d3a605136a76c7d0cc9edd96481a70cc0f92a65f02bc28202805cb9",
+"scripts/debug.js":"1a9562716e55137d6928ff05b49d943ef882e4695d3a6fb12d36d688b05255d4",
+"scripts/version.js":"3f8aefe7ef7c6ac44f1d39083fa0582fdb5ff39abcafe0649a8bf30cbac4da30",
+"webpack.config.js":"5bbdd24d87fffe8fb46477db926613ae1010a45093f16bbcd5ffc84c167561ff"
+}

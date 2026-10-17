@@ -1,0 +1,12 @@
+{
+".eslintrc.js":"9a06a6e5216337cffcb5f5300b0aa1be75f733d3d2891c07218b1dfb4106f6c8",
+"dist/shp.js":"7f48f5fba23f776d9181812ed0c009c8f5322c41bdd652de595c0b5eb84888ed",
+"dist/shp.min.js":"a5f5875ff1cdeaecb9b84fb6dd531cc7f59ac92957076ba21a9a194f97c756bb",
+"lib/binaryajax-browser.js":"48ecbaa27716cf6ca65d6b49c3122716c6fedba1e9b713bef0982ba0e8900d88",
+"lib/binaryajax-fetch.js":"824328eabec53e643f7983dcb9503c8bdbaef0bfef5aeb2b7c64158406fc562b",
+"lib/binaryajax.js":"ca6bd678ddb84b38b505cb66890470e2bc64d40fc86c6744d1f6b35e3a71f6d5",
+"lib/combine.js":"0e8c29611d5826f0d0268241e5d70507e24616d8fd4cd9ca945b8f4241cf199e",
+"lib/index.js":"65159468b391f060ae978bd184305ad0f8853cccb3c82d0d327aec2d40e87367",
+"lib/parseShp.js":"c20c6a7a6b34e678722ad57fcbff4d6b857b940c307383106cd2695c5f999fdf",
+"lib/unzip.js":"6e081118421eb11bb0e28a0e9516fcd5ee6504d1316c2def87f1c71a3ac3a520"
+}

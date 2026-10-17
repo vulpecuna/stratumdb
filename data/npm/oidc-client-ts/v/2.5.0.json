@@ -1,0 +1,10 @@
+{
+"dist/browser/oidc-client-ts.js":"c9cc15a9a2ecd389c1c8f3448334359cf54e295836da580e2146f2c9acd2d060",
+"dist/browser/oidc-client-ts.js.map":"e7a9c6b0af0e10afcb0ad39ba5ec52f6bb6779b0cf9f31f4a9bca5a5d3fba6de",
+"dist/browser/oidc-client-ts.min.js":"0b0d454b3056764c53e42e3f613fc5c5657820e453ef63aee6ad43596fdb1588",
+"dist/browser/oidc-client-ts.min.js.map":"a739270608135b41676bdeb5d794f00090f6cb23c1c139220ea3878143e2c20a",
+"dist/esm/oidc-client-ts.js":"cb49a9ed6853e3eb64a671fc8e66d234eb6ded4b820af4552adc58e528420103",
+"dist/esm/oidc-client-ts.js.map":"3a0351fc0beb3edeadc66e007d818632d9eeb6f4c6fd35bab3febf08289e8396",
+"dist/umd/oidc-client-ts.js":"b4463619a776d6564c2f99232f5c41378d30c598080317b2b6c6e6ff4033c54e",
+"dist/umd/oidc-client-ts.js.map":"36e286c768778dfdb2fd740c1146e8ee2f6d5f878ad63aef38ce9a77663ac340"
+}

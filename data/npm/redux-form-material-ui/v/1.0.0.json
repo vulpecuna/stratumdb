@@ -1,0 +1,13 @@
+{
+"coverage/lcov-report/base.css":"b6613efe1c52bc312874b8b4f0e274da4eb07a91c9fcc040c202236b0c03e47d",
+"coverage/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/lcov-report/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"coverage/lcov-report/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+"dist/redux-form-material-ui.js":"d84a26e5d4368d3024c2797d457da8d631db3227fa7fe7e7a87c547cf9e29cb5",
+"dist/redux-form-material-ui.min.js":"48d27b612aa4b7d5b4d90de755058642e8a8d3b8eedc09737504ad3f4560acc4",
+"lib/__tests__/adapter.spec.js":"b4c79631c709d82b4a5d01701bd2df2d404066f1391db97fc94959023ba42fff",
+"lib/__tests__/setup.js":"42aba55a7e51361e8aedb5320566509bf6477860e13049463528dd6e52699811",
+"lib/adapter.js":"52af58f528d38c7210f70e06d6f68acbf74cca9f9c6931ed51ab71fea8aafb49",
+"lib/index.js":"462a88e84373d3ad11845c442915c8c2a713eb9f7e593d70b28dfd62cfbbeaf0",
+"webpack.config.js":"75b07eedc33880d0a9bbb6871e005b530296e78fc7fa23f771ba79552f3ce0b2"
+}

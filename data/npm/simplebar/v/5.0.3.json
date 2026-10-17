@@ -1,0 +1,15 @@
+{
+"dist/simplebar-core.esm.js":"84a7d0f912514dad94dcfce744cfed46f0d075bb1c886e1f462da468592ee5ad",
+"dist/simplebar-core.esm.js.map":"5cbe6137abfa24efdf4ba2fcbe485fe6973970ca2a7639638e4796729db32a0e",
+"dist/simplebar.css":"d7a1c2da8718acdd5244eb742daaca177b5a89c75831edd86ed068d8c964da6e",
+"dist/simplebar.esm.js":"efb1f39abab9f92c378767349c7b98a619ead01cd006ead7230040b4ad75b492",
+"dist/simplebar.esm.js.map":"a3eecbf2ce5f9ad06d03e9d19afe9f4aead9b8f84e50b02fcdc53e4c266b3f24",
+"dist/simplebar.js":"289aaca5a64135105b309e1a2a48f6c2833c91a019db43482311ae0b0ca34e09",
+"dist/simplebar.min.css":"0ab00be80b304f2153f9c29e1226ae4393e711782664dce2710defd1488a1104",
+"dist/simplebar.min.js":"49f3c18972dc84b1353d3b7a63a82119288c3176c7da2854724015456c0a3af4",
+"src/helpers.js":"3a686dabd9bdd7ba4926a8b8a1dbf4b218e04f72850662bcb8156300a83d9631",
+"src/index.js":"065ef370fd281ba27b1f320182e4f3be54974a764c159d70f8a39742eda70ca9",
+"src/scrollbar-width.js":"f47f5df559ba06bdc359f542de5b67e24e46236342157cda5e39ce2d1bbcf907",
+"src/simplebar.css":"d7a1c2da8718acdd5244eb742daaca177b5a89c75831edd86ed068d8c964da6e",
+"src/simplebar.js":"b205baadf9ef3486aa695a1b72edccf9c93050cfec63de3ef81507d7c8481225"
+}

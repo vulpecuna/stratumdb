@@ -1,0 +1,13 @@
+{
+"dist/moveable.cjs.js":"ed19fb8ac8cfc763dda702a164e6848281fc48d74387d574e46c30cb420276fb",
+"dist/moveable.cjs.js.map":"b517ac46d8235b9934f9e3d902aa2292ebe655a22585906fa7724fb4a9d67417",
+"dist/moveable.esm.js":"c44102f3b28c57e98768ad4c3bb5f5eb24260881b59fbc697ee49a50b25b5659",
+"dist/moveable.esm.js.map":"29d3d8ae9a7832bc769640d9da04d9efd9921201757de7c20d6c210beae965ea",
+"dist/moveable.js":"1d74cb18b3cb9a7205b26992076e39c3c802f759aaf8d8b05544191c55b0fc93",
+"dist/moveable.js.map":"b5de31cbb39a1fad8d8054088ab7fdeb492606f34dfac1fd5a32bc44434276c5",
+"dist/moveable.min.js":"ed97f0e86526ee868fe80afb5b0dcf8a3e18ea8e4f1ed068c281708c160b6561",
+"dist/moveable.min.js.map":"33689ed49ac867960b0b86d5cc6483cb984aef5c9614e86f6d742913c4361378",
+"rollup.config.demo.js":"ca109dcf55f2ad140e9539d7847054dd901caeab53ce9ed8da7e092482f54e85",
+"rollup.config.js":"1f563856a3dab1d3fc82bc1e8f2d8605a6b23bf576588e3034b6f1cb8d129f61",
+"static/scripts/custom.js":"18d16d051b3941df2db402868cda203f7af96880a57704995d8015c636353dd6"
+}

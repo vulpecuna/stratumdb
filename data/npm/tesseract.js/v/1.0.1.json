@@ -1,0 +1,17 @@
+{
+"dist/tesseract.js":"d395672792059cfebf609b6d8e421089983f4fab3e3f58ddec771b7bb165b40d",
+"dist/worker.js":"592e0bc109a8317b9471734e18c0b539aec34f0db488ea05827d58c166010061",
+"examples/node/basic.js":"1d4cf399438aa342bdaf1013f1eb36f9664452ccf44a8269de4a47504d96ee3f",
+"examples/node/detect.js":"286054f080d547639b8666a1dfc774b9b5e6019ab091cbfe5e21bddec2128c9b",
+"src/browser/index.js":"440e15891c112e56400f27439fd4de7d0131b47813ab9e77757a4d9def5cd4be",
+"src/browser/lang.js":"a4ddbb96c3bc033a394c8efbd1e1c6dbd93985f1721c9362b20c8a426211bc3a",
+"src/browser/worker.js":"760d85b2fbf40b1998a169d9ce0dd5fa9a25b23d2df424e639ac736ff3b8e33d",
+"src/common/circularize.js":"6f69e75ce260131eaeb38fecd21e88b515c5750ab895780021397ff806fafe0f",
+"src/common/desaturate.js":"e674a0b30daa06adc7ead1fa9357bc173c6984c6fda0f28fcdf77ff4e0f10e2e",
+"src/common/dump.js":"d0f6b721d51d1a156a57e1abc31b34ac9269be6d161f15ac865579815eadcd1b",
+"src/common/worker.js":"9d1456b1fac4e6672ae5b2431f0c36db8b07cb46f46b9f490e4cf79fa6536e75",
+"src/index.js":"0df0e0eb119d65c769f0bb7235c156fe346ec246d8c6fbcf0a4171345313bbc2",
+"src/node/index.js":"a8a0b0f9affed7aa5092b8e9a8f7fe2960e31d2830b86863cb25f0f56ef30e86",
+"src/node/lang.js":"004985e8214402635d24bc74751b0a193b97b6dfebe3f2a4aae59ef17dff2b5d",
+"src/node/worker.js":"4bbbd1629ea6e853c55d5f8c8ed280106df862127e9dad178b9d9f30d119fc1e"
+}

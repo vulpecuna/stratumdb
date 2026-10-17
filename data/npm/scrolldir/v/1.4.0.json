@@ -1,0 +1,14 @@
+{
+"dist/scrolldir.auto.js":"698d5b2cc231166a036408ce15caf93a65f3636c99943418982290c1c48d8199",
+"dist/scrolldir.auto.min.js":"019dbe58cefd51540f4691ca49fee13c06cb43d4051dfcc0a7555e093f64b0f6",
+"dist/scrolldir.es.js":"4aed81b8a56a2c4be801ce726d03b13178ed1c1839515ef3ab8617c0a1f219d6",
+"dist/scrolldir.js":"efef3c4bdc3679b2934089b1e1cf466a7acffd7385c1015b52ba370c0e36c7a2",
+"dist/scrolldir.min.js":"52b134dc4a3cbe1b75d6e32421409173279447ffaf0e606b71313dee9d445951",
+"rollup.config.js":"f5cafd144db8b1430b594db61e6710cb8ec2aade7fd434260cb3c9de96a66d6f",
+"scripts/run-tests.js":"fdd3cf64e3a08d66fb26f9b21248bfcf0d21f2fc1fd78bd46a861017de00e353",
+"src/scrolldir.auto.js":"447df6d589a231af75325ff934d1dc5bdaafec93921ba4a6ff3ae919e1c449b4",
+"src/scrolldir.js":"2c553e1269f1d34bb3b95c06a200202ca997cf287269c9c36cfb234d7c96cd7b",
+"tests/auto/test.js":"c36b1ddd9766a51f3c397888cc5bb2013fe24c7aff08ed3d36cda5eb83582998",
+"tests/off/test.js":"0ce4b209fdccf0c87ec1722d3bfcf2047e6c1482641f86342368b41310707dfe",
+"tests/standard/test.js":"86724fa935be92eae7d65e0c94444b0543b80607f3a4f83509f6e94b80542f42"
+}

@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"0293ee222e94484e2d7d1e359b098ea780aa7017db2a7c53e358aad047a4bd4a",
+"docs/jquery.tabletojson.min.js":"1fcc6b09ed2d6458bf0b60a0c649a21a4b2a55ac615b43c5714299259a35c8d5",
+"docs/main.css":"fde6cac1ad69af995e74896719dfa9c7c3df27dd95b3e4f363bd97a6503b1d23",
+"docs/main.js":"cf661e594bb009fc4e890f59d6ee3cb021434ff04db12d978a13e7e294a3664f",
+"lib/jquery.tabletojson.js":"1661229866faef0d50e0b82d14510bc0955bb5ca1da9d532e0faae6ba30e3894",
+"lib/jquery.tabletojson.min.js":"1fcc6b09ed2d6458bf0b60a0c649a21a4b2a55ac615b43c5714299259a35c8d5",
+"src/tabletojson-cell.js":"bf4c418e8615f0668a36d9ee34fa73c3495492046f0d84a9217e75fee8b5aa17",
+"src/tabletojson-row.js":"bbed98578a893598f1de6c5189c5dda2a92d1de6a2fc63ad84b82f08728b6282",
+"src/tabletojson.js":"3f6a83b1ba370d0e09ef37f0576ca2ee33ed4f805e5c0c7435442fd0ca084e96",
+"test/specs-legacy/content.test.js":"a4316072256c79ea8849a5371515475f2ea815f7e3d487f9cac98d22edc6c792",
+"test/specs-legacy/core.test.js":"2be917e5d278fd44774f64d9ef34f54b4f86e626c73bb83745dd798cc532297e",
+"test/specs/content.test.js":"efeaa6f8fa0d89cee5192f55783481fe4b263ae0f7abd1fbf18160b33a9ce5ff",
+"test/specs/core.test.js":"dcfac37dd3e9b29bdb2229ce7285ae0ce2a5ad289a9c2a3b3d00375e1411136c"
+}

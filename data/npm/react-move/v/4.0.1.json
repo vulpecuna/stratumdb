@@ -1,0 +1,14 @@
+{
+"core/mergeKeys.js":"1e432aed60ad751a0144c94dbae5a0edc7fad705439fa721d0e7550ed0070ace",
+"core/types.js":"ad02d8aa121ab0f74a68dff5a54c1d7be383e244154bf71e9d47c3721a177d15",
+"createAnimate/index.js":"e4718c7370fd272d13d8f60c955840cb7f5399135d1564e558d00d290eaf615b",
+"createNodeGroup/index.js":"dfd818bfee3e06019c551be6c6a55bcbe78846c7fa6c5b6025a566560a0e606f",
+"dist/react-move.js":"44d0ef15e5e043d89bfe109509317304a9fe4fb790790742edaf25cd8c6b5c05",
+"dist/react-move.min.js":"abf588345d4ca9eb1f7620a5d5b4da640265749fa9a20c5fea6a8a24d7fcce5b",
+"es/core/mergeKeys.js":"526001466a58d7d9f5b79bc0a216082ba023bec91152300cb7f946e8f712614f",
+"es/core/types.js":"c8c213b5a19e7a5651c1c83aa8b51c03b3eab2e5b4b8b9d47eda5a506eaab5dc",
+"es/createAnimate/index.js":"8243d5c568ce9be1d4d00fe263bf68df397a2fd24a539e12ae6ae7f6b57e6062",
+"es/createNodeGroup/index.js":"cd7cb603f739d882a2ddfa333cc5fabb9366657c32455761634868b7e37ca25f",
+"es/index.js":"124c9ebe969b8e9c98eb8bccad7f2fb6accc84e381214924f1691c776aa4d498",
+"index.js":"81ad2b32f3429a593c1d609f31f27e5bb05d568251fbf9af6a3724b8c2d8ccc3"
+}

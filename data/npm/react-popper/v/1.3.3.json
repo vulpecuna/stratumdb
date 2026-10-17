@@ -1,0 +1,16 @@
+{
+"dist/index.umd.js":"4b7227c57eabc74d68320d98a939f6c07b118f8083239c1ff6a82f9826da322e",
+"dist/index.umd.min.js":"a56662967f4c32bd601cd8c4580daeb06a5cb6fbef7cb03cfdbb4289d3bd10d5",
+"lib/cjs/Manager.js":"10706fcd47b8c668c0d3be4e1fb3ee81fb6c06254c54d1fa471b3f7a6d09c3c0",
+"lib/cjs/Popper.js":"e1a56dab804cf9d249134aa1fc3894b90b5dd96adad69c4c07ef34f1a92c2e64",
+"lib/cjs/Reference.js":"38b77db55257da306d3d47f1c0f91f81f9e07918ea8b5f0282a2d15f6780d964",
+"lib/cjs/__typings__/main-test.js":"ce22f48d2395cb93311d9e48c2292119db3eca7a89ff0d37ac2c2000dc7cc4e4",
+"lib/cjs/index.js":"c62b9592df4841ece94364be254602dd349aba33b952d1f1499188ce3256c720",
+"lib/cjs/utils.js":"df561b2a92a031bc1473817414045faa5e699661722fb2169806dfc68e458961",
+"lib/esm/Manager.js":"43b9437bce948f8dc06128f030c3eca8bcf16948adc9d2637f2311ae389cc923",
+"lib/esm/Popper.js":"3ec9047b3419e4eac4880f4ae022c46eec348e882282af7a26c03e84bdc4afb6",
+"lib/esm/Reference.js":"3a88b0c7ddfcea4f7f46c5112f3e6421689f7b1fa74658617b7ddccb51df6952",
+"lib/esm/__typings__/main-test.js":"c881aa8c25e293adc4bb25a5b07472c2eb18f3b3632ab31b801990599c82ccf4",
+"lib/esm/index.js":"8b0912adb55df2c1e2101bebb737db365b15b185f336b618a95bf76807faec1b",
+"lib/esm/utils.js":"410ced71aadfd5f13906afbaaa69cac04ad6460e080ea3e921c32c4e48d2559b"
+}

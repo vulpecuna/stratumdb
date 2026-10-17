@@ -1,0 +1,10 @@
+{
+"lib/mobx.es6.js":"ac1643121b142ae3f9918f3e79457d1bdea90d2774b5b09fd6eaaabe2c8bc19c",
+"lib/mobx.js":"28f9ccbf77346b219a52e27ae17250f59326d7f3e802f1c1cf0caf8eb013bcb3",
+"lib/mobx.min.js":"4385bd92c254d0460befbdce0210723a814bf66be56f8db18f37a6efbfc931b8",
+"lib/mobx.min.js.map":"4e777da4caadd4a2f8abab5c43007a898c73b8feb77631a9d183bda2ca0c7b5a",
+"lib/mobx.module.js":"7e72791ee09c9304dcff9d6120c0e9e9db788fa5725fdba31d8b425de4bc1722",
+"lib/mobx.umd.js":"6e25647e9319474d2fab9a2ad58fe052c9934a9cc479c2fe96a9be6144c6ca05",
+"lib/mobx.umd.min.js":"add53be421259907714da1b38d3a8000d03133bf61f859c91bed502648219596",
+"lib/mobx.umd.min.js.map":"bb823795dc4ae270d492608fe5c1460f02e916e480c53f5058fb091df3c13100"
+}

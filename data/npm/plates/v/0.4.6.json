@@ -1,0 +1,8 @@
+{
+"examples/browser/index.js":"fb5235c1131d080a4930c96b4944481f403601ca2d65eda5c4cc26caf2901f66",
+"examples/browser/plates.js":"1fce29fc0d76b3bc973d746ca99c6d2549ce15f96aa6c03e23331c56f3cb0ec5",
+"lib/plates.js":"e69fa158ceafd06b170c96b3a789f68cf925119a4dfceb54e1144b6c3fc6e307",
+"test/api-test.js":"14bb19f43ff510d983eb777b55f7cacf09e566b75ea643f7384c7d8b42462850",
+"test/common.js":"46f81287fa946069fc185ee743870e0cac2c39d9ee599f9238e7994e8eb2b456",
+"test/perf-test.js":"e4de84748f815ead829fb121e98e1b57be10296db7ec8a447149cf92cef0251e"
+}

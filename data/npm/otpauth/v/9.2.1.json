@@ -1,0 +1,14 @@
+{
+"dist/otpauth.esm.js":"613885c02a5dd45a7e1b9c4726aefb1498f748f122af256fdd5b9ccc541dc2f3",
+"dist/otpauth.esm.min.js":"bce9d273941f3604490fe63b8cf263394488be4114c7efc7fbf5a36101fda2a2",
+"dist/otpauth.esm.min.js.map":"7d885e01714ef74fed02fa32e58c2dd0aa11f1250965e838c2a580eb92d7c0d2",
+"dist/otpauth.node.cjs":"932ab66939c93c3ef870b99f1019833292f05d3268e9a591f4408a01978b7e72",
+"dist/otpauth.node.min.cjs":"60a1e23e78a7a5c921db794f2e529f787278506290c64fc2967fd4fe4cb19c3e",
+"dist/otpauth.node.min.cjs.map":"09f25dd1948a8d83f1182f23aaa0ae62217feae4ece56b9857f04f54a67ec191",
+"dist/otpauth.node.min.mjs":"9d9386682ed9b21a850579458a55171217ad63182add6e4065445ede06759189",
+"dist/otpauth.node.min.mjs.map":"d060cff94aa47a3c8c5403f569b3cad7dc3de9f89ba800f6a99d383d02603804",
+"dist/otpauth.node.mjs":"9549e79ff79808d922951bbba33f37f97a705843a0e9e5efffb17f476489d1f3",
+"dist/otpauth.umd.js":"304440d9df0f1a1147a7ab534d7c2e4075d2c1c32c27540c5a7d3ab59a884676",
+"dist/otpauth.umd.min.js":"bc393ff1809688930eba0eca42976936da2faf38fdeab4b0bc1bd22b9787dbd4",
+"dist/otpauth.umd.min.js.map":"9bd0a3f9014eb6e4e6a8368f6f9163ea9457baddad44b50dd91aecc4432c8a1b"
+}

@@ -1,0 +1,14 @@
+{
+"lib/cli.js":"2a6f6e0c37b6b34e5469bfa8fdda132f006118831dbf4f09e95da20ed5f4654d",
+"lib/json5.js":"dbf9d44869be94f5d0295613e2ca400b1261f248cd829a1d65fcc636e08b83da",
+"lib/require.js":"3390131dd7c4659d5976112df4c96de0e437fb5b51105cff6937b56e96ba30f2",
+"test/parse-cases/arrays/leading-comma-array.js":"d1fcef8a0cb6e2377de855669eb1f622482d7b2e4bd7f15530e826b327528d13",
+"test/parse-cases/arrays/lone-trailing-comma-array.js":"af7fb1d8d01772176045e9597e5080fd135ea0a0e532bf7ec552156af912f571",
+"test/parse-cases/numbers/negative-noctal.js":"cb9ca07f8e84554ffa5456b046c259fb7cb2f5cce83cb67b97ab8db3771043e6",
+"test/parse-cases/numbers/noctal-with-leading-octal-digit.js":"e975df1aa7cc1b7e78f250709b26028e24f5e6b79108521ade43969870eef73c",
+"test/parse-cases/numbers/noctal.js":"5ca8a15a5d9d5a15371a07c8059f0db017af494d4bf395461b39a8a054f61d97",
+"test/parse-cases/numbers/positive-noctal.js":"155d9c3db152740c62e37fc98d009ed0a1d876863b7f2fc2844280fa7849d74c",
+"test/parse.js":"4f02a5469246119aac49e187948d5793fe56851ed2999b625c898b625407aba6",
+"test/require.js":"39daa6cf16b257c1671dc6e5ef751d974545930e3154f73adf2e78a7a9856bc8",
+"test/stringify.js":"7f1a38c3f9c09ef1298f876b26f683067d57006edc431dde3f85f97084edd9eb"
+}

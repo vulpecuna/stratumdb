@@ -1,0 +1,11 @@
+{
+"dist/lovefield.es6.js":"76807b4f49b62a55afbbb28911cd6f72ae414a97dd54be4c3d3701635d9a3a87",
+"dist/lovefield.es6.js.map":"5bfe374fb32a315f2c0d5fabc029dcbfe8953ea2e57ec89437163343876aecce",
+"dist/lovefield.externs.js":"15ef63bccf5006a9f006a00855603c47508113ac4408e9bbb547f80f54cb2851",
+"dist/lovefield.js":"2d6a1a0fc1e794b73761e3b49d4ac43b4e128e7fbb9891b4d5f6bbff7e79b00e",
+"dist/lovefield.min.js":"debd941b7de26a1936d3a03de102134fdcee65e605494c31de4d9ed20b13270f",
+"dist/lovefield.min.js.map":"c78f1325cd6f227cf2712582c40eb5148e5cbacad7f1d125de3fb9e61387d827",
+"spac/codegen.js":"d27573e00338d442a695bf747c1d7478f4c90491bfcd5c317e3e081737b8d933",
+"spac/parser.js":"58da511b793d2ec2ad600c4cc18f7d9d0e658de6b3d1f8bcdd719a0a9359325c",
+"spac/spac.js":"2cd627030bd21577fbe243076e07cd8c63bac39c87cea5df6f747eb9053226a5"
+}

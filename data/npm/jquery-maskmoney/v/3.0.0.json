@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"7584bb58216b5ab0c6b678706e274d9be6380985d63bbccb38cccbafd26228c1",
+"dist/jquery.maskMoney.js":"7282f448fae05b45565087281ea0a5074b03d8672188df1759a9f1b7c9d0491e",
+"dist/jquery.maskMoney.min.js":"ac024a72d7a14a2b9473a8e847ffef01cc504d7247fd13b278bf81e225d07026",
+"src/jquery.maskMoney.js":"35f238f4c5089faa5804b6a14e692f2351d73f90686141a8a73fd462cc0deb53",
+"test/change_test.js":"28e493b3dde7c59ca679eaa4375221b38df6ae260eadec89ccb16576458b473a",
+"test/data_dash_test.js":"35396354a036909cccd3a42efd1ef4ec8164566f81108806b52b2b716a781249",
+"test/focus_test.js":"5b47af557e3d527c37c344a4074835a0c7182449f52c434985ff3c2a5378c0b8",
+"test/init_and_destroy_test.js":"3ac5c25b0e47261d6a15d38f25a388fe6ddbffb6ab4dc7d93a6884312cb7da71",
+"test/keypress_test.js":"5daed117ed243e6a7c2498b7af00c17c284f52e92ca5874f45a770fce33e570e",
+"test/lenght_validation_test.js":"35396354a036909cccd3a42efd1ef4ec8164566f81108806b52b2b716a781249",
+"test/mask_test.js":"e43fafcc63649656ef0a5d19200a4056632fae144cdd82b811d7bc2ff81ae1bd",
+"test/unmasked_test.js":"9e07d00c65b3923f64f7eadaa565760d59254d9234f9be7f4de08cef9a473e48",
+"test/util.js":"caebad47168b1fb17d5282270cd3c79bfe327aca77f2aaf423bd165dc40bdd4a"
+}

@@ -1,0 +1,10 @@
+{
+"dist/angular-sprintf.min.js":"c3d132c5d7490e900008f71ec5b206bd8f685a4483065bd451ef8390b8ff7fda",
+"dist/angular-sprintf.min.map":"3d6885b5d3ebce0c1119d558c8784806cc79f076a5af8279051b7e94c412b697",
+"dist/sprintf.min.js":"ce2007696258fe181a765e82cbae48f912a4faa3c3429d896da6f0476a1a5ccf",
+"dist/sprintf.min.map":"db738bfbb064a29ec703e8ed0882d2bbfe26347dd42a736fee3b99ff879fb244",
+"gruntfile.js":"9ec2accc7e5e32d0ae9a3378107eba05c30ef648eb66e388236204c3f87d9587",
+"src/angular-sprintf.js":"0d3fe03f4a50d8f3247f4a2938e53638e11975189fa031cb21289bbac7b9753a",
+"src/sprintf.js":"00a8e169105b1f876003ff9ecd9448f6e1f169f2cb8cd96663da5c73206f1307",
+"test/test.js":"aa65453557f2d085bb07ec9f3d34092aadaad3d6d12cd9a0f30fa0da93fbfbcf"
+}

@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"9d6205fb8a9e7d8e60271e32f926693e55489a87bab7dee93f9e2396dc8dbfc5",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/base.css":"d3118cfa2ceae6f6c270b0555e98e633815bcc99cbef73a366299d830102c44f",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+"dist/restangular.js":"6b5ee1f476c1fde1bb91c06051d68f8c20e077bdad667fb096b8125191730e2b",
+"dist/restangular.min.js":"de3030fcfac783e26f0b8544b0eec16b6a7563813a4a1727c4c652b92f7a53b2",
+"karma.conf.js":"e3f28e9ddab2865b49a1d7960765d6f8bfd779a0963328670af2a9c8272b2569",
+"karma.underscore.conf.js":"d24a51e90c761ee183c1a3492f87791c42fea750ded15ada673b12cf8acda4f2",
+"src/restangular.js":"f5be408368f0c72181f44ecbf7e71e18d76aa551235000b6516bb1b3a9030546",
+"test/restangularSpec.js":"f82a502009a05873392a9654c96b80c6b050fe96d6aa76813ee7eee5e22355e7"
+}

@@ -1,0 +1,13 @@
+{
+"dist/japp.css":"9b50b017a9a05b5c54d4ad4dcd97f1532a95698176c3eb7f7e8d8998136318e2",
+"dist/japp.js":"f9bf016a090133865ec264b1deff57029564db6463dc168b9ed366998ec26d3b",
+"dist/jexcel.css":"fb8eb72254df7b7cfb15a0f178f1c1226611be52174bda7bc6f6e97df465f1af",
+"dist/jexcel.js":"c48acdc8e721ba234f3c5279b7a6be45e3fdcc0662d9f10c9d1cddd593faceac",
+"dist/jexcel.min.css":"4fb57afde5a2c19ed4042d6f1e597fc5d41ae6f9ca8c770830b4b0bde52822d5",
+"dist/jexcel.min.js":"68c64e657f5048a64288a07d5e4496518acba7ea027ee3df48452db18041fa0d",
+"src/jexcel.datatables.css":"81641259911f8235ca3d5eaf8ee200ba4b456c8c93b9a6881ccdfeccc18c8fab",
+"src/jexcel.extensions.js":"6ee97d11844f9e2ddae5e40e1b82b84dc907c10e327b8634e30f819894fcb2dd",
+"src/jexcel.formulas.js":"4f6eb4f7bb5b1c00812b3a1e828c698b719801c1f57989f99227d65e0606c151",
+"src/jexcel.js":"6a16d83de6d6601a87e101735d9b527e6cef7d557df463921d774782a184a39f",
+"src/xlsx.js":"821918f67baa80098a995276168cc146db6c5b46a9bd178f6b21123957a2deef"
+}

@@ -1,0 +1,17 @@
+{
+"css/leaflet-routing-machine.css":"20af2e243ee896c888f995c1dbab3ec67ed0d684d98bcc8b19b2fac890abd437",
+"dist/leaflet-routing-machine.css":"20af2e243ee896c888f995c1dbab3ec67ed0d684d98bcc8b19b2fac890abd437",
+"dist/leaflet-routing-machine.js":"a94b6533fb090ccd9a97466d96c90750e4c88d2411a391216c94fcde6a894234",
+"dist/leaflet-routing-machine.min.js":"3d63fc60efcfd7aa7f9139626e001e1cd5ba4891bb83da7dd38014cdf3b70ced",
+"examples/Control.Geocoder.js":"8f10b06f5219bbe63b3e18ab10ad7aa52db1da2d495052e61f27ed0eadfe5575",
+"examples/index.css":"168ed056650fdec0bed191e7365e307c16c16e7641e07ad8f9e579929c2b0123",
+"examples/index.js":"7ba40f5cbbdf284328a99bea4152488d4f8ccb7a5ff1353ee76a951499177f41",
+"src/L.Routing.Control.js":"86d56f131e7c23ff88db773e4f1c2409df7e5f62d999920a37ac2a4ab7f70215",
+"src/L.Routing.Itinerary.js":"74e3889da2adde221cd25930063010c06f6c0deddf2e7ccb794b0bfb276c49c9",
+"src/L.Routing.Line.js":"638d451452d66d535a6e7aaab4926656cc01f1f4535031092881d641730e42b5",
+"src/L.Routing.OSRM.js":"34cf9012f60a07962d62139cac5ba31f415536c9e0ad2a0acefa035715fedd9b",
+"src/L.Routing.Plan.js":"0b8022a73b12ce648abb115ab16183fd3871c8d7adafe22bfc9ca67709b20e52",
+"src/post.js":"00bae34de6ef09a1255e87af68ae90dc70404b94ae6a9b747b05beb1cca895f6",
+"src/pre.js":"1f419f6f6737cc748064ffa415d9b172232ee3a791e09902890a0ec4f2d92aba",
+"styling.js":"35f782d28f0b0072338ad0bbf193fc01eadcc90480948b4d6ed350c189ac8d40"
+}

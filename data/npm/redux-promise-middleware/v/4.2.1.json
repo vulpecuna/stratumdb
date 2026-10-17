@@ -1,0 +1,8 @@
+{
+"dist/ReduxPromiseMiddleware.js":"1deafdce11f13f5a4c0694cd64af22a4065c0bb6ab3c9d915b72565b21a40a9c",
+"dist/ReduxPromiseMiddleware.min.js":"8a9e3fab1cf14421c68b367c0bd3a635ee50b46ca17bd99e64cf71e53fa3bfce",
+"dist/index.js":"5a3a59349b82996f202ee8a6a8e26840e6cd6ccc6a2674be7091b80e480932fa",
+"dist/isPromise.js":"26b3904e6af1d3db6f6fdb7fc3b5a137dcf2e5eed0bd00410063f113d5e0ccbd",
+"dist/types.js":"8e2987412a2c3d6bbe93092e6dc7b94065cdb08f47e3248481114d0298034e3a",
+"webpack.config.js":"dad9f9747fccfb15936653c2c65de5141ec6b55684eb021b197937833e1cd5b8"
+}

@@ -1,0 +1,15 @@
+{
+"dist/musicmetadata.js":"1a01d7f2b01e136203168663adc37c13e36da63c8f4f7e553e9152da70783e29",
+"lib/asf.js":"94a22a6d37ed043ad11bbc8064c49e9e919983f792a9d2fba37b71f20b18e623",
+"lib/browser.js":"f64968afb09db3bba8f793780ed10c45e6aa940db92d178eea808d48c153d8ba",
+"lib/common.js":"dc59ab9bef5e7b1e44fa51179f6cc2ff84b5a554d006588cba26c6fc1808d70b",
+"lib/flac.js":"1e7a4f6f6f48dce7fb6ae0445fb315997a545a7ff3ebeac02420d9f6a4cce9bd",
+"lib/id3v1.js":"46144da1c8c791816657f0571c9e0f7155f240fe4ce1c5b79eb7ecf30f029467",
+"lib/id3v2.js":"b27bfb921f338c43ccdfe7cea028386ebcc2a59c04bfd212f99e02912eff40e5",
+"lib/id3v2_frames.js":"a035d7c9c75f8f18c34db228811edd7d7bfd88c517764b9aacb1e44d355422af",
+"lib/id4.js":"bf8f03fd6b9ce2cee44d6d2bbea5cdcb7cf2962e5fa0806001bb5fb403ba3d9b",
+"lib/index.js":"4fbfb9e8faf8024865eed1d74bda50f45622064f975786c3e510b83e676169d8",
+"lib/monkeysaudio.js":"ae90315b26eeb69c8d383b620ede21e2f405d95ae1c5bfb8bee89ea8bdb27b52",
+"lib/ogg.js":"5672789f3acb761ca7aa40b6123237a1e1733654dd8f990b74fb13353074cbc9",
+"lib/windows1252decoder.js":"efaeaf3cb83297f22407d32f7e17df9c131ff9d1f36c631c63cf37efedf7ca40"
+}

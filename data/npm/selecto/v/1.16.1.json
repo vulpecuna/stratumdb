@@ -1,0 +1,12 @@
+{
+"dist/selecto.cjs.js":"b17ba93855648abc860118a29fdfc17fc2702231787f0d39913eabfd9572cf33",
+"dist/selecto.cjs.js.map":"4142f079177445fd987b7b1bae583112031d8f9416a8a02339e3cc793f995713",
+"dist/selecto.esm.js":"b0761b170c714fadf609173ef55e7b211e9e374ffde0226ee8626cae7c2372d9",
+"dist/selecto.esm.js.map":"175ad29da6ab780917b4af0936b0325fe323ebd47eafe05ef97c2dc06de78316",
+"dist/selecto.js":"4d90d9c4f12f0c1ff8be7ce0f763f3b87052379986d5dbf127406abfeb5d5b09",
+"dist/selecto.js.map":"b2a39666a7c53c09ed335733b44b40286e287e382cd260984c6e5ede193c4ebc",
+"dist/selecto.min.js":"c0283ec615ba866d4f46e97d58b5a95f0e9d664dc0b7320024868a476fb9e6a4",
+"dist/selecto.min.js.map":"33680a8ef0f005280d8b4029a902789b30ca3b3eab9d538b36c468afa8186472",
+"jest.config.js":"a411610865d81d79056057b953af83d1b22df6114e68b1fa13570dd6e33936cb",
+"rollup.config.js":"578c58b8ebca52449e9fd83351b217a6adccfdde837d8f2330d5ace2940cdde6"
+}

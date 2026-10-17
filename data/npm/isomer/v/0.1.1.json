@@ -1,0 +1,12 @@
+{
+"gulpfile.js":"cdffeee10b912997cf0c75ef92d4014dfecd77bcfa7b87cb10adcc4350cffcff",
+"js/canvas.js":"27a47bc5b640c97498a030dabd411f26e5659dbe58aa81481a226b5f6647143b",
+"js/color.js":"c3f33afce500a48398bc5a59853f6ec1c748e1f9db4fecd9473bbd7e43dd48e3",
+"js/isomer.js":"cd14bb38ef2cc29aafd0e06bd1eee227784279fca68cf71aa4b10132e08c0283",
+"js/path.js":"b2b3fd7d03f54b0c170b04929c231008ed418cdfb3d638952aa1c0429d3ced1d",
+"js/point.js":"07772acf0ab006742566e75d3d4a4a49f54fe43df84236841b7426a042a9fbd8",
+"js/shape.js":"7bb2a0bc7b85ae04757bf67a37fc05ed3c58dde9c2fe78e02f3a468669682a31",
+"js/vector.js":"fc44c46ab81db027a4439fac003114677ca1df26ab008fa132419c3df9c12813",
+"test/script.js":"4cebd28049af9b58f352168d783de410320b7327dcb647dd741aa4f3292e433a",
+"test/style.css":"c973c8fba4a5f1d26e40a32062aa7c087af1f4fdac4fc7eadfa205c2920824bd"
+}

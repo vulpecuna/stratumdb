@@ -1,0 +1,13 @@
+{
+"cached.js":"ae9060daf27edc43cd343970a574b337b1aa22c4ca8e2cee79692037db8b1eb2",
+"component.js":"79d44ca622d83f7c13b7d5700729cf99ae0cd9070aa8661544ed87c0c4c0d839",
+"dist/omniscient.js":"9ba3b476167403dc752edcc6602c2cd9df89f180da6f2ef5903d7bd23b20cecf",
+"dist/omniscient.min.js":"7cff6fd8d6499cc0be0acd552388e0b1d33be96086669b267a751e6f2a3e3f2b",
+"makeBundle.js":"856cfaba71621a236e283f608d3174802847ed0bf41f726ba01c6ce45b6b8cbf",
+"shouldupdate.js":"27b6466bc695cbe68d58bee6adc55195f80a77d071c09154c7772ff110a853cb",
+"tests/cached-test.js":"37d8f4098deb204c5f0dc8e81da9985e360e10635edf8ef387b609eda18dd56f",
+"tests/component-test.js":"d150ea9dc3fc4718801a9196fe13da8c70da98aae48b553d2707b47759c37cc1",
+"tests/debug-test.js":"45d9fe999eb3725450b6393f1cfd6eeaa214a87c309e28816e29b001884a3ac2",
+"tests/integration-test.js":"2abddaa173fa1d9827533e5b4f4b4d42a044f177dbca2069c36f9232aa04d292",
+"tests/shouldComponentUpdate-test.js":"90f11641638eb373a7ced1290f3e9a756f4b465899d1e6c07789346951ee364b"
+}

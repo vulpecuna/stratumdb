@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"de64ac105c8f27f87a3847103af62715fbbb5ab8b309b3c6292df032d110fc54",
+"dist/dependencies/angular-resource.js":"b4d4b2396e6908b10fae0e0dcdc38f50f301dcf630b6ca4cd446670b3989d204",
+"dist/dependencies/angular.js":"e5aa91352b6e076f2deef270a8befb1449d0688cbe732602b59d70770021f645",
+"dist/dependencies/underscore.js":"32037dee4499126b99715750145392c8b00a7db213b2052e7032afb10fadd5da",
+"dist/restangular.js":"f884d3ab415deb875f94309fa0123b51391ffb0aadb698a1850c7c09f6bbe9d3",
+"dist/restangular.min.js":"467ff168a3a361d7cbd6b007a7d2ef1e44d668ef2f7047d8f59716f878363dcf",
+"karma.conf.js":"595c40337b93e066b24018a7c6736d51a7487d4b3b9380795664b58222ccb888",
+"src/restangular.js":"38838bfcddb5937bd48c691b653e8e416085218d23916baeb0a7b77efcc93c27",
+"test/restangularSpec.js":"51b5f4352720a46149fb524e9a5855e769a2dd7e2a4d4644d1de8e7e8042a0b1"
+}

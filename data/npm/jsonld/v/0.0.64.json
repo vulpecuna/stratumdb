@@ -1,0 +1,8 @@
+{
+"js/Promise.js":"9081c1f649eaefd2201d5975ca1710f773db51dd5cfdb118de6507e7e822375c",
+"js/jsonld.js":"a5e361c1192bb42ba79b21975da511862bfea78f7e0c00c37ad43ae798163f6b",
+"js/rdfa.js":"150d2e69b4e93c02d2e213e1fd800e5870dfad97f4d20218dcc356ae22016749",
+"js/request.js":"41a84a58b1d9e9702fa1c5b4f427c067281942987d39778b43a430d4ac6a39b7",
+"tests/nodejs-jsonld-tests.js":"a25a5a7bdfb08f413891526c710e0ad83ec6c4bf3ff8dc8b34309abd80a2a369",
+"tests/remote-context-server.js":"8e81c959ff92358da8570d44a9e29c8a6f267911a1dd10427912f5ebe8bae2a0"
+}

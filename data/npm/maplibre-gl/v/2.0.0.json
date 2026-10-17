@@ -1,0 +1,15 @@
+{
+"build/banner.js":"1c2beb27f14c69350472c2ece94c4b6929f16f4a8c855e811cee0139e5a7874d",
+"build/check-bundle-size.js":"aa2604b7ad99f41a437b28c2d0d8e497a79c5d9bb128e9ca54d448949ae0539b",
+"build/glsl_to_js.js":"8fe17e6b8323550fd3521df933a662cb5fc601996e52a45e374ea45ded617ffb",
+"build/post-ts-build.js":"372d872e87f0a3ffbd713e5816487116f6ff1ad3b55e90cd605faacb46e1fb99",
+"build/release-notes.js":"3cfd9abeafe4ca2396921a25cde1af24eb2ab62f6805aea1221ecb2711f0de7b",
+"build/rollup_plugin_minify_style_spec.js":"5bd706ac3999dc5a1dec066757392c0e824c93e1218d1c0e740ead73fb9100e3",
+"build/rollup_plugins.js":"d6b785249f835ce28f265002a395dd0faecd100be5d80f2ad39998043268db8a",
+"build/test/build-tape.js":"3862f578019f06c0c2e9dec4c90e4269a195597ef386fb85256d31cf276223b5",
+"build/web_worker_replacement.js":"24f4c30dfd6d25ec40e7a7c551364c705336801bb278989f2b10b261021fe596",
+"dist/maplibre-gl.css":"6e4936fa87e9de67c7826cd1fc68f551d2b91c7188b302269afe370e71a00b5a",
+"dist/maplibre-gl.js":"6f8abceb6b42e3e5ae900cf8864fd1063d7233785b758f840152257e187e0e12",
+"dist/maplibre-gl.js.map":"59febcab268c36caa3e9ecc464e935d64c2090596029e5d7cc39eb36d5b53313",
+"src/css/maplibre-gl.css":"a92a02f70c72279e7de3d0097d5debd8946cb86d3fee699322e6a9fdefacf43c"
+}

@@ -1,0 +1,14 @@
+{
+"dist/react-flip-move.cjs.js":"272ef04cff26bc48e5a764e2b05318cb5634c59f289119e59f4333314adc3fd6",
+"dist/react-flip-move.es.js":"72e3ba097f5a71c7254122bd2c993ec1d0b51a47fad356302d2524fbd4df4e4b",
+"dist/react-flip-move.js":"e17378103d3aa9a87bb8a08918f3c55bb16f83ab8cdb93f508cfedee70da92d7",
+"dist/react-flip-move.min.js":"5e9982ca72147b802cf9eeb1c23084012e102420f854fe65bd95a028265d493e",
+"src/FlipMove.js":"d4a5d849e949a78211ff6a6839033cb408cd3a22feae66243765bd8037b66a36",
+"src/dom-manipulation.js":"6083a68bdde25e97a69cd55a8f1a9b53e33782eb772ade337c54702399679216",
+"src/enter-leave-presets.js":"bb2fade7e942674ef7119cc11b19c4b64814b8b82d434444dd48a0ab040e8a67",
+"src/error-messages.js":"81956b30ec08978366a9944c03d09d915bba3345280e30a57203d4ce5454722a",
+"src/helpers.js":"fac1bc59e369943c2719ce3c7438f02266407bd77ab55ea5254db7176e4dc2c8",
+"src/index.js":"e60fe6b07a5f7e92c4d6b3a8605df51b497efe9551c9f429732647647d241575",
+"src/prop-converter.js":"b835c988f93b473a4a56fc6c9dea6d1582db5791aeb5f62bbaaef54c9c45d9ec",
+"src/typings.js":"d9b0f6e56d26948754beddeb8b1d7b6082503706496bda05c51404128fe6a0d0"
+}

@@ -1,0 +1,12 @@
+{
+"dist/otpauth.js":"dc8dd6ed0160747eaf7927335cce07f1679dcd78f65ba74381e00d262f8dbe1d",
+"dist/otpauth.js.map":"daf6212c2c86f74a9e9b0a56f6419259b96800eb0a07090c0c8145225dd8a603",
+"dist/otpauth.min.js":"258e8ab81dcfadb5165bd9a93315fc4d933dd1bd399db285dd18cd3a8589596b",
+"dist/otpauth.min.js.map":"1b9811bcd5999a037cc1c21abc0a99bf5a531a9d47f806579d320fc4214b1051",
+"src/crypto.js":"5132497533c05eadcc5d3bc614bedf4daa7592e3204cd9e4f1f0c94b5f80a536",
+"src/main.js":"84dd07877d8108ae80a80fdf9fdeffadd2a613493f04cb59e5b1fc8a646d5161",
+"src/otp.js":"100b3ed63a9e51ae0a3f5b01d002c0d50a25e187533335715641da8cefda83b9",
+"src/secret.js":"5fdd50dd41297169c9d6f9c0a304cee081343337b8f50ac2ccfd9bca2ef13ddf",
+"src/uri.js":"4ac532abb5144b1da707d34770383ea2d3b6cbb3ef9dbff847566db6e47f33b1",
+"src/utils.js":"237df1a83cc71822057d2a4744fb84d3e163d82386aab2f2f6d1bce5f2395606"
+}

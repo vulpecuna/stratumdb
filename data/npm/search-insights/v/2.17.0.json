@@ -1,0 +1,13 @@
+{
+"dist/search-insights-browser.min.cjs":"1141322211b9e0384674f93767cf75dd5d223e5343734d095401b84711a05529",
+"dist/search-insights-browser.mjs":"da7a2cc45daf313dd0cbfa2f9a23222aeab9030d15cb805330ccd5242ce8c213",
+"dist/search-insights-node.cjs":"ba3bcc4b857dd39f631cf65cc87d7cd7056c8f1c457c6946ba9a6b187f932712",
+"dist/search-insights-node.mjs":"a50b790fd6cc97ddd0a84e657053fe612ca1b23d94a3aca8c1ce172394d15ef7",
+"dist/search-insights.iife.min.js":"317bf5fdfa655339044a3430fe9404771a878a078b2c7f404f653458094db1f4",
+"dist/search-insights.min.js":"bdaa96bb3b8de5d56716a9789d0e12af34dacc4062512b002badc0e23154d408",
+"empty-module.cjs":"353facf897b2bc449e39351153f63b5e116224699475fdcc263e1ef54c2e4add",
+"index-browser.cjs":"41b5ae3d8b91437501debd0f6db59c531e54ef2ef65c66c40316ef4a99351a67",
+"index-browser.mjs":"e1ce7b655a66a7abcc0b9e3d6ec8ce5cb6075df75941b7f33c3724d393a8741b",
+"index-node.cjs":"3940a759975415a618580708776647d3ca02f6625cebe34e994022a07bfedff5",
+"index-node.mjs":"af76ce771ebabf487d7d5d83bb33a58b7d388416cac8d4660d4c703cc1697927"
+}

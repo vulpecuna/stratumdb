@@ -1,0 +1,14 @@
+{
+"build/jsonMask.js":"7e62ce08173916e18ed2f4febf920a78386d6b20b2d81bb0f61733eea50fac7b",
+"build/jsonMask.min.js":"5be4fe1fe612726599cd7e7ff59b62824f6de8d00b689b87c33762d4267697f3",
+"example/server.js":"5a6825aff19b13fb64350537dba6df7ea4a2ad34ddfa57c40c8b0a4627e038ea",
+"example/simple_server.js":"10011edcba05d9e5256d5b5cbc4be2314dcc8a3ccd411f51856d79d2792f1369",
+"lib/compiler.js":"15a1c1d54b59007f3d29d7f1e199a9acd8e54fc1ec0ed87fb641ed47b4e5db30",
+"lib/filter.js":"f3066785dd92cb5c37cde1875d018ad4806372e835d27a407430ec06fc15290a",
+"lib/index.js":"4253d203fd98b07b13d4728bbc54e72c0f10a45f01c2a0a2d06448ad9a4f1f3b",
+"lib/util.js":"0764b9d831c7d5613521bbb820b524eae0b6478f410061232636234e64c68d35",
+"test/browser/test.js":"574dd02f00a8cc8ef5a4ca584cfd497df7bc26f506a63bd3d4cc38b4dcedeca4",
+"test/compiler-test.js":"798e4547b4855d2011d1223b24bcc9c59a0a20329b437d5a1fc64603c2ac654e",
+"test/filter-test.js":"7736f6dfba119cb463bed1ca4b6816167e4248429156ed41bdfec8ae978eadb5",
+"test/index-test.js":"98cc6d8320d76a91dd0718ad28242edabbc067777456972a7f5bdfe1c2e92990"
+}

@@ -1,0 +1,12 @@
+{
+"bin/remarkable.js":"81e56e9333588d8a80f297dab30451a5c506b600e4140ca0c09bfc38b060e3d9",
+"dist/cjs/cli.js":"b870c45195b7dc56167ed2369965794e041820412c6b458486693b70939392bf",
+"dist/cjs/index.browser.js":"8ad44af7d41030be4a94d13c15f7145d55b7a045fd0f4497a58df40c827cbef9",
+"dist/cjs/index.js":"57ce364c9c45dded3791a1920b03a5e94436a802c13a20362e2eed19a6c23b14",
+"dist/cjs/linkify.js":"673248fbc8833902b98d76b4aa92f5137ca463b8ccd83aab4fca3df91dd5bf04",
+"dist/esm/index.browser.js":"dd374056ebacd8e958ea82877a223a2d295ec09363cd0616a935ff92118e5113",
+"dist/esm/index.js":"f3ecba058d4d940b35f6feb754da4a72d75f8e7d8798055231652a845b39693a",
+"dist/esm/linkify.js":"50a620955a4f4dd3e17738188ffa562c0624c8736bed1612131f691d00006156",
+"dist/remarkable.js":"be0621f20fabb91f32d85c0ac2a0afe15211c56d9bb615f808ba26cc5b8fd306",
+"dist/remarkable.min.js":"6e5590a0cb74fa5a87befeeaef04a13b0a163a24084e4340fc1b2c8a4d94ff4f"
+}

@@ -1,0 +1,13 @@
+{
+"api/dom.js":"f279e1334a60b551bcac0850a9c1909160cc1d0f988699d7b3fbcfed5c399e8a",
+"api/node-local.js":"71dfdce08403eaea27c5ccc9314c818500369f8ae7738d7316df875ac6d63d50",
+"diffview.css":"54b7e3afc7e77ff625c44efca553d633e4bd280115dd469bd59ca73f0dbc75b3",
+"guide/guide.css":"18e9688109734765a45bbb4f423e40840aa5c6ea73d76e559f81b3fbc649a64d",
+"lib/csspretty.js":"88610da30feea607140cf3c41adf99a134006f6acf952d3a756a783b55fa0af6",
+"lib/csvpretty.js":"019d677bd7d9f917d76233d42bb78162d15e0b905ec2d3fb67e3cede79448e8c",
+"lib/diffview.js":"d4a75b1d2e150cc7998efa64c29a91e98554a19b237171c8780f806501ae54fe",
+"lib/jspretty.js":"1a8e62ce4c0b095c44b7507947e3abaa59d88f96381a1aed8c9754ec7f5206ac",
+"lib/markuppretty.js":"e84c537ec39d0ed820555b3f3e90cf54269c9fd3e5609745a9cb1ab3115e90cc",
+"lib/safeSort.js":"c147c388b18d05f541f6bf2c7fc2f52f5c0274dba103bbacfb1c8727d434cb78",
+"prettydiff.js":"bea0f9f55c0a139eded83b5e14871fa30a4543d07e12f79cb2adcb7f9ef1c90f"
+}

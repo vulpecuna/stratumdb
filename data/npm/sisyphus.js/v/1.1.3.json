@@ -1,0 +1,13 @@
+{
+"karma.conf.js":"8df40b66061cd568662373774609f0b0842e73e0dcbe907c15b3427790255437",
+"ondemmand_sisyphus.js":"1ed63a4af177d9b6d9fc190c5b522573dde8e3aec6ed8fd2247534632936dda1",
+"sisyphus.js":"8e1b6c7fbcbdb18cc55338a613c1af98601e6e1c14943af2204a175237734c27",
+"sisyphus.min.js":"773d0aee520559b896e2c5972f7bdcc9e6a1e8c0c80b5c1a4923d5dca17101f5",
+"spec/fix_fixtures_path_for_karma.js":"794703969a6bda0853375ca6a9cbca5f68cfc7bb2fa1b62e801faf340a81ca28",
+"spec/spec.js":"a6526a6ff879e9c73449520bf186d4a5df7b832c5f2a6d1a8a7aa921f065d038",
+"vendor/jasmine/jasmine-html.js":"348e5222628d91208c21910119bf09b2be0f5926a1700c27cad26b3d904209db",
+"vendor/jasmine/jasmine-jquery.js":"228ea23ef9b74041f10e74022c563ce2313072953a1bf20ff3b2263dcc83eda5",
+"vendor/jasmine/jasmine.css":"7a51a5b96e3061d513602f12e93dbd02851a49110fac17df7562d3eb447aba84",
+"vendor/jasmine/jasmine.js":"231b9ad664899a3ddf7530bd89ee5a679d74a16c8406fc5727da798cccd1b892",
+"vendor/jquery-1.9.1.min.js":"c12f6098e641aaca96c60215800f18f5671039aecf812217fab3c0d152f6adb4"
+}

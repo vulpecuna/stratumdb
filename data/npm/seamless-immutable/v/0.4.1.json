@@ -1,0 +1,10 @@
+{
+"seamless-immutable.js":"eb7757dfb9b8296d057aa7a503d625c640d355a60704df3c9503a502c36d84f3",
+"test/Immutable.isImmutable.spec.js":"095823f927a3e77fef8cf381ad2371e076ad867fbaf0e5845fa761a0c7178ce5",
+"test/Immutable.spec.js":"a0350890e90adbc29569924ce145f005d337ab76744c17928bf4140c43f62c3b",
+"test/ImmutableArray.spec.js":"680e2223dfcaa61dc6498d99778e6fb2c47da96ccd47a94f6165e4cc64cd67a2",
+"test/ImmutableObject.spec.js":"375dab0a90186cfd43ca08da61207b23cfe1bf1cfd788e0c8312c0283acb84f9",
+"test/ImmutableObject/test-compat.js":"e93588ca66bb5b46909c41675d3689316968f6a2167f902f2eb9a614b6fbaf14",
+"test/ImmutableObject/test-merge.js":"2d8e31ab640087e54ba4a0fc5a2bcb720a9035cf9ea2c8f432433d48391e8a94",
+"test/TestUtils.js":"4186b494b72e0cd05f5cc2c0d1d1c2d9211c2f2ecab4e9606214a78c8a309c4f"
+}

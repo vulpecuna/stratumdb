@@ -1,0 +1,10 @@
+{
+"dist/jquery.bootgrid.css":"9d9b326a1bea794e4e1c160022673edd614ef1b3d2c886d4e53b11f20cca3648",
+"dist/jquery.bootgrid.js":"e59d89ae72fa7c96fa32c1b9227883369ef835af3bda2057f6831ada59b99f76",
+"dist/jquery.bootgrid.min.css":"cf8fd07c0a5035b06b9481c8952fd2ef48515286011a5408e80efdf8a385286c",
+"dist/jquery.bootgrid.min.js":"2e7bae9fa299cc17049d2dcc5db5941b9d9426ff0dbb3adab5b46fd044971722",
+"src/extensions.js":"2323b239fbd359d9249a9f8883a78e899b6bdc36b8b9d5dabd69525b91e55176",
+"src/internal.js":"68f0d2e05dc504e20aad0fe0908de87a894fe5e42fa2d90445fa20db5ed701c4",
+"src/plugin.js":"90f0846fc2651f47207923785cc122488b512d0d3fb7a42c5af67ca8509b3f39",
+"src/public.js":"ef9c85667c72553ff7ce1e21fe5ced13932fd44afb7bc35c0d1bfd7b64a280be"
+}

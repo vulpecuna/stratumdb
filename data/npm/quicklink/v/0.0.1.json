@@ -1,0 +1,10 @@
+{
+".eslintrc.js":"bbf5737d3798e9e6eedef217cf25db0cdaccfc2233538b99cf8e714f8864924d",
+"demo/main.css":"9ea953e27938e89e46716101ec813a4b65f076c3b2a048d53c0e7baac27dadd4",
+"dist/quicklink.js":"321d3a3becfc967d4b520da6b2392617787b3b1cbed2f67b2bdf1ca3e4d77c2e",
+"dist/quicklink.mjs":"8b636ad35bfaf3d52cfac59be125b6fab5e6b04269469cf927363ae9a731a2c0",
+"dist/quicklink.umd.js":"4fe0e8783838166df0749d7257ff309d21523af83c21a3b867d0b8cc968fbfd8",
+"src/index.mjs":"ceb1482c039531274211912f1ae1becf6679f5baf2f848121f5124f55809f3a7",
+"src/prefetch.mjs":"d6fe0f9df80a599b906cdaecf80ace389a67acab6124d46970ff0683609ab3e4",
+"src/request-idle-callback.mjs":"2ac93b97307b40dd23e7f288330aa33aab80675b6ea83f41c281552659342308"
+}

@@ -1,0 +1,12 @@
+{
+"dist/preact-compat.js":"92f354f1ecf8ccd84a2aa8ea633c3b81378c00c28b85b7df26edcf5307c95ef9",
+"dist/preact-compat.js.map":"c1e2709d4c97dec74b8cc0347d55873cb6c79651e8ee7a0e101680e5a10e915c",
+"dist/preact-compat.min.js":"e0d8773951653abdaa7d23c9f332b3c1e9db98b6134b6c148a95693f07ddbb96",
+"dist/preact-compat.min.js.map":"38e05a842a9dd569fae826ec2b9ea8009bd9e216f594b3c8018b32911d1b0ae1",
+"karma.conf.js":"b0c0e886af90c7a50cd11f0688e3cfe9237bf2bbc628962e48ad63d517406e67",
+"rollup.config.js":"137c3ae92b6ceb81d86ffd28199b1d7903a4c09fd9913f5db47df1a6ccafb476",
+"src/index.js":"a17fde499f70367e30a4ab6642dd3ff90c8aaa2f852b161d78c2f05e7eea252c",
+"test/component.js":"ff75f0e6ee65e2fd9cb64ed19ef935732c9a0dd71bb2efb60822c4786270bf67",
+"test/index.js":"332eb3f3360d5e797137c9412d95a304d1c79ce59bb757462dda24df717d2673",
+"test/jsx.js":"c330cc1e9ea3bce42b5eb793d8e519389104ef5d318418b5cb2a3c87d9101f17"
+}

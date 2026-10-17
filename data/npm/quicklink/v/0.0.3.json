@@ -1,0 +1,13 @@
+{
+".eslintrc.js":"dbda4d9ed938be6405bf1a985ad81bd552795d557bd6cfa247d9faf88871cb36",
+"demos/sw.js":"b018b5382f142cfb2afffb51a377f3187228a1979d8c56888332cf086b184688",
+"dist/quicklink.js":"31caddd56febc5d547c5bfb2baada5618607e4886fc010b7fd71f5d251bb1efb",
+"dist/quicklink.mjs":"222cc7dfc6b372efc4686053a1716c0ba544944846ecb0bce2f39e343d2222d5",
+"dist/quicklink.umd.js":"f43e74deb35dd8c716480360a0179b2da9fa2b81b4c393d05b83c6c1275152c7",
+"src/index.mjs":"5fbb8d3f0b70acba6c6a49741a60923aa4b9ea7b788c962cb2c994eaecd70a0e",
+"src/prefetch.mjs":"f08c808abb977124814fa59d5739195f082baae3a7b636ff40c411b02e8e89b6",
+"src/request-idle-callback.mjs":"2f334b2ddd5faf8704dadec152ef8222f9dcedf8bbee924f8691e6337eef278c",
+"test/bootstrap.js":"80b7ef86d12139f3bccf39999650667fae03c017ca2797234f563a12f4256d84",
+"test/main.css":"9ea953e27938e89e46716101ec813a4b65f076c3b2a048d53c0e7baac27dadd4",
+"test/sample.spec.js":"30bafaf92e86baa059c6b4100f14f91ec30abf4da0eea8412bf819935abf5ba1"
+}

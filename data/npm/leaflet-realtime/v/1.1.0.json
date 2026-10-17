@@ -1,0 +1,8 @@
+{
+"Gruntfile.js":"730c98213b47c4eaa1a78b984b554f1ccf242b695c1e188b3446638fb097b057",
+"dist/leaflet-realtime.js":"31c70ac7b41a92e10d9353417609f24ad40360a8df1cd6bf5f9aa689304aba4e",
+"dist/leaflet-realtime.min.js":"a3b2b95a4da80dbe69eb607c15448ac0d26da7839e5ccbc4386d245dda509b48",
+"examples/index.js":"4edb4b3f7f4b17a1469dcd78f1dfacd1d33e1a124938724d1a88f69aa8a6e73f",
+"src/L.Realtime.js":"e8030b2b2ac5c16621d88f08503d5796198ce141279f86836cf0a67c92a5b9c7",
+"test/L.Realtime.js":"3108c44a554afcc3362d1154d1f8a689869d697333a7748162d39f379e0f071f"
+}

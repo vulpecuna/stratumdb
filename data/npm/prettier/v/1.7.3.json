@@ -1,0 +1,10 @@
+{
+"bin/prettier.js":"d6e3f19bef950f409812ac7bd9ca47da02b7acdc832e3f386f0c38329eddbf2b",
+"index.js":"af433e3eaec6524709a222704433a58aa6302595723cdb0d0d99981cf9b4b079",
+"parser-babylon.js":"db87f7d410ae670f6b474255805caaf8a43b537164e391e71438d384ada72430",
+"parser-flow.js":"3dea967c49acc6bb4a27ae220de4cc5d4a7bf854dc972ac7e609bfa6f680c72b",
+"parser-graphql.js":"2df2479462941c64d99e45bf55496e791738aeec8ea38174a228c1dcbf4e9b97",
+"parser-parse5.js":"f8c132f0fd6c614bde428b425db6e6007eb4e1f76769a1687886767f049f3b7d",
+"parser-postcss.js":"f10de3f01cbb47a5415bd572f96a5a1d28830fba9dbe3372710bea91f8e5e8cb",
+"parser-typescript.js":"71f9cecd95fea1f60906b0e09519180a1a515aaa5d29d0b4ff38a6d0e255dc41"
+}

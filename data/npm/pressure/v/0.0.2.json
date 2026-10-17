@@ -1,0 +1,15 @@
+{
+"example.js":"e701fc3779e75ade126f2be155945fbada957f0099722e1c99bed2b5106faa74",
+"gulpfile.js":"5b089127fd5c154b8245e5199b1a4c9c465c9cb459ba19f039b2bac375a58361",
+"pressure.js":"c57bfe28e61ed6107fc8d5f802b0a25be123882cf746963fb177fbd4ab83a2d5",
+"pressure.min.js":"a88507bc65e161faea39ebc58d0f424367b1e127199b585578f1b4e4a1546a22",
+"src/adapter.js":"1738d0e1d95e462cebdf6ba713692a1c7ef7d4576979b72e0116d1dc941f9d5c",
+"src/adapters/base_adapter.js":"10946c3a1eb8351e610d5b656cd16c13c8d5f3ccbbfcb2c4cdaedd3dbc4fdc97",
+"src/adapters/touch_3d_adapter.js":"7ca435eb4f20078ea61fc2c2f0ef9f8c7ea86aaaef93948b0afcff7b6c0c8e06",
+"src/adapters/touch_force_adapter.js":"8078f4f11295255f6e76081d3b2db04c835f35863ceff14ef77a0bc93d971de2",
+"src/element.js":"51284cddeda665c16e0334dd9476e5a8135550ae196757c5d3fd114fa02706d5",
+"src/helpers.js":"19502e84eda33cca0f13a5ecec6b57d2cfab57b94eca3d7845467d9212dd63d1",
+"src/pressure.js":"60179590b5c096a50a461889ae1007fd5e7bc01025f15b95fb8c8ecc93c940b3",
+"src/setup.js":"ad07e7a215db04c35dbe586a7a34395ffcf3b99e26958d2b49b6964281ef07ba",
+"src/support.js":"ce0e132aece27123769fa1af7df51ab1bed0477b2ecff66aaa1a00e79482f332"
+}

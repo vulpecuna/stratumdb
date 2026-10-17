@@ -1,0 +1,13 @@
+{
+"dist/browser/squel.min.js":"bfa476fd59a62bdd0b4e8e755695b3d7a9a3884885e615131cfc579f6a30616b",
+"dist/cjs/index.js":"0063da6b5e7f09894195511c19a53bfbcc109542c92aa359ff7c1f22d87d013f",
+"dist/cjs/index.js.map":"be255b4da4a864ea073abcd06627779255c91a175588873c5acc71ed3466a22d",
+"dist/esm/index.js":"f7fddf1103c5c34dc818fdfb762327aeb4588702459c410ce4c76b6fdae6076a",
+"dist/esm/index.js.map":"d533a7fe370156cf31f69ff880ec47acc5c1d326101d574ad34f7e6870e20774",
+"dist/types/core.d.ts.map":"961c5cde446c151185cdeb7a9542784e8702548746d5f545302814ec3ffa7934",
+"dist/types/index.d.ts.map":"f671c9a09bd2e3d5133b8b61c057be6d14a9a46016ae9a3f5a04ac0f5d3def32",
+"dist/types/mssql.d.ts.map":"916e3ac879a2d8deaf78da6876892f42e1b167bbe4ad7fc4d9c8fbc4d646fc14",
+"dist/types/mysql.d.ts.map":"711d768eb55311aacfff2657a5dda40bbcc94a8dba64d97bdc8cc4c8848cc9ff",
+"dist/types/postgres.d.ts.map":"8eb51ca9b7cdae014eb8f294c5b5cb6e86dc5de1eb4b380a8d3ff35fcdda1007",
+"dist/types/types.d.ts.map":"a2c278ead32c619d66093bb96577839452ae078e37b2075107e974f8503a1472"
+}

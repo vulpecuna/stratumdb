@@ -1,0 +1,17 @@
+{
+"index.js":"955984d107f0077e97f79dc33ab3bf3f934995770c732b56460f8a7bcc26c5d2",
+"lib/aesprim.js":"939307e3c6595fc1a9ab91623be4da81a9cd429a5cc1301f910fa3cde85349bd",
+"lib/ast.js":"9398fdc2a0ea455a41f03572a38ec45a3566c70eee79ceafa36cd6d7fb15ff0e",
+"lib/dict.js":"d4a01d25ed9df3c5f4c327c209b0d4cfc8c526d286f75a8cad93e894b9657e45",
+"lib/grammar.js":"9a98336c3a49c573fae9ed3ef3182433902d1f07c3612b814afb8d4f7a7ea9bf",
+"lib/handlers.js":"c25dcfa0e257fcbbbf56ecfc3decaa6bd5fa8caaf5c20db3faa897dcb8c15122",
+"lib/index.js":"8e326896c5752c5503d8ef5bc7aacec53a752df172c45f36d9ec57b6e277b9a5",
+"lib/parser.js":"32eb68eed9746ade14281b7b960ff3895aba13876f0aa0e2021e732c4b2ed5f6",
+"lib/slice.js":"b0b133e0378f495c04d08c5c9cb19162c48c308521ee5f586e8599599fec906a",
+"test/lessons.js":"57e14e2ba80547192af5523a369f1632ae17eba3fe9d3c54940916902cac8a67",
+"test/parse.js":"71fde910389f781a5a1ef86e00e707042a6bf2e01d4ace1cb31c04fb3dcc5b1a",
+"test/query.js":"5f8279018a158d5d357bd5e5ab1e872fd1dfacea8d7c2ecc6be4604c1e18701b",
+"test/slice.js":"5e6bc8b56cb39c80e7fd5ed486c2f4a42dd011530ae56f5745447d09e22c1b05",
+"test/stringify.js":"e15ef42e29a118b912b33ead618750dbb517b1e633d31ad3adee88dc9fa03f92",
+"test/sugar.js":"b9b382addb4ba0c75581d5e6c830e6e4079f7e73e9bc962913ce473610a1649b"
+}

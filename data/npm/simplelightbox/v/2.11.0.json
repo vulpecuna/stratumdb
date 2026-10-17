@@ -1,0 +1,17 @@
+{
+"demo/demo.css":"3686629a4203e4d5fccdd8f1c8b25180a18ee637895ed2d8fa31a090924f82fd",
+"dist/simple-lightbox.css":"e402e4867173fa8de3a1657eead38e5028b2efcb389aaec55b78f22c4a15a2c0",
+"dist/simple-lightbox.esm.js":"c074df52efb80529f89a043688c25719bba923cda19c84ff2085e227bce20675",
+"dist/simple-lightbox.jquery.js":"6004c6b3a6fc646b2f75aa354bd22db9d96e2bf44b8fc0ee31f7c36fed54d924",
+"dist/simple-lightbox.jquery.min.js":"01cc2d75a51992a70045e472d7e4f2658499eba8a834eb94f72915556703d97e",
+"dist/simple-lightbox.js":"2e5dd4e0ba63e8c4cac4520c7d185abe7a8da5d4a190b386c3e88d0ae0d9d435",
+"dist/simple-lightbox.legacy.js":"db75c744662f6336036cc733dee470be83e7b25c752848c28053f74137f9df7a",
+"dist/simple-lightbox.legacy.min.js":"b197c894c604b1d0063e28ff9a2360b88d11f06a1f44e63a0a7aa3116eb02d10",
+"dist/simple-lightbox.min.css":"c25221b8b6fbbdf92cb1720867387f9b360d91b3f02d0d14eacabbc4c80dbcf8",
+"dist/simple-lightbox.min.js":"8f328cde8488ee304fc2276c1bcbccdaefdf4fa99cf12068c755735903a4eca3",
+"dist/simple-lightbox.modules.js":"5e09c8b53d9435724201cdb7b50669f37bacc77fd2d8b8c7174b30d2a647120e",
+"gulpfile.js":"7804d5b29c63f588bda42ce74595f7caed16223e36c051724407a6d99f74e922",
+"src/jquery-plugin-wrap.js":"7e7d51ec0ea424bcaf9a7b6d6cd24628d747e4c29084759392556782e18c9cf6",
+"src/legacy.js":"bc075e662a27343d3383e5f470bb8cae5afed924a4481d3ed8a22af4f418c10e",
+"src/simple-lightbox.js":"d9b518ab1f5c8780adcb4810fded60aaa98660ccff498bb17f805893b7ed145f"
+}

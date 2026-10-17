@@ -1,0 +1,17 @@
+{
+"api/dom.js":"3770e86cb1ee030dd1d458eefc4316a4663a825ac82b6ecbd307a96b4b1cf1f9",
+"api/node-local.js":"02fd68adfd33df936613c42e3127c78a1a5df9504ad38c6d99e5089a2ead1c20",
+"cm/codemirror.css":"7b2447b371a9a9d613cffaa433ddbb3b881dafcb3eb637a5b28534b55f7eba1a",
+"cm/codemirror.js":"d74afe3269de09d7f9133a78e2f544cba64e19b022a427bb31a4b88a6d3bb9df",
+"diffview.css":"dce248932ff3afbc19c86b2faa47c8f8a7bd23d1633e03b95ed77d471635cb96",
+"guide/guide.css":"ae02ac9fe3a30230a445aace858140d020200a47b7141850761ee845d4d6bce2",
+"lib/charDecoder.js":"50767b7a52185358ff753f22c45794d08be4a9207cea3d27892065374bf22288",
+"lib/csspretty.js":"c95be8435e9b0cf7bb6d9d04ce5b562208c50cb869476c6ab1de1fe3841c6915",
+"lib/csvbeauty.js":"7c26176189c9fbfa1fbfb2c70fd6e34359bfd870921ef6713a5c6e60a28f1c4d",
+"lib/csvmin.js":"a6bac8586786a573691c00e7f264e23c88c5d712b4cdafc9167ed77d599c4b53",
+"lib/diffview.js":"286f163b95a9be6a14752a3c7e8ccd16c22b2e432bb63ddc0fefad5d8c7461af",
+"lib/jspretty.js":"eab5435c02fe8cbc1efb9b1061558169cc36b7651bd141b7d53f6f1bd9e6ef14",
+"lib/markup_beauty.js":"3da8f3aae32f486438923e47b6d1069d7d7356a1dad5ea7f14eb1b308bfc5029",
+"lib/markupmin.js":"9c7b6b7339a223c2a56bc271fd4db89f2369f2e89254e6beb8df233118ce9e36",
+"prettydiff.js":"935b96c672f858d33b46f6da9828e9b15f3610a871d4016dc0231b38ac7b0b3a"
+}

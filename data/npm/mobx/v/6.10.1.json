@@ -1,0 +1,17 @@
+{
+"dist/index.js":"6150759597b5dabb68e0ed55868315f6c43f1d16bccb3f30354b3d0739b669df",
+"dist/mobx.cjs.development.js":"08c64d8dd2ab704d7b7e702bbf81cacdffd147ff60aa7077c0925da985cba828",
+"dist/mobx.cjs.development.js.map":"5ec546efc25af3db316011140b3d6c28aa0e5faef5777d5ee0b9be2bae0fcce9",
+"dist/mobx.cjs.production.min.js":"0e737623ae289ffcaf2733bfcac612bdb93c4c8c5635dc01407b7458ebec37cd",
+"dist/mobx.cjs.production.min.js.map":"685df371563502f4d8c60929f9a16225fe5ad6b50096ef7cdd965bfb9c8ef2c9",
+"dist/mobx.esm.development.js":"af0434d59c97dcd077c1c3133b12d7d20424e1ddf383dc08a052cff6a07ea62e",
+"dist/mobx.esm.development.js.map":"969d539d22818deb726312c2aa27b0fbd0f735b6e9dee02f3794e184672b8c82",
+"dist/mobx.esm.js":"23e8a1836a0d12261aa343d051ea5cf14044f2dd3d2b5b253d0d6b5a39466143",
+"dist/mobx.esm.js.map":"3eeaa9ac2fa730bc970a607be92ecd892cee4a76e894598a87281baaeecc167f",
+"dist/mobx.esm.production.min.js":"29bd66bb8e6ecdeb45eecf8b05c66968e1d9c3b5e3e03452b3b6f07a14bed0a2",
+"dist/mobx.esm.production.min.js.map":"009def6c1f24ab8e5e29e9bb64056d3c4b18357d4d63b432d3362b7f4b23f9e0",
+"dist/mobx.umd.development.js":"090beebf7bda6a5213e09e0f928612a7283dca110e922ca71b170afc0827eeb0",
+"dist/mobx.umd.development.js.map":"45c4ba6002130514f0cf0376212bd9b6f631012389ee1455b53bd3c22fb218ba",
+"dist/mobx.umd.production.min.js":"3f1e816e9f8ccf33db3164c47f91ddf86c8bd349349e81915a82daf3ef8abece",
+"dist/mobx.umd.production.min.js.map":"5c93018c21b02cbb0da1754edc311d6f3f312c2b3884ce168d727aadfdb7cd3b"
+}

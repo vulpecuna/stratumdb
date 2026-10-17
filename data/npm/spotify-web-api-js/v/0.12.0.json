@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"16e48f93d131bee8acc647eea02d40eca79bf15cdc0c693134fc771022751ccb",
+"src/spotify-web-api.js":"ce7f111c00ef0b18ae40a9cb14fb952f35fe53bc1150e521bf9d72888ccb5e44",
+"tests/css/mocha.css":"6bb2a46eabcef2d53ce2505d6a6e0ea4540e58d918bc5ae183221a43937f7c69",
+"tests/js/chai.js":"73b58907c5c7508169ca5dc81a45f509ac274956949cfba0689297214ecad246",
+"tests/js/mocha.js":"cf6adf22918fdb1b05adc64fea4f286387c4fd3e5bcbc3adebf7d989222c290a",
+"tests/js/q.js":"7a27688117b3d18f540dcf2836c1d81ee84698355d57476549e94c3dacba7bc6",
+"tests/js/sinon.js":"6f49e08e5d148ef5b0b11dda0601798a0acee8c9d0a795e0b205471514438355",
+"tests/js/spec/test.js":"2de259fbd464504bfd94c9d569f9ada1142d01fe4270a73ce4b2a1528f09d850"
+}

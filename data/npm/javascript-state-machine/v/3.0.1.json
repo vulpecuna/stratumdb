@@ -1,0 +1,11 @@
+{
+"dist/state-machine-history.js":"214c647e7a90c9881ddc5b73aac446d14af12e8ceb5be52c70a7d2377dd4078d",
+"dist/state-machine-history.min.js":"ff71200e814136430b2c925ebee4ee3c2ff8046f7ac09a05f109bd3dfadfffd7",
+"dist/state-machine-visualize.js":"d930446bd3428d304990beaba7d9c0ef5c9cd4181b91b0af9cf69ab0dae68e65",
+"dist/state-machine-visualize.min.js":"0bd9531e6dc62d5494ded06c79393b71b37568186452650b6a3681a29448875a",
+"dist/state-machine.js":"f10baaebe04f6132ad391fb7274c7e59ceeb87fdf45449c6bd1a745ca9d49289",
+"dist/state-machine.min.js":"3638f16da5a353ed9c3e401e9a7bddecbc1e3cca70f336096456d504e64c5080",
+"lib/history.js":"214c647e7a90c9881ddc5b73aac446d14af12e8ceb5be52c70a7d2377dd4078d",
+"lib/state-machine.js":"f10baaebe04f6132ad391fb7274c7e59ceeb87fdf45449c6bd1a745ca9d49289",
+"lib/visualize.js":"d930446bd3428d304990beaba7d9c0ef5c9cd4181b91b0af9cf69ab0dae68e65"
+}

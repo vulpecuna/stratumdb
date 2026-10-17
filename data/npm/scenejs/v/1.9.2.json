@@ -1,0 +1,12 @@
+{
+"dist/scene.cjs.js":"eb215020cf7cb9dccb4e491c9fcd0706a7d257c7d0056de8367dcbc631c732f5",
+"dist/scene.cjs.js.map":"50871f07aab7785b69911d7ddd69a0fd965074a0644399223ff5003603f7059b",
+"dist/scene.esm.js":"e593c0f6fc81fbd71a722e51c92d3a8decb19c2afa54dc8abdc8ec9996151e5d",
+"dist/scene.esm.js.map":"d84ae9136e3acd1942abcb56d7409624c87676aa156cc193f4aa779581b047a2",
+"dist/scene.js":"16217458687db0f738b9db86e9ee2cba3dfae32b45dc7a651f2e3ac27c888261",
+"dist/scene.js.map":"adbb52c3ec6d371e8f4e7eb0a61eb2737dcffed8b2756cf6bcb3a4b6be5f3ebc",
+"dist/scene.min.js":"2cec505fce45792aceba12b4ad78278354022afeb077508d56f0af09447b50ce",
+"dist/scene.min.js.map":"f17aa879242bee7de0d34699e7aa4b758213b1fc1a61e72f6c4bf64992d6807f",
+"rollup.config.demo.js":"25e9562122cd0035fe43fc4470ef4ae9fd14b4029bdc98e352b410732f54db67",
+"rollup.config.js":"1c05272cd42c213f80d9fc972ab32fd2a22138705df4491c94b1cbe6c2584f1a"
+}

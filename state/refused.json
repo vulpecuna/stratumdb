@@ -64,5 +64,13 @@
  "npm epub.js 0.2.14": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/epub.js@0.2.14?structure=flat",
  "npm excalibur 0.28.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/excalibur@0.28.0?structure=flat",
  "npm highcharts 11.2.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/highcharts@11.2.0?structure=flat",
- "npm moment-timezone 0.5.36": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/moment-timezone@0.5.36?structure=flat"
+ "npm jointjs 3.3.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jointjs@3.3.0?structure=flat",
+ "npm jointjs 3.3.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jointjs@3.3.1?structure=flat",
+ "npm jointjs 3.4.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jointjs@3.4.0?structure=flat",
+ "npm jointjs 3.4.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jointjs@3.4.1?structure=flat",
+ "npm jointjs 3.4.2": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jointjs@3.4.2?structure=flat",
+ "npm jsxgraph 0.99.7": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jsxgraph@0.99.7?structure=flat",
+ "npm jsxgraph 1.12.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jsxgraph@1.12.1?structure=flat",
+ "npm moment-timezone 0.5.36": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/moment-timezone@0.5.36?structure=flat",
+ "npm react-modal 1.6.2": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/react-modal@1.6.2?structure=flat"
 }

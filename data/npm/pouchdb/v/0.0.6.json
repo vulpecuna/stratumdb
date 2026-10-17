@@ -1,0 +1,15 @@
+{
+"docs/tutorials/todo-list-tutorial.js":"7d1fdabf4b29a1ccf761357641fed572127cbfe95a3427ff0d9a8e3b635f9b77",
+"src/adapters/pouch.http.js":"69494d60b70f5c61afa9d2b1b4cd89378335e9f7b28782eece63ddd6e5b8733c",
+"src/adapters/pouch.idb.js":"324b4b50338c27ee2d40e46d4debec3c54ad477488966f6348a09c60746fe563",
+"src/adapters/pouch.leveldb.js":"ac2c3b5fdcd57bda2407a9ce7b4292642b7344b75dd05a004fd00fcd19ff165e",
+"src/deps/jquery-1.7.1.min.js":"88171413fc76dda23ab32baa17b11e4fff89141c633ece737852445f1ba6c1bd",
+"src/deps/uuid.js":"6467793e02e735686df1b411f38f35c35307b5f7b4c9c5bd762ce2f5e5f7e1ed",
+"src/pouch.amd.js":"0ada7cc40fc43189572ccdab6b6ac862a405cefcd6d44ab7412d2a5d079820b4",
+"src/pouch.collate.js":"46fb087f37e2f593923cd3fcfbe1b8346db0e9873342ee8418d3eb1f24dc3924",
+"src/pouch.js":"caaa734c986aa1d5f2f2206cc0e635e66d405e703420587784cce5a285b7bc46",
+"src/pouch.merge.js":"3d94289059cfb251fe7006009bf1642949c999aa22431cd3435cc943d7a01447",
+"src/pouch.replicate.js":"84e957cb554e41d03fa666f7dcbe856a814b2388e3bb868bb7eb50190ca0e4c0",
+"src/pouch.utils.js":"e296a14b7e01ac7bfc1af9547ac4fadf65f7e7c7f6f01e8c88f8e989b9d68e65",
+"src/pouch.window.js":"b7842acca31e1c3c8f6395a5275950cdc843873c130c55d29674f64ab304f85d"
+}

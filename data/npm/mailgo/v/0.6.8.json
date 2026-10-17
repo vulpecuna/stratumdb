@@ -1,0 +1,7 @@
+{
+"babel.config.js":"8d75d49304f98eacd6f0134953777e6375626cae094292e7272abfcd6abc8bd9",
+"dist/mailgo.min.css":"c71a476ee279c998c3c70762f75ce023aa3ecc54b9e351c23586f9d0c2e12f88",
+"dist/mailgo.min.js":"e5e810bce604462e5dfd4f9a2c7ed8ea22473292c91481fef759f9220ab75a0a",
+"mailgo.js":"f4b9a92cb24f1c898188ba4bfe74ca0b4f352f1e9c7a40af8a64c94c2a774ac2",
+"test/mailgo.test.js":"b0fb1ea3a06c3f02537e767545c192ef2ae8fc7ecd2c136ac48efebc941fe9d3"
+}

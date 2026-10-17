@@ -1,0 +1,9 @@
+{
+"dist/inline-player.js":"23f8e40fdd7e30e3653c4fafe521548e293c9af1894292487e5f09be1ab1806a",
+"dist/inline-player.min.js":"7ec472f3a004dff1792f1a1fe9a6a475ea1aa60abbc43971e9d21037f8d39297",
+"inline-player.js":"6adccb346a1097a2a37debc81f468dcda14a9990f89d9d6cd7016b9634babb30",
+"lib/index.js":"8d750fd21863b1d4a0e48d03076e8b86f982619edf8c6a62a3d742f17ee22760",
+"lib/intervalometer.js":"e36ca8703804745b3eecec2f5c2654b36ee2042df9f25a111d884d1746bb46b9",
+"lib/prevent-event.js":"8a5cc5675eafb58caec84ac47744e2813e259ab0c34aea0adb3b8ed6f726bd32",
+"lib/proxy-property.js":"1b39ab74284a6b1ea63766238d9241979c19c381ba3fa50fa9fac7d95b8c3e10"
+}

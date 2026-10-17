@@ -1,0 +1,8 @@
+{
+"build/css/index.css":"bed7e55d9ce6df70f350b1d1ab44c386529831978b24b85edb3800d2c0c7a3ab",
+"build/index.js":"728e9460d499880d6deeba677dd286f7a62c5c704ff9673bd965051922832d3d",
+"build/index.modern.js":"4c34fbe4900c42b1a3185d5e3d10006a667729bd9f777e0ac7daa10acc77a74a",
+"build/index.modern.js.map":"7d77ffe2e2ce521b4abb49f83080f302eedf23da6d14782e25b88453c71b6eb2",
+"webpack.config.demo.js":"4ebbd26161f02b04db95146d7982dcecac33665555dc599af38a2afacbc1b0dd",
+"webpack.config.modern.js":"a1f8c370dc8578f58f7ba53679351c352bc875c7584bcd4c23383e995a67e660"
+}

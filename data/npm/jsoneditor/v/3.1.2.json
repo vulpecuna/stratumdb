@@ -1,0 +1,16 @@
+{
+"asset/ace/ace.js":"7ed29fca04ced5b4d12fc70c09ff375e15963d9be650d41e6f92b1ffc470b1b6",
+"asset/ace/ext-searchbox.js":"67081b04333ece980d0f8a3379865562d937d633d7086f90cbe71508d6937d92",
+"asset/ace/mode-json.js":"2845d197f2c919a1565f1ab57e2a99ca1c1d200c0f358f61c36380d28f208ed9",
+"asset/ace/theme-jsoneditor.js":"dd41843872a85182f4d61281950a4f4f3965860ae48fdae28b533f0be44caa80",
+"asset/ace/theme-textmate.js":"57943ec4260d4586c2c9db0edc52ae2f892be5ae1c78c424c7a5abed3cfcd5d3",
+"asset/ace/worker-json.js":"7dae7083c0e15c670002be9877a0cf68f8ddda96c6dde143d628ac4bafe3dd95",
+"asset/jsonlint/jsonlint.js":"de0610afde43672b44f5d3b186110b03e7d89b7d6f6c9878468e429254670f65",
+"examples/requirejs_demo/scripts/main.js":"41f15c05a2b7bdc9f873175097623bc2229f027d5144b6c041c662f0a11ac70b",
+"examples/requirejs_demo/scripts/require.js":"c21c12da53d5bca0840eba5226936ce9567b235497d4f2b94546a145596ff522",
+"jsoneditor.css":"1346055ce5d38b63b906eca8cb667ddff9161f1049fb3fe071f9894989ba2725",
+"jsoneditor.js":"c3319930503520443895a299e7e29d77f01ef6f145dd8e98175117d8ff7b21f4",
+"jsoneditor.map":"e11c0a7f5f8d5d65bc7d9a97b946e2b25069da36ff3d38adb509a7697bdd3c4f",
+"jsoneditor.min.css":"895d0187eeac1895ffceb268b39f79cd4495cd5473110c82c8f824472117267e",
+"jsoneditor.min.js":"45a0d45d76b16a0b0d9b0d36e09e6bf5efb199604e7fa3d3462eb1da0af89e84"
+}

@@ -1,0 +1,16 @@
+{
+"Brocfile.js":"f55ae06a12a37597b1fe8b511052cfb44f558ed4c82102389e34cbdbbd9a57ba",
+"bench/benches/add.js":"c984bcb63aaf5540ec7790add4715d229c3acd57dfdd6ea1cdc62aa0efe096c9",
+"bench/benches/end-to-end.js":"f8213c25215c157927d0ee5393fde520b7240d834b719870ede29d7002c347ee",
+"bench/benches/generate.js":"b0364ce6e029ff84d511fd2abb13dd16e41c67c786dd23e9403bd762b7475430",
+"bench/benches/handlers-for.js":"a5086c5fe9e91a0ccc7e556f7799eb92ac46abcc5ee0be2b0c8f7f00b66ac413",
+"bench/benches/recognize.js":"0c6033343959f06012bb1581277771d4f9e4615eb0656f44a0c450a58dea0cbf",
+"bench/index.js":"cddd953990653eb918e16058f2b975eef955959d7c16dcfc46c25e5d13a73005",
+"dist/es6/route-recognizer.js":"25ed5fa084effa012e90c2b4910d847ccc439a9cc02bf1f6966f7ed2f77b3d17",
+"dist/es6/route-recognizer/dsl.js":"2a48dde1e04c08583a31f1a01318caf33c236f18c6746a57c7e77ae6c314de87",
+"dist/route-recognizer.js":"3238b492c827bb3eb87567c7e872a215dd64d3fd2fccdf9b43c89a059dd18eee",
+"dist/route-recognizer.js.map":"31aad0a01a6a010396a5d3da3422fde5bc6f66b2c58be7bb6de74fb838f930a9",
+"lib/route-recognizer.js":"14985a3878512d9fda722b52bd97f20eb2a83929c0645ac388b970eb368ff7a4",
+"lib/route-recognizer.umd.js":"e3ad2b8f05143ab833b782189e86add58a81f4109323aae5e7eb1ca205e3045c",
+"lib/route-recognizer/dsl.js":"2a48dde1e04c08583a31f1a01318caf33c236f18c6746a57c7e77ae6c314de87"
+}

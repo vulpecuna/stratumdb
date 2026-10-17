@@ -1,0 +1,13 @@
+{
+"build/parsimmon.browser.js":"4b218213ab863265148a9685744e5be3f6da21417235767d03dc2171b6474d17",
+"build/parsimmon.browser.min.js":"181cf9d7b6f38a7c2195ce4d6a329c3ac47624a1a5cfbe87ec4c6fd382fa3873",
+"build/parsimmon.commonjs.js":"13fca03cda89ef86d396e6b9de62722a6c8e50662ce31930dfbf0a5838e76b9a",
+"index.js":"8ed31cabf38d16261455408abb7cca26eaa8be388f9749d0669353d20e375e7a",
+"src/browser/post.js":"d65fd7c613a9c53a9ae40fa9d9eae9eb3de3feae453f41285947d6683650a2ae",
+"src/browser/pre.js":"d65fd7c613a9c53a9ae40fa9d9eae9eb3de3feae453f41285947d6683650a2ae",
+"src/commonjs/post.js":"b429d3d6d6bb2b050cacd2a3133b22d56038953afa2d28468cd0101300399115",
+"src/commonjs/pre.js":"d65fd7c613a9c53a9ae40fa9d9eae9eb3de3feae453f41285947d6683650a2ae",
+"src/parsimmon.js":"b2f2988720a63b96f18116c119f49b2947c76cadf5740fc98289fd455130494f",
+"test/intro.js":"bc9fd31db5a0511eaa71d7d794b38cd76c6ab016badc117f1767c2b32a365416",
+"test/parsimmon.test.js":"7711eb6b94a06dac587fdd4d632d1897d7cbe635291c6fe461d79aa560861f90"
+}

@@ -1,0 +1,11 @@
+{
+"demo/reset.css":"d6010d3b95ac45857a0763aecca889644a07cecaac4d3397aac210f2bf91cc26",
+"demo/styles.css":"f8491a50472dbf0b77823086181a8d93ef059722a992dd5a7a230b974c243a81",
+"dist/medium-zoom.js":"0e67c95aa7533366f5894375f0d053a0c6eb7453a6ee1b8dfc1a54bdad388d6a",
+"dist/medium-zoom.js.map":"6e0f97cd23795261d85f318671e60a57938cd43c69d80ed8ec4d00555b39727b",
+"dist/medium-zoom.min.js":"a4ed604ad04f5f97dd9df3a0ee6acd616c4e58d792d132f5399fbff89de586a8",
+"dist/medium-zoom.min.js.map":"10dc1a5cf775dee37ef5854ef08e07a21de02877982076951ebce74b3d2a4b02",
+"src/medium-zoom.css":"3817f76a4c9092f6aa05b4a203af557429da0d58eb1385c4e3f98c41e294fce0",
+"src/medium-zoom.js":"79ddb263142c2dea7383ebb9627e1af51f7d1e3b0dc7d752ce28da4f1483c5aa",
+"webpack.config.js":"ee7135cc182ceef53982064a95ba0d8f02e9630e7ea84dc4eb639fb4ba3d4569"
+}

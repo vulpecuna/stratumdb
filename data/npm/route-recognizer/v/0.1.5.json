@@ -1,0 +1,10 @@
+{
+"Brocfile.js":"a69aae01e113a8ad3c1fb1ebec5bd31cbf7e56c243ad13a2464032892fb8b77d",
+"dist/es6/route-recognizer.js":"66f4f3071773ef8ceaf8c2b38a56e0a03c1e75f1f54ad7e3fbcd767ae98a7a68",
+"dist/es6/route-recognizer/dsl.js":"52ba2eb2457a2f793d533479db1946dd789cbcab01bf44ff91ad917d5b5bbc93",
+"dist/route-recognizer.js":"23d0f619b401012fda533250241ddaace7463f25273f50e0506da32198f6ba5d",
+"dist/route-recognizer.js.map":"fea075570d0260bc6b047aeda86dc55f7e6422f1b8e406d688faf695de95421a",
+"lib/route-recognizer.js":"4a88f1cc0ad76846328d60fc01495c4010750532ef3a7586fb615966f24ccdd1",
+"lib/route-recognizer.umd.js":"969ed3eeca6cb351132c790dc9ed6221862bc42dfa7c8f55e5cb23184fe74e61",
+"lib/route-recognizer/dsl.js":"52ba2eb2457a2f793d533479db1946dd789cbcab01bf44ff91ad917d5b5bbc93"
+}

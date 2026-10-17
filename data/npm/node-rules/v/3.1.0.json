@@ -1,0 +1,11 @@
+{
+"examples/1.SimpleRule.js":"2a2bbbbeb889f7d327af73a3a5a27982e14160c080c96914150a4f343c0665f4",
+"examples/2.MultipleRules.js":"db5db84441d994e932bcf20866c1f5cdaae40aacfe01d8853ef671c618c03327",
+"examples/3.CascadingRules.js":"f5077a270d3b4499fd97c503906abd16b7b37f3c061a76e440bd1835f92a620e",
+"examples/4.PrioritizedRules.js":"42ae62e786b021bc728ffffe3888b1615e9d870a0edaefe645200872109ee103",
+"examples/5.RecurssionWithRules.js":"f567a4d924f0b02b7346ba49ecd5dd2271696324c1af3a3e0dca4dbab6a1af21",
+"examples/6.MoreRulesAndFacts.js":"4b10118f341a280a2016c480566e8d8db4b1c72a0b230cbd5e2cd07bca4306c0",
+"index.js":"603850476d5035406ecaae514fc24c933ea1c63b465cdf213a64d01f3022da21",
+"lib/node-rules.js":"8bf872195abe11a0973478cae4f30d5b3e8264c73ca80ab3673f4d8b79d22c60",
+"test/index.js":"6723495dee795038a3518f358e8d76b3c2764e01b140866341c7f66070c563ef"
+}

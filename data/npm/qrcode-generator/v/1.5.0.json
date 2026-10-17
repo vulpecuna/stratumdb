@@ -1,0 +1,13 @@
+{
+"qrcode.js":"18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780",
+"qrcode.mjs":"e4e021710660c0426e4bad9436a96dafa688b50ec7e0c4dbd773ba18108de5b8",
+"qrcode_SJIS.js":"7e911a12dbc45a800d5b991c9e448bce484f1399fc78066b759f8fe0714fb63d",
+"qrcode_SJIS.mjs":"77e30eb5ccf1cfab3f0c1742fd60d3cc6723b238c5238f2cccc24a751fe9bd6b",
+"qrcode_UTF8.js":"e522d64003b332e29271fdce4993ed3ae2934c8947f41654bd324ddcfa2de301",
+"qrcode_UTF8.mjs":"b06a0931c600eb94557c7949af2b0addfbd7fb56928b27859edec50f26919560",
+"test/qrcode-test-impl.js":"d5a7c406a5c64c947a78a602e042dbe5274f43b699f88599d56b01b663caf6ee",
+"test/qrcode.test.mjs":"1c4f195a0b5479315b6cf90a1f012fccabb2d2f604076055360e21fc4bfa66e2",
+"test/qrcode_SJIS.test.mjs":"d5c02a71a889767ca5fb28387617b5c64f0d3b17eda6a90f6345922838debc13",
+"test/qrcode_UTF8.test.mjs":"1384e2604b5c611ce7ec70ec21ffd359da4f21df21687308a8709be4cf4fc310",
+"web-test-runner.config.mjs":"d66e8ba617f31bf5eabed0a82e9bc1e7ce709e370e2667f8a00e286242d2c35b"
+}

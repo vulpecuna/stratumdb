@@ -1,0 +1,12 @@
+{
+"dist/markdown-it-emoji-light.js":"3ea175f4403531f29c9a87b2e6d952d9c961e3a6916e36735cd71ce3226f691a",
+"dist/markdown-it-emoji-light.min.js":"bc321aa2ffa653b094b999ecb53044bf7b7a46890ccc3058f8d063cb0f9e742e",
+"dist/markdown-it-emoji.js":"8da7935c179e15a63581859dbc95ae3009430d9f82d30f7753c80e2e1da1ebe5",
+"dist/markdown-it-emoji.min.js":"1a2dfc4f80c9bebc86031f4b0459d63cf59a011c77d3bb1c38318100c9ca82fa",
+"index.js":"10f08ea34b8baf25abd3814f89ad71724421498a98a28f0c63551b1f837a0ad2",
+"lib/data/shortcuts.js":"a547fdf157e61268e54aa62ef1d52c972579f060286c9625fe09e71d7ea38fbe",
+"lib/normalize_opts.js":"e2b73d582e15f5060f7ae9b5dcf25599b5518ac44c185b2dc04f8a70b806e504",
+"lib/render.js":"0b7404f2971fd1d873ed52b9cdaa800ffed398cf970969274c2425532a2b0777",
+"lib/replace.js":"81c96829b8211aa40fb88b83e83fd820458f8ae53dace5c60e7017c6f3e4d86d",
+"light.js":"f045908663f1905310c297ee5ffd3f8394cf5b68c20dee93dc907cdbf8aff826"
+}

@@ -1,0 +1,14 @@
+{
+"build/scrollama.js":"d4c8b76333952a6dbd1caea7ec6bddce8c57d8850793bb6ed3a6ac73f12ff26a",
+"build/scrollama.min.js":"50bb2cebd08b1f839c29c6fedbc6384795ae60d4f770a3a17986bb80427f63ef",
+"dev/d3.v4.min.js":"698627a95561009e250da9a63f84326e6c60dff1d5a40effb0d4829edc82caee",
+"dev/scrollama.js":"ec6118f58240d2d4072a04e5ac4b748a21c28a9d303335c52e4c4e1fd7a784f3",
+"docs/d3.v4.min.js":"698627a95561009e250da9a63f84326e6c60dff1d5a40effb0d4829edc82caee",
+"docs/scrollama.js":"d4c8b76333952a6dbd1caea7ec6bddce8c57d8850793bb6ed3a6ac73f12ff26a",
+"index.js":"4b74b6bfe3f4737bb30df148886ea0f67a6b86716ac06307a6f5723d54d238c2",
+"rollup.config.dev.js":"003fd5db2ed9c8b79502643a8fc11a7773952196df67a7adefc80d2523b82de0",
+"rollup.config.js":"3ffd6a0a25995e22f9259d9f48ec61037d74b0e697eed2f71e5ce4904bc9e8b6",
+"src/dom.js":"84b413913a26b01eea2810de9c66c93812e882d9911acb5bb9d4bd6064b468a3",
+"src/init-old.js":"698392281b55ad938cd6a3997d9843a91ba32107ba3cd7d81dad921153f855e0",
+"src/init.js":"5f6f3f8b439784df575c6dc7b73b243c4e29a451b06c171fdbc2e2074b61c298"
+}

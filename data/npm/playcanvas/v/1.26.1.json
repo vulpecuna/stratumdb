@@ -1,0 +1,10 @@
+{
+"build/output/playcanvas.dbg.js":"f53cc80ad1d79652ba486a44e38c919104df9591b8c17aa0ca6f50dc07b01c1a",
+"build/output/playcanvas.js":"17e3cd27611796f162b1d4f50d08f970f3817bfc11791cf79e448fe11c67bc64",
+"build/output/playcanvas.min.js":"d6dcb0cc3bdf303bb0b6a0bec0b2aad9603e940220706b79ae0246ceaca60814",
+"build/output/playcanvas.prf.js":"ae8fe3620aba2f479ff14af9ff2c8d93d9ae926eda0f97b625093451f559e43b",
+"tools/glb-viewer/src/controls.js":"89bdbd18e0f0dd54265a00b487fa6326c3351b3c2420d702b727cdee8c3dda01",
+"tools/glb-viewer/src/graph.js":"14c93ab0e28c84e4b661387a3e6e9cc1146579e95829687efd66bcb7bb736424",
+"tools/glb-viewer/src/viewer.js":"aa884a3bcda445ac59c26312ff2119e1e53ffe9f267288d07306d7ee556b0fb3",
+"tools/glb-viewer/style.css":"790dc90f2d47a6a56eafe71f8e5d6a56eb0c44dd23de2a9c5bf1dd8f02f9db2c"
+}

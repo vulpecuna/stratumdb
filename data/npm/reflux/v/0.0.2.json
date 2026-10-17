@@ -1,0 +1,7 @@
+{
+"Gruntfile.js":"121366e61fe644194ae6d84112e783eac510ba77bb65e9c2f401c7c21d5deb55",
+"src/createAction.js":"f41f96eb88324ef8d48d84e9291a08aac9a744bb43626bf0ae153cb77e3f9372",
+"src/createStore.js":"70e4f55a691351bf6dbedf9d62b3677911320770a498ddf7459f870082ad5bb1",
+"src/index.js":"2955af8fc4e67ceffa6bf2e2a9e8cfa10d2d553fef58d101a2aee32886d21fc3",
+"test/index.js":"bc22fa6b176a7f85f390a2a228d0ab1ef50f9b7f2c29c44c6b73a23aca721005"
+}

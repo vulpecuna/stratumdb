@@ -1,0 +1,8 @@
+{
+"lib/rangy-classapplier.js":"c36b8a18611e0f2cdbddebcf1a6a5147515c3e71a2efb5ca23a160167e182bfe",
+"lib/rangy-core.js":"039d63e3a1d3a68219c6c1a2e30c0b4f9d76525ccccc2bd5a03a6964da1e7cba",
+"lib/rangy-highlighter.js":"7e886cbad455f9c17104562e8976d1def14fae6c885686fe40feaea4ba227af2",
+"lib/rangy-selectionsaverestore.js":"d3903735cec839fe1031608711e1713c4a69ea246f57265028da1b9f8e46567e",
+"lib/rangy-serializer.js":"c7a61cdb8051322b31b8907c83c259044b7f5a6d20236d06133aa5f3d33a512f",
+"lib/rangy-textrange.js":"d0da94ee54853eefbe62b6757143ef92d0860fc699def36104544ae9c8d4119d"
+}

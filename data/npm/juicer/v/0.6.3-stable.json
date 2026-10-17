@@ -1,0 +1,14 @@
+{
+"build/expressjs-wrapper/for-2.x/express-juicer-min.js":"e03bbc6765ca951c5c832daf31b03668792632427fe906cc19bbb26d87cd7f7d",
+"build/expressjs-wrapper/for-3.x/express-juicer-min.js":"9eb1557b4a6fb51c1400f0da03b71e4814c725f0b052c71eb6a7b6886c63a892",
+"build/juicer-min.js":"c2a757ea33231cefdf073e391d51cb8f7a321828d410a4501c1bac747ce7291a",
+"build/yui-wrapper/yui-juicer-min.js":"e5bc86ae47d0c40d06803baa3b9ceac9257e20963ab65b8dc00de0e53f428b4c",
+"src/expressjs-wrapper/for-2.x/express-juicer.js":"d06e3c47b029be0591305750af244a6a8c0d798157051e9053370f7b79fef120",
+"src/expressjs-wrapper/for-3.x/express-juicer.js":"4d489492d91d7ded6116cc41acbf260f915b401a6e474cef51aef7815a225a94",
+"src/juicer.js":"df49508b6c4f6ddcb7b8e6a2901b2b11836352e7eef02db7cce174ec903b6610",
+"src/yui-wrapper/yui-juicer.js":"66133387fd060b5ccdf8d23ebb61b5c800ac0eb69114d53e7126b8c1298e3f7e",
+"test/nodejs/juicer-node.js":"195215828bd5212cac637353ffe78a4bbde2ed3b00da4e9fa43d0246eba4a4fa",
+"test/unit/qunit-1.5.0.css":"e5091c1d33891e66de1f7fdb025815aa98fe587a3c618fbf8df4ff8a1ce02506",
+"test/unit/qunit-1.5.0.js":"9ad87c668f303b68319504993ba7869a3e2f536ecdb10e3c10c2234c09b644e8",
+"test/unit/test.js":"4dcafa8cd297090cc2b04815fa40afb72b69941b11656bd3853c7d148e73c18b"
+}

@@ -1,0 +1,12 @@
+{
+"dist/js-joda.js":"a639e9a3ed49c2e067419e6a41b9fc838760e28cb30849bfba5dfca335a9da6e",
+"dist/js-joda.js.map":"6c91f99165abfd513d9430a22c4ee06ca013a674ee4dba0bf4b18388427c3c6e",
+"dist/js-joda.min.js":"922bf1ac314532c93405509a07bd9ebc633879faa30cec945409a4a5244be079",
+"src/LocalDate.js":"a27495d872faa3cfef5c2b08917852e22e5843c5b737ccea21aec616d5828c08",
+"src/MathUtil.js":"8a0542d09cf63c35bc258dcde87b962647c2bd35e4ddf5c174fa245ac189edfb",
+"src/assert.js":"34da81402fed2721fe2aef44ab955a040ce737aabdff94358cf78f833a4b120b",
+"src/chrono/IsoChronology.js":"a16923680e6ab8c12754bdec2d541fd0defa261541c5ebfe057bc9c3c315de92",
+"src/js-joda.js":"2eac665a63d05d68c5a5a4fec1aea906497f577201c87007708b851eab953ed8",
+"src/temporal/ChronoField.js":"028d98bb5dd58b11703b6a680460fcc23a28b5f9e3a16646b3f741e2a57a3644",
+"src/temporal/ValueRange.js":"607291e6057d8a8295b3660efe82552111af883369f913476bd04c4fb050e21e"
+}

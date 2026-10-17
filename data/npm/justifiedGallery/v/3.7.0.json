@@ -1,0 +1,14 @@
+{
+"Gruntfile.js":"81072136a92a55718b0f880e1396adfd193f0c0cd2e73cd0fccac1aff8cf7ad6",
+"dist/css/justifiedGallery.css":"64a386be9ed85705f6ea0d9dd28a03bdb481412122222e0177d16e2bed76664d",
+"dist/css/justifiedGallery.min.css":"64a386be9ed85705f6ea0d9dd28a03bdb481412122222e0177d16e2bed76664d",
+"dist/js/jquery.justifiedGallery.js":"6880860801ccef2f21605dda7c5bdbe7cf3e58b9ddce5b3e359ec8aa65414dd1",
+"dist/js/jquery.justifiedGallery.min.js":"6c83ef48243bf86e466c85c3b7607ef403290a616dc5354b53e6960083f32fc2",
+"src/js/jquery.justifiedGallery.js":"1e5553eb29e770b202a161b6214d94cc24a345af4acbf853e5137600f6cde274",
+"src/js/justifiedGallery.js":"8dcfe408a2dc7ff5a7d8f0fd98708c2cc3ca47cc0083aebaba19f68f1dc596e7",
+"test/browserify/dist/bundle.js":"93872bb7f05ec59f8baaf659eb60b61100d94a7f804284f62f9ab335286ef87b",
+"test/browserify/index.js":"b2d2726aa6932802c4100aac342c9f695f53c324054b8acc54d9016757a9722f",
+"test/webpack/dist/bundle.js":"38c1fe24b6d7567819ed54a0e84e8e068fbd6c6f1600f624ecbe3f3171539da3",
+"test/webpack/index.js":"a83395f4ad59926578946466f64e59cd22fe449587a72307d0cc0c54a21c7439",
+"test/webpack/webpack.config.js":"3c0c8964dff157517d27ac6b40211574e45bac0217b138165b49fc5291c14af8"
+}

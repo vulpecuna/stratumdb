@@ -1,0 +1,15 @@
+{
+"dist/react-geosuggest.js":"b0f422a72b2bc17a3371d12ffadcc3b7572dc87028dd7e5889257ead42060b02",
+"dist/react-geosuggest.min.js":"7d4c05ea1bf8aaaf3a3cf0fdd740bf37ebf5a0a3cce34a2ea9db3d4730acbdb9",
+"module/Geosuggest.js":"cfb20e9b229f2404fa0b58bccecb5116a72bf82af53f49d85b06a22fc4824bfc",
+"module/defaults.js":"a0111576b8fd6fbc8d5023a6ebd7c314d5e561bac6d4171324921beb1002a7e5",
+"module/filter-input-attributes.js":"4249946abeaf2ded89ff1ebd842e10b0765a39a0387e50edc421021223b212ba",
+"module/geosuggest.css":"4f7dc6b1c12e8d43989c903e24ca23fa47b8b3e22e4cb503876bc50e088709cb",
+"module/input.js":"4223082c7b264c49b6daca676bfd40da1cb7b3ae36213a4df14542911e8fb28e",
+"module/prop-types.js":"baabcc72d487c41905bd8f4e167287295113d73de49e348f49af94a5ad1b65d3",
+"module/suggest-item.js":"a650e1e246f7f317b90eaf2349735ed8a3a9dd9c0945eb9faee144d10b4ae475",
+"module/suggest-list.js":"1dbc491577fdd6b3f2aa70ee1913c7c2d49696fe52dd152f56298b5462f7f67f",
+"test/build.tests.js":"f3c7abf13ec53d5069ef762a395af0a09cb2d7c3132f574fd1d853c9e01d3e97",
+"test/fixtures/predictions.js":"2b2845fb54332996146b406749023f31db2618c03a0c20d6b073523246e2d441",
+"test/test_helper.js":"bed51e518787a7e4a079889871b56424aa8b91592950483a5ad4ff4a98b73b7b"
+}

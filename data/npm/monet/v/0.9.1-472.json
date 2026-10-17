@@ -1,0 +1,7 @@
+{
+"dist/monet-pimp.js":"3f96c0386c79266821e2812ed284d5d33ebc1f7f42a78c955ce3b5693dbb71ce",
+"dist/monet.js":"2dfbd77f4440391c5ae5c8cf4d7bc24fd8a31d6622218180b92929bf8ff0832e",
+"prepublish-test/browser-global.js":"766ce2e6743c9ee9de25e4daa1415e89ce6920a7444f7f8ba09249a5156b6bae",
+"prepublish-test/node-global.js":"1216a0decab2a8c51c65dba77741c20960232d8b89f8d99cdf1937f741d4e141",
+"prepublish-test/node-regular.js":"da85b79d0ad7451103ae8718ac6bc078a17b841137e91a322580ef64b129a6e9"
+}

@@ -1,0 +1,16 @@
+{
+".eslintrc.js":"1319bb636048900d34cff9857ac7103359f3beb595a8715492d80a4048da094d",
+"config/webpack.config.js":"cb3d7f2d244bd5ae24121374fefedf275dd818556357e1e079d61526c03ca0eb",
+"dist/search-insights.min.js":"b23b26423cbf614683a9283c2a7bf767ab2f144285cd33862aa4461eeba252be",
+"examples/async/async.js":"09d6c2aeee1b4eaee0fd4d0b3aa009318aa336690d7047cde43dc1e443c5624b",
+"examples/autocomplete/autocomplete.js":"08e66d32e7fcf33a56e2ecbe50668bb33033b1cf4e5b6fc44fc7b39c2f2ad5db",
+"examples/helper/helper.js":"9bd2277de00c94dec4dede1ad69dfde7b3eb0a0800f20cdde8b9146816143a3b",
+"examples/instantsearch/instantsearchExample.js":"be23486a12ba27fda32b4d7ca94542939e0cb94cb5216e32692bd80b922281ae",
+"examples/lunr/lunr.js":"9f2b46264036738df459d145874f379a6da18e5162cd64e26c290a401d35a33a",
+"examples/react-instantsearch/src/App.css":"f4c6774b2ce38d73888c0b813d8f5e6a8f9804e11ef8c73529d769fdd97f5261",
+"examples/react-instantsearch/src/App.js":"55a8bfe78cd8663a5ef34a054e98ecdfbab539dfe54cbbce42347b3df0276ce1",
+"examples/react-instantsearch/src/index.js":"056f91bc6b0ecfe1b31bd3db4d9a5cc38067f35417f5bf4b2b4011ec68eddbf3",
+"examples/vue-instantsearch/src/main.js":"0600e6f6b49d20f86f520b1ebc7da262bcb8683b6bcb1c062cffd2da0e8a0c06",
+"rollup.config.js":"b963c5ada5b7550918255ce3cb79deaf366f420af6462fd3005edc387c649464",
+"server/server.js":"36a3db90dba5ab6e1fd4df21412f0237bbab08305fa7837befecfd79f11e2ce7"
+}

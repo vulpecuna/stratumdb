@@ -1,0 +1,10 @@
+{
+".coverage/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+".coverage/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"gruntfile.js":"3f2977bfbd9419a3b984f02fed8be9a020f5fa6a72956c4bb1e14c72728013aa",
+"spec/geojsonHelpers.js":"9283d5830dd58d2b8d80506edea042337d136289f446256cd849767e8f0f9cc5",
+"spec/spatialReferenceSpec.js":"b5043baa39f6dec81100abaf80d45cdb911d51e58ee76364bbf2dae1dc302850",
+"spec/terraformerSpec.js":"6791f075f4a0aeced51b06ceb504d1b3dfd50cc86eaa6a80c3fae99c1b83608d",
+"terraformer.js":"ce6f2d784727a036ca35b2e72360751b692ced35f7ad8feeb9be42b358e6381f",
+"terraformer.min.js":"5d55cc80c3d557af9d5796fca5b41a1e9511bf80d77957520b44fda782724a59"
+}

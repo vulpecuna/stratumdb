@@ -1,0 +1,13 @@
+{
+"dist/qrcode.js":"18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780",
+"dist/qrcode.mjs":"e00b7d96a50ea56f1d5571ad14b9b868309cf0a4a34571d1a10a8d41103442d7",
+"dist/qrcode_SJIS.js":"7e911a12dbc45a800d5b991c9e448bce484f1399fc78066b759f8fe0714fb63d",
+"dist/qrcode_SJIS.mjs":"77e30eb5ccf1cfab3f0c1742fd60d3cc6723b238c5238f2cccc24a751fe9bd6b",
+"dist/qrcode_UTF8.js":"e522d64003b332e29271fdce4993ed3ae2934c8947f41654bd324ddcfa2de301",
+"dist/qrcode_UTF8.mjs":"b06a0931c600eb94557c7949af2b0addfbd7fb56928b27859edec50f26919560",
+"test/qrcode-test-impl.js":"6a175b4c21c929841f23baaf891665091918d0c44dd496373aed051cbc592342",
+"test/qrcode.test.mjs":"b78e8ce04755325d30a40e36667e90cfcdcbc99bb8647f9815be4793cf55ea27",
+"test/qrcode_SJIS.test.mjs":"60724bfc8b3e1092755b5f2aefa8f67dbb5c7322e2563caa8e3983aaa3438673",
+"test/qrcode_UTF8.test.mjs":"eb8645e04c881849f12a1bff294f79af549f189150b1b092184a546070d3d1c8",
+"web-test-runner.config.mjs":"d66e8ba617f31bf5eabed0a82e9bc1e7ce709e370e2667f8a00e286242d2c35b"
+}

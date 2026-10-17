@@ -1,0 +1,8 @@
+{
+"dist/index.js":"1da52b122176daeb78b2cd0032424dc18f754a6909e9a7eda9bd5becf3cf988f",
+"dist/index.mjs":"14a8f4cb9ce7a1b6232c81bdcc7934020e086c8e06b323e89852f3c9ed6eff41",
+"tsup.browser.js":"37698e01e1129d2d1b13b0ca2a17e03dcef0051ae747bdd3bad9383829b15754",
+"tsup.min.js":"566adcdc31201d9aaa741565d28c83a1715fc2dfa13e39123eb94b572a7e3f80",
+"tsup.module.js":"8189605caea66d2c8e54c271e5ac8368217774f569f25b9a617b686bbfbadd60",
+"webpack.es5.js":"d46fd6856fddb94ff5af59ca52d4006dbc2466946ad71a8bacb245c7187c6af7"
+}

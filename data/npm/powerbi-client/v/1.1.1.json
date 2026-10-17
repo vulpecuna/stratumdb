@@ -1,0 +1,9 @@
+{
+"dist/powerbi.js":"dc9d24d9a3f828f9ce59fd7fd4301b6dafb7aceebf9a38d45e65340e7f53c956",
+"dist/powerbi.js.map":"de36316e7cb5019235bf6995dafbe71a387a48eaabf2bbd7eebab378912970d6",
+"dist/powerbi.min.js":"3d4120f82cdf869e105da2f09f1dea30046ee595eba58244f71765592b2df635",
+"gulpfile.js":"d22ee8a52aba6c618997ee62488e63b7424129decd38857e09634f9fd1ac06ad",
+"karma.conf.js":"4df94a0a90409230f1928a8202ca585dcf15de378313c1d373511a1a1f5d824e",
+"paths.js":"234b405dfb0e8c70bd38785a4cb9ed71b67af469a92819de7fc5e6fbdfbcc029",
+"webpack.config.js":"b2fc252ed074cb375dfd73afb33ff978a74ea33b50d9500502fee07b95de36ef"
+}

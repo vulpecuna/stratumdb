@@ -1,0 +1,15 @@
+{
+"index.js":"ab8f7a77b323e85fd6cc9c84d93bbafac5ef494cce554a72177d57ffffb5f629",
+"lib/events.js":"266ade976de98dbcaa2f16b11ead260740d0d0b38579f3bee8a423a0991d5abe",
+"lib/node/index.js":"4f241c87f9b28d320e0e8c4af96cfdf3755fa073f1b8e9d56dde3eac5e1d3997",
+"lib/node/methods.js":"26ec6d53ef0cf0fe8884e565d3362e052922cfa5c1dee343614f9f930b9944af",
+"lib/node/parsers/index.js":"65b40d8d784611f325d519b5a5df455eea9b42db50a97b9214fbd6120c824272",
+"lib/node/parsers/json.js":"84843e5d8e33fca9641b07d05b168666cc73f26518ede26df2c83c4d7dcbf5da",
+"lib/node/parsers/urlencoded.js":"884201def6f61b22da0f7764b17f529fd5fb79fab409fad3667f2b5c29dc814c",
+"lib/node/part.js":"4a5c2e3a0954b260b8d4526cbcf5f98fef03c481dc6d1318971be35b05ded633",
+"lib/node/response.js":"3948284f7eb19101b606fb1acd1b55af3c52edc557842ff36099be663e5ace2a",
+"lib/node/utils.js":"71ec3b5eb044125d6d284cd7e08d699531ec1eee279546c0469c7b1e8b6b6f99",
+"lib/superagent.js":"8a78b78d13d9d5f6a4f0fb584fa4a69f7b1783f119d8a91c4331a193c98ddaa3",
+"superagent.js":"15b30de8960545eb11d1ef441991262346dc08e61becabf271490cfba5d850df",
+"superagent.min.js":"3129919b589eaf52cb774b94e63258104d604d70966c4cada428b1be05003ed5"
+}

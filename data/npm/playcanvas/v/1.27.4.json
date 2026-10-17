@@ -1,0 +1,15 @@
+{
+"build/output/playcanvas-extras.js":"24b566be50c3b2e0d94803fd86ab38fee84d91f46df2f83f7cee901e672a332d",
+"build/output/playcanvas.dbg.js":"02ee67bc2f2411c2780bad4e0151984e06efc0e2427afa086fe3ea676a811c78",
+"build/output/playcanvas.js":"1b6d8f1229cdf4a540c1dd8808a23a380368b1c2ceec69cfbe6ae6616004362d",
+"build/output/playcanvas.min.js":"68ba6843583ae79d448062999e7eefaa0b9efa7cabaaca8c8f76abf2ca8ef6a5",
+"build/output/playcanvas.prf.js":"cd9c68831bc3b8a515bae5a021e9ff46fdc6c4e544a7a22560bde5ee4d90b3ed",
+"extras/mini-stats/cpu-timer.js":"83dadb303a188105d0dfb95c9ef4a56df29b8af73ceb2fd325e8c6291979e6d6",
+"extras/mini-stats/gpu-timer.js":"ae017a5d2c70eac26385a107a311ee3a53398592143f39a91cc1cad109500e09",
+"extras/mini-stats/mini-stats.js":"fe3d5b71a85e51edcac861abc0eac534a40a4a84357cbdc8b7e1a2c4385a23b8",
+"tools/viewer/src/controls.js":"fb8b23a34d871636961b091e98c71267f775dd94b20d8d2aa615ce17af2dfab4",
+"tools/viewer/src/debug.js":"8b006d9da5876a19eb3d8cd5993b90dceee06d9238d58bab8bcb164700731a75",
+"tools/viewer/src/graph.js":"14c93ab0e28c84e4b661387a3e6e9cc1146579e95829687efd66bcb7bb736424",
+"tools/viewer/src/viewer.js":"9ce83b1ac4754dd78c26b84022720b26a9b558449b2276c60de594603f85349c",
+"tools/viewer/style.css":"a058c233e74b52baad091c199be42d2dc136d0644fa083ba747df8b5da61c385"
+}

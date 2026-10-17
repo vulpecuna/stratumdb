@@ -1,0 +1,9 @@
+{
+"example.js":"30df6d97449bf5df8ef1a8854e51e2bd26766b074912b9201fff6b64b3d882a8",
+"lib/stringtabler_jsonfile.js":"4979caae4af58c8c4dd2f20a58967290c78a482ba4724ae02c254b1c9d873b4c",
+"lib/stringtabler_simpledb.js":"213364a8d3a1917a8d132ee3d21ff577228cdda8f59c9c68d997651b8224a96a",
+"lib/tabler.js":"1f872b82559359613da7ed1ac8560865315c43dc6e026ee3f53e70e120af36ab",
+"lib/util.js":"a235ef6f1ced7cfdad65fd1b3995745112b5ffd5e8ea57f08ee81b70642d61f8",
+"tests/stringtabler.js":"7450b683096c48025055ee54cc79bf6c2d2670e44d2abf3b85025bdc3c20f567",
+"tests/tabler.js":"7a44954a7b1f5db4d7a3bc929836c76c8226ccd9292e63f5e1d2d94cf6ea6d01"
+}

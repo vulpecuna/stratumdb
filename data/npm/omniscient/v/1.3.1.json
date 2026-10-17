@@ -1,0 +1,8 @@
+{
+"component.js":"d68fe7acb77e044112824b10796da1d49c11c9301af21766b4a4619137e030be",
+"example-jsx/example-jsx.js":"0d633d1361d8601ab76ed2ced15d3c5b9490e8e88c5f96831d4943ed9b45fb8f",
+"example/example.js":"b9041789790df45f621ce3c7e74f9f29acc8f65342e125c1bbe27fa546358925",
+"tests/component-test.js":"bc6bb96a7e92b11862d37fb47ae262f1608c26fadd5b6a9e195de2acb5fbf223",
+"tests/integration-test.js":"2be7b53655cf8fc9ac162fca60aaac9fce40c1d5b40928c792503419257798d3",
+"tests/shouldComponentUpdate-test.js":"c415e6c99a84984bc8bc3f8ae467efd5fd289f9f2c85f30f6bd9eb97e04d7213"
+}

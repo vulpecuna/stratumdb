@@ -1,0 +1,12 @@
+{
+"build/lib/Autocomplete.js":"b7255cf94a6266f3c62143adeba4559bb59461f829ea773d379557b96041d175",
+"build/lib/index.js":"4d8f514cb030eea4427e5469283057f84454177494a5c332a23b1ba5dfaad9ef",
+"build/lib/utils.js":"557b93692fd34a4597ffc168e96a40f521083d372715b4ccd1606f8c3be35b6f",
+"dist/react-autocomplete.js":"6db29884fcdc4ecbc269039b3f5a7f73114ce8db2e734a1a40b0d2e2f074a0c5",
+"dist/react-autocomplete.js.map":"1a0228df40ae4fe140299488ad259f6469eb08d1d78704722d4160030df0e314",
+"dist/react-autocomplete.min.js":"0ff9c1e010a05d08e2b0186be98b8f788621db514a6f7489fc4634111725e873",
+"dist/react-autocomplete.min.js.map":"513a2a6c50a690dd7245c78875ee2ef8492759631a44cd18fd8552a7ee2c8f5c",
+"lib/Autocomplete.js":"08a05dca3377823828679f36470e4968873714fd9801044edcf342d40f5b0e85",
+"lib/index.js":"a4e33a0a0a55bc52879a8da2591118e0ec3760ea8a981302a5e2f968d045cf9a",
+"lib/utils.js":"68a64954e36f23a050e22dd84465ee4e71e3ce89c5fb983875b49aaf2b4f38ec"
+}

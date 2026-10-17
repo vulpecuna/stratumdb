@@ -1,0 +1,22 @@
+{
+".ignore/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/base.css":"d3118cfa2ceae6f6c270b0555e98e633815bcc99cbef73a366299d830102c44f",
+".ignore/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+".ignore/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+".ignore/coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/lcov-report/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+".ignore/coverage/server.coverage.js":"b705aad5b498982deb59f41de0e260e7219ab1fd9accadf52585e10b4eb4df87",
+".ignore/sandbox/css/styles.css":"3baf5450e8531de1e8e0793b0effcb865d9f115c92299ac8939e773ed1c0a5df",
+".ignore/sandbox/js/scrollreveal.js":"bf160a874156c1088ad579368be6d3bab5b7f83526f5723d6371baaf74d3ef38",
+".ignore/sandbox/rollup.conf.sandbox.js":"2c8e2c5dda7f88be7e6321b70f0f1e700a515c9239ed78b679a5f07f35559c8d",
+".ignore/sandbox/server.sandbox.js":"177adb4c170eb07b92d06eca3d60f0cc9d12be12c15902b6b570cb31a87b0a1f",
+"dist/scrollreveal.js":"01dd1f86d4757be21ff61c3232ff24b82689852cef2ce3f8011fbe50ee90bb02",
+"dist/scrollreveal.min.js":"55b4e86e5b14ffd9278d325f6a19d13a8a6a65b6d1500031f3100e530bba2853",
+"gulpfile.js":"0fc8d82a032c3f17304552cc98a8c81f9703462372fbfaebaba800fbb70a1438",
+"lib/gulp/gulp-clean.js":"0684d63d52a8626bf16a0e513de354745ff4fcef2cde792f59fd05783839d909",
+"lib/gulp/gulp-dev.js":"36be2ff5e33c69adb44bbcb9ad0eaab0f8a6a352fddd9623fef39c84041a426f",
+"lib/gulp/gulp-dist-min.js":"894bb4e6b970a3699ea7ab94975f66dc127361b7dfdb8efadd7e0871d49b223a",
+"lib/gulp/gulp-dist.js":"f2a962b1af7bd68039b8e5cf475c06b80ba54e728ffec9dabc49d7ff4f8417c3",
+"lib/gulp/gulp-server.js":"61ce6e41121fbd7837b565b45a4163e33888749b44413d194a682eaac8a213b2",
+"lib/gulp/gulp-validate-bower.js":"d826da0957fd4b8453221edcc9a428d094d788be573de5bce92081a12aa2197f",
+"lib/gulp/gulp-watch.js":"dc10d2e141c2e54b346d046d67af9f18934282e0c43c18bfed0cf5ec4cfddd6d",
+"src/scrollreveal.js":"01dd1f86d4757be21ff61c3232ff24b82689852cef2ce3f8011fbe50ee90bb02"
+}

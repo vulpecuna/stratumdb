@@ -1,0 +1,10 @@
+{
+"dist/strophe.js":"8f82b478680e7862aeb204ce8d6227b5faa154c670d421a0b15f108eecd3ffbe",
+"src/bosh.js":"de7b5ee5fe3ae6c3e81d843e3905da97a7b19bbe2f39cd4cbbaea65cedd33426",
+"src/core.js":"a8816adc4bb4146642168b2a62f1bfd013b4ba790eb267683f5b48c640543d41",
+"src/md5.js":"df4328ef96916cab87af4218eefd0d28f5d8364872acbaa3350bcfbad05eccac",
+"src/sha1.js":"1ea4c73783984d2efdcfcdb9e6ea245123556318900ce7db9c0fd926b5004a92",
+"src/strophe.js":"450ffb0558b3315b277c82bfbf5917774d35a0f7baad2f37a77c9a0110dbb900",
+"src/utils.js":"80c2934dcbed829b7215729f3e4fc79f110e1bc3ac9283be0132b40aefe41b7f",
+"src/websocket.js":"5230bea14104e96dba397706e0d37972b076a02ee154a34668aec40e6348beb9"
+}

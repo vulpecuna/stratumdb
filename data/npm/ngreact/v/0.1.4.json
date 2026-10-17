@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"3851d80a1dd0ee78fee306ef295136f1016c75476f98e13b2b2383bf2fad37c2",
+"examples/hello-controller-as/app.js":"5e9204d6c4f0b52527d2ab93fa5661d282b0011aa851043970bbbb09868eb12c",
+"examples/hello/app.js":"ac3a2055a399f7d9354a077f3dcc8cb51440805cf96a7b571e702463879505cf",
+"examples/jsx-transformer/app.js":"858b1001163aa00d8c2ee1e5c6e8450337cb1a09f2d8a8e5e758b8f43796ba28",
+"examples/table/app.js":"66c1fb3f214085f65e680a3ee75bf94a304349d28b676832d3d132964c36c2a2",
+"examples/use-filter/app.js":"e9e49a25596f9313c958beae61f88a4e6eae743f7244ec872e2dce8286d3fd56",
+"karma.config.js":"bf74bb41d75fe390cb018f0c3cc9d0c672f1ea97288ae1502aef4845d1b0d888",
+"ngReact.js":"be9a11ffa97d9ffc40ce13636cdaaebfa02c559a9404634d0a9df6147f8700d6",
+"ngReact.min.js":"69009d9806352f4e83d920825f8ebc1ad3d4a973660a8fbeb3c4b48b95bb196b",
+"tests/react-component-spec.js":"0737810c69452c7789eb072f074a9b859040ba36f1d6d80eee7a141eeb5f45be",
+"tests/react-directive-spec.js":"785c328062ce5f3ce949673388d0be60581236e47ec50a3a5399cdacb080da2f"
+}

@@ -1,0 +1,17 @@
+{
+"dist/sentinel.js":"74a013fa8719c50f991d464ffe242fe68d6a0b9847cf9c555835c6214e77f1cd",
+"dist/sentinel.min.js":"4bcaf1d3a9fcb92a090a64dd565c5d30df31faf0d8a02fbefacb16bc48f833ab",
+"dist/sentinel.umd.js":"b55e5ceebde4cf10e4c86cd6b473300fa977fde3d3098772f50ce6e9ddca0061",
+"examples/assets/sentineljs/sentinel.js":"74a013fa8719c50f991d464ffe242fe68d6a0b9847cf9c555835c6214e77f1cd",
+"examples/assets/sentineljs/sentinel.min.js":"4bcaf1d3a9fcb92a090a64dd565c5d30df31faf0d8a02fbefacb16bc48f833ab",
+"gulpfile.js":"4db914f091cad09be9983aae1568c18022e8e9864acebece7156837c1b4a6697",
+"src/sentinel.js":"ae74405cf7012245d984047521031eb9c626c57df1b3a1eba51884e3f7944f02",
+"test/assets/sentineljs/sentinel.js":"74a013fa8719c50f991d464ffe242fe68d6a0b9847cf9c555835c6214e77f1cd",
+"test/assets/sentineljs/sentinel.min.js":"4bcaf1d3a9fcb92a090a64dd565c5d30df31faf0d8a02fbefacb16bc48f833ab",
+"test/tests.js":"02ffe8bacf0cb7b94a899b6a72fa99756921ca32cc49ebb378a6412eb0df1c13",
+"test/vendor/chai-3.2.0.js":"cce3d9bde827a03a130937feca94bb3e288eb96c5f8242323863b01b700d06cf",
+"test/vendor/mocha-2.2.5/mocha.css":"6bb2a46eabcef2d53ce2505d6a6e0ea4540e58d918bc5ae183221a43937f7c69",
+"test/vendor/mocha-2.2.5/mocha.js":"a6b2a02aca2f35fe687c976e68d7ca9219b7e41270674e77522d7c7af6a530a4",
+"umd-templates/UMD.js":"27f1ae621707392d16a323377c2916857e7165b070d18c0aea1a9b0b6a9f040e",
+"umd-templates/web.js":"1ade0e874261cb01a9e50b0f2d7043429979552e330f3db8b654d4f9c47fba42"
+}

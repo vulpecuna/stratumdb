@@ -1,0 +1,10 @@
+{
+"dist/index.cjs":"5ed6461488a5404437c52f76b522f9e35a490bafde70499908aa6fcecb05e06e",
+"dist/index.mjs":"c378a9d2954db9d953b50dc59da01c08a5b75b43b111b0d8dec0d37016f08bd1",
+"dist/index.mjs.map":"a63015fa56541e84de82dba8fb681e55f51b7380f0ed85bb2bb6bc24fa3068fc",
+"dist/simplebar.cjs":"9cf9861aea2c311bb587d5dfe53a4f5148f32506802175d48b7ad6c97c939924",
+"dist/simplebar.css":"85504bc8ec59b56c04d0e2c132958b2f05c5830405b02ebf2ddb01c2c862cc97",
+"dist/simplebar.js":"3080c76a82abf36dd53ddb6543aaf331ebacf329e7dd997cc40d78e32e3d416b",
+"dist/simplebar.min.css":"a6517015fff71247cb4153b595f2ec804f9ef793e2b52122315f648d4104fa48",
+"dist/simplebar.min.js":"42e49a753413585194a9bc59363d5fc1f10e96efed3f8c11368865e4cfbcd58b"
+}

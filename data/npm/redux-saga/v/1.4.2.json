@@ -1,0 +1,9 @@
+{
+"dist/redux-saga.cjs.default.js":"623a32c876afffe8c5c57fa9a8f8529ed504707a96095944fdd65ad49793cb72",
+"dist/redux-saga.cjs.js":"edc310839827a59faef781a79ee6b4f735eed5912a1cc6f33c97d3e55d8ab320",
+"dist/redux-saga.cjs.mjs":"6628be5a91edb4a41e5efdec99cc315f028ba872ca5e5e9b8b7e7fd2807ef37a",
+"dist/redux-saga.esm.js":"73d2f17343e1a963bdd18e19a03019d7b4f3c0e9e83604cb6983ee18ed71c028",
+"effects/dist/redux-saga-effects.cjs.js":"0a91e376a37d2028cc026219698c5f1e2b4f9c371346db6407bbf8a78ca157b0",
+"effects/dist/redux-saga-effects.cjs.mjs":"b7e134ed27f1b000b57740c145758dfc5711a3c9f7cd012865c3dedad7d13bcc",
+"effects/dist/redux-saga-effects.esm.js":"45758d24fc71a618e35eb135c27fdf33d6878628bddc6dc958d3ab2f9236c8d9"
+}

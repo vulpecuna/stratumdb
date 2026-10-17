@@ -1,0 +1,11 @@
+{
+"build/output/playcanvas.dbg.js":"f1c04c9707ceee6c643cdc8ec2aff7ed9a1d2cd006b2733e23047a09e0fb479a",
+"build/output/playcanvas.js":"ea0503695d52ec39550f5d9fa4871fc5ff3c04f086180752a4c2b8924dd8ffc9",
+"build/output/playcanvas.min.js":"ea5a60585db67e66d3891aa5479adf5dd47d2fb019bdc59d6e3eeaf22c44392c",
+"build/output/playcanvas.prf.js":"d2b31e51bffa52001b9b45205b9fe8f2b2b66705674db0b93fa38a096798c6dd",
+"tools/glb-viewer/src/controls.js":"fb8b23a34d871636961b091e98c71267f775dd94b20d8d2aa615ce17af2dfab4",
+"tools/glb-viewer/src/debug.js":"8b006d9da5876a19eb3d8cd5993b90dceee06d9238d58bab8bcb164700731a75",
+"tools/glb-viewer/src/graph.js":"14c93ab0e28c84e4b661387a3e6e9cc1146579e95829687efd66bcb7bb736424",
+"tools/glb-viewer/src/viewer.js":"345dfc86336a5aedab533745316f8dd44da28d83571059ee35b653c6c1b39344",
+"tools/glb-viewer/style.css":"a058c233e74b52baad091c199be42d2dc136d0644fa083ba747df8b5da61c385"
+}

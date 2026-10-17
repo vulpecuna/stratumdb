@@ -1,0 +1,7 @@
+{
+"dist/page-accelerator.min.js":"a378083649451ab7c069aff6d8611ca0e851b3602a7decd17f7084d3f8927262",
+"src/ajax.js":"10fd7162596b19c6450ccd0d4da16dcc916cdf01c704b8748b9b3d04aab99f65",
+"src/page-accelerator.js":"da7d9486a16ac8d00645d191d944e120ae40043a984f165b5d07c952021f71eb",
+"test/spec-commonjs.js":"83aa1bfdf1d11f50479f56dcff4b04168126da4e57b8b57656ba81c85ef59a2e",
+"test/spec-default.js":"f8ff1535a60d8a912d8ba6c6baaa31d2054b4281526f5e5ef48a4ad96cb052eb"
+}

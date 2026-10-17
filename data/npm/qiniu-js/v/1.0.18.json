@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"67134600101420f4160f1d51d96183c8998ffa3714a4990945e9ba88156fe37a",
+"demo/scripts/formdata.js":"7f6f44ab4b53702fdd81382be082836db6e7460caf6d3ecb5aadae95da9a085d",
+"demo/scripts/highlight.js":"fa280260a44bfcf96f191bcae6e18e0de926b4b5f12ed4e19f787fb7c8796135",
+"demo/scripts/main.js":"6bd941a75e5fe9ed2d9358656125417afae279e1405d467b674a1286a2d001da",
+"demo/scripts/multiple.js":"5d46db0feadfb31a07c767c1b7ae2bd882f93525e5bcc2258d5a1659e61264ec",
+"demo/scripts/ui.js":"31afc2f2160091baea38ee306d03c4540b303a0dae6623ae81a18b6812a74426",
+"demo/server.js":"75b2af3b2950d2acf547829c9608a4daa343bface977cd1dbc76409270375c3c",
+"demo/styles/formdata.css":"451c4f2998824bcea4ddeb6f888dbad3371f90efea1fa18bb049715ba03f5f16",
+"demo/styles/highlight.css":"67de212c08f5653642b21f3e33405d9a6917011f73ada3d0e4c7192e1fb4e166",
+"demo/styles/main.css":"3bd1f66327736a4df672206ce13276b1a20eb332825ebae1f2813a26613de672",
+"dist/qiniu.js":"c851cc3d1042a751bbfabdf8dc8376574c317e875806512b27b97f8bf973f3eb",
+"dist/qiniu.min.js":"cd8aad22ce42485a9fbac133f761ef47eb90308cdc5015cfe3e8a698f7989459",
+"dist/qiniu.min.map":"d6c9cbc5943c709f46979053db62f5e16f33d309680dce3877586fabccf745c2",
+"src/qiniu.js":"6dea8c38701e960d78601339a7ddce2af4df2e29837d6b8838255a23a5dba109"
+}

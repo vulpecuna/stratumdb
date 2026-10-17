@@ -1,0 +1,11 @@
+{
+"make/tests.js":"48ea1d80e827f17e7ad4e43ca265ff52633b8a9688fdf1da0541a5e7763a850f",
+"reqwest.js":"51ca66dce13a6d4b17fd4463c29f8dddd7274cb5e2f5defdac20943ec2cc93c8",
+"reqwest.min.js":"3ab7cbe71278dfd2669a48ef19626d4b0c44c97cfc65ee7d46e08acacc8781c9",
+"src/copyright.js":"d05b0e5c68e0170bd40c0d8e7761bf292dae07fc100f064ed0b3e8ce7cca3f35",
+"src/ender.js":"921438590bbd5edd72004e7549cbed9af0d79d3be6afcabfcfd2b0a9d17adf6e",
+"src/reqwest.js":"40fc9abc1c379a19706c4dfa6a0ae892decd68d5f53471aba932df375febc5c1",
+"tests/ender.js":"08bbccaf9bac10e93507b39f5ec5e52e2d231f8293b5b5dc6d6e59a8209b2456",
+"tests/fixtures/fixtures.js":"e939fba1a3a91542b7f42ae77552e84d77116b0da339adda18e3ccb39a34b9e7",
+"tests/tests.js":"e90709bc5bab5c6f1a7be6b91935433cbde1b0d8cfa1a55bc6de4800739e0b8c"
+}

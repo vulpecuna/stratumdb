@@ -1,0 +1,14 @@
+{
+"dist/openplayer.css":"20594f2c3776211296d54240091614e0422050d36d3997e57a00f35220efb969",
+"dist/openplayer.js":"18dd3f3dbbf97509a4f0d1306802e87d4c8d4f8c16b454fbb36a6eee37705e05",
+"dist/openplayer.min.css":"434aa5919a94509244c09b309804929673bc05e24b6ed208512a722ecedfd352",
+"dist/openplayer.min.js":"e2d820ec8914399c51d9b8f6541a305e0a7e7a3add053b37e1d67945de7a4388",
+"docs/assets/css/main.css":"12575cdadab6bb7c08c556a8312333a5e14a03bbd95fbcfd4ca0dbadcee3efcd",
+"docs/assets/css/main.css.map":"bcb3d72e1281b455937f84e882648c3513543fc7948895e65196d9bbecc27b13",
+"docs/assets/js/main.js":"01bfe55053293a80aafd91c452bd313a83889b1447e3171ddf2d73c746c46d37",
+"docs/assets/js/search.js":"1f586bd05479f19f5527429425726ccdd6ba8d733ab33c02d1258a3594a2a79e",
+"karma.conf.js":"f8b2b748981ea9201b3f60e24cf0c6d6f12205dcbfa00ad3f58d63928b14d250",
+"src/css/player.css":"cf4d0832c135cf484f8aea9bc1348df6118ca039cb48c159c0247c038f5b3f45",
+"test/index.js":"f3fdb16d2e74d7f7dfd5f67865ca938d0930fc23cf9b3ce15de1f70bb400a086",
+"webpack.config.js":"fec6fa22f002f63a42aaafce4f331538e37af92b21987a64159b3f8588021dd2"
+}

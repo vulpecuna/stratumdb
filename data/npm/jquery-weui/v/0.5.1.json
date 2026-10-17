@@ -1,0 +1,12 @@
+{
+"demos/css/demos.css":"bd0d78b40ec356149bb85330563100ca649c5891548a163818ddfc760587224a",
+"dist/css/jquery-weui.css":"4728ccc7470f3ec1af710d103ba0dd179508ad533c9e589be4ec9f2f641948f3",
+"dist/demos/css/demos.css":"bd0d78b40ec356149bb85330563100ca649c5891548a163818ddfc760587224a",
+"dist/js/city-picker.js":"34c11a7028c0a7b88d20a7bea1187ed16b56080e3dbe0a8641a559bbd12940a3",
+"dist/js/jquery-weui.js":"66b3ff518fac4cdbf906f7491c49d7015ae697883ee18d8ad16277d860e887ac",
+"dist/js/swiper.js":"fae64ddeea098b8a8cf3a4be05c1aa2ae2b76afd47e93dc6207ef1216465503a",
+"dist/lib/jquery-2.1.4.js":"b2215cce5830e2350b9d420271d9bd82340f664c3f60f0ea850f7e9c0392704e",
+"dist/lib/weui.css":"93da19c12edd4d438d9bdc5cbad9b8b5cc9e550430156f006841eb43619a1dcb",
+"dist/lib/weui.min.css":"74f16d38b4e8bd46bca9d6e11baf6d7e6f4d742af194e2ae8a7689346c066ac7",
+"gulpfile.js":"139a7b633ef1313baa11d8e09fa3b342e590493e92329f407ea044c0fd04d42b"
+}

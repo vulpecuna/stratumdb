@@ -1,0 +1,14 @@
+{
+"examples/requirejs_demo/scripts/main.js":"7bf82c98fcb76cc8b6fa1436293c2065eb35c35dc2bef8e69cef4ed8a7435e13",
+"examples/requirejs_demo/scripts/require.js":"9c5eec6aa8a39e50b938c309a937cb6803ba0a092e8cb1f94eba880b6d19ab3f",
+"jsoneditor-min.css":"998baeb58985b088075988f5a3fca3fea13b8393f8231dbdb5eb624a1b740094",
+"jsoneditor-min.js":"667e5f2d9a073ffc11ec76f6ac52c5bc9ad426c1b4ab7e41f89c276151200578",
+"jsoneditor.css":"b8d25661e9053adec6ba7550599221e5b66928b6a78f98d62bb49d2eb2d828cb",
+"jsoneditor.js":"d1035f15cfa354548e114dcd80128b426a2bd43978ba3d58d3f9a00f005ae00a",
+"lib/ace/ace.js":"978460f6f9b6d5b5d2a220f949992255ab0e32f69c1b320597175deb74df257c",
+"lib/ace/mode-json.js":"9b575533875ef95c5ee9a91ae0012e355990c8a789264aa80e9579962afbaf8d",
+"lib/ace/theme-jsoneditor.js":"dd41843872a85182f4d61281950a4f4f3965860ae48fdae28b533f0be44caa80",
+"lib/ace/theme-textmate.js":"db4d29f67d105281eeb4963736d659023cccf7cb31446361b081c260bf358e19",
+"lib/ace/worker-json.js":"533f4ac4c633a1dded9b51bbf5e2dd08b2ebe76f56e8a44340203113d5198575",
+"lib/jsonlint/jsonlint.js":"1b39bf4e666af927619ccc41af91885aa303a13eb3e2c49375e93c159b914927"
+}

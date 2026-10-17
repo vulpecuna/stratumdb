@@ -1,0 +1,12 @@
+{
+"dist/react-flip-move.js":"77de7a45e4cf011fbe21bb7bf4948416ccdeccb0989cdad7b3d5b4258ae4f593",
+"dist/react-flip-move.min.js":"b36bc09739e45d0cd4beeebe0abf1ff576b72f57eda40b3e10a401a292d8a626",
+"lib/FlipMove.js":"e5d9a8c277b074cab9434a83538cf1142d48ae2b387caac2e3c4b15921e53282",
+"lib/helpers.js":"8a974d3eba7b3687e2bd3ae6e5817e65527d323ea8a8c8d1fc53b28b22eae86e",
+"lib/index.js":"d9fda5aec9ed8b78df891597d709be2728568ec1a2b02a7c5d52ea903bb373b0",
+"lib/prop-converter.js":"bf5d7d5cd286b7c2a5cd748696b882eecbac1052ad8603a9201243e4cf002ee6",
+"src/FlipMove.js":"0e0ecd8d495142798c9edf80306efad81834b7d4aaab3918a3cbf693ca83cf4c",
+"src/helpers.js":"07ec979074630d815147f0c0c7cd59940a2b9ee22ff2d184d39e5341089f7304",
+"src/index.js":"04af4f962c31008fb5eb7b30c7cf9a688f76d1e39cb5e73c92dfb3ca6a88389a",
+"src/prop-converter.js":"810db11329dfaed22743ffcddbbcfb0de0f33e71a04e641b4fb41ce91af7effd"
+}

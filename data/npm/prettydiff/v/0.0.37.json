@@ -1,0 +1,17 @@
+{
+"api/api.js":"9694550409ea88f06928d65f908b5fc4010a267105514310b9803708c0bcc66c",
+"diffview.css":"ec59ae74b13698a9ddfcd8ca772ce94ee5fc631f53822d3d89c1a4ad6d2baed4",
+"lib/charDecoder.js":"0067be7e19e9e25254cec107f06d1934d117dd32fca8ff4d67b3e79dc08f95c4",
+"lib/cleanCSS.js":"6bd1362d9f083beb6bbe3f7d52dfe34671ce14bce88d3f0cae7c3c551de3583e",
+"lib/csvbeauty.js":"28c730f4b18f134ce254a1d2e59ea68d9ea5643a7b25732ca2587efae86cc2cb",
+"lib/csvmin.js":"5cd51c3d58d2cabd8089e4173a2ac46a23f6be80501010e70da8a35539215acf",
+"lib/diffview.js":"d987cb5ca292b62bccdde35a3b6537e9d0f5b315f33e91e8f8138345f24b4686",
+"lib/fulljsmin.js":"631034aebcce3abe951245f654e6a49df2ca5c95047c8fad9f6c75d9fe7312ea",
+"lib/js-beautify.js":"4cf204fa3eaaf85a9d694bcdc0d76c26507a698f39dcf88125e8a38afb824f67",
+"lib/markup_beauty.js":"c1d86f62d399bfd5ec94f1e828fd923e2b9198a642047de8ee8a6a1d66df3e09",
+"lib/markupmin.js":"53da14ff0c9b0fe855c08dff8625508aa100b6423a5b764ef4e8246caaf3a088",
+"pd-min.js":"b315083c8d403fbfb9190444f406338caad8a0598ccae8c55a9bec033523ceec",
+"pd.js":"caec96f9a01c8c636d10473b67c641557daabb435a44101103344fc24d1d99f4",
+"prettydiff-min.js":"e9c9e61f30243e7bb9daca0afb10ac81744ca77ed1455538fbf88d37f9b5a928",
+"prettydiff.js":"de46de0c8b22c1e12cf0dd7869960c71b2710fed5a4f9d5e46fb4c2eb9694c6d"
+}

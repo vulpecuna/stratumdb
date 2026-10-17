@@ -1,0 +1,15 @@
+{
+"build/ArrayFileReader.js":"9fadc8c28964e3dc0f5012c568ed5ce4c08cf3d6eeaf88d28ffb1a2453e4f2d7",
+"build/ByteArrayUtils.js":"38e2f67c37f4439da041a96b72a21ab6e4bd70214860c3ef3953cd900678c6ea",
+"build/ChunkedFileData.js":"a43ea646d9c156db948b939fe96869e14ad1287e2e401e9656e0c80a59d0bd7f",
+"build/ID3v2FrameReader.js":"e73a55d57953520dc24d21d5bf040950ffed557a441198aa93a20e2ac8cd231b",
+"build/ID3v2TagContents.js":"dba9aee5f39b5a9671ca8a59fb6e42a2ab1fa511ca1f62c45177662f9aef6d98",
+"build/ID3v2TagReader.js":"9c9a308430f63133bffbe37a36a746d086a38e3101c6a0c064df9ad27e283cac",
+"build/MediaFileReader.js":"9f997a2612024a55591ae1f6b7b1215eb7513e7d2db6fd01fdaf4eb5efc17678",
+"build/MediaTagReader.js":"23a26d12de82042126137638f0c0c96465f5d13d76e5f29ed20a4ab84e3e9f4a",
+"build/NodeFileReader.js":"6bcc406e1968460ea1b35c8448d0ad2fb8c860b562e87ecbe4a0f82b17d7435d",
+"build/StringUtils.js":"b20f2f515396fbc29a2c70aa500cd6f6fd610c266c9a558a5a5be96b329f4ee8",
+"build/XhrFileReader.js":"8a5deea43c9560c7dfa0e7a4bd844171de50752867293cdf3530cf0f6d4a03e0",
+"build/jsmediatags.js":"b25c63cb893cc7b867a6cd7bf4c47485f884eb4f0c3f3da3eb82779849b95d1a",
+"index.js":"6310b7264e1c72450ed7b99fb1d8e0ce07463736a1ca147eed19a0e5a403ed2a"
+}

@@ -1,0 +1,13 @@
+{
+"dist/cjs/index.js":"fd737aaad0f87fe9c6ec9ec8974489f40c30f02dffc6bf2a72c8f8e39863a106",
+"dist/cjs/reselect.development.cjs":"ea4105219bf6a332fcd8c11d183cbd1600818dece6ed19e04385c7d6f19d8f5b",
+"dist/cjs/reselect.development.cjs.map":"61d6b20b358aa69355b4fa39ce76e62ff295239aa2ef97c9ca822f62d0ee2b33",
+"dist/cjs/reselect.production.min.cjs":"b4deac2e7e00e37a110ca151c03bd94330403534cb9e4f81b06f9e5ec641ffe9",
+"dist/cjs/reselect.production.min.cjs.map":"a02bee3ce35813a0b3beecb306a034e9c410bc7f7665173d4af484e4536ddac6",
+"dist/reselect.browser.mjs":"939c4dcaff02fc79dbd6227fbfd2a4313e3c96b40fab2967cc3d397ffdf4659c",
+"dist/reselect.browser.mjs.map":"9489df53ef604f619104d764792d9b9a45551b3d18310567aaf923dfd1c57435",
+"dist/reselect.legacy-esm.js":"a399616d8d8f4a6b126f22d2bb25b77ed90d2f6d62515960f09a9340fe83b3a0",
+"dist/reselect.legacy-esm.js.map":"0338451dd46d398c9c98baab5fff72136b8e38c3a1505aa4e846847629fc5648",
+"dist/reselect.mjs":"0da63d82f26c074090064e7e24b6c8b9ace629227d8647233b051fc3848d6f8e",
+"dist/reselect.mjs.map":"86dea6a61d1ce15e72598fa44f8ced4e70ef6cceb7fd2f4048e6f1936dd33ea8"
+}

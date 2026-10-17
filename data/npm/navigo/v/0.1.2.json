@@ -1,0 +1,10 @@
+{
+"example/styles.css":"107ef9213f97d3a9aa82482b56d07a2bedc734ecc0fe25284772fba4d5eb7a87",
+"lib/navigo.js":"ca45c30541066ae9d0bdc274f4782b30b0cd5b2672a402a2d3da0488704e17e7",
+"lib/navigo.js.map":"452e10a8abda7a0abcd4597ce490b20e3333f56bd08b9da19abf5b58fcfcd86b",
+"lib/navigo.min.js":"cfd4437e51d3bb13e0ffa59aacbc7a3586ebbcbd872115c18965fc8c2563c532",
+"lib/navigo.min.js.map":"613f24c66b39b5953d7056e2fcd5aac01f722cae3284a86fd0d63410c4c1a0df",
+"test/Navigo.spec.js":"d564abf3b1c775875180ebb23ebfde6110b86fefc62f0de2c77b79819b4af98d",
+"test/URLParse.spec.js":"88a275716c8cf9b2bed855ba14b94c59cf8ee2198a4486e1465ff1327c40981a",
+"webpack.config.js":"0949df87b50b6ff7b3b0a55b57a5d694ba57ba6b2876fe82e6d8df16165b0205"
+}

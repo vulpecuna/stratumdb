@@ -1,0 +1,12 @@
+{
+"dist/mentio.js":"74617dafce6ea53a5f2c8a6c64c8ca54fa09273f6d748a40c92482c7cebffc70",
+"dist/mentio.min.js":"e8f2962d013c165a22f12429a3d2c4d30e19afde00668cbfcddb58626f00883e",
+"dist/templates.js":"84ec27df7d7becb3b6d60b060e634bbd3cf42d933647f029418ed61cebbd30ba",
+"gulpfile.js":"b7998d19f622e40369ab36a1f19da9ef00ce6ca3a53c4afe70ce0d7d5a8903d0",
+"karma.conf.js":"08d225b104c88557071e04410f25df9ca3ab4d00f8ee327faefa1a7a724ef3f5",
+"ment.io/scripts.js":"4c2fe464be6dafc932e83b758ecf09d1efbc5b2501e8f895193f1b4d648135c1",
+"ment.io/styles.css":"1893344567fa891e6eca60f420b3570f0a537a462a9177eafad059af0a4c9892",
+"src/mentio.directive.js":"bc40296984943824db6edaf1b44af9f10e2442b1ff1d18ae46ee3574bd1f9ece",
+"src/mentio.service.js":"cbffb138f6153d7f6ec28567fe55c9cc0d5e58b90fe8d30604522727a0b910b7",
+"tests/mentio.spec.js":"127c24faa975a0dab19bda0757b2a9be9d72e9d6efedb6b1914395267de0ded2"
+}

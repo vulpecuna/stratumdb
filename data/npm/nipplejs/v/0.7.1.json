@@ -1,0 +1,17 @@
+{
+"bin/bowerSync.js":"c62eb5b5d550f740fe1f8360022716661efa95e4cf601753cd24e11d36a14959",
+"bin/changelog.js":"c7e03b7c91db2d7db786e55bcf34aecb3e89c619bb9756130809e7ac481bb67e",
+"bin/clean.js":"c3a2fb79ce2e3b5fa6ecb4c8b87f361952934980fc4fd878fd7d6d5e5fc170a0",
+"bin/copyToGhPages.js":"020b703822eb8afae51c14cfc7e0f880bfd949c6df504de657653967a5605dd8",
+"bin/copyToTest.js":"0120954e1251f2d5a8ff0686024f75af25ce7136ad6e18a55b113495963c5d47",
+"dist/nipplejs.js":"a8049499a6e74c3f368babd421e11a543022c34c575e4e0c32cfa4a5e2846bd7",
+"dist/nipplejs.min.js":"767b2562013071e81ddee2f65ea5262e7ed967ba93089f2378b82c35dae398ad",
+"src/collection.js":"d570d7d180bccec25402d79868e6632ae1ed2529f410aa539cdc3fc0daf84420",
+"src/end.js":"74bfc44cdd57cfe49cffa88cddf2b4c68aedaccdeac52369308d739af61eaf40",
+"src/manager.js":"4080a3cf48a1e32f057081e89cc796057504ed02c558486e4adcab5a86fa1515",
+"src/nipple.js":"308091df274c10c59bc343096d4136cc93472369c6d67b4bacf8fae6ea373a9a",
+"src/start.js":"cdcc6fb25dc9b2c38f6bcff721035a3478c40f789d35dab67eec80d9e9b67fc5",
+"src/super.js":"6e2706f0dd5ac59b68f49a9583ed44d5c3b1e2034dbb4d752b0ea26f58a71b29",
+"src/utils.js":"da7fb4eb7d3e4ab9d56fa5532b0497fbffd12e1a2e75f2ccd7190492d0546580",
+"test/nipplejs.casper.js":"7e1829c1d4aaa322982a31f826bcd2c1f623a9b8e076e06fcbf2cd607b4d705c"
+}

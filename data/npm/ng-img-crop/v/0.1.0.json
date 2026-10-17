@@ -1,0 +1,15 @@
+{
+"compile/minified/ng-img-crop.css":"4e1bd0c3a09e629e9f1bde4954a15f4babb6028ab3c8c4cfe541a8cd643f873b",
+"compile/minified/ng-img-crop.js":"2edf0e2ee7566e854f315861ed0c8123bc2ca643a11ba85d8db4232a27150dab",
+"compile/unminified/ng-img-crop.css":"30e3d560a68549638b73a0aa34031782898d133b9b05883193a0225bf8b39cb8",
+"compile/unminified/ng-img-crop.js":"8bff2e145cbe73de15d3d22fc7f25b398162a08e06bd2a19574094c194334e22",
+"gulpfile.js":"86f291db65f5f04e5b189df2fcd57c2390c948fad7e0b0b145de4b38405a7285",
+"source/js/classes/crop-area-circle.js":"c9bb685454a1f83b8041bce0299b72d7c208c048dd11951c57db85790de0ea86",
+"source/js/classes/crop-area-square.js":"192fce360bb8211b4a6efe58aefd2811f0c00023eaa3b68a693c0e2dff5d52c7",
+"source/js/classes/crop-area.js":"486a4ffd37af2b264edf00af97a9affeeda401bf1a316000a78ae010f1e95b1b",
+"source/js/classes/crop-canvas.js":"4bfe752ea75f770cacb9fc39714e6d6c66334ec2b4f974650b7f5a8d9bf82868",
+"source/js/classes/crop-host.js":"dfa015ba641a2d7969660f1ecdd169ac6afa826471f2225782cb18a29063a3ff",
+"source/js/classes/crop-pubsub.js":"f29391d711183b0ca8d428590b5ecebe76758d8377ee7a7d71b3c8ae3b8ad573",
+"source/js/init.js":"a005fe815435653e6a0fd9cedb71c76c47cb19cb956d573950703d1935d8e607",
+"source/js/ng-img-crop.js":"f220ff2be75f84a3c869d5b07369c46d84e439e622c93f085372291b8fc625d9"
+}

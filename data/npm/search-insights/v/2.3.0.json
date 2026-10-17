@@ -1,0 +1,9 @@
+{
+"dist/search-insights-browser.cjs.min.js":"20ed9c8033021b1dab1f6aeef33ef56eb15246919d47f39ce8a8c711c44e4e77",
+"dist/search-insights-node.cjs.min.js":"18915767ce81a1db8dc9bd5422cc26faf7867e250451be1dff9b799d6dc54350",
+"dist/search-insights.iife.min.js":"2af89f0dbba97e0de2e46c7a4cb975046753f2373f6e8d6f84deb7db9b04ec6b",
+"dist/search-insights.min.js":"107b3e8b62ee01cc0fe974e8e13f6466bfb6ed1f60a2c9597ad71a4ff3333261",
+"empty-module.cjs.js":"353facf897b2bc449e39351153f63b5e116224699475fdcc263e1ef54c2e4add",
+"index-browser.cjs.js":"e261a49895f25193c46f836fabaa3cc72e1a205697e9eecff1067478bcfdaff1",
+"index-node.cjs.js":"1e9d87c669d4c079577f4f26e35a1f764ab3250978e79560c9141cadf2c0d3bf"
+}

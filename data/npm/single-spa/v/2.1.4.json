@@ -1,0 +1,10 @@
+{
+"lib/jquery-support.js":"c5205300106f19ae79569fc0d38cb3634118c41510c30a87697e6e4076d7f71e",
+"lib/single-spa-child-app-error.js":"703538c9812851a289279866e0dc7258cf3f00f9439bebac11e5f28aa78cf9ed",
+"lib/single-spa.helpers.js":"9c5b54ea08a8b404cc4d0c713f1443e3c028483ce90f5025b7ee3675661e6b40",
+"lib/single-spa.js":"09206abc0b66e2c15f678cb2344b38d5f2dae060d15cab451cb45365f3d5b06a",
+"src/jquery-support.js":"19825e7fd39d40c418fd8505161c432b49570d48e4fa96de27ee16dfac6f2097",
+"src/single-spa-child-app-error.js":"2002f52ee7b70e1ad07c28490fa503c6d6e5fe2af9ef54c8eae07874295f56b5",
+"src/single-spa.helpers.js":"5ac93a5520c5c7a40786557ffbbc73cf15dfe9b89e8e9dc82f29899a7c8c808d",
+"src/single-spa.js":"be1c85ad46de638acff83088d352ca81ba6f1062adec90cb09844a368981ca55"
+}

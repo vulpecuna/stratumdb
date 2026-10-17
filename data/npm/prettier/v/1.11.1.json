@@ -1,0 +1,14 @@
+{
+"bin-prettier.js":"36bf1691b90e3af7828771d760a4b48f473c3b9dc103216a21612767efd0c1fc",
+"index.js":"8c775a1000604e2d8e02fcdd11e06488c48ed64b7d9087f299a7beaebaa5c0f8",
+"parser-babylon.js":"73b557a63261f0151b4c169236426cf8b966cd9148463fa400b5fe916e99a7fb",
+"parser-flow.js":"755ca48990b1025f4bb59b50f1fc2d1af5fd5afb758517bd28e2b515c37cee06",
+"parser-glimmer.js":"9bb5b66d63438ce607f53229a3bd62bb0e87d652859cc86ba89239398b3dca0a",
+"parser-graphql.js":"31e3165856830020460f1df630e7a81ef5403e7719ddb7e318a2b18c13e9445c",
+"parser-markdown.js":"5a374df396a6ac0eb68a9513921cf1a276715eb228eeaccf036a610df8afe791",
+"parser-parse5.js":"803d2e772174ebfbe403dabc2a98dce7204afd63c6e2ed256ebecb7b48abcaac",
+"parser-postcss.js":"dd035656a9575a528f571f1a3815659cf0a6ba76e6872d0951888c89e6969ec9",
+"parser-typescript.js":"ee95380ed319a9c32eaccb16af159c55e91ed83d445a4e8122ab30a81d609736",
+"parser-vue.js":"5ef63cef7affebda0b7eafc615b0b0b09490493796d7709dee65ef10e60a4e00",
+"third-party.js":"8e47d34c73cabbb7e326a2385661b1ea5ee90bfa2e6b3c25974ad8fa9be67b5f"
+}

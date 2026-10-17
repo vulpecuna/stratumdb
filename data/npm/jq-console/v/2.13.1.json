@@ -1,0 +1,12 @@
+{
+"css/ansi.css":"13aab1bb7c48dbf9f551a14e51241d62981b72bfb2edeb08ef6a9dc293fcdf13",
+"externs/jqconsole.ext.js":"46a3d29b67d9acfd0f6db4ed3554f6c915f6d1aed0dd4c7d13a051a4aed6cc92",
+"jqconsole.min.js":"bbc5b76fca65ef22ee397bd587d7fe5be945be47e10d3a129ca7afe1de11313c",
+"karma.conf.js":"dadb175cf281ab4689c28b69c1c0adb608ca2f5e7cd63007a1f52c5aa7fa8001",
+"lib/jqconsole.js":"987b7109911d93ffb0c2c55d7dc64327e13978e0a48a291350978d1346ae656d",
+"test/vendor/assert.js":"140c8d79168222204691a10b702c768c842474eee47d6ee1769a4a6cbdf4e998",
+"test/vendor/coffeescript.js":"5d5fc48ae62e88a350f4bb0da419e491d3077215b743c8d316c586952f5e7ec8",
+"test/vendor/jquery-2.1.0.js":"de0a75f43fb7dcb86204b9c6d91d65efe8e4226d0dd98ff8558484b824581b10",
+"test/vendor/mocha.css":"a4d09606de221640c0cab6169a58043d5e15f8248f1eaf7a8234696e90f8ab49",
+"test/vendor/mocha.js":"9d1ace7d0855928da9d97b5a4697e1ead20bb71656e8d13d339150b903f4bade"
+}

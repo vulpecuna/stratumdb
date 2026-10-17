@@ -1,0 +1,13 @@
+{
+"dist/react-chartjs.js":"447ab7029d0647805f57ba8b368ead2e3981146abb4d0bdba2bce7b24986dd74",
+"dist/react-chartjs.min.js":"0061db8226ab659ba39bd4d92c465420aaad8f1ca46253650d8769e96d9e6ba2",
+"index.js":"af9c15f685c7e59528acc807352b7370e5783c6d32135e231e7165900a5d1246",
+"lib/bar.js":"812c7c1685eadf1e1bc98a8448a3215db669fb3e31da11a1002deb27b048faab",
+"lib/core.js":"6ba11940a7358fdc89ceaab3d8de59e7f16d8bb621573709b01bf8af536e709f",
+"lib/doughnut.js":"aae776759aea28e9a4a5c7c785e30f0ef2f5dade893f2d8dc332d9dbb182bf69",
+"lib/line.js":"e4404eaaded517f79c649a0ab65e340014df7bf7666630897cc0109c104f5b37",
+"lib/pie.js":"ccedd20ffaceaee63770c1b67b1c467f5ae671ae852ad5d5947dde228cf40928",
+"lib/polar-area.js":"19a5f3f764aa738f4ff19712b097416cd5fd17eb34ea2cec5db7d0e1c79f32fd",
+"lib/radar.js":"9b885fbaef08ae596f8831e86b290d54ab4f43c3d150e71bc6adbe74c032ce63",
+"webpack.config.js":"5dd6bcdc5d2cbfb03887c667626cb9086a4ae298311763aa2b39fd8b6db456ce"
+}

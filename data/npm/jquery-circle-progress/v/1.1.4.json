@@ -1,0 +1,7 @@
+{
+"dist/circle-progress.js":"41ccece5e2f9805032029a8bd7abf52964ff3273ead108183e1fa236a972811f",
+"karma-saucelabs.conf.js":"c0d258b75c67793c4239636e0a6b3e4f0c185a58c60ad9f5e55c5c9b42951a48",
+"karma.conf.js":"ba0a2c1d0d0a6c6ab959fdd1273f54a3bf4bc0505d0febe8165d00fb27dca653",
+"tests/test_utils.js":"cd2bec570d1addef6e5126371ced04775ecd2e080f8ba23c3004cc107a289a1d",
+"tests/tests.js":"fac2b0c7b5571248f02f781a3bb3a83def66b1b7fd45ff7f984bfd6f54446807"
+}

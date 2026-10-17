@@ -1,0 +1,8 @@
+{
+"rollup.config.js":"29a3b34935f1a722c1051fd8b4d815bfa02dedb0833404d1d2a146de107f23fd",
+"src/index.js":"820ba9664b04dc31b415ad55f10581cb4c3eba00269064b1d67458243d00fec4",
+"test/errors.js":"12c9844edbc3b05f80b0be4a58988084cd8ec31c627353aca75e7d5d66ac1bbe",
+"test/fixtures/index.js":"74ccaeea7f24c3da27ab122c50ac76ccbf30709d3b87aaa16df2be63c2b95479",
+"test/types.js":"351c7763c2ffd64d46f7e1b181d0d9a080a89e6e7d986345ec2d3b0adc750970",
+"test/unit.js":"9e5ba3dfe48fc7f552baaa77daac9da1c2252067ad7a7ec8335793334dec71ad"
+}

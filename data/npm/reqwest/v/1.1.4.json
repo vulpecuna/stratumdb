@@ -1,0 +1,14 @@
+{
+"make/bump.js":"28721f824a829f3f077b621dca6dd89d9ebd78ec1f168dba124523837cbbdd53",
+"make/tests.js":"ea207bdfc7f817996f0dbcdefa288d10776497cc470889846ca83c8f6d914cc1",
+"phantom.js":"b451f119b6ba372366006f4c6a29a5726fc613e0f62f8cd508637ab3c34e3112",
+"reqwest.js":"c97155f9ecc4cb6ea9cb9ccfb6b1c1c11f5f4e04c5fad5d659ab168fd8d075ad",
+"reqwest.min.js":"47887ac386ee9ad0e6461faad5ffbb697f56bce54c0541e3e94702ba02931645",
+"src/copyright.js":"9c17d5873599d8de2dddae8bcc604acbe3588dfacb19687fc4fa41aa6a89644a",
+"src/ender.js":"49eeebded50403d191f7969d40b203af2daee0a70486ac969c85b9e8c1c713e7",
+"src/reqwest.js":"b00b51673022d4c9a2a01dd0fc7be6ce9bbb619d0ac1b73c69b523ec3fb0c94e",
+"test.js":"d36a555c4c47c72314f9868f23378d91cb92bfda76ea04f31d0859a8898baf4a",
+"tests/ender.js":"08bbccaf9bac10e93507b39f5ec5e52e2d231f8293b5b5dc6d6e59a8209b2456",
+"tests/fixtures/fixtures.js":"e939fba1a3a91542b7f42ae77552e84d77116b0da339adda18e3ccb39a34b9e7",
+"tests/tests.js":"d3fb917ba63a32733281db65d8d369a350bac5e4c4723e7540ed82f96b6f3ed2"
+}

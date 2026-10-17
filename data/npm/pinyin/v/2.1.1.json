@@ -1,0 +1,8 @@
+{
+"src/phonetic-symbol.js":"161778e6cd0bc85b216f713c618e93872cb72931aaae18ae119476036b3db814",
+"src/phrases-dict.js":"f99b096ecab677b74b7fe4c10ead35d14de93520a9ddf0afa425d8f7000379d0",
+"src/pinyin-dict.js":"d2c6bc5f82a5924cc759de27c588a9bf9f26fe5e72803c445fc078e9ae4227bd",
+"src/pinyin.js":"9069d27364da4efe33c6f117a53c91cf32f8bc43128db4b92886f4a36b2fbb93",
+"tests/phrases_test.js":"5515ff7485c37747a1b72c62bda64d1e48fa346ed07859aaf4216fec12ffb602",
+"tests/test.js":"819a053a9771a53bc312feec953c72116a768848082ba34e94e7a6bf1a0897bc"
+}

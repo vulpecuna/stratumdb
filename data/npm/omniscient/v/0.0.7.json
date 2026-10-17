@@ -1,0 +1,15 @@
+{
+"component.js":"93b4fe8cd2353b64c9cd9620291c62dea3baba329d5f7ca4d2168bd709f80bcc",
+"examples/basic/entry.js":"39bb060354867309b56d06efe539b66ceaf33788eb1b497bc418248b5baa1e3f",
+"examples/entry_list/lists.js":"5671af4805126c3007747d18c2699002c8bc62fa3eea5e2c533f8db9ac202bae",
+"examples/inline-edit/editable.js":"b3aec1f0e838df8824bc3ff61ca1179a9f9f8e7798c8222ae54a9e926b172ad7",
+"examples/inline-edit/entry.js":"11fccdeac10df583a6e720afb1c520589f46f519c1357597706806bc304630b8",
+"examples/inline-edit/focusing-input.js":"2e98f434cd91d4acedb409fb00264a1d9f8b0f5caab2bbc9d643d569d198a130",
+"examples/reactions/browser/components/photobooth/image.js":"db3b7dd7b09c29dc20bc4b63c697c1300fc46bc85a4cd8164e4e2dcd87ba68c0",
+"examples/reactions/browser/components/photobooth/index.js":"f5169e23b1efb7b66f9fa88ec673bffbc3be3d8bf62cc8ac2acc963ac29d2832",
+"examples/reactions/browser/lib/camera.js":"fe92f9f80d8c00fbb0a3e6aaeb9529c7c9181fbe10468c67c29ebbfbbcf4b7dc",
+"examples/reactions/browser/lib/preloadImage.js":"eac68f1a2d41f54a31dd89041742a2c78b69bf64b8ef497c329464cb9719fcd2",
+"examples/reactions/browser/lib/randomImage.js":"6a67ef18414df531105b4e1924572eaed9144eff7e4cbe7a948a9946fc81a4e7",
+"examples/reactions/browser/main.js":"a6c66a1138e84c6a9b0936d2096a9a4486c999fc93d34733b620dea8ac5db801",
+"examples/reactions/styles/style.css":"b279136f433b25d39492ea99bdadfb386c9f5be56df508e3ef3d5734f962ab4f"
+}

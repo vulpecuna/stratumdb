@@ -1,0 +1,14 @@
+{
+"config/webpack.config.js":"a444d8e7cbea15d72d2e4c8d08f6718d986587d3e4e39d9ae86626b159b9efc2",
+"dist/search-insights.cjs.min.js":"b05fbd75e76fdcac740a05e5cf45f0d3c9806435e219701ba396b3bb9e34a783",
+"dist/search-insights.min.js":"6215aa5fbcacd5ce5f3cf83be45f4b426c334ca565480cc434f5e003149be0e3",
+"examples/instantsearch/instantsearchExample.js":"89d3ce4308fd68df2bad294fdd99334cc6fd9f9a119e33098453ffa540a7515d",
+"gtm/scripts/build.js":"4cfa0bff1d76f695bdf0e06177974c5e8c9cc399b4ff51a91fb5d5277be1e642",
+"gtm/src/template.js":"49eb3d3dd44b793db1b109b6aeb66505c5310af4a6fa1b863a9806fb01e46335",
+"rollup.config.js":"8c8bf9e1fb98b4a89ece1e0d62ab69b31bfa22fd80567d9d2865d4b593bdcd5b",
+"server/server.js":"7407f5024eb5a7701cd02a96a692a210fdcea67edfbe609c89bf61ade368105b",
+"ship.config.js":"60da1ea0a349ef9e86bfbb31d66ff0cc64e39ac38af6078690f8b0aded8b6319",
+"tests/production/instantsearch.520afa7c1b8ff6566ca9.css":"808d8471f33b6ae1915e026a0d0e81303561b3535f9cfdcbc2348f3a32b85656",
+"tests/production/instantsearch.css":"808d8471f33b6ae1915e026a0d0e81303561b3535f9cfdcbc2348f3a32b85656",
+"tests/production/instantsearch.js":"b4421fc6cc32d672b7dabe66bb19fdd50a5c240b2b0dec3291d467fcb2923499"
+}

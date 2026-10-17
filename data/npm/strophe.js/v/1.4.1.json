@@ -1,0 +1,16 @@
+{
+"dist/strophe.common.js":"650f79b7efe6825b166df0801244264507be9707884866e5aed882c1f32fc150",
+"dist/strophe.esm.js":"dcc089fcd138030d01005fbbede2337b7ad6639642aee5cae28f6fb75f87ee0a",
+"dist/strophe.umd.js":"ce51dcaa34c68f85587b7828e9543aa152915557cd20f753caf8c964e5cd42a8",
+"dist/strophe.umd.min.js":"eb41e911998c441049e907854df7a77d78fb67116f0e39fe09c6419a928e0f71",
+"src/bosh.js":"be727fa7df3316d5a14c1c40dae05616420ff32864dd35b0c4a162427aa6eef9",
+"src/core.js":"92de9ce8e4e830339358b6491470009895bc66bf1c9dd167c38211a881ecc556",
+"src/md5.js":"df4328ef96916cab87af4218eefd0d28f5d8364872acbaa3350bcfbad05eccac",
+"src/sha1.js":"be046c035ced8e44ace03c0b41000c857c2bc6f3fceaf42998729896e9f395a3",
+"src/shared-connection-worker.js":"ff57952559271e04b5be1a01f2d6080acacccbb3907dde74a19298424e844606",
+"src/shims.js":"8523e0bfd3df6e5d62e04970ce39ab783f1f24bb4c2128bc01599d3d2886766d",
+"src/strophe.js":"5beefae4e8a92a56ddc1aa87e9b95cb4bce88032b56225da32047f0124bbbf3e",
+"src/utils.js":"35299e4b3621e66869a494b36f13e45eb393a5d73364d8aa129b7ba22db471c8",
+"src/websocket.js":"f1ae8e69597a2e92ac41a946be05e2316bf6cbb06029c6b71f1a365d3fbfd0c6",
+"src/worker-websocket.js":"1f24f91c109701ecdeada743cace869a7695a73b9ca1e4c9ada4b24c7834858f"
+}

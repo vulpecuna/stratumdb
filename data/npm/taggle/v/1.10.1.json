@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"97f629b331af19e040ae49477e5dd571817c7db854d9d64bf9e770eb750430b8",
+"example/css/projects.min.css":"28a6313aa4c23c1e687b851398eed4665cfec18d8ef323285ed540d72047ee3d",
+"example/css/taggle.css":"f667f0e5d8dc6df68fe0623af688e6c2d6bb763b2516763a7d5c927f0438a112",
+"example/css/taggle.min.css":"006428300b92268dc60759f485959b4c43880822ddbaeff6664724c6ee7e4d00",
+"example/css/twilight.css":"4b0ac58f317a21209342c8237732419a5cada56f1ace6d37aee66db371f4e78e",
+"example/js/jquery-1.10.1.js":"f1f919a6d9767810bcacde20fca3aaed73947938e9491c62d22da5f66ca0d43b",
+"example/js/jquery-ui.js":"3679277f52d43f71877718d642081af762cc75a536fbf824ce82143be81fcb63",
+"example/js/rainbow-custom.min.js":"bbd36ea85aa653ebb26d91a9eba437dd2931ff1bea16fd1c01243eb0fda8fa84",
+"example/js/scripts.js":"9668e85dd2181dd8ac85c8c365ccbc373731eb1cf8333c16f165b96860245493",
+"example/js/taggle.min.js":"de0d6c35f5456e6addb0c76b0a6a3beb798622afdb559d65179e47a7bcbb02d5",
+"karma.conf.js":"e8dc9c36e15c3bf8df50795d49df83b40566a160004bddefd0c9de375d1bbd2d",
+"src/taggle-ie8.js":"ee77f7e82a758b7f474ef5c23893ef219cb6b0b59b73e698d8edd79b9a11ab0a",
+"src/taggle-ie9.js":"e32445794295239625e33d9627c473163012f278eef6a64ef20325ae6769045e",
+"src/taggle.js":"60cd680c4fa3f1a6d988f87cf4c626e5c8a99ec6aa6047086e4775f617178031",
+"test/taggle-test.js":"a41346ec777c8ae81d75d41adbe6cf6b5900b0e4ea0234fdb206ba042b5865ee"
+}

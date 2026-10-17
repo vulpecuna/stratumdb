@@ -1,0 +1,9 @@
+{
+"dist/parchment.js":"74f1ca6c60e4639fd7c76d0a83fa68ad9b16c7c87a8a89ed50bbac5fa113cc93",
+"examples/formats/bold.js":"c22d9c2b81aec670ef661599a9a4c3bfd6efc2c2488b134c1614afb62e602991",
+"examples/formats/color.js":"f6f505ec7b6e787421291c96f46f8821342f4e5b5a61dea43093c9d0f1154a0d",
+"examples/formats/header.js":"2200c5f7ca4202f56362860902dbd99c41398496545e7038afa373fa7114f657",
+"examples/formats/image.js":"e0b0613a6d3f07d75a035cd8c935d53c6743def51932cbcc2dd41d90c677ba72",
+"examples/formats/italic.js":"c5a3caa02dd89a30be6c53acd3722639c1a716860a612a1a23259ff6493f985a",
+"examples/formats/link.js":"19ff732cfabe6b3af942c85a74f01c2c0c5284138ddd13de451bdd626b39431c"
+}

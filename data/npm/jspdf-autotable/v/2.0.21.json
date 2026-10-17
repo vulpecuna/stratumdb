@@ -1,0 +1,15 @@
+{
+"build.js":"00a8e20ccc3ed9c00bb9b7bce4dc7b4722faa4a54578fe14df19691373dffb87",
+"dist/jspdf.plugin.autotable.js":"9c01d9ac61d67a0180b142a22a1589fbe89fdef5507130f22a76956b34c84020",
+"dist/jspdf.plugin.autotable.src.js":"91c60722c325c0b278691953f46d3d5e7b7bdbbda89acccd1f1de7c17a6031cb",
+"examples/examples.js":"2fcef2f32ecd0836618888a05c55376c1ad8960ef712a114b279c533909b89aa",
+"examples/libs/faker.min.js":"fc63e3f68a0084f08fd4d580e2b280056a5be21fd5b64202a877cb50234c36bb",
+"examples/libs/grids-responsive-min.css":"1d956eb8fa1a6ae55667e0f9d19de66bf41ea27faec1f45e9c255a2816ffbeed",
+"examples/libs/jspdf.min.js":"544d6e3a11d0b093c60cc17d22e8809cb318a2bc96583fe6700dccaaccf66568",
+"examples/libs/jspdf.plugin.autotable.src.js":"91c60722c325c0b278691953f46d3d5e7b7bdbbda89acccd1f1de7c17a6031cb",
+"examples/libs/pure-min.css":"00e83aa5f667c4ee219411f6cf6ba69a0746294f1753dba050f93259a48c2747",
+"src/common.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"src/config.js":"a427efcb4bf00da1a87e353419ac2fd1a99aa6731ab1d1d3f7e6fd3c0809915f",
+"src/main.js":"c512e9884b60b97dc632e8c491afe357b826bb9baddb18d10fcf08340409be43",
+"src/models.js":"8431a0ce0eca3bcf6e44f71d040487bee4f8cc4fc6417db7333b747fd28b9e9d"
+}

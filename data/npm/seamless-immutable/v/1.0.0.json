@@ -1,0 +1,14 @@
+{
+"seamless-immutable.js":"9755944eb22773c52ca5ced1e095807103815fd559aeb156f831bd116063f2a5",
+"test/Immutable.isImmutable.spec.js":"095823f927a3e77fef8cf381ad2371e076ad867fbaf0e5845fa761a0c7178ce5",
+"test/Immutable.spec.js":"a0350890e90adbc29569924ce145f005d337ab76744c17928bf4140c43f62c3b",
+"test/ImmutableArray.spec.js":"9486623d16765c1c317cf50a8f4f456c313f2e641fda578b5bb5124b5f9a9549",
+"test/ImmutableArray/test-asObject.js":"3953b37f96539779705731d50bc1fd2027a4af939f595db769bb5697854b5843",
+"test/ImmutableArray/test-compat.js":"44809a8acaa2c5cfbc887b092995025ef00f5547d4c0513c8ebebdfd7b31a3f3",
+"test/ImmutableArray/test-flatMap.js":"b415f816e0d3c4e1171bed4ffa3fd2218b58eec46139fb23c19886d307f08731",
+"test/ImmutableObject.spec.js":"c57d086d64d2c9cc5d7c833e2a57f28fda75fd21e817a622965f3bb4e77d6785",
+"test/ImmutableObject/test-compat.js":"5b99e9acb0938eb7e78804e3819a7b520b99b64cba6c6888642dd472af49f737",
+"test/ImmutableObject/test-merge.js":"44c6d31d7ba94f85db580a6bdb08342f95b2fb6dc92fd13c62712068f96c6d46",
+"test/ImmutableObject/test-without.js":"88493f9f0aa9ddf97f38ac102df9a033d25dfd1f901b93ccd402dc6e982a41ad",
+"test/TestUtils.js":"2148a661d325cd990d75b06fe09df897d8c965867be2be3c692e7fd19f99d8dc"
+}

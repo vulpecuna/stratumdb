@@ -1,0 +1,12 @@
+{
+"karma.conf.js":"3f4814accaba2ffc4441ef298dfbdf0ecbca6134c455f5b8446c20a5b28e68de",
+"lib/pusher-angular.js":"1621a2d54fcad21fadb2e9729cc1f4b3d623f3d7b6320007751f9770945bcc24",
+"lib/pusher-angular.min.js":"eb76b6c26550f288b839a606cfc82e938a120a28df46b1109df9d52ff75dd8b8",
+"public/components/angular-mocks/angular-mocks.js":"755ff2f1d103d269577cf9856b33d20a34965dfa26ed41bd9441075427f1cb5e",
+"public/components/angular/angular-csp.css":"ed27ffc9a6f0dcc86abfe8dfe5c5d7698bf2a8cd66127846f604b4bfbb84d86b",
+"public/components/angular/angular.js":"eeab4c246de2c4b3372dcd221830c0c9e36d967f83a5206efb27af5cc8dd88ed",
+"public/components/angular/angular.min.js":"861e5d51a9f90533d2f4883792535a54ae68fc4c637bcba9c49fbac3c46c1382",
+"public/components/angular/angular.min.js.map":"2e752fd68339489e6d22fb00218f5a9e9670a4a6e871b079786c455950d8ae77",
+"tests/specs.js":"0d8919c1fb70cb32f26c89af8958bab40b4a6b66d6844a6c23e3de1be2638ce3",
+"traivs_karma.conf.js":"3ae286c298c4faba01c788d34625f8dc14077426265e7fa019c47abcf6abb6ad"
+}

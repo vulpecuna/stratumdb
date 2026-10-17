@@ -1,0 +1,14 @@
+{
+"dist/browser/pangu.js":"7e38381262e25d9fd3de76b044093ca2f2763dcbcc449bb98d71b065904c4450",
+"dist/browser/pangu.js.map":"87173a5b452ff35788149fc2c316b03418c058cd0d75590075f38b8958f7f3a9",
+"dist/browser/pangu.umd.js":"68bfd0c7a09ac3089b2126f3c00bee9f56f4f41c65496d4b518da3ff262e1f0b",
+"dist/browser/pangu.umd.js.map":"56e990470fcf64d3c5cf1ac80f046cb95c82485e8828e373d666a3b1bbcf467b",
+"dist/node/cli.js":"bf949690d2c8d10c5a5fde1580152cca5a3c530f52d3c8dd8523b45b1058f900",
+"dist/node/cli.js.map":"20df1e7a8a7fbc40896350e07cbb22d689f15c4f0af6342e69d4deddc2a7d524",
+"dist/node/index.cjs":"f93fb1385932db3baa367c609a530caa99a18cf647c3358b10d1f8089404a61e",
+"dist/node/index.cjs.map":"900c89cb5f68c160666e89b391a78cce6af0ccdf9a02991446e610e9fe9e40a4",
+"dist/node/index.js":"f48288b3074d46d22fdeef6d838d1bfc8f955c000c55bdc8f9d13a519bffe03f",
+"dist/node/index.js.map":"b3783192787eefcde0826bc1de791945e1a01f3474d0f0e5544876c09d3bbccf",
+"dist/shared/index.js":"e00c04dab155964d2d27db24684c7b7b04d6385a4ddda44b11535e095a6460bf",
+"dist/shared/index.js.map":"4bc69fe12af44538497cdf7bd0145452209019c094f5b1bcb67092c9b477dc9b"
+}

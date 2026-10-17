@@ -1,0 +1,10 @@
+{
+"dist/css/nanogallery2.min.css":"06522b575f9f5bf40fa50a12145a2f240377e46c6a0122dc23176ed1229b9f19",
+"dist/jquery.nanogallery2.js":"61f11a67a1c8b738ab701d4ec8d53f9ae5080c24a4276cc258e260e9180618b4",
+"dist/jquery.nanogallery2.min.js":"177ac0c96d019ef788c39bab7ef699a476041ba823d98b45c572ee282845a05c",
+"gruntfile.js":"cbfc060d697303b65dc7e530611bee644d41eea68780e29829da2410bdbf598c",
+"src/css/nanogallery2.css":"43fe1e7ae45d35a21b6876ae1d30dfd5f7763c653a26d40126e261b379195a2b",
+"src/jquery.nanogallery2.core.js":"1bb87ed1380459d5d7e5b0bdd2670ccfbeac81d8ae058e8252300787a66bbf8b",
+"src/jquery.nanogallery2.data_flickr.js":"32886002aef1fc1a841a4eeca3ee1fa77525dc0bcce2a3d287998cec87fa4ecb",
+"src/jquery.nanogallery2.data_google.js":"4f409e0d3c894dc4fdd6e6e4a22e83730b4c4cc4ae4cd557991cf62a1b9bdd30"
+}

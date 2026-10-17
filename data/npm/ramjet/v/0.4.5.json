@@ -1,0 +1,15 @@
+{
+"dist/ramjet.js":"16dea2f42561ebfb25379a07632fe160e8dfd8a51eda5ba571a739cdc2c16a26",
+"dist/ramjet.min.js":"f9211320090c5e4ebba65d30444e1254d4c5035923e6f162b8553a3736433d85",
+"src/easing.js":"61db831248f02bc726c75134e87c71352b159d3c8215d315b5369212a60afe9b",
+"src/ramjet.js":"453efe6b1d3c6343819988c96b87df00d1b42a269737f32b4812420ca9cc6828",
+"src/transformers/KeyframeTransformer.js":"6ef6e92807cc65bc6d884c8b9bc9b2e9e7ee872fa53e0498eff66616aa5366b4",
+"src/transformers/TimerTransformer.js":"5f46bf68a27b828caed9cf9644052895c71bc8937a6bfdeb7b4ddc2ec086fc66",
+"src/utils/detect.js":"0e5cd2d7466e9b0181708f0c58950a04f9f29df9e6c3a255b52df59e21481723",
+"src/utils/getBorderRadius.js":"c0d77d574316f5723ebc0517a5e94e528b6128507a63c6cc19c521111ceed042",
+"src/utils/getTransform.js":"065435237367649d0f735cac1c144c0205f2e82f1b8ac8162a143caa116bd3e2",
+"src/utils/node.js":"60186451b739ceee716a04ddb96a4d15a5b964e2f3b16c24c433bad8d43c5def",
+"src/utils/rAF.js":"e8a57b87e38116f6f1ceea26c014892578d4a6ac2e453cd606e7c412fe6ebeaf",
+"src/utils/styleKeys.js":"a1524a398df5c2bdb08e6badca2e1b0c40b290a5521310b01971b07c3d85e30b",
+"src/utils/svg.js":"320e347bb7e213fd9dd7d3ac4b85fd8673681a009056c89969c12ac6ddbb6ab6"
+}

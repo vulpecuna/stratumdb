@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"b74f07bb923682a14dfc8eed11af6ca4f87c9ba22277d0b1fb85a52a60446935",
+"assets/css/projects.min.css":"28a6313aa4c23c1e687b851398eed4665cfec18d8ef323285ed540d72047ee3d",
+"assets/css/taggle.css":"8cb1f8d1f2eec6d6b1ae4bcbde51328da8f8abb2b54b3fb3997741cedb4b9170",
+"assets/css/twilight.css":"4b0ac58f317a21209342c8237732419a5cada56f1ace6d37aee66db371f4e78e",
+"assets/js/jquery-1.10.1.js":"f1f919a6d9767810bcacde20fca3aaed73947938e9491c62d22da5f66ca0d43b",
+"assets/js/jquery-ui.js":"3679277f52d43f71877718d642081af762cc75a536fbf824ce82143be81fcb63",
+"assets/js/rainbow-custom.min.js":"bbd36ea85aa653ebb26d91a9eba437dd2931ff1bea16fd1c01243eb0fda8fa84",
+"assets/js/scripts.js":"9668e85dd2181dd8ac85c8c365ccbc373731eb1cf8333c16f165b96860245493",
+"assets/js/taggle.min.js":"62f61ace0548aaffdfbc300082fd2dd8aab1cd66c6ae14b892c243bda39afc19",
+"karma.conf.js":"eaf5995c081a3a0895c9bd71b07c67ce349aada9306b7fdd3a97affe95c94262",
+"src/taggle-ie8.js":"ee77f7e82a758b7f474ef5c23893ef219cb6b0b59b73e698d8edd79b9a11ab0a",
+"src/taggle-ie9.js":"e32445794295239625e33d9627c473163012f278eef6a64ef20325ae6769045e",
+"src/taggle.js":"ced099bc5ec1190134de7bd983c12f3606d4aca806308cf1b899d921860ba345",
+"test/taggle-test.js":"015bd400bdceeed1e353249c268047c7c9e40568d6c60bb49e31f85af9ed178d"
+}

@@ -1,0 +1,9 @@
+{
+"dist/stacktrace-with-promises-and-json-polyfills.js":"88cc99fefd54bac5f237f43369d28117e2f214311a28f0340573836a28f01436",
+"dist/stacktrace-with-promises-and-json-polyfills.min.js":"e11ac41685cf34cf817409b278b6c2ae37e07c61fbd41f6b71dd5ddec95e405d",
+"dist/stacktrace-with-promises-and-json-polyfills.min.js.map":"ab1f2371f45cdbd61d609468fa19fc5de4a2f07721b390fada116e4001a930ea",
+"dist/stacktrace.concat.js":"df8e5ac45bd6a6ad6c7306149dfb0bec06ab02f4a76cd1400047d71743528cfe",
+"dist/stacktrace.min.js":"9dfd3a42d9994d27e945742cee0522570daece1c7334009dbe16b2bd6bb98432",
+"dist/stacktrace.min.js.map":"0ad0c5e89b6b7ef72956d2d044de9cae8cf32d301e78beb4120a7b60e12972bc",
+"stacktrace.js":"5332e66eb132fa9f4919bac1b9246b796bc21c6701735d824c80a3c3598bbc0b"
+}

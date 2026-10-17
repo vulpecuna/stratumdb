@@ -1,0 +1,10 @@
+{
+"dist/pts-bundle.js":"60402c7f0d19c355d50b8406dd23e6abe3555bcc31fdae3a0fe7c1c417121c9c",
+"target/resolution-cache/reports/ivy-report.css":"f9d0c93d169a897cf1a2a72c5060248e59005047550ac5c098d92d4bb2e2de06",
+"target/scala-2.11/pts-fastopt.js":"ef8733ee64205ebb492e983538200f7bf45315c5680065ec70e1cd4152dec648",
+"target/scala-2.11/pts-fastopt.js.map":"d290dc559267b7f859b65d1ee75ab970f70a90f2d897ab8fc81e3b49791b540f",
+"target/scala-2.11/pts-jsdeps.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"target/scala-2.11/pts-jsdeps.min.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"target/scala-2.11/pts-opt.js":"60402c7f0d19c355d50b8406dd23e6abe3555bcc31fdae3a0fe7c1c417121c9c",
+"target/scala-2.11/pts-opt.js.map":"4dee8e4ea33bfc05758a949a944883ebc3b211ff2482efc5d63046d9aa3ca888"
+}

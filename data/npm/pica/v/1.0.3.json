@@ -1,0 +1,9 @@
+{
+"dist/pica.js":"c472d84cecfec13a295f1901c7acf1bf615dcda48ab81772603a75353556dad8",
+"dist/pica.min.js":"028263f1bac8c8a3962bd0383c13949ebaa7a26be6c0bc7b8f762700b2609e72",
+"index.js":"11989b57998e91c441a6c79b0c4464fddeb836b954539fdc0c53c52c8db0950d",
+"lib/pure/resize.js":"f96c1dc506fb1666763ce5614e3365a1e09ff2e064c05e424d2d5b7616e4037c",
+"lib/pure/unsharp.js":"0df385be54576d6e759bcd9ad6b0c361350a96dfea074b4ef5f4199ac8383cb4",
+"lib/resize.js":"f4c1da5146aee60cb3b2d1fdfbf2b949cbc70d647c05261de3a788efbfdba515",
+"lib/resize_worker.js":"a77a817a8cdeb86c34de4740d2af7d07f4f77fed001422e9384885f2eee073df"
+}

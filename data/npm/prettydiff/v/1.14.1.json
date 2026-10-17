@@ -1,0 +1,13 @@
+{
+"api/dom.js":"96c1c4bc1d295596d6ef2e1ee896c8b58d44dc5d3b517c3b5d45308bbc9b8a3c",
+"api/node-local.js":"c0ffd74bf5e45f5850729a802b37bc6dfd66a236e7ba376bcc9556fd75ce63db",
+"diffview.css":"5ef217c8b5a05fef3f3abc3a99214153365a1c37de8ea1650ed85243032f88c6",
+"guide/guide.css":"18e9688109734765a45bbb4f423e40840aa5c6ea73d76e559f81b3fbc649a64d",
+"lib/csspretty.js":"e6a6752d2fab5f1e7e8a2c80fe97a47892c6066c25bfe3b4534be7a07b6679e3",
+"lib/csvpretty.js":"e08f25b10680c2eb3d61cadaafd304da6ac045b57a2e4612e07fda29fa815670",
+"lib/diffview.js":"5bdb830749e3c0193e06d335f19e7c08e8db1d6d0d5e2a04bd64cd27f50e25d3",
+"lib/jspretty.js":"986418087e0bb3361a706bc65ef9b9a1bad991477a2b04473000762b6ab4d805",
+"lib/markuppretty.js":"6e8ca5e93023f3ea0bdad6f226e0c79332f6b9f5b3d31542a0ef138e7868912a",
+"lib/safeSort.js":"c147c388b18d05f541f6bf2c7fc2f52f5c0274dba103bbacfb1c8727d434cb78",
+"prettydiff.js":"c36e6370ebc9fdcde81299937ef9b5b52e0ed0fcec2b83786a2d935c4646e9fd"
+}

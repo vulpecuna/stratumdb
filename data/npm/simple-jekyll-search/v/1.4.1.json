@@ -1,0 +1,12 @@
+{
+"dest/simple-jekyll-search.js":"443e1c5e5a869c00265d29cfed1ce105f35eff846c6ea14c9a004838fb043e81",
+"dest/simple-jekyll-search.min.js":"007065c751c00d30bc89c513f04652aa240455683d9875585ff6d2939a6337c2",
+"src/JSONLoader.js":"aab26183f725edc48f9de193df2054c4cd5879e8b533985e41d22606ba8d2976",
+"src/OptionsValidator.js":"00136363d467eedd616aba89d869445af6df1ee3a0edb1134500b8793a2800be",
+"src/Repository.js":"392dea860babf572c1314d5d00cb28a976d0997a77b1e69fb16dea089bc185f9",
+"src/SearchStrategies/FuzzySearchStrategy.js":"9e12fdd3c67527ceab6630236925688652c728fa6c27a9bdbdfb2e342b481e90",
+"src/SearchStrategies/LiteralSearchStrategy.js":"771fa4bfe688abb255cee376a1bfae3cc91b3801bf6c6d93b9d85fdc8e984302",
+"src/Templater.js":"9b8090d842c78482210f9ed211f6ffb5ec9781f6c6b36a6ab0ecf58d5e0ad74d",
+"src/index.js":"426f658c45a5befb5e1659ec48a52a05b33aa8ddb9520c780455d8b9ed8c657a",
+"src/utils.js":"7f66a90276ec579cb8aa86cc0acd6725669ccd89dcc025a697ae051f9507b719"
+}

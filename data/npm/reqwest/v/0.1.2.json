@@ -1,0 +1,14 @@
+{
+"Makefile.js":"1369bd3057aac5c31da7430a11aaf4c9b2af96a27c20968ad1c2fa9ab41248e0",
+"make/tests.js":"e369be42a57ab5cdfafb9eb4c814098282bc8fad1b478b8e9ae348ed308634a3",
+"reqwest.js":"710880983ded51ebc7fb06af8ff726d7ef06d243a1dee73ef5d3c7b1f518b301",
+"reqwest.min.js":"78c1e11a3e58ee916ef6ecc48ea841f9801eee481f300ac9c40c56dea1be9188",
+"src/copyright.js":"814c6a9de2ff6d9f735ea6954004e8e3ef742b4e0561c8425ab44ca7225dd653",
+"src/ender.js":"482a5988d6c763ae53db512f2c553a75629b5d209dd38e1e87617a9df8c26f61",
+"src/reqwest.js":"75477f8cd85a3342f70621859bf3d7edc7b2379106ffe8ca017f19d8ea499f4a",
+"tests/fixtures/fixtures.js":"e939fba1a3a91542b7f42ae77552e84d77116b0da339adda18e3ccb39a34b9e7",
+"tests/fixtures/fixtures_jsonp.js":"8e82869676e88c9afd74689580ef545fbd31f644a36edc0ae4d57c89e8ea5ca4",
+"tests/fixtures/fixtures_jsonp2.js":"1145d7f696a7268678b6c7e6d9e9fe1c3bb6d0c7cc2bd9c5a634e8131f676434",
+"tests/fixtures/fixtures_jsonp3.js":"d7ccfb2dff36770225098163ad9df7f9b82a61466d0a5c600f411590d33a5e62",
+"tests/tests.js":"29fef7fdfba6544602f699067bada36b5bcd85bce7ad50efbda136899e217913"
+}

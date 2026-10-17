@@ -1,0 +1,11 @@
+{
+"codemirror/codemirror-compressed.js":"6fe3a464027a60914b9f5c4349f668d359482ec54623382cc4e65ed5c1f40113",
+"codemirror/codemirror.css":"17cc7e67789b66fad3e80621758440841680efb5d8a1c1544c603f94c18d5581",
+"codemirror/nomnoml.codemirror-mode.js":"9ddcc06ef1e00793dd1a43533a5d772dc130b06c86f8bc54b5455dd100aa9388",
+"codemirror/solarized.nomnoml.css":"54b5a4487d30f82073fbb1236087d51e4c5052d85700fe917ffc6906cc6a0849",
+"dist/nomnoml-cli.js":"2f85e3fa2a2e0420b613c6400d2a54a55c3bdb57a7ea92b30bba4e5453604432",
+"dist/nomnoml.js":"02663f7c47ba5f9af54ccea6b08cf1b421cfdfa95f65a4e200f09ab83201e328",
+"dist/nomnoml.web.js":"0984c844486c81518ddc736a3fb2ea54428dd6a341177af6300f67f66b1c41a9",
+"dist/webapp.js":"269510ec693f20813daf4fd3e097107cf90b87535a1f6edfa3205b65ae4b0d8b",
+"nomnoml.css":"91c29ca6937f449fa9581eacd91cd45caf3e96ccb8104e020e620984e346937f"
+}

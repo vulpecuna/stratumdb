@@ -1,0 +1,10 @@
+{
+"lib/moment-duration-format.js":"d87f928cb65c4ba276e4adc59fd083ad61250cf258f1d79cb1c69115a0faabda",
+"test/moment-duration-format-tests.js":"ea6a90f5ec923132eac88e458c3795d7d4b2bc11d29dde59628ecec02a67698e",
+"test/vendor/jquery.js":"6f8e4819a94e9a4f5badd37cb6d181bdc9ed6d3b11348b387eee61fdec30b7a2",
+"test/vendor/lodash.js":"d51815f2384142649d86f5ae05efad00cd0134260262ad77ddd9ea86327b8247",
+"test/vendor/moment.js":"7bc577f25e268a7582072b04e0ae008896c428076803bdbedbfcbf7cb4689eb8",
+"test/vendor/qunit.css":"6ddd1e139234537d37cd770edc67dbc1285a93dc6cc75ce9c88a9654a221abf2",
+"test/vendor/qunit.js":"b75117bbb465af224852ce40a489633a1fbbf36db40192a03b64c952fa41a0f1",
+"test/vendor/underscore.js":"0fe389c3359f9160891a7eb2536f0730ab27545d8db3d3e70c6d6c9cc385e0b6"
+}

@@ -1,0 +1,14 @@
+{
+"build/check-bundle-size.js":"aa2604b7ad99f41a437b28c2d0d8e497a79c5d9bb128e9ca54d448949ae0539b",
+"build/release-notes.js":"91818f78d47ee7385d78d6e0b581bfdceb4ba8eaca0f08f0c6a5d7b46f0dfccb",
+"dist/maplibre-gl-csp-worker.js":"32a8f45cf285a8207d3f8ed06159f1abe6740a3693e64749a9e1a3e781d54a08",
+"dist/maplibre-gl-csp-worker.js.map":"3b1a11306050b76aa5a82229f73b7b584c84205a1bc1181e2bb844afec9a837f",
+"dist/maplibre-gl-csp.js":"34a5ef59a210f28301d2a77dd5acd45a2ea16f1eb4a51c7f974d65e4d45a3799",
+"dist/maplibre-gl-csp.js.map":"048bfc1ad54bf11baaf5815e479f0261606278d1159f099c6b995eaf7ce419a7",
+"dist/maplibre-gl-dev.js":"c8c80ee2817840b91823df766290c58fdb97e449de4c3b362ecc3752d157d649",
+"dist/maplibre-gl.css":"5d216becb39cb8484b4c28f1103286616af26e7c6f9846ead6f55e6f368e7464",
+"dist/maplibre-gl.js":"fb0e1e3a3c743c6d0f918ef9f5d8cb641078b05d95a0abb225fb10ebba541989",
+"dist/maplibre-gl.js.map":"d174ffc4e6e95fd763504beb0e23a79603401f4172a838cc55523ee5caf625b6",
+"postinstall.js":"cc5b9e992fd48ca7a30f080af4b01e89a89252679df7f3b42575367c8431ae5a",
+"src/css/maplibre-gl.css":"466efab02becb83a2d7708c214ef035f41d64e8936eda22ed2a7e09e4fe56c9f"
+}

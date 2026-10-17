@@ -1,0 +1,11 @@
+{
+"dist/moveable.cjs.js":"038218d4fd8a358ab5a35f5a90e8739d80c446477605570fa1a35ea048e6c648",
+"dist/moveable.cjs.js.map":"e2415ddd63b362243ce29f0edfde87e600211ffff9801c174e13e032774ffb30",
+"dist/moveable.esm.js":"4e65067e06cb03fc0f0ff4ac6f492dc7ca4f8ddc2e1b3c8032906792b65c6340",
+"dist/moveable.esm.js.map":"1c925b3645962f89aa4a7c6dd875a3008606b57c22641a53a80d2afb38077e1e",
+"dist/moveable.js":"defa34c650c19d4c785fc7fbc7a40e3aa46806f823a4aacca75242a15def1dfa",
+"dist/moveable.js.map":"355c556445afa870098c438e0b9e2772d255121d14787413f231fee15895cc12",
+"dist/moveable.min.js":"5c21316ab66b6b98ffd80fe125a09526161b659c702b74858d22d9819a4e030e",
+"dist/moveable.min.js.map":"64a6a90f894392be5be6678bb09ceebac4874efea600ba1aeb36b65d8d31655e",
+"rollup.config.js":"42ddfa7865eb954ab652c945dc2bcb3c2450a4407b1b080869fe9c0e8118ed29"
+}

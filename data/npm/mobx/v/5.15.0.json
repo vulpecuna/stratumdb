@@ -1,0 +1,8 @@
+{
+"lib/mobx.es6.js":"bea89323e621e1efc9c5db8318563cf2eabca5526fe593c937f03eb01c2ce378",
+"lib/mobx.js":"eace905ec97024358f3f5dc22054ede13ef53c99be1a43f98bef9f1e9ba80d94",
+"lib/mobx.min.js":"d539b977839f34f3aa0dd6bb9d4c664b8a56e0e85083acef7c52a16bdbd2010a",
+"lib/mobx.module.js":"958d0930723e6db3329b3ecc82877c11a486546062c99610cf4356c9439650d5",
+"lib/mobx.umd.js":"b06248069eafab11abbff9a4c35dcacae8004e16555a7a654deaf7d636406904",
+"lib/mobx.umd.min.js":"282d6a80f37df9af6ac1d2330a760af111cab0c804015a385463380232a5bbdc"
+}

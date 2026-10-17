@@ -1,0 +1,15 @@
+{
+"cached.js":"ae9060daf27edc43cd343970a574b337b1aa22c4ca8e2cee79692037db8b1eb2",
+"component.js":"291f1fce932abd96717b97973421051c6054426e998a5b09d570686509f439f3",
+"dist/omniscient.js":"e835baf3017e18f4054187f01633efc826168eaa86da3d9f02025fba0c96fa74",
+"dist/omniscient.min.js":"dfea00e2058f2638adb8deb2c8a89361692e8c4aea351b7c0a192b5ff08a356f",
+"example-jsx/example-jsx.js":"64a14f1abb033b9bccd31ffbe7688e7086a78f456cbc87ab2a7545f674685ab3",
+"example/example.js":"4b4ece1a176f70385b119a9fe6bd85baee99c68cfee39c2198e4bdbe91cbaf1f",
+"makeBundle.js":"7b35cbb1f5e34d292af991db66ae5051e4132dcd286493f25450e850f8e85d26",
+"shouldupdate.js":"e4dfbab6f262748d2622ff97a4becc21d2359cdb46789d4ce27a171abd661cd0",
+"tests/cached-test.js":"b92d2b0ec44eba2edcb535e37d948d1fb2672f3f39c894f3166588a4d00a0a95",
+"tests/component-test.js":"9847f70ddd186216d4ef6d6faa55b4fcc811cecb0ad22b8925e76623749727a3",
+"tests/debug-test.js":"fb432d2a98fe86bcfc8a431cf89636cd05c0e3069be071d9a85ab42d03d270aa",
+"tests/integration-test.js":"23b071a12f2d3af8f6ca52c4f7e8fdbbe88c35a8cecde3f1d6fcfcb11abaf6eb",
+"tests/shouldComponentUpdate-test.js":"7c27478f425c593ab7f866e6d5b1fde882645009f372c2b1191b96873a8297a2"
+}

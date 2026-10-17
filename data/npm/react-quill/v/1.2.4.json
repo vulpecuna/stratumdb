@@ -1,0 +1,13 @@
+{
+"dist/quill.bubble.css":"780d8a9a2015ba9281fe2aac37a245a55dc5d8e27e8b32850538d04d5d0be7e9",
+"dist/quill.core.css":"204f0fd17520136c6661e4bb36d537b2b72b28e2dd996ba1907af87975ee743a",
+"dist/quill.snow.css":"320f50934efbd56e13a4b31e0145eab6dd32df6b61f92c90cc961a51ea06eff4",
+"dist/react-quill.js":"defdfc456cbaaf8b8ee11c1048bfb64c5a0387faa555a9164401647467f9cbf5",
+"dist/react-quill.js.map":"b09bdeb96cdbca9250e06a7628d02b51889cf6f4def38614574f1e162c154d6c",
+"dist/react-quill.min.js":"40325bb2ec9ad695082528680fab99595df3a81b6a8bf11c2dd4046f41f4a0d7",
+"dist/react-quill.min.js.map":"1f8cece6eadc0f9a744471ebc5c9d83804cd25cbb18f6c685b3408f5de080f45",
+"lib/component.js":"a077519fb99ca36ecbddfbfafad101357f1242b9dfe7f33d3e4cf8fbc8c9fe1f",
+"lib/index.js":"a0b7972b59c2845283dd7c477baf554d466326fad9272ee8644ace569e375430",
+"lib/mixin.js":"8227e07e2b46a047e6442867923d695f6575d8cedbaab6730c333c4f3431587e",
+"lib/toolbar.js":"88d7063e26e278a09f5c9e759d732763c36314d5e9b4e25af9d95cbef73ab741"
+}

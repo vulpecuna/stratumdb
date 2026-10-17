@@ -1,0 +1,17 @@
+{
+"__mocks__/react-native.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"custom.js":"1e3fce47782f644042bbd12f2841de9001b63a5e4b1d61c39aca717ec0ece0ed",
+"custom.module.js":"5790b1cdb32cd38c866787c3b91f6efef500d159cfcb74b99b1d467d73d02249",
+"dist/mobx-react.js":"dc132923766f71ad69173bc7d1e7dd657291c15834b20634cd8c2af9489c979d",
+"dist/mobx-react.js.map":"350f4b284a550fcbd0b57e7d8056113da6ac084804802c1502d74913b218fc36",
+"dist/mobx-react.module.js":"fdeadc4ba28a1c24df8cf2be14ec1fe34cdb9334b5b9ea501beb21ec506fda89",
+"dist/mobx-react.module.js.map":"b35cd6732587e4c7653f40705d773e37cc30c45c82e82ddca220a62b9f86b3c7",
+"dist/mobx-react.rn.module.js":"521f2040bbfa505c7d2b1b25468ce19052d6251ceb9702f3fc48174784804991",
+"dist/mobx-react.umd.js":"1e008783bccb33280390ba75c33800f6242840b83f60def842cf1983f86806c9",
+"dist/mobx-react.umd.js.map":"b8e3642309b0a5f02d9691f6b7e9224fe6c72a6a1a09b4e36c7e5cb3c0d238b5",
+"empty.js":"0359eb1d7349cf416de3ed0354fe2966b1b3b2240e65cd3b606a97067a951064",
+"index.js":"722367c0f1b9b18bc536dc3db6d32c65426114ccfcd6d605bc56d827acefb8a9",
+"index.min.js":"4a2cf9b99737ddaaca9f27ab6007a286cc48121019ac94b5b151b1c4a93d868e",
+"index.module.js":"4592fe9ade31f19a217004741f79147e0f116feceaccb232afaf9fa90bcefbf8",
+"native.js":"94342d2e2345fe10d598585063f755da0bb7a3cb03be798b2a9e06bf030db623"
+}

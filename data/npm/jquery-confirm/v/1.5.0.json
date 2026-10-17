@@ -1,0 +1,17 @@
+{
+"css/jquery-confirm.css":"7e78ed37c5eb67e740b41b7b1d7ef8fb23e7052bed50dabcd2606153365ff9ff",
+"demo/demo.min.css":"21dc3129b6f7167cef2d4f96a35cda56bda1276bb21a1d047168697c81367ec4",
+"demo/demo.min.js":"07af5741a97a7563a51e479250f7900f20b264108dd83cadc539b72f284f4a35",
+"demo/libs/bootstrap-theme.min.css":"bd1743bf0d3e2257fa34033d10aa290c8cd3d672f4f5504cc84c0ecfae573414",
+"demo/libs/bootstrap.min.css":"326ffedb17cf069bdc342759a21bf78461179b48fe9047d0e4636e3c6115ad9d",
+"demo/libs/bootstrap.min.js":"36a326c783a12f72498d41fb32371da87fe0cbd1595248f3f154fd939f07f10c",
+"demo/libs/default.min.css":"99b0ac3cd496182b0b5f4c7085cbb5548c95c4c0143898a7be1706b11ca1d1a6",
+"demo/libs/font-awesome.min.css":"50dbecb3ed007ae3c814e0c220f9e9a153d02fbafa3d9465c4b222042976a8ec",
+"demo/libs/highlight.min.js":"a24e4166febb40eac5c2cebb468693c869f7e52213aa0d0058cc009bc750efb5",
+"demo/libs/jquery.min.js":"91222f96f34735ebc88df208017e54d4329b9202e3e52367fb8b149698a1a5ef",
+"demo/libs/pretty.js":"2cfe7c1690fd1938d8f107fe2053addad35af33078c4924453ce082e3dc630bf",
+"dist/jquery-confirm.min.css":"bdde84f51c6a916437a95ea625ec377ccb9042aabe6fb1a6689d4e28c8fbc7e8",
+"dist/jquery-confirm.min.js":"3ff7db2fdd517be288110f1996f2113ca1815e9db0424cc76a3d9459f52cd710",
+"js/jquery-confirm.js":"cc29277e9afbe6bda4339f68f717173b71376313279dec4883c368a62b207b78",
+"js/jquery-confirm.min.js":"3ff7db2fdd517be288110f1996f2113ca1815e9db0424cc76a3d9459f52cd710"
+}

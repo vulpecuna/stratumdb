@@ -1,0 +1,12 @@
+{
+"dist/jsuites.basic.css":"3c3865901eb886630a58e86cf011eff93342d2f1b848b5007008babfce4f723a",
+"dist/jsuites.basic.js":"8b649252b3837bbb7d6502bf8d470612bab6ab525ff345758bbee0b7d5c85921",
+"dist/jsuites.css":"ca4017344dc435ec9c94a958d152a8381ddb78fa90902048f431203d681a847c",
+"dist/jsuites.js":"cb91b6c240f5fffaf491489b3427778eeaad3a51368afa83fb67d889c14c670e",
+"dist/jsuites.layout.css":"597fcc7185187f0b701a589c6c7413bf0377bb564a7625b4db4e32aeae0c83cf",
+"dist/jsuites.layout.js":"e65a0f6890d9f9d2744ec6440e349c2499da26340770e558b25938d006fd0528",
+"dist/jsuites.min.js":"024100bc3fce747b32b7aefc6b771b7c0a1b33fc55e6c25694757639585b34af",
+"dist/jsuites.mobile.css":"f005bc27b31be5441a4cb48844c3ec87bf6a5f2f4e5951e71e493b6315248d7b",
+"dist/jsuites.mobile.js":"3c5c844e160a34be829fbf039959982cf55634904b1b254b23745410eb647305",
+"dist/jsuites.webcomponents.js":"26e18b7ae1cb1250ce60cd3fa164538d3bb1e4a5945ed7e51b613009ed7130d5"
+}

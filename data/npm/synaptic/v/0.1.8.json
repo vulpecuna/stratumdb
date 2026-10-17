@@ -1,0 +1,12 @@
+{
+"dist/synaptic.js":"2b52a54072151d677a3839a86ddd4c13ea92ba224dede874162b90ba0170ad0c",
+"dist/synaptic.min.js":"f4ee795c55c0e3fda7cae0d9b3a541ab067c8385aba7b042ace564dc68ed432d",
+"gulpfile.js":"48765708ea0669b7bb07bb7236326d3e1e37344ffd9d566a5ee2a6c3c4cbd075",
+"src/architect.js":"638c66b28b092e0f72e5bcd0b4d2d89c7b696d99db14fa846d02df2170a282be",
+"src/layer.js":"3c7cdaef2d1cc622bd59f2aa258d7fbf46eda63da48e029cb9230ef28caf97f8",
+"src/network.js":"6f847ec436f746797a26f697fc66908ace648e6a69b9fce0575481ae276c9aa4",
+"src/neuron.js":"b553a31696bc180fe48834cb0f57f158195a07b64389cd67ac6d009982f9e20d",
+"src/synaptic.js":"4f117cd843c87893784dd7a991897ed210b965b355cc4fb5960bcbac2344b902",
+"src/trainer.js":"072854dd3ffdba135eacd1b4005c70a057ff4e8a04eedf5cc64b4bb35e2616a0",
+"test/synaptic.js":"44c59457f9de1daa2e275ee3245cc25d115047c2596074c326ad31ee961ab0d1"
+}

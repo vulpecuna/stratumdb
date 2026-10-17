@@ -1,0 +1,13 @@
+{
+"dist/cjs/index.js":"fd737aaad0f87fe9c6ec9ec8974489f40c30f02dffc6bf2a72c8f8e39863a106",
+"dist/cjs/reselect.development.cjs":"cacf6961a457e63a3398362d4236ea09543782481bd37f5dc701acf1ec30f608",
+"dist/cjs/reselect.development.cjs.map":"985c273ecd1ed1ed3f782db9638286895f60492ba44aab5b90887a3b52b5b9e5",
+"dist/cjs/reselect.production.min.cjs":"22ff12b75e059383563a0b0937bc2eee359e788800342d1f0f1216ad22423178",
+"dist/cjs/reselect.production.min.cjs.map":"827a01302d377acbf15f94bf509ac533098d382aed1eec0f04bbcdfd2d290151",
+"dist/reselect.browser.mjs":"81e30dbba2ad844505d9d9e65893314813d48ae46cbb94bf382ab47c8fb4f3ec",
+"dist/reselect.browser.mjs.map":"368c39715e6263b6c3c3a13e7a90fb7095c527c5f0a88d80aac4af2cc84ceb2c",
+"dist/reselect.legacy-esm.js":"eb5638daa080a053d926864372f40803eb15683fa90c3667e4698d3a54bae901",
+"dist/reselect.legacy-esm.js.map":"5ce4ed724084826dbfca11cb962150e1a986a515c30a46dc49b59a8b92fd8670",
+"dist/reselect.mjs":"ce215e8758151f87b03d651c8ebdd097a8b658ffbe56e0162e0154bd00b92f12",
+"dist/reselect.mjs.map":"b5b1ca238762e3f22d8cc22a94e38c434e95eeaadf7e2ec3a5239cd3a593035f"
+}

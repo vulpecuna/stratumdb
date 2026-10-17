@@ -1,0 +1,11 @@
+{
+"dist/leaflet.contextmenu.css":"1d3fb9ef8e2c4e90f7585468522747b476afa526d1c15d1fff49ae9f12cd2865",
+"dist/leaflet.contextmenu.js":"480df9f9e68929cc35d93566f9dd51ac087c43b8b4c7eeff448112636d6e4685",
+"dist/leaflet.contextmenu.min.css":"fe945399d8290f17eed4ec5bec39cffc34dd038e06fa4de47f4a2d58ff201277",
+"dist/leaflet.contextmenu.min.js":"db9654d0b5d6e7e596931471436a44a12601ce57719674c8209687a7d18d2023",
+"examples/js/angular-leaflet-directive.min.js":"8cb4dd397f0aa2b9e0d2f91daea27d5eae89f83bc7c44f3c5389846393dad6c6",
+"src/Map.ContextMenu.js":"84599fefc9558b6a596abdf41771692d1f90f1d88ea11c647151922a81ef2a1f",
+"src/Mixin.ContextMenu.js":"14fd71abb5bfe37503c10dc1a9bfc648a580ba4bc75eeeb228455ec74ea24552",
+"src/copyright.js":"f40cb568f6524a2b722814a0063edf409581f974b72adef6f21361bf81d89ebc",
+"src/end.js":"ff0c40b6b97a640cab3b67491605c76264e630b33207936deab6d5c69d0be72a"
+}

@@ -1,0 +1,10 @@
+{
+"src/constants.js":"a9e170c24e12e6ae408c91ccd0b202b07b7ad79f3647d3615fa350e509189ac7",
+"src/elements/label.js":"3aa9082d0f8d50d0af0ae48933c078549d59658884a6b1ccc859d02f268cca21",
+"src/index.js":"450bf3efa23da89be430611b352ecc741a3b1367de19f9828b0579bc8b1ceddc",
+"src/utils/props.js":"27c178e43ad7b82e47c4f9a546d05f6251a9875ca8819ec641568de3865367b3",
+"test/elements/test-label.js":"7d1c45aace48abf969f440a805e5d36459957e049903f6ef5870a0e2f609558f",
+"test/helpers.js":"31ce12c570e4d0d5d84df848e3ed890aec2b12e80e7fa9d9b1c6ff06cef8542f",
+"test/setup.js":"d345f150e982b4ef56dec0f7a8e9f27455ff50e44e84e9404eb0ce2c2900138f",
+"test/utils/test-props.js":"352d4886b38a9cdac5548aa9897d642c7e40f9397f3406b1f5ccf81143f954e4"
+}

@@ -1,0 +1,9 @@
+{
+"__tests__/01_basic_spec.js":"1095f80a50ee22017c8c441e2242e697d8e453b163b2828d5c1f4f1d5e207d53",
+"dist/devtools.js":"149f5a39c57bba26f907af1d465c49ffeb6cecb7c896804fb034ec42e7a0d59d",
+"dist/index.js":"de66a18cf42ce10cbec370d5be05a9bd5ffd960f80bb8e5cc76075d167af1c12",
+"examples/01_minimal/main.js":"f6aee82236d5b3ab1a996e10644b4ebdd83d7829058244d8321fe9bd569d2a25",
+"src/devtools.js":"72876a9e957b0f95c7a9593312930fce371f136062641adc08612a1017abddd5",
+"src/index.js":"fe2018be3eb87ba5eb9c878207020de949da93833029bd7fedb1eacdb9812aa1",
+"webpack.config.js":"6c873bb89865274f38dd9d251d866b99a1ca5a2326b3c65d23c0167de38c1755"
+}

@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"a4c6992fc42119d356d72ee3517ff5ae1e5f53e3e7e2cfb6b07eb960981a8583",
+"lib/mock-ajax.js":"65f0b19e0b3de835816642d2a974a3098809fc8c20c807ffcb0c6db9a7787f13",
+"spec/javascripts/fake-xml-http-request-spec.js":"e37000c388ee7e718314f63c3625e3d8b66e22d50b361c7810e3b1a2af2cbc70",
+"spec/javascripts/helpers/spec-helper.js":"e4d42915856dc6b5e64fd66b5b23a0b5c29d8b8564b8ccec58c396510f38b341",
+"spec/javascripts/mock-ajax-spec.js":"dc74ca568622d2be3eede4e8eeca42ff812fd726a8f77aed2352edba649c91e6",
+"spec/javascripts/mock-ajax-toplevel-spec.js":"4cf6d1621f5426d1a16e5003a2133fabf5c48dfd07df0e6550d3c2ec9c5e2709",
+"spec/javascripts/webmock-style-spec.js":"b92d15f551e52404ce880ac87175e1a6be4b791cdecb6b0800616d59ebe4cde9",
+"spec/javascripts/with-mock-spec.js":"ea7d95b41e6b038ca7b724c8c9e225c5cce348d0100a85cd22bc019816e1a468"
+}

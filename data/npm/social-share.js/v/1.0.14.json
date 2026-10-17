@@ -1,0 +1,10 @@
+{
+"dist/css/share.min.css":"d040f0ce78d44c312270eb9984e2f4ddfa5f954ab3864072be1c2897c606929e",
+"dist/js/jquery.share.min.js":"437b08318d082cdbebfb2c46b5f5e63c3b3f694fb3051ea422a461c16128276e",
+"dist/js/social-share.min.js":"099799bb9ed058f5a50631f2c870de5af780abcbbffe30161bf113fd9c99afbd",
+"gulpfile.js":"b7603459f0fc628be886bc6c65ccf7c800b2c9e91cc2caae57cdcd3755b2cb60",
+"src/js/jquery.qrcode.min.js":"21d7a95bb6bc8cf682d51ee38b660fd815f8efef7584604beb9aed4a57b05685",
+"src/js/jquery.share.js":"8ff92ecdcdc2018c4776fe86cd58eaef57ad023560579cd965b27161bcea4235",
+"src/js/qrcode.js":"3ee72de9f69c668f9567363a9358df955960bae9000d9ebd66414670f88e8735",
+"src/js/social-share.js":"9135fa787d78da6d423a10c6f678881adaaa9dc8c4ffcdb668645ac27476757e"
+}

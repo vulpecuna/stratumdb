@@ -1,0 +1,9 @@
+{
+"Gruntfile.js":"de129c8ef15557d17dfd1027633ad20f76e86d25f261f76df9f85c3683332f70",
+"dist/restangular.js":"321ffee7c84536dbefaef0c186d6ab27bb0aab45f6d94988b284ea1ccfd9b924",
+"dist/restangular.min.js":"9e6e003bab57213e44144760b80b182dda61e96bfd3e6b8ea5ad5433619d025d",
+"karma.conf.js":"42a846873343784559a991b5ee307e62a0664e96ae3a25fb7b2c15e588297e88",
+"karma.underscore.conf.js":"1b06602d67a0520f4aa16619326410ad87771fe8a0272c18749c4e4edf106d92",
+"src/restangular.js":"c0c4af91015843eb00e88f17f00c3be42228574401576001dda67299a61c99df",
+"test/restangularSpec.js":"48ddecc279510875ff0844e0b9de3ecf15ddd9314e6ad436d97e7575eae24a9d"
+}

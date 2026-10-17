@@ -1,0 +1,13 @@
+{
+"build/eslint-rules/prefer-type-for-data-shapes.js":"1654b3d622f393d73e200514c23100b788c2e134ad4e4a0055ee7725957e139a",
+"dist/maplibre-gl-dev.mjs":"c468a943228ec57190d1d2be0d00175a2379be9e0d34c6c07559b1f00449ec06",
+"dist/maplibre-gl-dev.mjs.map":"a5fe7e9cc91ae36e61a2eafd41c85071e7f9e03222bdb7e87209b20c2e6661c1",
+"dist/maplibre-gl-worker-dev.mjs":"dfc01349c6f62a2230be74e04d99ac84f9f1637dc7fdbae3a011630d0bb67a7f",
+"dist/maplibre-gl-worker-dev.mjs.map":"21e3252c561b7a1bc11b92a0eaf7f51e3138129a7d3bafebb76a1305e84bfd52",
+"dist/maplibre-gl-worker.mjs":"023086b9afdc40c85b0f993ec8f8277904d93d87e54639c57f086b0496c20edc",
+"dist/maplibre-gl-worker.mjs.map":"2cbc9d3baedfdd07fedfe68e977fff2026cec203ed44521609ef8ae1a81bf53e",
+"dist/maplibre-gl.css":"9467ecb10416776e4ec880d662c20bbc1d1ea4e439ac3aeda45901bdf124b609",
+"dist/maplibre-gl.mjs":"895ecc39f7f24eda7652d927aa55f80ba2ab1bfd54bac9ee571b954fac553f52",
+"dist/maplibre-gl.mjs.map":"ff31dd269c8c6681613d1e98fef62c45417d622ebc57f5ea7e1d1aaf44e7742e",
+"src/css/maplibre-gl.css":"ca6e96bbd887902b32f974ead91d3fe99300df90d815ce2014d371e09732cf8b"
+}

@@ -1,0 +1,16 @@
+{
+"dist/stackblur-es.js":"f0109f2703acff2f0bdb3e01b9a194bd9901f9cf2d1ebf55ec989ebccee45390",
+"dist/stackblur-es.min.js":"87108800d46bb6c9634c643b6b25d2058aef2980d306ccc9134246eb98b32481",
+"dist/stackblur-es.min.js.map":"957833352a02d83e0c137dca76edb5192e76d45021975aa6bb71dbdaa8e456ad",
+"dist/stackblur.js":"b77ad3f8406098504193798117d545762e97833e3dd716dd2af8325e7ef02643",
+"dist/stackblur.min.js":"9d150fbdbaca12233ada644dabaf85a633d5db627604ddc46b4924382ecc0f05",
+"dist/stackblur.min.js.map":"0865cbe624f067f348de3f2b61c51339a314908af5e7f7813b79dff6f56e5253",
+"docs/jsdoc/scripts/linenumber.js":"bcc1057a550d0865cd8fcebc0e7531b76226d25d42ebdfa8cabc11f2314c3787",
+"docs/jsdoc/scripts/prettify/lang-css.js":"9b6ac483033b02572714eb4d37ee199185c41008eb2b3f46a00ab0ebce6a20c5",
+"docs/jsdoc/scripts/prettify/prettify.js":"e2e576e3bc607cd179ff511947010f645d3441a35313aec0dbd06c4437f83b77",
+"docs/jsdoc/styles/jsdoc-default.css":"e7cf07a7bfb043dcd5a54b2573d289ea935668a9649692081db091219eaf465c",
+"docs/jsdoc/styles/prettify-jsdoc.css":"bca3215630ba8c2438924b78cd97f1cf7bd85b34521f684792804e07c74e966c",
+"docs/jsdoc/styles/prettify-tomorrow.css":"cc89c4a9a3301cf1355d13d3aa730fdae64e104605436ce371ab00bf64759d78",
+"rollup.config.js":"11aad998bdd959444d294c2ff471983aa970e8c3841922166a778445aeb2fb79",
+"src/stackblur.js":"64a4adb5fc4d888ef81d400a4392b051696b9101f0c6773144b22d57fbe6ee17"
+}

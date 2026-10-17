@@ -1,0 +1,14 @@
+{
+"dist/strophe.common.js":"6e0a06de91dd65723b23e4fbdcc49dd93768a3395e67b638dbef983775f7d2b0",
+"dist/strophe.esm.js":"3e8820578990c36cc70440ca591426d2db37e72cdfc9b919a666405c8e463fef",
+"dist/strophe.umd.js":"5495213f19c07c291e330efa4851adf1167889a67f9fe7e28fd19def4aac12f8",
+"dist/strophe.umd.min.js":"7ea721c4cb5d5f51302134562b37dc60c2d3660519ae53b804e15dfa8bb3bafe",
+"src/bosh.js":"481d54ff720f148a8552188d7161ec818155036c5f1c4740d303c51c5dd9043b",
+"src/core.js":"ec79eeb1cfdc0f9b89bd1af2a9a709f44e42cc48ea8e8aac0a4d1b05bce0d2ea",
+"src/md5.js":"df4328ef96916cab87af4218eefd0d28f5d8364872acbaa3350bcfbad05eccac",
+"src/sha1.js":"be046c035ced8e44ace03c0b41000c857c2bc6f3fceaf42998729896e9f395a3",
+"src/shims.js":"8523e0bfd3df6e5d62e04970ce39ab783f1f24bb4c2128bc01599d3d2886766d",
+"src/strophe.js":"98394b530ab25326831b224fc7462fbef96003072e4fd5cfa5793a955e17c3e0",
+"src/utils.js":"80c2934dcbed829b7215729f3e4fc79f110e1bc3ac9283be0132b40aefe41b7f",
+"src/websocket.js":"67d1c052cb12afa1cb2daebd533de2c427cb704834b8c40c94d83393670a8c79"
+}

@@ -1,0 +1,17 @@
+{
+"dist/pica.js":"33282cce7a59637dfc15740deac0be4557f8ef86c6544dfd8867fac5cf45fe4f",
+"dist/pica.min.js":"3effbe8a80d3d30445edfffba2353c722cbe2be81d4a6cffebe42314c7a77274",
+"index.js":"7235f23a05c45e4fc4ea0f2855f22af4f07c18b378fe5dadd097246b4220a7cb",
+"lib/mathlib.js":"847cc68514212940aab983ba23559a3fce64cbf23803936a204dd71bffe0e497",
+"lib/mathlib/lightness16_js.js":"f437f2d8ae3f2f0e0b0e754ee2aac3bb39746cb0030b26410ebdb1e8b7bdd477",
+"lib/mathlib/resize_convolve_js.js":"d3009271c9865a382cf1d81390a1f47822095837ae83d6b544077a5df10e057e",
+"lib/mathlib/resize_filter_gen.js":"6c63631df400a41b6acc70794a71ebc04e39e625262e595f2a1cd503a9b00297",
+"lib/mathlib/resize_filter_info.js":"19c557223a86225fea11dfd7428dfbc70bb6d72722940d953cec9883b654f596",
+"lib/mathlib/resize_js.js":"659d732b9643451b65782754ecb74afb248e0f17ad2f5d3ccfc226ea90b244e5",
+"lib/mathlib/unsharp_js.js":"a1ea7fea6022ad7466770c12d4815c9b9b7653ea5785f669ec083f5a17366be0",
+"lib/mathlib/wasm/math_wasm_base64.js":"09c724fe2fb59d4e1432e42dc3e5e056dce4ca46470de05183e8b0a841e305ae",
+"lib/pool.js":"8d59c5dccccfa083e0fea71b571a8a9549b12cd40fc73dbedad3bcb85aed0f5c",
+"lib/tiler.js":"cb3e0e467cbe53bcfb2d8ae740c3fe14f812096c8bc2fe20366cde7377698a73",
+"lib/utils.js":"98c571eb7ba1144469c974c97f3542b89b49b30874f400fbe9b3d3adc1b09b68",
+"lib/worker.js":"34d3a71164eb5a173ca4ecea13ae735ae9a3e63856b2401dc63ec6dbad4545ca"
+}

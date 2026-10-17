@@ -1,0 +1,17 @@
+{
+"dist/smartbanner.css":"85e69ade302b2d6707fec6e620b31ffa3962089fcad219178e627c8eabf846bc",
+"dist/smartbanner.js":"eecd968959a7c3687aaac2da02f4c51c44304e4b389914941b4688c11baaaf47",
+"dist/smartbanner.min.css":"3ec5f4d0d15d0a787d1e551f4ecd2050b5682bd1f7a5dee93880d018f21699eb",
+"dist/smartbanner.min.js":"f84b0ba5e962b8708ca374af05cdce7b9c6909a1fe7e9266687fa2c3cdddbf5a",
+"src/bakery.js":"f4a863c32a4932555da6533f0fbe6a21e8f4af252f5b9b70c06416496376080a",
+"src/detector.js":"e46459674d9b7a34d88e44669a79a307f8ba4d7ab17ef22f8a01b8b4071d147d",
+"src/index.js":"b22ea029d2fcde61da57e7a3c604e20290362b1502e77b5a4380622972b433a4",
+"src/optionparser.js":"c76794f98c69a24c42ee3370cbca57adf6041358252d9a8b138bae0b24bea5e1",
+"src/polyfills/array/from.js":"ae04f9e7c520908dd50a1ef8097b9f52e044cf6786c910b322aa5ffab67d727f",
+"src/polyfills/array/includes.js":"dedafe2058c42e5cde6ea80a741b3a2f8909212dc801ed9cbd859ffa7fb24b45",
+"src/smartbanner.js":"cd59ba6b631103b3cba74122e48d9b14165bd5c34437b411274a3a29d5268b22",
+"test/spec/bakery_spec.js":"ed8e8d5d32e5ed9adcc77fa0fb97502c1cd64e3eea2dbccde973c58ffcb4296c",
+"test/spec/detector_spec.js":"80e09afcafded455c616db616605e187de65e3da564a83196a56d6a2485335c0",
+"test/spec/opionparser_spec.js":"f1da95e458847a0120a04df895452efb7da025b14daac5ce384ecd4a440d705e",
+"test/spec/smartbanner_spec.js":"32dc58f18a6063e108039fef03869338975beea1d130cf59494b1ad60f45579f"
+}

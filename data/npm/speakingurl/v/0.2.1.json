@@ -1,0 +1,14 @@
+{
+"examples/makeSpeakingUrl.js":"6a8d86e72e65593bba6d21471020f4730437b0941c34262f399eba9cc31aacb7",
+"index.js":"350d3df5688a767509d901ea429896f6b7a434a4a4c8a8970a1202a2faf1f40c",
+"lib/index.js":"e7486383aa11b66d0a7a1460444aaad0ca6cc5e6308e765bf668441fd1cfd0fe",
+"speakingurl-min.js":"6cefbb0805ebc3a187af22c1ff47216a37469e4e60b371f216b7ca43de1288be",
+"test/test-defaults.js":"4c2974c20a9bed79b9c1f43f34cbf7d3a84baa18251a37e447053270001b40a5",
+"test/test-maintaincase.js":"6ebfcb2eaedd79b2a0ae49183e5fd6f0ff2a2e8de1ac70fbcc8ead0a25783dd7",
+"test/test-rfc3986.js":"121da92f57cb8be391c3599021257a73c3bf93d6bddfe45ffe945181ba5cc641",
+"test/test-separator.js":"14149a99e998f09657d0b47d0ff9ef4c909963eeeb6c0a2fdb342bc554db259b",
+"test/test-smarttrim.js":"28778e74fea1d73c069fb6ea0bcc88cbcc79f16bbda2a772e4121be689ed40d5",
+"test/test-speakingurl.js":"34a97b8a8fb315939b09a371d86631a28b62f232e3d919f544437bd02520c4cd",
+"test/test-symbols.js":"df41f454593bb1ea5dfc1d13f012c12a7fff58da5f6f08a769937c07b05ebe2c",
+"test/test-truncate.js":"0bd308492b583f3f2e939188630bffa72b1935a53b3e944e256b2581a847387a"
+}

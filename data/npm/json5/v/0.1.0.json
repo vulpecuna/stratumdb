@@ -1,0 +1,13 @@
+{
+"lib/cli.js":"2a6f6e0c37b6b34e5469bfa8fdda132f006118831dbf4f09e95da20ed5f4654d",
+"lib/json5.js":"3ddbc807b3712130486cbb7b99e2982a93c64b72f2950875b8cf097a8fa35f63",
+"lib/require.js":"3390131dd7c4659d5976112df4c96de0e437fb5b51105cff6937b56e96ba30f2",
+"test/parse-cases/arrays/leading-comma-array.js":"d1fcef8a0cb6e2377de855669eb1f622482d7b2e4bd7f15530e826b327528d13",
+"test/parse-cases/arrays/lone-trailing-comma-array.js":"af7fb1d8d01772176045e9597e5080fd135ea0a0e532bf7ec552156af912f571",
+"test/parse-cases/numbers/noctal-literal-with-octal-digit-after-leading-zero.js":"e975df1aa7cc1b7e78f250709b26028e24f5e6b79108521ade43969870eef73c",
+"test/parse-cases/numbers/noctal-literal.js":"5ca8a15a5d9d5a15371a07c8059f0db017af494d4bf395461b39a8a054f61d97",
+"test/parse-cases/numbers/trailing-decimal-point-with-exponent.js":"87e2ca3ec7578b0e29f827b4c0e6bad3451f9c2266106c58df2c61773de1c3d4",
+"test/parse-cases/numbers/trailing-decimal-point.js":"e2e5fa9e83c66f5d1d95288e114b6eadd5d508216901eb43756d620ba58441e4",
+"test/parse.js":"2fe66bf52ebd7df1e21b1baea129cc7121f027e0c40f7df1926447db8b0a63e3",
+"test/require.js":"39daa6cf16b257c1671dc6e5ef751d974545930e3154f73adf2e78a7a9856bc8"
+}

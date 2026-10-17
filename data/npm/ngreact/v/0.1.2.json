@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"3851d80a1dd0ee78fee306ef295136f1016c75476f98e13b2b2383bf2fad37c2",
+"examples/hello/app.js":"ac3a2055a399f7d9354a077f3dcc8cb51440805cf96a7b571e702463879505cf",
+"examples/table/app.js":"66c1fb3f214085f65e680a3ee75bf94a304349d28b676832d3d132964c36c2a2",
+"examples/use-filter/app.js":"e9e49a25596f9313c958beae61f88a4e6eae743f7244ec872e2dce8286d3fd56",
+"karma.config.js":"545f0dc9041c49bd57c2e8fa17546c331982f092ea9633141c300e2b72bb2a88",
+"ngReact.js":"0f9653b23e7154089ec05db8391c65a128dfa4658ddadd7abf0ce572b0a1a266",
+"ngReact.min.js":"c9570e6aa99fba061b8ab5d1ca64fe5e704a8745b871f2b1a4d1edd490a1c478",
+"tests/react-component-spec.js":"b68ddbc1dabfa00278cee91bb94f3346bcb96a444656bafc62559197d93dc46d",
+"tests/react-directive-spec.js":"486609ee5456dd058bcbcc8ce9284afd811866ef4f5b18e08fecb000b1950baf"
+}

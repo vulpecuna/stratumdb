@@ -1,0 +1,13 @@
+{
+"beautify-css.js":"628aa02410ac6cd496f6ce78ccb58d5bc7c0c4a2f85050cae72c934ce457d47a",
+"beautify-html.js":"872018c30a6326ab7dd8501489a6ca595cb8f8da4acf8bbbb8aff986504f7f32",
+"beautify.js":"24a9ec1c90e5bf03eda2fff2b43465027b84f2a7c8449ea465c5cbe59dedc5c3",
+"bin/css-beautify.js":"df4e692b898b296eb37054c0456d7ee3daf76f3ba64dd39c5bcfc4289a1cb613",
+"bin/html-beautify.js":"df4e692b898b296eb37054c0456d7ee3daf76f3ba64dd39c5bcfc4289a1cb613",
+"bin/js-beautify.js":"df4e692b898b296eb37054c0456d7ee3daf76f3ba64dd39c5bcfc4289a1cb613",
+"cli.js":"dfcc33cce134de71eb09141d73ed3dc6cd1c169f491ae077d22c02e4f74f7b25",
+"index.js":"5ba2bf47fdabb5cfba068e4f5572ac86b19f9dc4d3eb5f054e26f3b6181b9375",
+"tests/beautify-tests.js":"6a8969945cd37a0876d2f623cefa1ad0e5f8a1191ac958bd5409e6c0c36b8e44",
+"tests/node-beautify-tests.js":"1a5b936ce29b8167ffb79b2421cf735d8a9c6983de47843c485dd6e7844cd9cd",
+"tests/sanitytest.js":"81d223afd3d6d60aaab56a671459dec1f91c06290cf938f03ddd949b5722f68b"
+}

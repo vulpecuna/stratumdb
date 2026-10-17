@@ -1,0 +1,9 @@
+{
+"module/Geosuggest.js":"dd2173596be40da51161963c6f3ff99948a832a2eb9e3a664a81664fb6fc0eca",
+"module/defaults.js":"17a5734c3ce876d732d39836fe63dcb4ffe5c3e8a4fd5f9c1f981097345f2632",
+"module/filter-input-attributes.js":"2cd04b1295ccb1564e689292caac2b02976bfb623495531d74f7794f8009df4b",
+"module/geosuggest.css":"4f7dc6b1c12e8d43989c903e24ca23fa47b8b3e22e4cb503876bc50e088709cb",
+"module/input.js":"dfc3b039c9d205a7dbfae5546b660f69c9976ae7eb64d9f081677e09a11f6e80",
+"module/suggest-item.js":"3d533c0228254ddc6f642c0ee54385c29efbef124a73347d8cfec3339fb6abb0",
+"module/suggest-list.js":"ba69b6658861c142a77316eb6cfb3a7a1037e54762cc49a6f1c010a087fefb9c"
+}

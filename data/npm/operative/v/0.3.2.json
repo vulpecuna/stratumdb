@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"6287182da5ca73c789a470b28300c738ea9081774fc1949f32a4f19418817aba",
+"dist/operative.js":"2f31c8b9faea1c9b74f1acdcf11ff823299c955b1a2229d20991ccdd426921f7",
+"dist/operative.min.js":"447357dcd6649ef80bd9f947764a76cf512b45d81357d726d1ecaced290bc267",
+"src/operative.js":"f5cc23c908c61e1eaa5ce19bb6b196a23002c6401b50c4438d0a2d9c7fdeb058",
+"test/operativeIframeSpec.js":"6e21197ed78a6ab0a222f49efd4cc50edd1b176d09df87f69a9aa7f640d2fdac",
+"test/operativeSpec.js":"ebd1c015157c777958e4aeb521e648fb60addd181c55f8fe8efe57fa54143237",
+"test/resources/dependency1.js":"246bb13db831f2e100d83a816d2547c81be9ef4c608e50b9bf51bec1e04131a0",
+"test/resources/dependency2.js":"cbadab5ef33cba5bf142ffd7f68a3ff58306d15087a93b4e064a09a09a0eea96",
+"test/resources/specHelpers.js":"1caedc0b6c04a85f4444c4155d808cb0c6d423614aa07580fa2da04f353afac2",
+"vendor/Promise.js":"b15186e7b8d266d61446bf4583a1b11f6fbac3f831af90e93806cfa96dc0a388",
+"vendor/require.js":"ba75463d9e33308465d43ea94dadc52091b09a07fbbb95c8c88997a7431bbb67"
+}

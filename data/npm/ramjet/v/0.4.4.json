@@ -1,0 +1,14 @@
+{
+"dist/ramjet.js":"9d89df307f41d235862f3e15a907f6c2cdeeacaa29a7c5ee3fff72b45e7e59ef",
+"dist/ramjet.min.js":"0be75d2fa7723b42102bda0c79a47b974845e64ba59dcfae8e1370184d7b0efe",
+"src/easing.js":"61db831248f02bc726c75134e87c71352b159d3c8215d315b5369212a60afe9b",
+"src/ramjet.js":"453efe6b1d3c6343819988c96b87df00d1b42a269737f32b4812420ca9cc6828",
+"src/transformers/KeyframeTransformer.js":"5e74706f81d93328ccf80863fb2d07f5255f24cc64342804838fe2b45f21c1bb",
+"src/transformers/TimerTransformer.js":"1d04e5e85c9b5ae0bce0eab825e8a619a03291ed28122c3d4ab56fdfeee60c4f",
+"src/utils/detect.js":"0e5cd2d7466e9b0181708f0c58950a04f9f29df9e6c3a255b52df59e21481723",
+"src/utils/getTransform.js":"065435237367649d0f735cac1c144c0205f2e82f1b8ac8162a143caa116bd3e2",
+"src/utils/node.js":"0869c251401e38211ddff4784c78551441a1458f6b40fdb26bce06ac92ee7950",
+"src/utils/rAF.js":"e8a57b87e38116f6f1ceea26c014892578d4a6ac2e453cd606e7c412fe6ebeaf",
+"src/utils/styleKeys.js":"a1524a398df5c2bdb08e6badca2e1b0c40b290a5521310b01971b07c3d85e30b",
+"src/utils/svg.js":"320e347bb7e213fd9dd7d3ac4b85fd8673681a009056c89969c12ac6ddbb6ab6"
+}

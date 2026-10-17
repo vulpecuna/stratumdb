@@ -1,0 +1,7 @@
+{
+"examples/basic.js":"8ed7373c6faa3cde39a9c78feff421bdaf8a2212fd07100ac60b93c7cdb7f27a",
+"lib/plates.js":"9a8eece2f5a540ff9378de08d6af133339b482bf726d867534dadb29e9c437da",
+"test/api-test.js":"7a257829b440c43fa3046c26c77a486b76156d0a7fc46fa68816956f3e2f99ac",
+"test/fixtures/common.js":"add5091e9eb37720c02aa2b1d5e3589a47c763154981299769a48a06098f46e0",
+"test/perf/benchpress.js":"7bb0502e611eaa18c271da78f68f13645f3f76b1b3bae14d470774b7601d071c"
+}

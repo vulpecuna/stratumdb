@@ -1,0 +1,13 @@
+{
+"dist/livereload.js":"40ad7e85151923b54e6c64c5e8be8d3a4414639bafcc0d71b5f1b91d17141a82",
+"dist/livereload.min.js":"dd56baab09e69679c1344f654b4a592db416a924e48af59149e17a8832b7f651",
+"src/connector.js":"f525346c8a557e0c4665f3e9fc88bc5f174951ea4abecfc48c90fa558380f4b4",
+"src/customevents.js":"b5a37e27b945842c8fada1f79c03d0ce9f685d92f3b0c61315a4c33771f731bf",
+"src/less.js":"3cc473b381deafaa262870433e2eaecec1f8cea953bf27843c647d6bea3eb32f",
+"src/livereload.js":"0661df50698f8ca3b43d1610e6d76b933d77193ff7a0040802db4f391e78f735",
+"src/options.js":"2deff93c8013c9135219796bc783582e69489a509e2d80810e5257eea7da29d5",
+"src/protocol.js":"757016f5d4d7e13d9092fe10fc4442c8ffdc454dde22076f04595eb12b4635da",
+"src/reloader.js":"31ba9d0a1c47b00d5f0e4f2ede3acc50daa40757f0d2a96c77736a123519c76c",
+"src/startup.js":"a1c28bef4d6aced9a9a1857d39e9da32d319dfa2c3cb6adfda635dacd1ea964e",
+"src/timer.js":"47ecccaf9a1060469d5ace72a57cad6de733bbc97007e6e4bddabad127eb6ca7"
+}

@@ -1,0 +1,16 @@
+{
+"dist/js-search.js":"dd23766759c12838ed7a7d07f638b84dc6889212628fd00edc199e506550e2ed",
+"dist/js-search.js.map":"4584b22f06f55d99b82e8a8020d7453579291451f14128da9bfb035349b50d81",
+"karma.conf.js":"9844e987a9b1d94f0aa61114b02fe8a7d6b3a792cb5cf47cb2154c93685bad62",
+"tests/index-strategy/all-substrings-index-strategy.js":"dbfdbde54623c96ae69eb8b3c605be58377a0e6154f19d9f8a9070d61c6c8b8d",
+"tests/index-strategy/exact-word-index-strategy.js":"2bc5e737c235be77625f864bcb0e9db796435dd770c3168e7f29842c04277420",
+"tests/index-strategy/prefix-index-strategy.js":"0708f14c1e2a2092712a56b1781ae61775466b4019282b4e05591469f720ed14",
+"tests/index-strategy/stop-words-index-strategy-decorator.js":"0be8d8193388a7dd0addcf0952854f81f5e655ec2ec276e9e6abca5d84abf2f7",
+"tests/js-search.js":"69b3e4c757a9c13585195817f10996fb97a37e49b39929e68ae33f2bc95994e6",
+"tests/pruning-strategy/all-words-must-match-pruning-strategy.js":"67e116c0d18a89d3fdd8e348a33eb35771d34fca712176d0ea481ff6746b4dd2",
+"tests/pruning-strategy/any-words-that-match-pruning-strategy.js":"e7fb8ad4421404752dc95126fd3133cae935e23d57b735c486b327fcead13a7c",
+"tests/sanitizer/case-sensitive-sanitizer.js":"a1cf61e4944203ab8b9ed6898f06d8296a364df837518f23c43bc4b31a62ecdc",
+"tests/sanitizer/lower-case-sanitizer.js":"b4657ee84bb1cfc1c85d2e8134aa47d6386ffe3713123d2ae457ad8515d4455c",
+"tests/token-highlighter.js":"c8040285df6a8fed650a40063fec771c37f967ab8ff515c66d19b1de7409c178",
+"tests/tokenizer/simple-tokenizer.js":"5d037da945adb2b20269df6a4bff95b9ff30280e08e05c164d377c301fa99557"
+}

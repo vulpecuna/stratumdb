@@ -1,0 +1,15 @@
+{
+".publish/lib/devtools-detect.js":"d8678ed084fc6319ca82ee261e263262724e41984fa076120e2049b0348b3fdf",
+".publish/lib/logdown.js":"ae61aa3f5e6083433862a25dc2be372ca262c6cd016cf3a40ca3c5533a5875f2",
+".publish/node.js":"4e1f2a4c2dc838a67dbf727ae13978c72127618fd697d0b7c88d52d951e0567d",
+"dist/index.js":"b654f1c96cd29cca26c6d4e5c8840438d3013ed0870609188f235dbf2c2f61b1",
+"example/lib/devtools-detect.js":"d8678ed084fc6319ca82ee261e263262724e41984fa076120e2049b0348b3fdf",
+"example/lib/logdown.js":"ae61aa3f5e6083433862a25dc2be372ca262c6cd016cf3a40ca3c5533a5875f2",
+"example/node.js":"d4fa6b7bef70a71daacfefcd95bf289c30bc6a3f94efd1769b08800277cfb5ae",
+"gulpfile.js":"b5352966797f7437e9ce4e360c275ccc349d95fc2ca084cbcc437685b9dfda92",
+"src/index.js":"1b09fa5775ab80e0cf007c17578a64715b006dc7bfd9c537b23d26cfd925d87f",
+"test/browser.js":"7100d0a95d042e817ece86194ca2cdab40757be05c3b83cbe8236eb8e313666e",
+"test/karma-travisci.conf.js":"af2c7c18b77a43c6d7d0572f62ea6568ee372b4344e04fc6a3bd911c248b4820",
+"test/karma.conf.js":"3778a98c587ef5bacfcc36c3110608e83eae9157c36298526aa690a3ccade303",
+"test/server.js":"21152afc39f3af4dc77c57759588c9507c5f8172be2f913b95587a998a10b262"
+}

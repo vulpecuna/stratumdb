@@ -1,0 +1,17 @@
+{
+"dist/pica.js":"c98502f30d0b93a4dcb16a0eb6d268fbb53d1746fdc3c4bdde6aa65f2f44d82a",
+"dist/pica.min.js":"8d18bbc88fa52950cb915c1d175cef84bc9789365dd5f71080c2023ccb72bf70",
+"index.js":"7235f23a05c45e4fc4ea0f2855f22af4f07c18b378fe5dadd097246b4220a7cb",
+"lib/mathlib.js":"73dba4513d95d77053d23a056160cd2542e1fb5fedbadc13104b9567a63371f2",
+"lib/mm_resize/convolve.js":"d3009271c9865a382cf1d81390a1f47822095837ae83d6b544077a5df10e057e",
+"lib/mm_resize/convolve_wasm_base64.js":"05013261ba8031a8bcb13fed45d0ee2f6e3e8949a9e9e377b0426ea18e852421",
+"lib/mm_resize/index.js":"85848c576d10ab32b5e132de0ac5292f54e65b34c4334f70ab3db0f333a84946",
+"lib/mm_resize/resize.js":"9c32b8872f35a688e3995241d762f81c324e01d40035f6ec76ec383bda0986ad",
+"lib/mm_resize/resize_filter_gen.js":"6c63631df400a41b6acc70794a71ebc04e39e625262e595f2a1cd503a9b00297",
+"lib/mm_resize/resize_filter_info.js":"19c557223a86225fea11dfd7428dfbc70bb6d72722940d953cec9883b654f596",
+"lib/mm_resize/resize_wasm.js":"6a58cc06e69299347ca1a19ba47373613120dd66735698ecd0a45a350141b232",
+"lib/pool.js":"8d59c5dccccfa083e0fea71b571a8a9549b12cd40fc73dbedad3bcb85aed0f5c",
+"lib/tiler.js":"cb3e0e467cbe53bcfb2d8ae740c3fe14f812096c8bc2fe20366cde7377698a73",
+"lib/utils.js":"de957cdbbf350d1e46760084ddaa88a14af35f3497c79f61e26ae4195b94bb60",
+"lib/worker.js":"d3484e769745eecfec5a34d46925e74dc410b63cbb1a11756d3f50dfe6e00485"
+}

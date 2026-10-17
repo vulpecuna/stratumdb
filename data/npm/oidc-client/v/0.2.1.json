@@ -1,0 +1,17 @@
+{
+"dist/oidc-client.js":"f450a48cfd816d3dfae1138925d808eade12003815040cc8babd70a3828fef2e",
+"dist/oidc-client.min.js":"e598532b98b89500ca5957be937001ec2833334c7da6d1f01f6d354d4158f29b",
+"gulpfile.js":"601f8c148faf97ec063521d9434178a64e7b00d9746a6d3e58b54bb0792a60cd",
+"lib/crypto.js":"48f2c48182e7c04da5e063e43ac07b5189e133a39afcfa8e7702e3f965338ee1",
+"lib/defaultHttpRequest.js":"2031d1f56cb99e8776e9a588c7bcd67b6e9ea28bc4350804e750147a78d6f07f",
+"lib/defaultPromiseFactory.js":"31a3f51e793fb3af73851bc3b5eaef1dc658c272a3ffdbe82e80c440741b7425",
+"lib/es6-promise-2.0.0.js":"0a685a2a645f4359711188bc6d33f0d90e1a9d73bdedeecf5d5b4d1a50140f35",
+"lib/iife-end.js":"d169215cfdb96d62412f593185e08b048f4815389eec6868ad3ba242c3620e40",
+"lib/iife-start.js":"c7d233269b4fbae77f61c63e1823919e69ff99e298a0747309c8be92f4f4b058",
+"lib/json-sans-eval.js":"fc6ac69cce654c5bab564ecbd2eefcda7e4425cce9427a839a776c73b465bbb3",
+"lib/jws-3.0.js":"77c6abd81d8f272a9bb2c9b67baadf8ca13d513150891a6fa7956a18976ad748",
+"lib/rsa.js":"e8706bf3ee83bb7bed547efec89a57200aea7f8dcfd7e54ad22ffd13b2c1cf25",
+"oidc-client.js":"fd52af471be46d8b9fe51bf822f47d872ff11444e2104f9afbd774471d47c5ea",
+"sample/vs/Sample/jquery-2.1.0.min.js":"a4469f8e63bb73eecdcc84f2d2c106f3ea4d516bfe044bdf6a35a5e613efc931",
+"sample/vs/Sample/oidc-client.js":"3957bb50aa61e9610d9f5f9a35aedf1a3e894f585d6251a2b743749223a3052b"
+}

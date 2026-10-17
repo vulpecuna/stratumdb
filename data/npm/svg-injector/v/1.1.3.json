@@ -1,0 +1,12 @@
+{
+"dist/svg-injector.map.js":"f8309c5a4964c32815d006e51f8d1a7224c68840416a115ce1dbe42b2b1e1ab1",
+"dist/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"examples/all-the-things/js/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"examples/fallbacks/js/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"examples/simple/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"svg-injector.js":"d2e09540db35cabae2fda14c93bb67aed79779f6120b06080d3687beba05976e",
+"tests/cors/js/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"tests/ie-style-tag-eval/js/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"tests/iri-attribute-defs/js/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499",
+"tests/race-condition/js/svg-injector.min.js":"0a306526fc6a2c25361cccc5ba74de9592c51c225daa00e81e2fea18959d4499"
+}

@@ -1,0 +1,14 @@
+{
+".eslintrc.js":"9a06a6e5216337cffcb5f5300b0aa1be75f733d3d2891c07218b1dfb4106f6c8",
+"dist/shp.js":"6e49ab9b0786e7bc5d05f93f93c05cfc348c145dd5f8640de4b608c20a15bb38",
+"dist/shp.min.js":"f6b0e18f35da17c73a544a91a27348f9cb2502d02521714b0e484e899139a458",
+"lib/binaryajax-browser.js":"c9caf4327b62223549125828b3c96e680ebd690e4a20309f7a9ac46f190bcafe",
+"lib/binaryajax-fetch.js":"4df65a375f1bc75082eaae8909b84d8d58ad9dc3995b917499c67a97fe29ab6a",
+"lib/binaryajax.js":"060dde5e29f0235ee1aa74e889c60f37e381e013850830737d65744b48ac5d2c",
+"lib/browser.js":"76f98a9a62b7bfe4362c39bc16ada5433ec8ee6eb8554b2f02c3c0d444a7940a",
+"lib/combine.js":"5f2b19828c0cdf0090dea149f7918bdbeadeddd95f0c9a3be9284d12fdf6953e",
+"lib/index.js":"87871bb4d9084dc635e4953129a20f2bf17930273b3962a7191385cda31a00af",
+"lib/parseShp.js":"7b4cc7d43b07f6b2e6d66930508a43fb355ccbe9c86aeccbfc50d4d0b3978073",
+"lib/unzip.js":"50adcc991ea9eed954c9b770701c0c43f8da39a662f33687a99d1424bad25d14",
+"rollup.config.js":"6d895e3e11e6e6a9dfdc8f3f55ae92bbecbb8f514647b3b222d9bfbfc0917b0d"
+}

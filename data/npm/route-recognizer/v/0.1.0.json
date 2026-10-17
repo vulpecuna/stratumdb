@@ -1,0 +1,14 @@
+{
+"dist/route-recognizer.amd.debug.js":"b440e4ad8aea7f20f84a0ccb5b1064910d979aaa39e67520df0c7bbff939e247",
+"dist/route-recognizer.amd.js":"6fc427fc398c3718d71f29eb7222b91d18ec3ed90b850148cbc85d76a28cc39c",
+"dist/route-recognizer.cjs.debug.js":"5eca4ffdaa03574a9dee94d26197f2f7f3d3c6cc625e7445318d364fd44e0155",
+"dist/route-recognizer.cjs.js":"f7bd53105c1e2e1c14c397fe03559f2a580ba6f752e5702d98901355457f9c8a",
+"dist/route-recognizer.debug.js":"51b3d32a69388ad97f1a5327b480d0c96990f7d562111f5a7441c983a7e5ceda",
+"dist/route-recognizer.js":"4f3bf185faaaf70a77cdafa23ba42b02999962acd862a13c46047f5b72d85543",
+"lib/dsl.js":"c2b22a4c3916c5c4ad0982b6ec7868191c23d553aff76b4b67146cef0dc1180a",
+"lib/route-recognizer.js":"9b81d563f9cd9facae5bfe88ce2fbf20f3115699ac8b7a1e366ddd29b918e52b",
+"tests/recognizer-tests.js":"8cb12b3054bada641fb19e963e65428f2238525bc7d3dedca53fdf9b1df9d62a",
+"tests/resources/qunit.css":"149e5a93d68307083161c851bd8be355a4d279ae2d8dc7e639a0acd027af2ee6",
+"tests/resources/qunit.js":"7740db2f199397d27a5f67e925681e6df8e5a6e8ec585d51dd400a12e1171011",
+"tests/router-tests.js":"03fcdc058c6b979b61007e427ff7cf5a3acc1276b366cce7501d9de5498b7e41"
+}

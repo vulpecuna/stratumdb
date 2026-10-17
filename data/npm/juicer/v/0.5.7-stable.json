@@ -1,0 +1,9 @@
+{
+"src/expressjs-wrapper/express-juicer.js":"ad5c98656a487eefc1793cb40550a2a689f090b426b817ebca062e012f4d0ed4",
+"src/juicer.js":"6ef17135dfd74cd817d6c9c9de12516b154474e242639891507ebbca4d44eb4e",
+"src/yui-wrapper/yui-juicer.js":"0e70550989f213434f07e70b3fc1fd864b3ee45526318c4906454530bb07ba22",
+"test/nodejs/juicer-node.js":"195215828bd5212cac637353ffe78a4bbde2ed3b00da4e9fa43d0246eba4a4fa",
+"test/unit/qunit-1.5.0.css":"e5091c1d33891e66de1f7fdb025815aa98fe587a3c618fbf8df4ff8a1ce02506",
+"test/unit/qunit-1.5.0.js":"9ad87c668f303b68319504993ba7869a3e2f536ecdb10e3c10c2234c09b644e8",
+"test/unit/test.js":"6b324e31ae758af370d6fb914440448b9b5cb04466e6fccebfc42f74268424f5"
+}

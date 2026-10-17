@@ -1,0 +1,13 @@
+{
+"dist/oidc-client.js":"5bf79517c44c7cdb76e240487f89d7a1c63c76683acdba3ef26d386ca2928c4c",
+"dist/oidc-client.min.js":"c56871c9cda6407bd7d75abee8f8ed3b894764a5cfc89457fc6d7da5af557cc0",
+"dist/oidc-client.rsa256.slim.js":"46fd9fe0aa5642261d1f672877a8bd28b41c745530fe775e26780e2f92e53065",
+"dist/oidc-client.rsa256.slim.min.js":"1f5a7ae56572873171e4ab23e4e54df282dddd6b224d90e95f07c2c56a362bfb",
+"dist/oidc-client.slim.js":"baff399eb1bf37b5dc1a3459f842e579457e5d403f75f0186f2fa7df045c64ce",
+"dist/oidc-client.slim.min.js":"af492ea6ee497226db4fda5a67fc3111cf6a8abc3ed31600245c67d6e1ae50bb",
+"gulpfile.js":"4e02878b720092d05dba010c748967f063c3d39d7bafa208b6955a585985e196",
+"index.js":"e7d209dc8698ff69d9a67233e0eec2b8794e475049b6c386164a462ef0ff6892",
+"lib/oidc-client.js":"52d6c1789bda9f440418591129badf9025179f1e1692234de90fff74d8ed424b",
+"lib/oidc-client.min.js":"6c2969c4423f0a903673d4db8e3e0255f7a676e84f953b76cdabf0f1e78f8d03",
+"polyfills.js":"4a55710a55242a06b60c1b3ff69d2989a6256a78358e6c1a3d51cbbdb3a24fb5"
+}

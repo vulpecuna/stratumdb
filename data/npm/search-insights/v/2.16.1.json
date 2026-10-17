@@ -1,0 +1,11 @@
+{
+"dist/search-insights-browser.min.cjs":"aae43f07e934fd9372186775851bebf1d55863ebef20043407a46af9e2ce0b87",
+"dist/search-insights-browser.mjs":"39feb5142a73c8e85fb6c13b497e73bf16e0c86c6a07e5296f6ce6386a1c0981",
+"dist/search-insights-node.cjs":"70ea6af4f4af235468447dfdeb09e92cc4b6971cd424e475ec917d9cddc5a83c",
+"dist/search-insights.iife.min.js":"39a77dd0dd307741bd8636e6a6aa9ff8549b2b1dd2d9c4721996f7b0e0b1a837",
+"dist/search-insights.min.js":"20504866a233781d234d1eb2c7c3b5b9272b1cd411646e527a70bd5b8f3c538b",
+"empty-module.cjs":"353facf897b2bc449e39351153f63b5e116224699475fdcc263e1ef54c2e4add",
+"index-browser.cjs":"41b5ae3d8b91437501debd0f6db59c531e54ef2ef65c66c40316ef4a99351a67",
+"index-browser.mjs":"e1ce7b655a66a7abcc0b9e3d6ec8ce5cb6075df75941b7f33c3724d393a8741b",
+"index-node.cjs":"08320f15988418dcd6aa1095a905e194a58b40927d4994e3e66102f5c93d17fe"
+}

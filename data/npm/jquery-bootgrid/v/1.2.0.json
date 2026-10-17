@@ -1,0 +1,13 @@
+{
+"dist/jquery.bootgrid.css":"9e278c90353172b75f6a306b96e9def5c6d0c681bd0d8d5a55247467bed29a59",
+"dist/jquery.bootgrid.fa.js":"d4d5531a66a55ebb9ea57151091f3f925c6377804ea6f7499af46d48da49e858",
+"dist/jquery.bootgrid.fa.min.js":"008681beb48189ecf5988b8b93a99e292f0610061f1a7f8ada6aa4770de5999b",
+"dist/jquery.bootgrid.js":"367aae29953b0a4d38fb6bc858e939035aea541d19cb63a77f173bef5d86a99a",
+"dist/jquery.bootgrid.min.css":"299a498adccc850e2d324b1c53a6812118ff75ebc47effe793dd8a387203aeda",
+"dist/jquery.bootgrid.min.js":"dd9175833a83d13d10b29a3539ee10e463355e06a862483638dad79d00af138b",
+"src/extensions.js":"7ce26b7580c3f1319efb0094b4dc7eed8e283209ed6dd49628b414d8b7d53662",
+"src/fontawesome.js":"fd4234fd616f6fdda1884e8481ec9d00a1ec271db786056a53bec6dae1ea4a5b",
+"src/internal.js":"002806d2c71581fd109a5809e0b231deb6e205bfd9d5b42ce21ec21ddf527d59",
+"src/plugin.js":"d255d5c5f2a668bb210dc8d882394ad3c17aa486bca901660fbb59d82bd50b3b",
+"src/public.js":"69809ccd1873a9d0c61cb662334f21b10b3d00e5337d35dc0d98d6ac5d8b1c0d"
+}

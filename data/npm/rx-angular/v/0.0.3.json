@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"a34b75b968256b465a590d5151d3e854dcb95f0f9fec47e50fda38b4859cc7b7",
+"examples/$createObservableFunction/app.js":"c1a8ca81f2ec3ed0f755fac15201f0419d1fcdfe3e6fccfccb8f14426b311c62",
+"examples/$toObservable/app.js":"b1d6ee5e0cbb7f4646ec48d1f62d6e7b4a049fc6e6304a0e97518ba52c4feb62",
+"examples/observeonscope/app.js":"f8e7a2cdd8f18bb70f5e2af97a12fbd3fb49f941962cffc63b58798b67f5e8bb",
+"rx.angular.js":"6d2c970179ab59dabc1dc73786d905828c1960ce6d27f9267098b6051861c0e3",
+"rx.angular.min.js":"c619e1650a147a558380cb5a79368a4e713d141ac4bb6411ea4392b279c1aa42",
+"src/$rootScopeExtensions.js":"7bf18479887e7e1149cf308cd5178b21042f1b025daf4df46dc29b17a2911172",
+"src/factory.js":"fd51122b68c3085cfcce15d640e19b4b4ffcbc5edb92e2dee3844bda3aba6acc",
+"src/intro.js":"5a1aba4ddb4b872d07d98091b95e08d0f45473d75512df87e3d3bf30b1c11ade",
+"src/license.js":"a7c3e36bdb6939acd43978a380f5cf38628a2a96e8e81870e64c8ed259a53572",
+"src/module.js":"23a577b94bb2b55202fef73bbd45957c0b296b43b2c16d25eccc155a0dfd4a7b",
+"src/observeonscope.js":"bdd950935473ef3bcb6d3ca24824f5d74d89b4c99775410cc727c5a096e52224",
+"src/outro.js":"b48b016c7b4e76a2a970c093af7622ac896920c4ab0e8e67232885922a48191d",
+"src/safeApply.js":"2d2014198b130a78e558a1ca1fbaadb911e9e6495d35740c6117361e3e859ed2"
+}

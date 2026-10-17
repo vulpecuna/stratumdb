@@ -1,0 +1,13 @@
+{
+"dist/index.css":"b7b57ebdb34b28ae105fe0049608c07c9320b4c792bc69b9097e194766e2a1cb",
+"dist/index.js":"1991a62c6bbe37b29bf26ac7604f249afab98e4603cc6c02696f012a589513d4",
+"docs/index.css":"f72b0f1de69e0f3bac61976c16d9343976ae75d280293b5088a4bfd16f7f3ac3",
+"docs/index.js":"03d8a8a88eca07bac43b1dd4ea6121b4e6db8c55a6a747bc389572425d923edf",
+"src/docs/index.js":"c5e9c3694e3992b1794e3254865d9ee287aa6be752f940761754bd506f204f8a",
+"src/docs/router.js":"bf12f46981f74f3780c1814d71a5b1ff1a5bb036c8a329b2bd8ec50548560938",
+"test/e2e/specs/index.js":"7e8c3244e16d32c2fe986cf2d4e407cb7de916242801d4fe1ee2ca91fc0659b2",
+"test/server.js":"536cbd4102951f260f2521dcbe17e83c2d03a7fc6690b327780af51783e66cc2",
+"test/unit/index.js":"8aa290aed907ac7aa9dfb5d247ede8c08e15cdc534ac2ee5f4fc9ed7ccd60e47",
+"test/unit/specs/index.js":"28db26e20bbfc9deaff78a2af22dcb5f3f87e5d9b53f6fd7db5fc90f1abfad9b",
+"webpack.config.js":"4d232582135348aa056fc1c0bca77dded8e59e3a1e9f44441b830a8514a937f0"
+}

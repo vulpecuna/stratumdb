@@ -1,0 +1,12 @@
+{
+"bin/liquid.js":"73a9ef9445d30cc8559c7a6842d5293abc34f65b5b62cc14ea8716e3a7674fb8",
+"dist/liquid.cjs.js":"e6becfb95c9eefc1902588b8675c45ef84d70556409037c8b127aa886dd3a639",
+"dist/liquid.esm.js":"98d7c94e650d4fee08b1f8869d914096194e18a75f427dac3c0a6c80c21c3542",
+"dist/liquid.js":"4329a961baf23efce32775e90d3f6eaeba7d45245f9a29c37ddb1b6376d573d3",
+"dist/liquid.js.map":"d462763d5396605cf6fbc0b29fdadb2c89ce29016c4cb84e0f87cf34de86af73",
+"dist/liquid.min.js":"ecdeaa500e5b8376531291b346895e9906acdc9fdd28cd636e0229be8d2d607a",
+"dist/liquid.min.js.map":"91d5f1b26684e98098b6d9ec89263dec36939b6fee160a65327266262bc0d3a8",
+"docs/assets/css/main.css":"ec78068578f82cd7f0600dbf99faec0b7d21053a31144c4f53953114423df2bc",
+"docs/assets/js/main.js":"09eaf7938dd93402a19b99af629396d0e86da90dfab317fec0947736919ffbf6",
+"docs/assets/js/search.js":"f7080e251483a32c81e615885c9ea8752737036031e70a24359c704e1e6d750b"
+}

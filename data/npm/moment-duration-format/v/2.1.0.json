@@ -1,0 +1,8 @@
+{
+"lib/moment-duration-format.js":"52e4d3b10018bd04ac2c563b5b74637ea7a065a67802af2a825d572b4a52031f",
+"test/moment-duration-format-tests.js":"71a7724ccaa1ddeb2aa3d67955bcd2c26240d0429e65c45e43924a40369d1d8a",
+"test/vendor/jquery.js":"6f8e4819a94e9a4f5badd37cb6d181bdc9ed6d3b11348b387eee61fdec30b7a2",
+"test/vendor/moment.js":"d678bbdedfc5bb85a9767408e4ecdf2f92854d8f1598fe9f9edc0aab1c7d5bca",
+"test/vendor/qunit.css":"6ddd1e139234537d37cd770edc67dbc1285a93dc6cc75ce9c88a9654a221abf2",
+"test/vendor/qunit.js":"b75117bbb465af224852ce40a489633a1fbbf36db40192a03b64c952fa41a0f1"
+}

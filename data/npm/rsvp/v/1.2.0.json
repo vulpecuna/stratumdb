@@ -1,0 +1,14 @@
+{
+"compiled/lib/rsvp.js":"8ecde05b1cec294931924bdbbbde3c97a16bdc0cbbd1c53aaba096c947b8c761",
+"node/rsvp.js":"6ba961f972e1c446ecdecf18ca1aa5ec0bb5feb0740887abb4c4ec91100fe80c",
+"promise-tests/lib/adapters/jquery.js":"6f77d0f165c86cca9997ec53425d6f447ed9453706e6a81e1939ff304dba946f",
+"promise-tests/lib/adapters/promise-stream.js":"4fb5ed1fddf94a3b33c828f3846cfb3f15907c7417ca7d461ccb63fc3a33d76c",
+"promise-tests/lib/adapters/q.js":"1f5491436646f120b4fb15d25c64355891eb6881aadfb848b3a38e462bc2c944",
+"promise-tests/lib/adapters/when.js":"f12e6f65ba47021e5a590637423d09fa0fe91f3c8eb6ee3bd11c206c212632fe",
+"promise-tests/lib/cli.js":"67e7e99b79bfd2ccb1a64fea77fe076154c064c58cfc1f70c458908e8676b15e",
+"promise-tests/lib/programmaticRunner.js":"bde2bfa3882aa2b0c9eeb1326364346f80289d6cd1a52a434eec59e0841a8bba",
+"promise-tests/lib/tests/always-async.js":"439954982039fd96becd6a60987b3e104610cd202ce07a3a18e9b680ff8f8369",
+"promise-tests/lib/tests/promises-a.js":"82cc81ed5fc8ddb3b8d666fc9f5a88fa45a7746e238452f28939adc5c3a60482",
+"promise-tests/lib/tests/resolution-races.js":"617a53dbacfd9da285bd5b3a288a049159b6e8b354f87d8ee181be4d1ec6bdcc",
+"promise-tests/lib/tests/returning-a-promise.js":"46348effd5064cad8dcace2fd74a78f9328de583ba5b0eaa880d51954e3be645"
+}

@@ -1,0 +1,8 @@
+{
+"dist/es/index.js":"0da019c6518724b36e4e44f1cb984197469ad08745ec523d5d554deef37d8916",
+"dist/es/isPromise.js":"5a34ae9b4d19fbf2a6043a3b827607490f9f9be1f571977bf9e8df964b3e8b92",
+"dist/index.js":"60c24554144cb6245a016ad1ce4690d63f11111a2222cd10e7b78006235028ec",
+"dist/isPromise.js":"26b3904e6af1d3db6f6fdb7fc3b5a137dcf2e5eed0bd00410063f113d5e0ccbd",
+"dist/umd/redux-promise-middleware.js":"4e8f5eae2513fd5ab1254f7194dabcc4f8904485a0fd961aae4ae4c0d7f4b886",
+"dist/umd/redux-promise-middleware.min.js":"251b76263bdb0624b3aff3d51265d1cdad06851a716284e7eac076a028132004"
+}

@@ -1,0 +1,12 @@
+{
+"dist/mailgo.css":"3f636c5e7d3842177acb3cac017e047cb2086ea913de965734153bd7941b9a6e",
+"dist/mailgo.dark.min.js":"134323663465ace4741f7792081eed2f7cf1b852cf62b0170be0ad9e3ecadd8c",
+"dist/mailgo.dark.min.js.map":"25244ed51f81e069e624f84f794149f4bf88b4ad01e1c96848c10c13951fd60a",
+"dist/mailgo.min.css":"59145132062d79e1470e64bd697a0bd3d054cb6a869be93ce01bb2635231be89",
+"dist/mailgo.min.js":"05befd954f071ab3e9c1a550c7c685780e3c63878ae5fa1cc837628936fb8b33",
+"dist/mailgo.min.js.map":"21de4b883bd5c4e4dff42a76e449c2c447fa9d2a2e3dba56f0217fd87df485be",
+"dist/mailgo.nocss.min.js":"7cb7b77849724f5e40aaad703145a4c893e009be6fbd836eb64d83ef4e1e10fe",
+"dist/mailgo.nocss.min.js.map":"07f6f14856bf964525cc3362ec335acf705973223eaf56243990de4141905cc0",
+"lib/mailgo.js":"cbf82051e112f376eac4341888d8447cf81f91e8415692862c508cd314689d96",
+"lib/mailgo.js.map":"c9a9e6f244da36a29bccb36f6569cf4b5cc1bf04310247fbb39318cd210cca31"
+}

@@ -1,0 +1,15 @@
+{
+"dist/index.js":"58e841da2df265bf8e0b73b50e29d51a98eac2ca5b5d0579058206c84ebba698",
+"dist/mobx-react.rn.module.js":"2a86d7cde00d5d66fa060302ad3709e92fe5974eab4ea2eedb4f669a76db5a45",
+"dist/mobx-react.umd.js":"6b3711ecbedc63987f446c8e496446914ce8115e7373221c53f9c2343019553a",
+"dist/mobxreact.cjs.development.js":"4d2b0a9aba57e56a80c0ce55589d5609b2559b0807416a219a3a1b95255de76e",
+"dist/mobxreact.cjs.development.js.map":"411fe206c790496cea3e7634690238c5f44243b78e4e509e6ebd0ba863fe6a55",
+"dist/mobxreact.cjs.production.min.js":"1f3dce41a6cfe3e12b6c52aa94e65f96e10dac316e91b462b68ad9c768ed81e2",
+"dist/mobxreact.cjs.production.min.js.map":"a9263cface07f733030289f9bc6c156691a90615105a82398a465313f9f020ff",
+"dist/mobxreact.esm.js":"75ea1ed63eebf1094892a9e629c16f2dc1576aaec1b4289ad17129a380aebca6",
+"dist/mobxreact.esm.js.map":"50028090abca295a00ec32c571fa13816b09fc75fd48ed7a7719c51411bb3000",
+"dist/mobxreact.umd.development.js":"603f7262eeb77e8f6c870be7a6d0ea962cae2b8fa2d2b283f9f6de9373b9ec81",
+"dist/mobxreact.umd.development.js.map":"8c282eb949cc2b18863b195792d7f0c539fa5fdb4cc67c765e5ab79faf6fda57",
+"dist/mobxreact.umd.production.min.js":"6b3711ecbedc63987f446c8e496446914ce8115e7373221c53f9c2343019553a",
+"dist/mobxreact.umd.production.min.js.map":"a9e0d21819b75166591c7178988ce55a8d4c5fe42f9d12f1fc47db41e149b7c0"
+}

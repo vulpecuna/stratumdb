@@ -1,0 +1,15 @@
+{
+"dist/selecto.cjs.js":"7b91cfe02d7196623e00be4a073f127af50cc430b1a361b2674b262676fdd98e",
+"dist/selecto.cjs.js.map":"777092814920a78cf6404a87bdeb24ff867ac33ab2d7981e1efc2d6badab6393",
+"dist/selecto.esm.js":"bf85f061de26776bdc4bf1b02c21a8772f5676d57d298c8d08ae443dc8e9094b",
+"dist/selecto.esm.js.map":"b2122a37f2e76bba7734fb28dabedd69bf22583b75e0a08a07726c70ff05abd4",
+"dist/selecto.js":"d64de6380ab296d62a87dedd316439768c2716b5659c4bdc7a5e98a69826f8fd",
+"dist/selecto.js.map":"fd3ea36bc479994a6f54db8129bae7b3fd2c5d68c3f2fdf2b8e24b858a852206",
+"dist/selecto.min.js":"b2da34e9d68013890c1c5379b3c18c5a6106054e1a3592fb0f6404bdead50da4",
+"dist/selecto.min.js.map":"b96413090b3f6ed6d526199647c9d851d3c71cd9f898de87f454ba5a3514aee3",
+"dist/selecto.pkgd.js":"7b085e8186fe0ac3c1ea116e4584846ea10a5114f8e7faa6d4e5d5cdf2d74ed4",
+"dist/selecto.pkgd.js.map":"45b2716ccdf6cbc6f41c22bc7d552b47caf14af92b5b8648628c0d08fdab2355",
+"dist/selecto.pkgd.min.js":"5db6a1f5b5dace0cf16d1077f606d0df27386f7bf762d6d138ffa71efa158085",
+"dist/selecto.pkgd.min.js.map":"dd452a7214f795419d7049bddaba2606fddf67fd64d357d45524ffb840c56ef4",
+"rollup.config.js":"9a4815671ffc210b1a1a043081e4496db16f37e483c93ce1173c3267f30bb859"
+}

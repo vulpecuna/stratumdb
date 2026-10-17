@@ -1,0 +1,16 @@
+{
+"batchingForReactDom.js":"cceaed32dd4819b4adfe7f6ba5b475945756307ac4c020f4ec737f093e5d8516",
+"batchingForReactNative.js":"c74f1e46930c6f0144af71811799b5753a47e6ceb9eda825a49f91362e90a6ac",
+"batchingOptOut.js":"b65a24cfdceb019b62395cda7667d1f4f287b55fa677b0ff931ffbd78e3602d8",
+"dist/index.js":"3483fdffbba5520604266c36ebbe68f385a8c7bfaea78bc6b02f6fd4e2da1263",
+"dist/mobxreactlite.cjs.development.js":"97ed9fa1a9208fd1daaac0ba3bcb8711ee6584613639f0cf11779f24c934d0e2",
+"dist/mobxreactlite.cjs.development.js.map":"61b8b2c792e361f8b9bce51d18da858425c9882d808c70216e9e6ca0e57a4862",
+"dist/mobxreactlite.cjs.production.min.js":"ac13ef40d88fce82aeb410563822d4feffe883f99a01864437a33ade3dfa46ed",
+"dist/mobxreactlite.cjs.production.min.js.map":"7aec15ca6ded0ab9e3f5d001688d40615ff142f41a7306c457714a7cc5d5ebec",
+"dist/mobxreactlite.esm.js":"cd3d8ac9ead4c12092439c0ef186cc3234570c6c0fcc2d3f9c64c51a6515e48a",
+"dist/mobxreactlite.esm.js.map":"6fd06b5bfbed7362d8bac2731cd3a974115c990b665eec4f690d71c47072b5e6",
+"dist/mobxreactlite.umd.development.js":"41483498551afb94cce07972b78321a8c004ecd106a81ad624855632d823e32e",
+"dist/mobxreactlite.umd.development.js.map":"f91fea93bef2f17e0a92bbbb83da022aadbb07c91fd87d8ebbf8586a5aad1e0c",
+"dist/mobxreactlite.umd.production.min.js":"1c4c17bacd5f94d1ef23ce3192e5d622b8f612a588ccf6101e32dd2bbabbd079",
+"dist/mobxreactlite.umd.production.min.js.map":"140921b0f317335cf6dd6d277c1f15b7420296060d962cfab876b21ba1ad4d0b"
+}

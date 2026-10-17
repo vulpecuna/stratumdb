@@ -1,0 +1,13 @@
+{
+"dist/scrollreveal.js":"c706d4831ec81d54f734a7ddb97ead45093e2f479a3f259c3245ff8956878734",
+"dist/scrollreveal.min.js":"5f1b4bc2168deae13bffe8addb5cf8723fe8c193f54869d8f062e7a1c6dac9e0",
+"gulpfile.js":"0fc8d82a032c3f17304552cc98a8c81f9703462372fbfaebaba800fbb70a1438",
+"lib/gulp/gulp-clean.js":"0684d63d52a8626bf16a0e513de354745ff4fcef2cde792f59fd05783839d909",
+"lib/gulp/gulp-dev.js":"36be2ff5e33c69adb44bbcb9ad0eaab0f8a6a352fddd9623fef39c84041a426f",
+"lib/gulp/gulp-dist-min.js":"894bb4e6b970a3699ea7ab94975f66dc127361b7dfdb8efadd7e0871d49b223a",
+"lib/gulp/gulp-dist.js":"f2a962b1af7bd68039b8e5cf475c06b80ba54e728ffec9dabc49d7ff4f8417c3",
+"lib/gulp/gulp-server.js":"61ce6e41121fbd7837b565b45a4163e33888749b44413d194a682eaac8a213b2",
+"lib/gulp/gulp-validate-bower.js":"d826da0957fd4b8453221edcc9a428d094d788be573de5bce92081a12aa2197f",
+"lib/gulp/gulp-watch.js":"dc10d2e141c2e54b346d046d67af9f18934282e0c43c18bfed0cf5ec4cfddd6d",
+"src/scrollreveal.js":"c706d4831ec81d54f734a7ddb97ead45093e2f479a3f259c3245ff8956878734"
+}

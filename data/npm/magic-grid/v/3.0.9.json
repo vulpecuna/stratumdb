@@ -1,0 +1,9 @@
+{
+".eslintrc.js":"72149c44038110f965b1d55178ab54babe9793583b76320f99fe4ec6adeea8a4",
+"dist/magic-grid.cjs.js":"29de798239f62a77d5058eae3d61d4e66f8b59a57655434d8bc27d58edb8b59c",
+"dist/magic-grid.esm.js":"d1dc819daed6bcb636f3b76af727dd4c62d244e171e10ec1bbdd50881be1f5d2",
+"dist/magic-grid.min.js":"40dff4537a729fdb62dbc24f57da03c73390e3b13dac1292a1984f3c749e0170",
+"rollup.config.js":"7fa85083c84bcb5325dd084beaace2dbf505ecebfd12566f4cb6fe4f1d3ff383",
+"src/index.js":"d67e3aff245bfbda9af68b256eec371203ec89dc2f4db3264b2d751f86fe097e",
+"src/utils.js":"3f950cfa1ac1fce92e954cea739ac57a9f37d3f651568bab253046e1c08633f7"
+}

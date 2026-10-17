@@ -1,0 +1,10 @@
+{
+"lib/compiler.js":"d5ddf30dce8762353f9e15e1ba8b435a22f458c24c752ca6ddd9bf285a316a20",
+"lib/index.js":"b12791bf1594963bdeb20d0603d1bbaa5fa19f06dff592dfd39d9ddadef03425",
+"lib/parsers/foreach.js":"bcafee9d31f21fdd2eeae91132d58ba091ca3cf2614f06894f56a25b35953401",
+"lib/parsers/text.js":"3a3df782a1f01cfbcfa373af1fba3166ce19aa2287b2778f58cc1d58c8fd7e8c",
+"lib/parsers/variable.js":"25b23ba1cbe391accb656cc4e1bae829dc55c6153a1471e3965e6e5ad189d8e8",
+"lib/visitor.js":"48bd49821074bf7f370494d565a2d0dfaf29f3e72603c04b7d65cf54ba86082f",
+"monkberry.js":"ed75edb7dedc1954e6fa978f738a8576e59da94b480e1c0fbec0b89f63bd8d2e",
+"spec/monkberry_spec.js":"b3b79813d317819e1d3e7a1107693a6d6161e51b08c48e813931d43840ded961"
+}

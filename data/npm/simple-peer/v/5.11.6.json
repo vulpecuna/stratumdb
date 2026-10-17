@@ -1,0 +1,9 @@
+{
+"index.js":"f633dfd1ecd369cc2bae5f1bd3a284d56e8ee3374df8e0a148163950d0f1b4a0",
+"simplepeer.min.js":"01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+"test/basic.js":"f8f9629a8767d14b4eea5fbe31326518e50981db5291d1613b9666da0006bcd9",
+"test/binary.js":"d1870c8968aee3d0450bfc7f261b386ea7b63dfd377a5ab342cc0e51dae0f54d",
+"test/common.js":"2cdc3a482c4cf1b5d2e588a7d65c0c7ba1162609442639d3eaabeb3303a63606",
+"test/stream.js":"6b401aa9e8c2ce02b8d9195b275895c692b69337dbdc129e1eaacbfe966c2230",
+"test/trickle.js":"3d47327e1112d00cb45b357b7caa9b056bf477f2192c03cbb141cfad72aa39c6"
+}

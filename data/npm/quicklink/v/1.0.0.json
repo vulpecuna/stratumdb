@@ -1,0 +1,14 @@
+{
+".eslintrc.js":"76755f22a8cd7ff2118a16c7b613e3d203ce8f4d6883aac5e98ce710ae8c3a2e",
+"demos/network-idle.js":"f5b23c4b6448685d5db436fe30e5045057b686f7b9bf162b0e2195ed1bc09555",
+"demos/sw.js":"b018b5382f142cfb2afffb51a377f3187228a1979d8c56888332cf086b184688",
+"dist/quicklink.js":"5c0215075e823b50cbde6abfed728cefbf78e4f13e3c02ae2eab8cda456d1b88",
+"dist/quicklink.mjs":"6bd154f68cac729b00ebd27a424c6c57c0d19f6e85824deff72dcf27663ffaef",
+"dist/quicklink.umd.js":"2a2652275c8129be5ba96c5ddd714fd5a421287d5e395197966b31e2c69fce4c",
+"src/index.mjs":"2866ce058ac7d5b957524a8f3b10ed2936631096d9c7757079ecb13c84cca6ef",
+"src/prefetch.mjs":"cb762b9f999c82ea5314c88b253045c783590c2fe2761f4395d93db9379cc932",
+"src/request-idle-callback.mjs":"2f334b2ddd5faf8704dadec152ef8222f9dcedf8bbee924f8691e6337eef278c",
+"test/bootstrap.js":"80b7ef86d12139f3bccf39999650667fae03c017ca2797234f563a12f4256d84",
+"test/main.css":"b695455d76f7471c7cee0c0b37d6f28da4c966ef77fdaab6ef342c52b9d1c616",
+"test/quicklink.spec.js":"7cfd539fa5fde49c1008d0e420daf3b0485e323d63a3a33e02e2fec6933d028b"
+}

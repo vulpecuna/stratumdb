@@ -1,0 +1,16 @@
+{
+"dist/react-flip-move.js":"9e5bad712f5a41fcf51c3a1afefc1e915b82f27024be61f5a432ee7a7080d3c2",
+"dist/react-flip-move.min.js":"a83521a3ff6362533f179a58475bd17595992f086a19f14d9540be1479a38dc3",
+"lib/FlipMove.js":"bfd52f5e1aa4c31c73167d379d80f3757c0c45da180c062e8f589b057e0e4641",
+"lib/enter-leave-presets.js":"5b633ba7150398cf8e550102e71ab79cf215cbfdae69036a71de8cb2f669337f",
+"lib/helpers.js":"7a12592f1d993efd4b4cee3e0b1801d55adaf4e24ca5ae0ceebab7943c011c40",
+"lib/index.js":"d9fda5aec9ed8b78df891597d709be2728568ec1a2b02a7c5d52ea903bb373b0",
+"lib/polyfills.js":"c625421de5716121f6e87d38b6d7cdd535076437b17de4238c75f6337517f7e0",
+"lib/prop-converter.js":"0f290b89159e4479f48f708cf5ff14b098eff56cb907dd014b9820743f109217",
+"src/FlipMove.js":"63cb6b8a408819ae05e640c987d51ed0c3123654a95ed9cd685519a733ba94f3",
+"src/enter-leave-presets.js":"b6a64c8f6a11ff4d6ab8522a750ab80abeb33a37aeed804b7a3eba37fcaae8d3",
+"src/helpers.js":"3c95e9f8fe684a4541598a4075618272dcde0e2fee39d77f426de9122f751d44",
+"src/index.js":"04af4f962c31008fb5eb7b30c7cf9a688f76d1e39cb5e73c92dfb3ca6a88389a",
+"src/polyfills.js":"8b4404ffc9a7ee8eb79523911fe77dd65d5413979521adaf9fcdba9bc8e83b65",
+"src/prop-converter.js":"6502637027113003ddf62d29861886785287d02a98500d92340eec17d481ca1f"
+}

@@ -1,0 +1,8 @@
+{
+"Gruntfile.js":"a3c00beb8b48c2b193b63467f565b85d9acf7bda7f2ce91e720adb7f1d57aa61",
+"lib/jquery.tabletojson.js":"cf956f8d2d3dd00e6249e8a7b0e8816e7410919a95cf603c0077f3fb2bfbdb2c",
+"lib/jquery.tabletojson.min.js":"a74ec96a008a304614651a6f7c421eb5220be46835a88b4dab66a1497fd1e5c9",
+"src/jquery.tabletojson.js":"bdaa9702dc838efcaf2760102719496e2c8fe6850d80c23836ab07b8dcd69432",
+"test/specs/content.test.js":"0cc5d95a5453012ec7e08fe7bff360ae54e866b6c5c4ec755b26a855fa364ec1",
+"test/specs/core.test.js":"f15fea12ee982cca938103da0987fce71aa00238b8f98b04738b8181d4005d9d"
+}

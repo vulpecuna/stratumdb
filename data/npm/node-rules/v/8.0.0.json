@@ -1,0 +1,12 @@
+{
+"__tests__/index.js":"79227fd5dacc7543eee8f5121953ca471fde535e1f31b9996c56b4abc4abb15e",
+"dist/node-rules.min.js":"5399822d62ed621c0d6423ca26ef9dd2d55c8bde42f67f4d914999fea2e3caed",
+"examples/node.js/1.SimpleRule.js":"c72f09ace0024b709f32b413e7a34ac206ec450f38065d6a3576afe530cd1a78",
+"examples/node.js/2.MultipleRules.js":"913f027d5608731636f4273c3d27392ad109c03817e74c45f914083d1f0ed7e2",
+"examples/node.js/3.CascadingRules.js":"1f560f47c680fa84f7b4b082866177a8864c7e7dd56d6fa73a857848631f0dd7",
+"examples/node.js/4.PrioritizedRules.js":"2f258257fc2706d2f2323a70231d874e7e2305f6da4d25e558ddb525dbe7da6c",
+"examples/node.js/5.RecurssionWithRules.js":"c8ce995f5d9a648145d526794288e70ddcf2047ff751ff326e2fa7ac2581d2ee",
+"examples/node.js/6.MoreRulesAndFacts.js":"c8f0b2f790bfe12168ac5ae236b6ee3a0786cb86c7dd1264fa87c038165f142f",
+"lib/node-rules.js":"5315f6bebfca0906b2d395059aed3f3f65f8ec0a8bc2795d1ceef7140ed33371",
+"webpack.config.cjs":"fa2e14990af35d8393dda3ba7fb385d70c4374c3acd1bade953af42ba0654d83"
+}

@@ -1,0 +1,9 @@
+{
+"lib/cli.js":"7f7f1f5560d202c792d7dda8cee72bc9b0ea7e7ed99f6ebadd68511930627c9d",
+"lib/hint.js":"3fffb1f5930692c5701d2bb8eedd0461727f67a13e0768ce2451254599c076e4",
+"lib/reporters/checkstyle.js":"5eaf8dc331f1a8a0916f4216d8d982fe203f60db88f68e2b3351f5b712c4c93e",
+"lib/reporters/default.js":"5fbab2023a58b1a714a7827b4d777e93fa7aa9197de11c38898aa356f54aa75c",
+"lib/reporters/jslint_xml.js":"f116f5defd2bbaf1281cd1f8c86c0469213e52941668f072766051c4f0d9d0ff",
+"lib/reporters/non_error.js":"054b1f0201262e41cfc32a85cdaf4917a6757acd061b70f9de98a56197f61713",
+"packages/jshint/jshint.js":"91b0c1de3bdbbb596959d25badfba04f9feda7ffaeadc8e82174235b0b08b778"
+}

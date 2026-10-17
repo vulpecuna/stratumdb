@@ -1,0 +1,12 @@
+{
+"benchmark/benchmark.js":"da6201c6dc4c236f71900ecdc0148225da3da72f505c06a6a127de4d2891f6b5",
+"dist/angular-sprintf.min.js":"5c2c534f4d9bb7556b62ac1c9352ef1f532bd83e92e0909de19bc19c908a04d5",
+"dist/angular-sprintf.min.js.map":"3a4813329f495d5bc4abf1430d3225be6d451044175930d47cd7ac23e516fde5",
+"dist/sprintf.min.js":"b3b890b4fe24552bef823abfe3d7c232726d160e1c4410349b36e6b007c074e9",
+"dist/sprintf.min.js.map":"3e87004da679f1776a52ac1c84131c3d8fec854e88b28339e3bb0adf53de1a31",
+"gulpfile.js":"5ae0af0b29f298c23a04409b3d5027e27cc325b0285150d334fcaf575d90311d",
+"src/angular-sprintf.js":"1ef646fb9ea453e28ed9fb66e1175e424185c007be643812260532680647b695",
+"src/sprintf.js":"2dbc28d1af73b5dc0e2f007aa99c598bad05c4560270e0232b35a1cf6c8878a5",
+"test/test.js":"2b401295e661f07ed0d0fef1e176ee5fb965f6d57af85ee98d6ef53dcc7c11f6",
+"test/test_validation.js":"73239862e904dd88a1ff3952cab69469c7f6f0573d1faec472858d33d275d355"
+}

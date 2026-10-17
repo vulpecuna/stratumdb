@@ -1,0 +1,11 @@
+{
+"bin/bin.js":"a946c536e6b1c1636f8fb8998db63fb9a33dee20b1f1781bd646acbbb4114059",
+"libs/base64-string.js":"9340c43ff68a797305248bbc168aaee71b4460c0b0ea91192064f4d2685453cf",
+"libs/lz-string.js":"54a9eaac48d4fc5f190b88550c6f942c6f7af9576e171fe5de24c16a0dba82c3",
+"libs/lz-string.min.js":"9d1a0ef07a2ea5faa8cd4afb60a0518075e6771e341e5ff4e0e481cefedeecbf",
+"reference/lz-string-1.0.2.js":"58a7a887090cd33e763d470bd9558f177f4b2c52de99e01fabf0339a44c9f150",
+"tests/lib/jasmine-1.3.1/jasmine-html.js":"658b04c10eaaac49f7238474a65d4a4032c7252618fc379d5480089011aa2240",
+"tests/lib/jasmine-1.3.1/jasmine.css":"cae030ef34b5e90cf6aa4fad7a7bc10035b400470d14961557306a9d46676193",
+"tests/lib/jasmine-1.3.1/jasmine.js":"44067ae5f28d8e9668cdc014cbfc26c273297d83a4f862c406c34ea747169c4d",
+"tests/lz-string-spec.js":"f0f880e814fa656b962f26987eed832f86e75fcbe616b571b49244a590fce188"
+}

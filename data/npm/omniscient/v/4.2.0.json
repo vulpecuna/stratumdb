@@ -1,0 +1,14 @@
+{
+"__mocks__/react.js":"3c6d977eb7d1ee3966d8e02796e7529972b922be2a728bdd7ca3fede97c2a264",
+"__tests__/cached.test.js":"c755c72b6c9879ae3a8e1220114cbfef48137d06826074907d09063e78accc0c",
+"__tests__/component.test.js":"84de467e30b4bd4a4e0cef5c0e4a5ab83b96f1b73970917be8f4a0509ab42cb1",
+"__tests__/debug.test.js":"de1bd08b0262f342f6f467c41100995d04a9b844d17087ad4ed7abfecbbffdf8",
+"__tests__/integration.test.js":"aa49c30b28117961f3a45247a863e13e0735680d5c04c68e825c1c64d881d93e",
+"__tests__/shouldComponentUpdate.test.js":"21306039a5d47968f9a90515165c2d4f1cded7e87a19e11ae9601ce51ff1f2ff",
+"cached.js":"0c4e25797dacbeddc678e5b60b7fcf0f398f8fcb870ccd49fb63173613653627",
+"component.js":"6406069e1d3683278882afdeaa893c3b56372c04b1b06c35039fff93400caaf2",
+"dist/omniscient.js":"f401e52c374f2ce2c6d935ccf20644ebebfde5ba25d07161b9df18fef48e00ef",
+"dist/omniscient.min.js":"d07aa70ee6276d7bab100cf3d4343f255f87893d26bc403f7ef86003923a585f",
+"makeBundle.js":"0da4c72e31ecae8275a0295081fc5f95eeacf921d04e43418b177d966bbf9bbf",
+"shouldupdate.js":"7eddb27bc6adb7e910f2e65bf2cb01e16bb29a59e7a978f6f0198af1b489f019"
+}

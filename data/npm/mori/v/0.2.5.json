@@ -1,0 +1,6 @@
+{
+"bench/mut_perf.js":"c1dc6e9f2eb20d45ea1a7e159e3b73f2db6ea7cb8ff4109522614437e587d92e",
+"bench/proxy_vs_freeze.js":"2d9c8f73d6a51213329fd20a3190d8563d06cedfab70e33fdd0232d38c605265",
+"bench/trie_perf.js":"d548dd77f790aec2d3d4f134fd5f2b09233e42d5d007d097b94e6026f03f3259",
+"mori.js":"bffb6f44679fbfee29ef8d809f7f56ce0faa93ed45eab6545c3a9922feff2482"
+}

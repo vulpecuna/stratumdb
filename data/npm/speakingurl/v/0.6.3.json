@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"72b0e7c6ade357156900cd58bb74b786c65f059008346e2fb5386071f01f3858",
+"examples/node-example.js":"e6aac77292e7eb4b09bf455f3c16516d3e4e85eccc101a2a022d3f10a6006723",
+"index.js":"f87890b6d58f3a7e71b06299d2166c29e394be25534e469d158d26682a228376",
+"lib/index.js":"57efecd94ae43272eecce30b01dd7e65efd35d83fc7cf58f35149aab22dbfed9",
+"speakingurl.min.js":"4153d75aa62e2a57cdfa4744f6e54085a6ed838a5861b56f511e71debc51e307",
+"test/test-create.js":"b97b5ddc10c0cb3da013b08b81ddf9841eefb360ec00023e185268e164aaf018",
+"test/test-defaults.js":"3389d5ed87269b567b3b04db915801d10e23e70d14b4d600f56e7535e4a2ae5b",
+"test/test-maintaincase.js":"2909763e65626e16aed4532c17ca107fd06966cff4eca40d5124c704ef134906",
+"test/test-rfc3986.js":"6a7b8dcd4de2b0b29588c401331a77a70a546b04803a7fa069a7a9fed1ce758b",
+"test/test-separator.js":"74ac112ea354399db0b54dfde4dfcaf724787e875795c76cf1347ab396eae823",
+"test/test-speakingurl.js":"58c9d6701b950f1f8c81ae8886466ea794f77fa0ad3e978ce991d4faf530817e",
+"test/test-symbols.js":"9717e72f087e99ee8b1255af2224ae49faeb6d662be23dd141f9f9c1f4e156b4",
+"test/test-truncate.js":"807c788fb2ee64b3040aad636310780c81d3bf75bfe96c34774a4cc8528615c0"
+}

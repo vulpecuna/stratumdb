@@ -1,0 +1,10 @@
+{
+"bin/liquid.js":"b41aa33da903c7ec36bc26ec554b83199b9aa5b9e7edbd00be60076cd8d3b765",
+"dist/liquid.browser.esm.js":"8f1d0cf5708530732925574a0c78414314e5396ccb4e317c5f76ba06f281435e",
+"dist/liquid.browser.min.js":"d0b45641ed0964aedf657778aa42225a8cb5e2f87c48e3fa905fa69d859ee443",
+"dist/liquid.browser.min.js.map":"28aed5a364ea665b364b9f9e95ffa9e4d8275181b487794240aea9062408a5c3",
+"dist/liquid.browser.umd.js":"fdb7d883dd9cbfee7cf5bc58dd924a8fdf7320c0972fe6fd7543fb6c9e7d8038",
+"dist/liquid.browser.umd.js.map":"94c847f2553aabf9bcf77af132cd81bfb02f5214f1f28780bdf4d79f9422a7a4",
+"dist/liquid.node.cjs.js":"013e73a522cf46a69c70e2266ebe97001682bf12694f64b28fb421e9583f2c6d",
+"dist/liquid.node.esm.js":"fc68a116c385ea5c47cfb0bfcfd5524d7d6050b27cfcda25da8baa46032e52e6"
+}

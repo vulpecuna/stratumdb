@@ -1,0 +1,11 @@
+{
+"demo/reset.css":"d6010d3b95ac45857a0763aecca889644a07cecaac4d3397aac210f2bf91cc26",
+"demo/styles.css":"b35606a032f8221e3f5a836f52720882e289bfd43243524e237409f999be5944",
+"dist/medium-zoom.js":"75d27eb2522554fe8c7ec3a60720f8b91318dd1a8213558fc3fd7fbf4a60788e",
+"dist/medium-zoom.js.map":"cec44b94da582cc3c03481b7f5b1452f940a9a8998e84ec6513d5528d7bee7f9",
+"dist/medium-zoom.min.js":"d930dd38d3a0e3280e72c12920f7cc52d720dc0e9956d80a2fc7fa5cd3ca2afc",
+"dist/medium-zoom.min.js.map":"bd5ff9e88ceb38cac7324eaf69c42b7d5810a003ab283d9321aab11f1f10319b",
+"src/medium-zoom.css":"3817f76a4c9092f6aa05b4a203af557429da0d58eb1385c4e3f98c41e294fce0",
+"src/medium-zoom.js":"da6faabc22d877a22b9c4004abf33413180a006063e1d9c1b35e4bfbf04a0413",
+"webpack.config.js":"376b131b422bbd72de6d7df2896bf13e8fc40631ab3ef987a75eedbbd420c285"
+}

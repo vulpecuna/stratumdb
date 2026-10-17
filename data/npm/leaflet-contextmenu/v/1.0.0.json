@@ -1,0 +1,9 @@
+{
+"dist/leaflet.contextmenu-src.js":"c12e4eb2c70e7cd0234f6c3b9bccca5cb1f34d2f984868c6d8a27fc91d4fe76d",
+"dist/leaflet.contextmenu.css":"b9b6f7402098b8baaa5d6654691f235935799f3001b31fd6900b48628ad5302d",
+"dist/leaflet.contextmenu.js":"a06bb992990c8340ee05adacfc9d31cbafafcafb621e56270c104178c2dd7f9d",
+"src/Map.ContextMenu.js":"17c649af2dd7f4bcc64ea2f710358b51d4ea3e0c9453bef2b2cbbfb426b3ff45",
+"src/Mixin.ContextMenu.js":"2de9c0f7c1ed09f56749b69476c3c3ed38bf072b0e5883de3331e54b77b68a0c",
+"src/copyright.js":"a8b7cd06a2d20185ed62dbf5c2dd29017b929eba86bbcd8ed8fb66b37037f8ac",
+"src/end.js":"ff0c40b6b97a640cab3b67491605c76264e630b33207936deab6d5c69d0be72a"
+}

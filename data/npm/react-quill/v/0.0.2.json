@@ -1,0 +1,8 @@
+{
+"dist/react-quill.js":"a42ea9f9e13c7f947f1028662c3c6e8dd56cff9e80bdafec8b9caec43fc27e86",
+"dist/react-quill.min.js":"5acc0760e2d0b6a05b7d904422644bdda937cde664a41046f244c8a2b1df7caa",
+"src/component.js":"d93a673914f9390beeb15c399f644644d8780054c6fab1c915aee64aa8c5f5e5",
+"src/index.js":"32f482f88f92a9171335d2ac1070b164982eaead04b94ef3538b77161ce00aaa",
+"src/mixin.js":"21a8a399ad1618180c8dba2a90e16044e9a4342a68d168a6a5cf43c85dfaaf32",
+"src/toolbar.js":"84653d8f9dbf811964c788edc0b0adc92b8aff95480ad2ca5a6836c277371f24"
+}

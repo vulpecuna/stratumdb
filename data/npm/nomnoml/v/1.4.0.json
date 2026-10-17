@@ -1,0 +1,10 @@
+{
+"codemirror/codemirror-compressed.js":"6fe3a464027a60914b9f5c4349f668d359482ec54623382cc4e65ed5c1f40113",
+"codemirror/codemirror.css":"17cc7e67789b66fad3e80621758440841680efb5d8a1c1544c603f94c18d5581",
+"codemirror/nomnoml.codemirror-mode.js":"9ddcc06ef1e00793dd1a43533a5d772dc130b06c86f8bc54b5455dd100aa9388",
+"codemirror/solarized.nomnoml.css":"2a2e6cae4d71ab63a14f8d4c0aefa645db20bd1dd8bc1aa3acb6b251300eb872",
+"dist/nomnoml-cli.js":"e0a4027118211bf9fd295d532b79d4a2c8d6c3b652cfcdaa57a8e90a5c18a447",
+"dist/nomnoml.js":"67fcba09bc7c9b1900cf91be07d444a6d293fc1c4a9ca08a4d497d8400908296",
+"dist/webapp.js":"9dfcb5f4e733f5f812a30058e7c1acc5207553bd9356997153d0858d9eeb409c",
+"nomnoml.css":"9540c062eee9e51dbba9e87b87e3fd5dafe657fc59567923839e195605d59bb4"
+}

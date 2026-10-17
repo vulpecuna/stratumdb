@@ -1,0 +1,6 @@
+{
+"js/jsonld.js":"f7bcb009b65be6b04adc8f02633aae871ccd08a6dd76f5ad4128f107e8265832",
+"js/rdfa.js":"150d2e69b4e93c02d2e213e1fd800e5870dfad97f4d20218dcc356ae22016749",
+"tests/nodejs-jsonld-tests.js":"f01a9233c389d38b15b0b92428d2b81302b43edaa8fef9acc9ca45c88adbbb39",
+"tests/remote-context-server.js":"a6906ff3f578e13c6bf337cd1c995616e328554e36f994efb99b46361612cf03"
+}

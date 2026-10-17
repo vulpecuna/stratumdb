@@ -1,0 +1,16 @@
+{
+"benchmarks/commonUtilities.js":"d5c3a1ea2e72e870e16cdfa3762ae2f3a98460fe80ee4c0ffd917c0150293d5b",
+"benchmarks/find.js":"826b4f7c452d323f94247e1c6104c27bde09bbedba2c36ad7f03e3a8e5d30ec2",
+"benchmarks/findOne.js":"8c72229404d359e92643437dc651791c27b752d9f340079a7ee5887f8e30d89c",
+"benchmarks/insert.js":"07b404d447d715405a4a8f32d484a7abbeb4b299f6cedd7215fcb0969074f986",
+"benchmarks/loadDatabase.js":"2ea5b9190e574a2e096d9f4247a1aa0d35d22bbda8b86de08ebea678df4ad1dd",
+"benchmarks/remove.js":"ac1908940f79827230d074b5ddf583a069ce4f29cd032595141952af003ec6db",
+"benchmarks/update.js":"78986528ac878657f4665979425cc0999f2a4d3f0f0de487db30cf1ef54a9bf4",
+"index.js":"915ad1bccac16b2c963c3a732925a0a0b2df26d5a386156a5aba9cdfd44d7239",
+"lib/customUtils.js":"a18736ad73429e68d8def683e110ddbe8282ddb36b3557d54175e5576ed8d518",
+"lib/datastore.js":"e0b99f632509b1ec83d6c6dd7c34a38e4fc5f603ba71fdfd1e92eedb8a4a6877",
+"lib/executor.js":"b9cd0df6ec5f5e84d8114883f7c5e0654c173f7ba4eb6275f769f6a909c217fb",
+"lib/model.js":"b3bea473c2f976f1d5e5a0b8c08f949249543717ba4f82f21b0a5803758770a0",
+"test/db.test.js":"28c43d2f74bd6fbfac98943acc375ec8fe18d643a2fb1b01741bdef77f9ba0f6",
+"test/model.test.js":"52502a7c9bd4a220a57b272617704d72408b0c2a2f77c4e3737647196bb82b7b"
+}

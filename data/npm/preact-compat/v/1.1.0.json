@@ -1,0 +1,12 @@
+{
+"dist/preact-compat.js":"7ffbac21c94b7dc89196ac57fbcdc79ddde248af36fc3b60427ddb90b67ca149",
+"dist/preact-compat.js.map":"3083750ce2f90851945f839e9e3075f5b619a5967fb23fce70b542d4a96d7ce0",
+"dist/preact-compat.min.js":"1bba9a2d69f984d8b34bb37a7fb401afdb7e098076838ee85d5be3772f831f85",
+"dist/preact-compat.min.js.map":"8bdeb674958cbf38899822c3aca361937b27b82ca2c7502840c9506c940535e8",
+"karma.conf.js":"b0c0e886af90c7a50cd11f0688e3cfe9237bf2bbc628962e48ad63d517406e67",
+"rollup.config.js":"137c3ae92b6ceb81d86ffd28199b1d7903a4c09fd9913f5db47df1a6ccafb476",
+"src/index.js":"72046174e2f20ba395bec565f62018f0a29357ba3753070b46d872c23a6f2267",
+"test/component.js":"3899645e9cab6b3eb472aa6e71f5c07ee3dae519f957dcf81166f6dd906642ca",
+"test/index.js":"332eb3f3360d5e797137c9412d95a304d1c79ce59bb757462dda24df717d2673",
+"test/jsx.js":"c330cc1e9ea3bce42b5eb793d8e519389104ef5d318418b5cb2a3c87d9101f17"
+}

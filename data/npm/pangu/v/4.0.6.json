@@ -1,0 +1,11 @@
+{
+"dist/browser/pangu.js":"b759f4188231fdca7181b55eb4759b38fdf6b125229bba1baf6f87dfe01224e9",
+"dist/browser/pangu.min.js":"1dfaf4f6f19c9ba8f7baff1fcb88dcec684a573716fac2a203d965700e36b48f",
+"dist/node/cli.js":"0f29a638c0baf91e8483b3b35d63a1c0d19037e38e441b3dcf473057b33c37a3",
+"dist/node/index.js":"268e9586b89a259cad3fc01c015cd8f13c4957f4e9899af3fecaf8affd8a3cc5",
+"dist/shared/core.js":"d1cf7eca9783e376c3973f5caf77a39af459b61be5ff73e4dea723e916f6ee38",
+"src/browser/pangu.js":"a4f579115d76310e0e36185d584d1c8cb59f712b90cb59b3f0bffe8b376f47d1",
+"src/node/cli.js":"202d131cd4705f3dfcb32bf282dfd2a337043a7b24669a8592ee08e64d1f4f03",
+"src/node/index.js":"05cdee1f2b20847afa6190239cf16de2080252442ee8cba96fc93a836053ac3b",
+"src/shared/core.js":"e33eb5b2613defc2aa881284e0708e1ab6b2223280e819c8705ded1e306d59de"
+}

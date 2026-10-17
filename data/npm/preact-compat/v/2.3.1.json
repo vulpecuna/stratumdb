@@ -1,0 +1,14 @@
+{
+"dist/preact-compat.js":"4a138add4d3ed7ea32658892d31b6ee44ce3c8ac3cf0fb62bd6b769e27febddf",
+"dist/preact-compat.js.map":"7d675e6a13a2581ad999e9356bb62b23c1c1f50cba6f9e1a08b1a8d46360a45f",
+"dist/preact-compat.min.js":"b15b465179749a11a69bf0798a9e301df8b58290c2a8d7bd1baee2a78960aaf7",
+"dist/preact-compat.min.js.map":"944d11092c127739643cb554d68d3a416182ab38c6a972e14b8b32adcb7f3317",
+"karma.conf.js":"c78976b2e9a4c3f1850035e10b79d46d5bfe050ebad5b1e6b31117541c4823cc",
+"rollup.config.js":"c4ed38a79717c122182046242eb1218ed50812beffcb1ec06f0374f3a1fa0e37",
+"server.js":"54f6ac91dfb13e3124433e2e634e531a637d8f397df23630c4945a9e87065351",
+"src/index.js":"8b1007788bc0cb6e09e6ea668e97e17f41e30fa846af4526ddb1929e958b229a",
+"test/component.js":"799337fbe6398e69476eede814a2b436fb7ecd2b13bfdb846d17a22c2f4a3fe0",
+"test/index.js":"56ea98f0ccf7fd9263c5a05282418686fce6e075a72644101d42331e5772b08c",
+"test/jsx.js":"c330cc1e9ea3bce42b5eb793d8e519389104ef5d318418b5cb2a3c87d9101f17",
+"test/svg.js":"a1b424a4a73c8bea01e02b043726b3bdcf670bba8860a6e34c33c12fbc5b0e37"
+}

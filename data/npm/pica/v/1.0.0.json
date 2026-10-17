@@ -1,0 +1,14 @@
+{
+"benchmark/benchmark.js":"c137840b6e4dbdf43ef747b6ca9371a5c6103b2aa327fd5eae03378621daf55e",
+"benchmark/implementations/resize-pica/index.js":"e5cdfeee64cbcf5d88aff45a7fe997faa06a4decb8c8f0ba7454fadd50987262",
+"benchmark/profile.js":"f782f9cadba05b468481057979dad99852cc8d7a62c3142226b1526ae4f5862a",
+"demo/image-encoded.js":"384873cfa663f905204b62653c7cb2cb73d27cb2966fd44709d7080abf44297d",
+"demo/index.css":"a505c21bc407639dbaf720a7bf60da2c07770203b6fa2077abf37c7cf20bbd55",
+"demo/index.js":"57ea9ceb6846e4502729b86896da4bd722c1f40bf80cb1c3397c13241f20007b",
+"dist/pica.js":"97e82885595af30547fc7f11734ef148e66b1d56c690841c8efafdf3917edaaa",
+"dist/pica.min.js":"51e65abe91bf0fd4e11083c1cdf4f39068257e80c2bfc8a19f50308f1aa2b71d",
+"index.js":"9aa097d367c0932df4c850bbd9ffb13e1a1224c461c3b1b1fc53a21521e306bd",
+"lib/pure/resize.js":"5c995ad4854a3329e3934cc08367fe4ed07eda1c5779631eb2f328968aa4875d",
+"lib/resize.js":"f4c1da5146aee60cb3b2d1fdfbf2b949cbc70d647c05261de3a788efbfdba515",
+"lib/resize_worker.js":"a77a817a8cdeb86c34de4740d2af7d07f4f77fed001422e9384885f2eee073df"
+}

@@ -1,0 +1,17 @@
+{
+"bin/prettier.js":"cb9c3001987a387f9ccf6bf91495dd4fb6db5d3166d6ee3d1cde2a2643633759",
+"docs/prettier.min.js":"1c04ddc0a419c75faa421e06dd6aab261faaa3a9e3de778b8abb27577b78dad0",
+"docs/rollup.config.js":"15ce04b709d6e63fc82a9921f47624aa07f4dae8e09f5d9f14ba33d3afdfa9aa",
+"index.js":"7ca91fa80216eea8cf8cba35804f327b4cc904889723ffe9c09027ced5a1a7f9",
+"src/comments.js":"b7aa7a4f32cb49c3a14b3541733aa0aa633b4837d80f1d28814f11086906a3fb",
+"src/deprecated.js":"87567fd7da8ef233672a586729237d75c789b3c15d5ab40523ed5937ae6fa9d5",
+"src/doc-builders.js":"9c780d6698af7f46bc9186f64e988d3d013d44b22e05a895e1e2431886dd0f0b",
+"src/doc-debug.js":"8fe07efed964d326480c5e86a16b21bcd815b0c5bc65b3b216bf898e6e4b1642",
+"src/doc-printer.js":"98ca26b9375eddfa5012ec79059685be666f154a274cb62d26ae6e3bb6326cd3",
+"src/doc-utils.js":"5e055a2a889f14f32d756b5e44ef71082d02905bec744b2f8afe5739f29ff9e9",
+"src/fast-path.js":"598b349ac97c84c644ceb2ad0f5e49deb8143820b779efdcdefed88e65ce0dab",
+"src/options.js":"580d07706583ee77b6130efbaa8c280d4386481c0b84e915b123c22e01d78e49",
+"src/parser.js":"baa753053aa14dc575446deddbc3216fbe1faa6b2441e58ad087f66c4d33d213",
+"src/printer.js":"ff0e8829d85b589a4b166233905b3840db93aabcd6304c15760df47523caa9b6",
+"src/util.js":"1ba040b031c372564b2ce81f6f3de337f03a15b135e999c658fcc9e1f1ff2de1"
+}

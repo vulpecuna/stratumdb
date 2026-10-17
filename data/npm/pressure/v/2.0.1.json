@@ -1,0 +1,17 @@
+{
+"dist/jquery.pressure.js":"0b352b4d74a0d2711c4a6b212e01e287d6c134ac13765d59600819dfb8975f1d",
+"dist/jquery.pressure.min.js":"38cebfd8159fd9da9db7ecc5e393f1b965308a7f1790c7c13b6e61a99ee2fddd",
+"dist/pressure.js":"84d72e4ec66a9043d6c02d2393ed2a423650769c834180990c245d77a68befd2",
+"dist/pressure.min.js":"b292e7384d1730df14e9aea3f7ce49c509da658271e413e652832e3b0755d96f",
+"examples/example.js":"3be9203fafe051dfc56fb62f3093b43c6da284b09b7c685d3b0ba90eea849a3c",
+"gulpfile.js":"973a5cd932ff0e458bef62bd65f04471018409bd2c8a8892c2e9ee9497f42895",
+"src/adapters/adapter.js":"705018a3bb575edcaba1c47b98ceed1aadc200f0d1bebfd438cba27525a77889",
+"src/adapters/adapter_3d_touch.js":"433acd0ae3b133f478e714b90c280d1c8f57c0c13f988c985020006497bd7bfc",
+"src/adapters/adapter_force_touch.js":"f9a70f6b282d7e350d844cc49fd850f857420817ad686eec3907ea64bc090d55",
+"src/config.js":"527a0b4697e6930162ac53be06bd01fafcb1675f5f3f0a3fb462bb8aeb536806",
+"src/element.js":"37467fbcf164cceb84fa124cc6383becff3201ad54c4d4198f5e95cf8b26a8eb",
+"src/globalize.js":"37c7f0649585d9ee9a8c650091f2155ea0aa25a95139f941cd1d850070641425",
+"src/helpers.js":"a090aa768be31ab3a11b695753b499fce10c0e7dd4e118ad8077f962e9803647",
+"src/jquery_pressure.js":"f23065fcea6618f3ebbc11f133f6684ab647ea9f66fd2f2523d9d9a52360a7bd",
+"src/pressure.js":"62654746c8f123287fafac27ca0f3f908999c036a5d504530f728024aedfb829"
+}

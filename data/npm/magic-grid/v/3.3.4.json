@@ -1,0 +1,13 @@
+{
+".eslintrc.js":"72149c44038110f965b1d55178ab54babe9793583b76320f99fe4ec6adeea8a4",
+"dist/magic-grid.cjs.js":"c6231f4b482b1fec265a165cded81d8fada2de57f34ceffcf95db95e6adf9d88",
+"dist/magic-grid.esm.js":"038c4c81840be92e286ccc9feda1d60bb8fc30d6575e4bc0eb60f9d252f46eb7",
+"dist/magic-grid.min.js":"87c3fe630f29fbc64e837839637a884e9d264d769c9b304ade5f013ecae40533",
+"rollup.config.js":"95a9c41571f56b8bd4347ba9178fd39cc8a8070b064ac1f30a8cd81e11f2f98b",
+"src/EventEmitter.js":"216e368d3ab0d27bedfc2db900922892e99c0c0b2dcad7ab0ecabfb4924d230b",
+"src/Listener.js":"f2c679795a3591dbe589ebb0c6d3a47ee52b68558f729cf59ea550bf9cc5d772",
+"src/constant.js":"aec2036052e832a128392e071755bd1cd03b140b467834891adce140da880388",
+"src/index.js":"ad42c16c8841ccf40b115565a0fc7c65d3a5c901d1a8a2e2d2b503550cb6cf83",
+"src/utils.js":"e596f5e9d40b5ee656383a22c4cc48d8a1a94f5fb8e5319ce59fd54cc92a3556",
+"test/modify-items.js":"9168de13d1719b78713aba39edc5a24b1aeea5252178e46c135e7e504ae3b319"
+}

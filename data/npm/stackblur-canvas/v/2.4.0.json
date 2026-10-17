@@ -1,0 +1,10 @@
+{
+".eslintrc.js":"10a785e2ea6328ee6f21d46c3f7d4b67f5ec1166c9c1defea052e15bfc769202",
+"dist/stackblur-es.js":"f5a047586dd13c0292a33306e22e7b770d87d1480ec0f3fc0fa8ec6fcfecc118",
+"dist/stackblur-es.min.js":"e2b3276e2ee66e44dbb8b13925f155dbdeaecf19be9c2f788fffcdb0efb7e42f",
+"dist/stackblur-es.min.js.map":"f730cb249b6ebbe1f183256872c3945b359d3abe2bd57cbefc1ea683d2bb8a36",
+"dist/stackblur.js":"c35d6f6e22fa4f7fb40fc2fc4f1a4a74d845891f49f0a9bbbf38b68ccbc66736",
+"dist/stackblur.min.js":"d3497186b74e8e5c984d889dfcbdc4ac3d7e733de4f600523c53a485a95e87ba",
+"dist/stackblur.min.js.map":"ef0e77b6f37a23813c05b40c8b840cfbda03834b747a15bfd5df307b4379cc1c",
+"src/stackblur.js":"29f056c32dea05a81f77c8ab0d47f302c01abdad44bcabfbae2b82d5725b2415"
+}

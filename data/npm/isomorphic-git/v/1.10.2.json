@@ -1,0 +1,12 @@
+{
+"cli.cjs":"5242408e610cae4a741a4b7f84e0675f7c880e366b89eae7564ebc8f9b266b4f",
+"http/node/index.cjs":"c3ea1c171bd8a3b7744576be49883657dcb3027292822631cde0554a899f539f",
+"http/node/index.js":"504fa0be7fc6bcc6f75bcf4c5e049dafdfe0b511d11bdaec57afdc66234b023a",
+"http/web/index.cjs":"1c361d5bb51aa1fdcafe49627fafc1e4413076ecc2d1f9c88b9f6d0dbce7084d",
+"http/web/index.js":"51d37d89ea5e335c6b07edb307c7b86f2b74fab8fe37eaf915ad79431b1829d4",
+"http/web/index.umd.js":"c30bad9acd533e95ba6e3dfcb121baddae32bf4daab1ea1e7316fc6a44437e56",
+"index.cjs":"7878b6647f2d0d1871b05d48b2ac1d45dcfbfaf13e543b6104d0472ec3410800",
+"index.js":"bd41719ebac62797cc4eb232f5d9b66ce97715c75b5a89bff389efb8659bd914",
+"index.umd.min.js":"720adaf7f9fc196f3ee15d103dc62b556a138f637d16082512e65f92737292d1",
+"index.umd.min.js.map":"f7095e23d8148a42451f46c5beffe0576fe2715f2134d02ee2e4c70514d57574"
+}

@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"9e6f26201412424967d945e46258db2fc0208597d2f9815cb6a2a07dda53c0ce",
+"dist/jquery.textcomplete.css":"cd4284849a44efa3523b4737c147ab2e5459c6317fd916fd85208930e25020b0",
+"dist/jquery.textcomplete.js":"97e9609f0022460b187ef4386de26a729b5f83b4b9d4ac82b33875d7154765f1",
+"dist/jquery.textcomplete.min.js":"8c83b2f9cb093a0bf9f70179fb0e7dd18990f796f6dc352c3e488b3bfb3f3c39",
+"dist/jquery.textcomplete.min.map":"b55c27608db96ef14f5526e0f37003540b6d59bf5ab3c93121ad5cd1bc5f12b6",
+"src/adapter.js":"a5ea501ceaaaf4400f50fac544c3382b42f757087b45d94bc2e8e9803657a7a8",
+"src/completer.js":"fd3003228d8c096aab1ba092dca77c48ba4b443d81fcacf544d6071608edcc3c",
+"src/content_editable.js":"85f897451795606c1bc9690c13261ad35a37a4ed0afedaaaa7c54f9707609a1d",
+"src/dropdown.js":"aa0a17f4b93bf633ccc50f4c7537a76435b68e7e70b39443501230f7b2dfea88",
+"src/ie_textarea.js":"75ca96b38aaf16bebb6b76f93bc73f6606e38511cccd103d11e87fdfc52a8057",
+"src/main.js":"8b4eb1334c2e184d38ad5d944f6b6e21a42e588026b50707749373c820dbb315",
+"src/strategy.js":"2b430a0f7b21857f9999d0216e76c9753938d5dc4378ef0186cd71ffaad63b5f",
+"src/textarea.js":"059bfb8f1797e4ea14892fd0afbe50f0af9029a1a70c32bce71cfb8f6f79ade7"
+}

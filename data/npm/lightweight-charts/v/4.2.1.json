@@ -1,0 +1,11 @@
+{
+"dist/lightweight-charts.development.cjs":"e7d9f99f837e3ef98060769894a5b5750087c1b2e2601f0540ed0561ef0a02b7",
+"dist/lightweight-charts.development.mjs":"8e58c4f0089901bc391131c05afb7de7f185f1a3cc2c68dd23cf189d74278f4b",
+"dist/lightweight-charts.production.cjs":"612123bc28cc0ae0213ec7c521a8cc2ba96104e68ddf6460835d5ed54819f62c",
+"dist/lightweight-charts.production.mjs":"fb02d103aa1e3f850ee6c1c13d059739554fc96d645406207a4bc2153818325b",
+"dist/lightweight-charts.standalone.development.js":"c185bf468260f0b86b4a05791909d4ef5da3af4fa5b24e377a539512789d1be0",
+"dist/lightweight-charts.standalone.development.mjs":"c08815831d6318c17af1929d07d593af179d8eb846646a31b4f4fe4343aac5a2",
+"dist/lightweight-charts.standalone.production.js":"197180bdf2185bb33f3cad878d0d29d2128b4fca96ed847a0de4dc64da1c5e97",
+"dist/lightweight-charts.standalone.production.mjs":"cf33fae216c0d77c4a7d53e5bd557814df823423a5507dee476bfd340b561922",
+"index.cjs":"e36c8a25221e058c1bb697c4bb6d2840c9538db03df2356525104b9fc8b96bb4"
+}

@@ -1,0 +1,16 @@
+{
+"dist/css/nanogallery2.min.css":"bd15e8764d9e2e58949bc4aee93eaf76a426f2b3d39a6da7104b9ce92e5427af",
+"dist/css/nanogallery2.woff.min.css":"09980efa87ffd496c75e70a1b76231cc1aad674e440f3d4fbfbeeb8088346baf",
+"dist/jquery.nanogallery2.core.min.js":"06b8212eeb50e97c0e30c0cd8d1bea20db610297d5932f125ff2f0b498aaaca2",
+"dist/jquery.nanogallery2.data_flickr.min.js":"c5c354b3c498889631bdc51a2452a056f23336de2f06578b89284e99fc1202b8",
+"dist/jquery.nanogallery2.data_google3.min.js":"f876beacfd4791d98b7d60c6dfdd0964b9d3061aeef9dce46c8578de717bfca7",
+"dist/jquery.nanogallery2.data_nano_photos_provider2.min.js":"b1b98ff02baa127b46765a56d16e7e4f09b4023052c333e004f808adfa943287",
+"dist/jquery.nanogallery2.js":"499ef2d2ee504a712d10e9e1098a5e9c8bac95268b26e8ebaab0e4cbd964564d",
+"dist/jquery.nanogallery2.min.js":"421fd0272509a3b595beeb265028b9850e1470e265391fb33027e07aaa3e9609",
+"src/css/nanogallery2.css":"5ad87c773aa0634c7b351e0e1f2197fab89a7d994e7d2a376b1395ac70ac4bca",
+"src/css/nanogallery2.woff.css":"7417d0e3f097444207312e952a49b32877a1473c6b22c648416eeb891a157132",
+"src/jquery.nanogallery2.core.js":"423ea0559f8dc33dc7bb5cf3ff94fdc49ddcf27753e75b83172cb03bcb0f7604",
+"src/jquery.nanogallery2.data_flickr.js":"251775467bd2a72170e58a385cf281666d29a7bf747006f1558163f5d083ac41",
+"src/jquery.nanogallery2.data_google3.js":"af0cbf5234e1bb8027c065804eaa41de1727fe20bec377bb542ffb543ca710d6",
+"src/jquery.nanogallery2.data_nano_photos_provider2.js":"4392fba84773b9aa1b5b1b56ad9597d163178829f8c4f0940000f9c73c5e80bb"
+}

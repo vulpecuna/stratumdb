@@ -1,0 +1,15 @@
+{
+"example/bower_components/jquery/jquery.min.js":"e9b61d51dd538bf0742fe5ab4279cad1f2d10e0f2720502a12a37688227a0198",
+"example/bower_components/underscore/underscore-min.js":"55890fc893a5bb26704f69a67b4b5c4e7700bfb07b302a2296565a79a31447eb",
+"src/main/javascript/monet-pimp.js":"451627b4e10540a2262b2cc072ee1a281f6de87847e08fee87cb6c7c828ee7c7",
+"src/main/javascript/monet.js":"1442932433b36be5113524c80ce4516c177cf6b67f987ff41bc5ef9a32fee8e4",
+"src/test/javascript/either_spec.js":"e4071b7cbacf0b4178736329acab8043f1898dc449cd2d7feb4b3cebe85a4c45",
+"src/test/javascript/free_spec.js":"d1abb11ec03f0fa168ede6518c3df56c2c37bda195b09f2f480bcda2e7b7cd4e",
+"src/test/javascript/io_spec.js":"7fb6b147134d823e6463378cd67f2117d104cd5da4c25161cd41d660f320d54b",
+"src/test/javascript/list_spec.js":"0c5fc1ec8788452452120bdd25ae622f3e4af6d485b0778dde42e037ec759cdd",
+"src/test/javascript/maybe_spec.js":"6494e526863d0cae433b7df290f5ce516f90772ae137a54e9d86698c22ce69f5",
+"src/test/javascript/monad_transformer_spec.js":"e87f63f8167db61c68dfab9d38e1ae9dd1004c7a84f116859a0af7258628dc54",
+"src/test/javascript/nel_spec.js":"e53fb8abd4dcb8d4aeedd3d4eb2b6ae7d62e88f4cff07c6f8c17f4a6304581ae",
+"src/test/javascript/reader_spec.js":"2f836db94fb13ed5fe0ccf4ec47a711f149b2d110bda594f53f20d764f252570",
+"src/test/javascript/validation_spec.js":"2723420929ffdf834cb9460d24d4bf78f5611a54aad65f0fb0b65b3983e3afb9"
+}

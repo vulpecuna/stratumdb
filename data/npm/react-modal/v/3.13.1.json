@@ -1,0 +1,15 @@
+{
+"dist/react-modal.js":"c28acc405974b21611e685544e3706714a045cff49a21b0a227301f8ff85541a",
+"dist/react-modal.min.js":"c28acc405974b21611e685544e3706714a045cff49a21b0a227301f8ff85541a",
+"lib/components/Modal.js":"12964703718800e8131e43657685dc8af9802f264a54f6a1188a79aa29a948f4",
+"lib/components/ModalPortal.js":"92929b1e21563feca821ece08158fc275b167f89bbefb22882860607ac1740bd",
+"lib/helpers/ariaAppHider.js":"94456e31a67f11ea04ca39881b1d1e3ee4a4affe969331481a5d1fcf9d371988",
+"lib/helpers/bodyTrap.js":"50fb6e6ccab480b129be3d9cfebdaa3df9d0b5d68c91a990d3a43a3974570f9d",
+"lib/helpers/classList.js":"d1b68e71708416e359746fdac735b570b07740697f01786fe73fe839ed180c35",
+"lib/helpers/focusManager.js":"f4c6f87c191c4d0b432e4c729c23c7b22ee99490b06b3f27be91d2f42f18f6ed",
+"lib/helpers/portalOpenInstances.js":"091e492f6e14fbc9f4e3e1bbc0aff150dcbf092c1fde85ede4b6313b5b75d5c3",
+"lib/helpers/safeHTMLElement.js":"3f38e489600e1590dba1bfe832cf36f59f4a002fe7da42eacdf518c90e4e5af3",
+"lib/helpers/scopeTab.js":"a6e0ad6d126e3ac6b83b00bab037badfdc5525508ccc0e331c0fb89320c621c6",
+"lib/helpers/tabbable.js":"fb0043bb52067c5aedb6abb7cfd06b6eb2ae3bbab1206cda3b299662a799c5dc",
+"lib/index.js":"07543352616a860b777cd5e9bb0354b2907e8ae01ee7f71044c0182127c6d5da"
+}

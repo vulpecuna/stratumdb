@@ -1,0 +1,14 @@
+{
+"lib/esm/single-spa.dev.js":"5f3f0328d4631348da63fbd168e12e6350496b19d248297a7d7b77d69226bcc4",
+"lib/esm/single-spa.dev.js.map":"11eeddefeb443c8e1ef48b207628652925d9d1f5286cdfedeedab5ec8d44e695",
+"lib/esm/single-spa.min.js":"46e7c0b1d89e48f07c6f519767893cddd290c4bf487046f553b80c1d7fe98cdd",
+"lib/esm/single-spa.min.js.map":"b715833583a9c296812152fa3486daf3940fc11347d069975e245625b47cde42",
+"lib/system/single-spa.dev.js":"48df624eaaa8343308d6f20f5075c5584e669d8f8c2c156aa322798a307d2c9a",
+"lib/system/single-spa.dev.js.map":"a7367fb8f2c928d3eb5bc959426ae755f532603e0c7e1330316ac1a32beb75a2",
+"lib/system/single-spa.min.js":"336553f22dbc2dd49c0d38e68dc6cda3e2d9db099f36d3a604911f79f88062ae",
+"lib/system/single-spa.min.js.map":"ae38c532edff7f2a424c52300a1e085411fec2105a84ace88e6dcd7daee3bfc4",
+"lib/umd/single-spa.dev.js":"d2ba2b11bb087ce3d9d486e69573e1998e07d8020076e92fe537e273e4b4d3d3",
+"lib/umd/single-spa.dev.js.map":"386befc71d509af6f0902a42bc9f2df3a8b64e34a730c9cff78c1dc53f5edfb8",
+"lib/umd/single-spa.min.js":"1ba1975f2098a5fa6accd69b510d8dabbb2958bf133cffa2828a5a0fc0404bd3",
+"lib/umd/single-spa.min.js.map":"8a07640108f9f846b2480667413cea79b3d6231d312064e59ce62010bc7551cd"
+}

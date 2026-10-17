@@ -1,0 +1,10 @@
+{
+"src/expressjs-wrapper/for-2.x/express-juicer.js":"d06e3c47b029be0591305750af244a6a8c0d798157051e9053370f7b79fef120",
+"src/expressjs-wrapper/for-3.x/express-juicer.js":"4d489492d91d7ded6116cc41acbf260f915b401a6e474cef51aef7815a225a94",
+"src/juicer.js":"d7e1c665f76017037a00afe654939a46ed2c89103e96034696feb91e157fc220",
+"src/yui-wrapper/yui-juicer.js":"a663f5cfd923acc7de5ddf12d2261a9e44302b682ec6f30d109e261336dee44c",
+"test/nodejs/juicer-node.js":"195215828bd5212cac637353ffe78a4bbde2ed3b00da4e9fa43d0246eba4a4fa",
+"test/unit/qunit-1.5.0.css":"e5091c1d33891e66de1f7fdb025815aa98fe587a3c618fbf8df4ff8a1ce02506",
+"test/unit/qunit-1.5.0.js":"9ad87c668f303b68319504993ba7869a3e2f536ecdb10e3c10c2234c09b644e8",
+"test/unit/test.js":"d01361f4dca7d29c9150b2d78d5e73ddf86a6b0bfef52a0082b3be24f6f6cdfb"
+}

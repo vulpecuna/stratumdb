@@ -1,0 +1,11 @@
+{
+"coverage/lcov-report/base.css":"b6613efe1c52bc312874b8b4f0e274da4eb07a91c9fcc040c202236b0c03e47d",
+"coverage/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/lcov-report/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"coverage/lcov-report/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+"dist/regression.js":"3b11408a7d50f635b779b7712aae3185c04f7956201a32677830f3f44a94a134",
+"dist/regression.min.js":"ae36f973788aa575c405aa8949222a3a275c0c210fc0b6eefc9fbbdd4fbc47a0",
+"src/regression.js":"bac2f1e1c5c5dbff0b40fd0d9aac508f571f34a7c4f4dd5cd71c5605835a5efd",
+"test/data.js":"fb4584ac4956378e60a6e0d55c7a94b87eb56688c140982099f589d5916ea07d",
+"test/regression.test.js":"d6d304b7fed380aecc796a32e17bfe48baf5afdcd9ad55f21327d8a37d38d24e"
+}

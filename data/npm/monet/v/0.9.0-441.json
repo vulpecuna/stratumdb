@@ -1,0 +1,11 @@
+{
+"dist/monet-pimp.js":"3f96c0386c79266821e2812ed284d5d33ebc1f7f42a78c955ce3b5693dbb71ce",
+"dist/monet-pimp.min.js":"28f7cace1938243356a4bc62b4f393322bc3fb42d02d3a1c5af41f1592217b0d",
+"dist/monet-pimp.min.js.map":"cae980ccd499a2888183884ad171f61b2aa2815d0202decf9b1b183966375883",
+"dist/monet.js":"f154691a9900e5717ff6da776f0948b48fd790db4b0f3884c1393060a022cb0e",
+"dist/monet.min.js":"91d5efd5fc4fff363e2fde5d81873bce202501ef81422ac434b45d1e263f3c37",
+"dist/monet.min.js.map":"d8ad3d05e5d8275840bbbcf553b462d693d66e3f6fcbb4cec1a3f2b8aae31209",
+"prepublish-test/browser-global.js":"766ce2e6743c9ee9de25e4daa1415e89ce6920a7444f7f8ba09249a5156b6bae",
+"prepublish-test/node-global.js":"1216a0decab2a8c51c65dba77741c20960232d8b89f8d99cdf1937f741d4e141",
+"prepublish-test/node-regular.js":"da85b79d0ad7451103ae8718ac6bc078a17b841137e91a322580ef64b129a6e9"
+}

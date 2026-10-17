@@ -1,0 +1,16 @@
+{
+"demo/scripts.js":"6bc32184550f0432b4e18b08bd5d8be5e72bfa71d9967668b29dc14e7fe358ad",
+"demo/styles.css":"3e78596d3ad57360b08132d0af243cf81954f5cf7898638cae93b307a66e8686",
+"demo/tests.js":"3961995efce793baee6d4827fd8af74faae7d4f22660c7081adfc47814f55aee",
+"demo/vendor/chai.js":"a94e985e9cbf0a6889b0509d15c3f4e154840f9c39ec8d096e9783711878c389",
+"demo/vendor/mocha.css":"b7acaef2f5e1dec9ae112a9dc94c543f4f20aba93825cfdd3f04df4db75ac7de",
+"demo/vendor/mocha.js":"67a49ad6eb826a001eb54af85c582d7a40432d1639e06ecbc001d386d7265109",
+"lib/navigo.js":"6e93dc86c999327d7e47c6250768c3fbce6271acad29de13f51e49aefa977575",
+"lib/navigo.js.map":"1aae3e1eaab85b55a48a984dc9012a3ac26ddfd84800bc077aa1d7030cf469fa",
+"lib/navigo.min.js":"c96034d94967d61ab63053eb03c892b779ff12519df0afd457a8365f172c834f",
+"lib/navigo.min.js.map":"fd2775988aa9f9e9d9f0ab1b7be5efa1be2eebfa397451a722696016ab3c8a8a",
+"src/index.js":"99f6f6aefbfc11534466731a3bd1a5b56cf6b872c200732424149cf78f989a0c",
+"test/Helpers.spec.js":"0e7561a9b90f236029017934eceb68eef0a8c8807bf06b72fd97322cdadc9728",
+"test/Navigo.spec.js":"3bd77ec292381610a73f6004f6a21d6a8ea3a696413a1382e214061ee2272dc4",
+"webpack.config.js":"0949df87b50b6ff7b3b0a55b57a5d694ba57ba6b2876fe82e6d8df16165b0205"
+}

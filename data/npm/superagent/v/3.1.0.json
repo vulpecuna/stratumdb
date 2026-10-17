@@ -1,0 +1,17 @@
+{
+"docs/style.css":"9df1a19c5c23220483c5dd02b4c7159017cb527bf42f5c786cb85d7291a69bd6",
+"lib/client.js":"4926a737b0b0c2f790761e1c390f0ee8a27c1d2d0ac185a073f8e9ae40620ddc",
+"lib/is-function.js":"9a693bfdcfc72f4f9fd70932bedd68f23327a4998f7bf4d03c835fe581664d12",
+"lib/is-object.js":"d5dcadb4565bd4257034000017df6392806977d4da11d1e7a0617deaca970171",
+"lib/node/agent.js":"e66c8734de311107105e0bcbb5c9b6a47be46718752a571eec9b645b5de83405",
+"lib/node/index.js":"4d81ac0c34b16e4110915fb87b8295da9c28ed616943e87d2c3cfaaa44a85d27",
+"lib/node/parsers/image.js":"43b804f8733de1c2c6bb65f93ae33e6093a3f65affd2dbb785184941d8fb20ed",
+"lib/node/parsers/index.js":"ffde1d3e9b3bf25b014a4a9500efd67065bd0404dffb65a5009547174d782d9b",
+"lib/node/parsers/json.js":"8180b2abba13c24e9156eae169938d3cb54689487d6e59df5eeccd0d45885a9e",
+"lib/node/parsers/text.js":"2fa2d3c6d159bafddc8f632d477a78ad5293256421eebddfbb1b7b7132dae150",
+"lib/node/parsers/urlencoded.js":"778f7e541dbd79f5fec98b2835a650030efe43a5025c1fb59bfa8a6ca72fbe3f",
+"lib/node/response.js":"a92dacf2a650689770c4731adb727f398b722cb6f29efd02679ef36e76b848b7",
+"lib/node/utils.js":"7025e619e126014744702d4fcef7f86ad22a6c693af9acf2994585d24ce95238",
+"lib/request-base.js":"bdd5640a41208ee8312129c125e80657f1ddb2c0cd3b7a00637e5f7fa76b79ed",
+"superagent.js":"6e6aa055a76b4b6c19672d88149c042478159f6555e551068df1a62941871184"
+}

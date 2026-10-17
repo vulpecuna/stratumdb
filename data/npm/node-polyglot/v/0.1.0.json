@@ -1,0 +1,9 @@
+{
+"build/polyglot.js":"ece76688036e7e2b1fb4ccfa5dd4b3b261c293763f2fb429f2cf54d1d05a8d3c",
+"build/polyglot.min.js":"f85b1c152529f28ae11608868ba18da54a68e581dd8cc531123b30cd6c3b751e",
+"docs/docco.css":"8b1c90082aef9726e2ef7e501da5725ef47c5e77bb45db0c52c9fa4740cf9f95",
+"index.js":"b1577372cd9ae2490246cb57eb9a1bd8d7890d926f43a9511b212ca784abdffc",
+"lib/polyglot.js":"f3edd1c4562885845f9ae690add848ffa8f94451b9c6718eba12ca7280a4e505",
+"test/handlebars_browser.js":"c8d5abce3bee9218279cbb551a95d9cbd21592dec5505c30cd436d0bf24d7729",
+"test/vendor/handlebars-1.0.rc.1.js":"36bde3673df109fbe7a25382ac9c3dd3ea9cada318276ae2f42c5190e19e6c17"
+}

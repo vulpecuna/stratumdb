@@ -1,0 +1,14 @@
+{
+"dist/jquery.lory.js":"31bce4a263fc45b8512ca335f1477f1c140a6b51c5f3426895fb236de65433fc",
+"dist/jquery.lory.min.js":"eab82f69443391eac9a15b3d7ce3f3030c9176b60a9b8070064f5df7d83cad8b",
+"dist/jquery.lory.min.js.map":"a7fba78bf081f838a0c9d6b6461ddac8a38209e6c46f44ca1e6864b42217dafa",
+"dist/lory.js":"16b2cb754d5bf9f19363f6308f88b76a4a3d574a7105656735d291478ad434e3",
+"dist/lory.min.js":"a6e8940c25249c21e37e702b2fff038722ea5dd019d59e4f1884b5d9d58a917f",
+"dist/lory.min.js.map":"5eed6deabef11e88a7aa1684a945f171e02b9ef2f2d2177a0da72b91bc50657d",
+"src/defaults.js":"946ef4490bb48149a79bfb2c6a7ec5e50687d9cdb89adaeb393e4a517949ab70",
+"src/jquery.lory.js":"a3314617dec5b48eb7dce9a89f60a56669cbcce20ace1647d0ea6a5a6bd644dc",
+"src/lory.js":"9ddf289a250f7735f0326a10641b3515657fbdf984f0eefbe06cfae9e041b9d3",
+"src/utils/detect-prefixes.js":"d7a45bdf611e3c277a8a30ac317afde5cc45ee1d37daf9f94f3e8f1706b78061",
+"src/utils/detect-supportsPassive.js":"fd5d207f93ea8e45f1a70a7198d02ab1471e6a45008b8cbb3491820382d123aa",
+"src/utils/dispatch-event.js":"696047c9da744a427406c8cba235d1bc19d2506cbe98dc86a222efe1e220bc4b"
+}

@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"498316b39eb71db5d8d40d8dc7ee5277375def6c0beb71fc396c9a2adfac6947",
+"dist/jquery.panzoom.js":"4f01359fc75060134fdb8fabc9c4ff796d440bb29c0ae24ecde6a0a0f6943271",
+"dist/jquery.panzoom.min.js":"ed7352f312e0b0608c896d56695f85aa1d18cabb3d30973913345c11b021c73a",
+"src/panzoom.js":"eb665c433497fb3bac3b468010dcf11a6355602500a955ef68904fb8d2f35bec",
+"src/pointertouch.js":"f14f3ff55e0c0c20b9bd8f898a37f3dbac2328b703f8488862f806cf592cb616",
+"test/bdd/test.js":"2ddc4de98ab9d985c10eda7acb598f377e1164db6e307103f11c1b543bb4c09a",
+"test/libs/chai.js":"b1ae5f4c60e59684110970fbfd063e4156f850bddadc85147ed7e3cdcc8dd08f",
+"test/libs/jquery.js":"8ade6740a1d3cfedf81e28d9250929341207b23a55f1be90ccc26cf6d98e052a",
+"test/libs/jquery.mousewheel.js":"29d564fe0f5d82fe15a0d9c36156b5848a57ead649e4672721ff7a5caff5ca72",
+"test/libs/mocha/mocha.css":"6bb2a46eabcef2d53ce2505d6a6e0ea4540e58d918bc5ae183221a43937f7c69",
+"test/libs/mocha/mocha.js":"283eb32fcbfeb553568d050b7efd329d9ce044cc7e316378a33925009a0a10d9"
+}

@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"15e3636cb73e95518b25de0eaf263ccf3645619c5a9846108b603a48e968e68a",
+"examples/node-example.js":"505945a1f74f59ecb05ecbc27508f5336839032d7ca4ab192e3e8a0dd98a0fe9",
+"index.js":"350d3df5688a767509d901ea429896f6b7a434a4a4c8a8970a1202a2faf1f40c",
+"lib/index.js":"e5610f8888ee5855a58b6ce3a9ab6495741dbfc4a33f3261a282fdaea4b9adbe",
+"speakingurl.min.js":"1e2cbca6ec8cfcd9f4f4a9dc36822a62ff6b00f83c0ff0b0ae73076dcae1414f",
+"test/test-defaults.js":"4c2974c20a9bed79b9c1f43f34cbf7d3a84baa18251a37e447053270001b40a5",
+"test/test-maintaincase.js":"6ebfcb2eaedd79b2a0ae49183e5fd6f0ff2a2e8de1ac70fbcc8ead0a25783dd7",
+"test/test-rfc3986.js":"121da92f57cb8be391c3599021257a73c3bf93d6bddfe45ffe945181ba5cc641",
+"test/test-separator.js":"14149a99e998f09657d0b47d0ff9ef4c909963eeeb6c0a2fdb342bc554db259b",
+"test/test-smarttrim.js":"28778e74fea1d73c069fb6ea0bcc88cbcc79f16bbda2a772e4121be689ed40d5",
+"test/test-speakingurl.js":"34a97b8a8fb315939b09a371d86631a28b62f232e3d919f544437bd02520c4cd",
+"test/test-symbols.js":"e345dc4f18530824e04cea315cf1032f1b026bb046caf0b267e16b4a65b33d70",
+"test/test-truncate.js":"0bd308492b583f3f2e939188630bffa72b1935a53b3e944e256b2581a847387a"
+}

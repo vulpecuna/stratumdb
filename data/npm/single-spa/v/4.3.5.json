@@ -1,0 +1,8 @@
+{
+"lib/esm/single-spa.min.js":"cecc71087e49d5555d65cdb196ad3b3364e62044e3f26931f1d03a7e4a38123e",
+"lib/esm/single-spa.min.js.map":"2a27f867c610b2d84e5a8bae77851aa2867058793e1662a90bd4b693e9816e59",
+"lib/system/single-spa.min.js":"caabacc748c7ea0c7399903b7766343389422a3d0ae6c3045ebbc20e9103a031",
+"lib/system/single-spa.min.js.map":"ff92babeb8c944e4eae092f0c59fe0234fcc59215afa768998cc022945d3be65",
+"lib/umd/single-spa.min.js":"30bac0e166d69caa6d7cef7a69bfe199903fe353e6844d3abd2c3a255be04a48",
+"lib/umd/single-spa.min.js.map":"b49477fe754d5dc6c7e9e60df015fd3f3dd0c262ef84af76c0b2b9f4b0541cb5"
+}

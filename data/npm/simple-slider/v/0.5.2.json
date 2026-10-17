@@ -1,0 +1,9 @@
+{
+"Gruntfile.js":"6d1057723b66263af6119d6bbcdb349f701233007658ec08173d4b05d8a6664c",
+"dist/simpleslider.js":"2d08cca36c707ff94b38ff2bd63606db1eb0c39711602de87f4d47b05f584382",
+"dist/simpleslider.min.js":"d25be475dc09d66f17562151cc42090fb9688aa44a5e82c4b340cc60a2e653ea",
+"index.js":"417f158cbecb0496a66c9cbf414332ac0228a7b7175bd2c9ef2ef068049642e6",
+"src/simpleslider.js":"2d08cca36c707ff94b38ff2bd63606db1eb0c39711602de87f4d47b05f584382",
+"test/functional-tests.js":"387d6347e4d9a39196ac72becc940c00fadb385fbb64818acc0437eb69e311bb",
+"test/unit-tests.js":"ecaca525e463a47842147ae48e66584a4bc113b343a8f1fba8afe14946a13b11"
+}

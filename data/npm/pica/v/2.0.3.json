@@ -1,0 +1,16 @@
+{
+"dist/pica.js":"de4b433cac55487e1a88a3a22be39880dbb5297faa8b0f75a5e8ecfcc56e66df",
+"dist/pica.min.js":"cff37a1f0d7922c245f2da2ef0cec9df8b2856f28135fd4b8455d2b25433b1a8",
+"index.js":"2bec999c909a1c8767d47c993c6132d4d52e76440bf759c117432fba370aeb44",
+"lib/js/create_canvas.js":"1137f808b6401d925e689bb92f03b72e41401f1e2e783d520e60340c27959f9a",
+"lib/js/create_canvas_browser.js":"c69d3de02ebef495b13cfb1e58ac0fe2b82e81d3fa1adb5ce8e223a15fa8c541",
+"lib/js/generate_id.js":"79f199cd525922d60598c6c58b19d8acc6b0e8b8e79b5161303b0dfc4c520e4a",
+"lib/js/pool.js":"f87262b4a61011a159725a6e458247705cf287101d261eac9063739258612114",
+"lib/js/resize_array.js":"bfd30deca1a65a489f702e7ec18082e9f591ad047e90d69f7474559225051b65",
+"lib/js/unsharp.js":"65b1d94f1b423909e1e8b1e2f1f04235e52ec5705d688b07086b67d1900a2ff0",
+"lib/js/utils.js":"6246bfdf899c585342de439133b80f77c1bc577da19b203a5d93efc68577d6d8",
+"lib/js/worker.js":"dff8ff03d573b74317ae22a4c7e30715f3347e8022baf302a7357cf00512cb1d",
+"lib/resize_js.js":"439ac0adf261f4318d4d997c931fc1d95c39e53be5976581bcd42ef98cba4ff7",
+"lib/resize_js_ww.js":"d6330d5287b56f238ceccd2b6d121a64f9aa87ae6b6e592193049e6bb94f4701",
+"lib/resize_webgl.js":"bc27cb925bb3d5540ddb10a52baa0ecbf4b8b23a689434ea42d26bbb202bd638"
+}

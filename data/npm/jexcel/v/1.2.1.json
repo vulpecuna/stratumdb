@@ -1,0 +1,10 @@
+{
+"dist/css/jquery.jcalendar.css":"5d449fe853bef0ef66214a0575e66d0f24292c025b822742e3e98f91972ee082",
+"dist/css/jquery.jexcel.css":"dfda79824fd7e74896dd8bf65319262ddc20c9baf9d0ec2a5bfa2065eaf78307",
+"dist/js/excel-formula.min.js":"51af4962e2308a6dc557155916c37c0f98e5f87ff9a79ae5f8489af15532f901",
+"dist/js/jquery.csv.min.js":"c4a589a6a3f7663862a563b2cc5b8d986d99929d5c5b89e1511106073b5c497b",
+"dist/js/jquery.jcalendar.js":"cd0dab3b82274b45e6027d6acd747d1e227fa276676c1d8f55a7a968d85bddc6",
+"dist/js/jquery.jexcel.js":"50d38941712c0336d5f2d5bb4eb2e0203c66355255745086f0b20bbb6b3cc529",
+"src/excel-formula.js":"f497bf60bc9753ffbd863e5c634a25395c5a613be5c8c8b08ca67c9121b88189",
+"src/jquery.csv.js":"deb66f8ffdd93e6bea02f7c0b28b063154ca8643a6672d3e2973f608f0bcad0c"
+}

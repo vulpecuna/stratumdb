@@ -1,0 +1,15 @@
+{
+"dist/system-csp-production.js":"16ff470e9ea6654753a088b3fe3b4a5b3c4a0579c46afe5ada491faae8f262e7",
+"dist/system-csp-production.js.map":"0ff9b935601569d66a069f68de834f22c04bcf3a0643add3bf9b5d71201b5d36",
+"dist/system-csp-production.src.js":"a21133a6c38b49923cd7cd13522c6f8762b98263f67a4a6349b87f7300f196c9",
+"dist/system-polyfills.js":"c244ec62951b1cb9163cbcbf93d1fe4407612ec8217cfe2c01b035b213f8e7b9",
+"dist/system-polyfills.js.map":"063de2b20d290a6d8dfb102f05159a296877f461599d4cae1a18c479cdd9c678",
+"dist/system-polyfills.src.js":"24cae6e47bcdba72eee82013a29a074a3cfc3adafc24ed4033a518be3f993199",
+"dist/system-register-only.js":"9b9d5ab5d8dbe678f96ad11fad8a6f6f9b87b10b8503c2310068098bb1878439",
+"dist/system-register-only.js.map":"e5992e9a72f4e09acdc14ce2b0423737ee6c53d7f4a751ccfe2cbca9e2d7ece5",
+"dist/system-register-only.src.js":"42f6bbdb8ffb09bcb3bfdef0b05680ed5a6a147505f449e2db3120ca4228c5a0",
+"dist/system.js":"5c8063b028a925a60be22a0efb9193ef5e074e53b9d1a42c82ff967a9e10d6cf",
+"dist/system.js.map":"0364c7e2871b79de467a31a96ac184843662968e3d737bcf13ae1a9ce87a3b58",
+"dist/system.src.js":"3a340f6bf4f24cdd9d23e1b3df5ed7faebacb39686ba176f8c565ca6ebc7dc42",
+"index.js":"0f6b8d9a863befefb6a2d2320de49b11a756713dcf7d309488a5166248603630"
+}

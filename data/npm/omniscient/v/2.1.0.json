@@ -1,0 +1,11 @@
+{
+"component.js":"46fede8ce6baeb6e229e17ceac6ab89516c427a755addd88b8251f253d9db191",
+"dist/omniscient.js":"73e0365c224968118ec878b672f63f6de7c38e970ca11a86c1c0aef0cb66e50b",
+"dist/omniscient.min.js":"f61e635f3281cfb94ac9ae2f4086a0e3eda20fe8b444f096352a4914744e46ce",
+"example-jsx/example-jsx.js":"64a14f1abb033b9bccd31ffbe7688e7086a78f456cbc87ab2a7545f674685ab3",
+"example/example.js":"4b4ece1a176f70385b119a9fe6bd85baee99c68cfee39c2198e4bdbe91cbaf1f",
+"makeBundle.js":"e3e5a75362b44d3954c9f4865ccb5cc47ddb2b04a84f8feecd8dd48ba4cba5de",
+"tests/component-test.js":"5fe11661968384002b8975a7a65b84e21dedfb30be62c24fcf0914f7e0541b5a",
+"tests/integration-test.js":"6077ff37e95b31309235ebbac1e45f4ae05d3df69fd7f90fedc63968087b15fb",
+"tests/shouldComponentUpdate-test.js":"8f3cde632326003a720560dcec3e0c7e716872e914b9ac473da729b9fe9ac75c"
+}

@@ -1,0 +1,13 @@
+{
+"dist/react-modal.js":"4bab8d4ed230e7123ac7d836973a6dc349a015476550bc1d5cc403ec721550b1",
+"dist/react-modal.min.js":"dee6d9aa170a31c0fbefcc8054c246d280e032e3a883481d16789b13557cebbb",
+"lib/components/Modal.js":"eb1e1a6144413e346ccb1a3f562fa5d0291c09a13a88629c647d164be566d0c3",
+"lib/components/ModalPortal.js":"ed4d66cb9babe14607d365e78d3efb6b152dfa881f6e08c1c2764d52885fc9bc",
+"lib/helpers/ariaAppHider.js":"6ddb66eaa9ed174e8c9e73ab86d9f6d3723d20d471e77fcd7b93bb2c92c1ed30",
+"lib/helpers/focusManager.js":"67a04fa09becfd566acf79920893cde37cbc65f81a5c549172f4d19832a074aa",
+"lib/helpers/scopeTab.js":"5a7cb8afa1a0392158bfd321cc58b972c85d39c37ca2cd7d3bf2ea2be6bc168f",
+"lib/helpers/tabbable.js":"dc8900d8653c33554a50c456889cf946173eaa7eb1776c3dc726041954b0ae31",
+"lib/index.js":"5774b91cdf7de5591ea7ac9ca8a4bb360051ed12ae599b8e786eccba02e96da4",
+"webpack.config.js":"fc13c785b38604a7809c6e09168ef4d47b6abb03ea4131857d8828526a03272e",
+"webpack.dist.config.js":"9d3e685a01b583d7a09329eb19ceef8a2c43e19809d2f7481336340507034b79"
+}

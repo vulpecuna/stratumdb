@@ -1,0 +1,13 @@
+{
+"dist/index.js":"6150759597b5dabb68e0ed55868315f6c43f1d16bccb3f30354b3d0739b669df",
+"dist/mobx.cjs.development.js":"3b827f44f4559975fc24d9987458e2c9d57d9c0f67612338b1daeee9172e41bf",
+"dist/mobx.cjs.development.js.map":"c4a0be8a9fe38e5347b80972e0ab940d778ef5a36ab8bdddac907b98dea3b862",
+"dist/mobx.cjs.production.min.js":"f38b954b1f7f3930122a41c3bdc7faf906a0103d765234f7a67f7143a72f7daf",
+"dist/mobx.cjs.production.min.js.map":"6a00646904a28e8b1ed0b0e4c0a252165fd5c71d56cb112ed509f7f3e51b5a28",
+"dist/mobx.esm.js":"332ebde46ae7968d454314413fcb1151e7e093a2f145a7fb02dbeb74cc1112f4",
+"dist/mobx.esm.js.map":"57b78fa6943116319059665714f6d5b3bf70f380c4043b5ca29ff42b32e635df",
+"dist/mobx.umd.development.js":"b8fe621ab6d9964cc9cb7e656ef3153629429c1347d584ec27e9b21d82d4b2ba",
+"dist/mobx.umd.development.js.map":"497e9a754e22ed9217a4a159cd6378b06d4707ef999001846bee3ed1d262e0cd",
+"dist/mobx.umd.production.min.js":"ab0455486db88b358e93690cc68273f87d93b597ac8e424369f39fc9d68fc5a3",
+"dist/mobx.umd.production.min.js.map":"cf25a0a20d12c5e1c8314e6f284479f4a4978940564e13fc99522bdb05cff049"
+}

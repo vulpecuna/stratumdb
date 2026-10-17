@@ -1,0 +1,11 @@
+{
+"dist/quicklink.js":"87a84bb7f46509fdcc12406def990eed05edf090c1aab93d1ba5e328fa1128da",
+"dist/quicklink.mjs":"30ff33239f01d01485fcab16ded13341c88d7e6cbb848e89426892f1857ef126",
+"dist/quicklink.modern.mjs":"9bc2d9e695e86fab8f4c3f4a431baee49c9e79e00cb2f8958187df95072a9ca7",
+"dist/quicklink.umd.js":"428d814ef96c0555c8af97c41e9f31941a549a46c320daf971065e49f313112f",
+"dist/react/hoc.js":"d99286edcd6bbccb32d9671e14eee4a803b19738b29ecc84f1996a641b9a81eb",
+"dist/react/quicklink.js":"5be70f1e906640bc878707a9d2bae80c77e0a01a6e7871f3e3d78a4db283486b",
+"dist/react/quicklink.mjs":"ac4d7e51a63ccd03e0e8a3fdc98cb2a0c68fe439efeabad921c083738e887588",
+"dist/react/quicklink.modern.mjs":"e9d8a3a51fdaf945a09433586461eb6b504f61eb5a60cac13435e72ec44e37cc",
+"dist/react/quicklink.umd.js":"22b38296257dfa3c8f2fc7d434efaee67227f0e7f32799e8e5ffde02a5c967a6"
+}

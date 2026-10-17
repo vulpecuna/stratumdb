@@ -1,0 +1,15 @@
+{
+".coverage/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+".coverage/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"docs-build/assets/css/terraformer-a32d97d4.css":"0d4d4eb3bfe0c150337726a30bb99064e2ba1f4fbc90d4e5a60985b9182ef151",
+"docs-build/assets/javascripts/all-da39a3ee.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"docs-build/assets/javascripts/classie-b6db1f70.js":"1396e94533e5fbdb7e8429442a5e71db9561f71f9b7fe346af1aa65a6a3b3bad",
+"docs-build/assets/javascripts/drawer-cc39b530.js":"04238563114d0d00d63af25bfbc268ac016d37686cf54d07c4b8d22b3a8f57bd",
+"docs-build/assets/javascripts/modernizr.custom-cadc78a2.js":"fb7e2f74badd86b5428aa9ebffc564fe02610e68fd4283cb59f25b0b0333be49",
+"gruntfile.js":"1781de944062db7df74b18e5076c29d17b211f7c0559001c8ef4d52975d2175d",
+"spec/geojsonHelpers.js":"9283d5830dd58d2b8d80506edea042337d136289f446256cd849767e8f0f9cc5",
+"spec/spatialReferenceSpec.js":"b5043baa39f6dec81100abaf80d45cdb911d51e58ee76364bbf2dae1dc302850",
+"spec/terraformerSpec.js":"b5a7e789c5aea91fe994aaec2683df07ecf39007fc368d739b5402db7cc059a5",
+"terraformer.js":"a95dad16a9c0ae52a0000f01cabb869faf3c5d0610ea91ec4af4f0c6fa14fd10",
+"terraformer.min.js":"16c109ec92cf2604b4ed6b07725fd7a6323801b59095c498c67b626285be9e81"
+}

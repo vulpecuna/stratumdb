@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"529ecbae4cf49339ac0dc867b3995b9d87f79c01981ab362f6588e3772b9d3a9",
+"dist/operative.js":"5daa769c0db098a909018f3963d75a6d01880c8bb034f60310102f1daa08cf60",
+"dist/operative.min.js":"fab0dbd1add48b3bca9c2e3b0169fbefe64ce1ecc57f19660eaedfd46fc9e47e",
+"src/operative.js":"5daa769c0db098a909018f3963d75a6d01880c8bb034f60310102f1daa08cf60",
+"test/operativeSpec.js":"7a9a44f2a98184debf4033908a4a7341086dc9fad597e6e8dc7bf0a09c0956bf",
+"test/resources/specHelpers.js":"ca6637fb0a3728a0f9c47329e05bc4427342e2d4f50cc49d5207951a8e116ead",
+"vendor/Promise.js":"3239260b5401f95f075133842992c385afeecc13393b65a82c9d46500f8fba90",
+"vendor/require.js":"ba75463d9e33308465d43ea94dadc52091b09a07fbbb95c8c88997a7431bbb67"
+}

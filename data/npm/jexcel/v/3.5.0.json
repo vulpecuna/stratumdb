@@ -1,0 +1,10 @@
+{
+"dist/jexcel.css":"79528eab6edb662701b4225ec66ca28bc6a0a383a96b6383a7572e33fd546bd3",
+"dist/jexcel.js":"de3caa99e0e62a3a9d3737b3761a6b5db7f13860aa3b1cdd21c18500668a6ce0",
+"dist/jexcel.min.css":"65bb190b61a520d888b3520db59f6771eb664c9fc71bd9ac495c6a6c1f3025d0",
+"dist/jexcel.min.js":"48619fd95827854669831ea776f30c4dc25ba69fe5803c522948a466536fce3a",
+"src/jexcel.datatables.css":"81641259911f8235ca3d5eaf8ee200ba4b456c8c93b9a6881ccdfeccc18c8fab",
+"src/jexcel.extensions.js":"6ee97d11844f9e2ddae5e40e1b82b84dc907c10e327b8634e30f819894fcb2dd",
+"src/jexcel.formulas.js":"9db3b5dac4d781a48463ab08425c3a80f2b3a94ee2442d38f7147ab84a42e407",
+"src/xlsx.js":"821918f67baa80098a995276168cc146db6c5b46a9bd178f6b21123957a2deef"
+}

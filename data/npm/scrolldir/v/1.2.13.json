@@ -1,0 +1,13 @@
+{
+"dist/scrolldir.auto.js":"0152c10ce648ca0dd0a59d2645985bc1dd80f7388c559295738555d5d6097a8c",
+"dist/scrolldir.auto.min.js":"e936d0e23f940b4930922b46af5a79484c4b229a8da2a13523200325d982a558",
+"dist/scrolldir.js":"dce4125062e321a37731f0eb5fc23070e43defc4ad62ad7df87a0af6d50c1177",
+"dist/scrolldir.min.js":"a77a232e90f7dde1164d691d25b80831e2e5f00a7f74c654e5491e2ead7172f9",
+"gulpfile.js":"9a18ba8fe3f45b43c5d9e41f4288b22ebc96bc93eeab86b341c9ed3979f2f06a",
+"rollup.config.js":"6325e9e8afeeb560da3d69f6f18c15793a3f77b2b9b41c1af05b88658ce93c64",
+"src/scrolldir.auto.js":"340c40c70ce7b05eaaac46f29517cb2afdc912adc32ea898f5ed555669caf7bd",
+"src/scrolldir.js":"93e52f4d742c16df0bb748ce04a39448b2a0cdbac75a2f1f1dad902dacef9fca",
+"tests/auto/test.js":"c36b1ddd9766a51f3c397888cc5bb2013fe24c7aff08ed3d36cda5eb83582998",
+"tests/off/test.js":"0ce4b209fdccf0c87ec1722d3bfcf2047e6c1482641f86342368b41310707dfe",
+"tests/standard/test.js":"86724fa935be92eae7d65e0c94444b0543b80607f3a4f83509f6e94b80542f42"
+}

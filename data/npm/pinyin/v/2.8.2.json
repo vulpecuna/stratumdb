@@ -1,0 +1,10 @@
+{
+"data/dict-zi-web.js":"52d0077e478f78b8d56d69488fbd2e8cd3edf769a1fd99e7e4185a859418adff",
+"data/dict-zi.js":"334394c6ed4fbb93cfd69e918a90cbddd8795d3fa0646ae8d223a96cdff56cb7",
+"data/phrases-dict.js":"d4dfa7d199f91d6cb653da0ade384c3fd7c58245270beb6c20b4180fd1e33b91",
+"index.js":"6e786c936083f017169b319d5bb3eb6aa84c6618cdeebff648adebb28dd91617",
+"lib/index.js":"3dbd5b3dd17bbd46f2381200016b0943f86ff2ce6fd4421f82ada1a11707b4c2",
+"lib/phonetic-symbol.js":"50ffe46ab292433ac1bf63bb98cc152cd83bd88e2799fb995a5c62eebe2f7c0c",
+"lib/pinyin.js":"5e29f039863d7ab1dc3ac44a3e6b618923f1a1f6f9209f229de41fdcae84436e",
+"lib/web-pinyin.js":"2b67c6b789101c6aae91f311c0e1e01615a18bb9aac6ccc0cfe91ad8ed91cecf"
+}

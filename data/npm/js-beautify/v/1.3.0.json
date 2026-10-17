@@ -1,0 +1,17 @@
+{
+"js/bin/css-beautify.js":"7b702d2be390d99e5d68bbb6e3454ecd54d5144ec481b4c51d709bf70e7b1620",
+"js/bin/html-beautify.js":"7b702d2be390d99e5d68bbb6e3454ecd54d5144ec481b4c51d709bf70e7b1620",
+"js/bin/js-beautify.js":"039d8cbd1996ca92ef8afbdafd9b91c3051f98837d1c4e27b2c11cb8a3b52e17",
+"js/index.js":"56b0fc2f453b47165c35d2d6d9f944fa62f2086c1dc02eb422538d9d07d0d8af",
+"js/lib/beautify-css.js":"9dbefecd8f2a99d1eb5ac809886eda9efb865622cb5a24e524ada9d6927acdb8",
+"js/lib/beautify-html.js":"fa4936b18f6a8b32704438136a4a99382e362f6a3fff37a024d283826b56e45a",
+"js/lib/beautify.js":"ecbcad660a136db96f1a8a55fbc0c3f18f7a3b35d3d2f6904c72c4e06e81bff8",
+"js/lib/cli.js":"9e7fa2f7210afc4f3d9398b77d5eeab768577f507edbffebb860e91a40deb91c",
+"js/lib/unpackers/javascriptobfuscator_unpacker.js":"948c0f85c59f9c336686ea17b2109f745a4be30aec0a04293556cac2d401009b",
+"js/lib/unpackers/myobfuscate_unpacker.js":"575f1aecd3c03c61652dc247cc3c6ff2cd9a6d8f5c9c4f4566fec4c8de9d6993",
+"js/lib/unpackers/p_a_c_k_e_r_unpacker.js":"2116d2fd19389fa069c395ae20be8baba1de078190f6bfa2c13d1b0c52bba480",
+"js/lib/unpackers/urlencode_unpacker.js":"0a106b4c9efea9156de9ff0aa059ce901b94151b392bc9b1dc101ca6cd877109",
+"js/test/beautify-tests.js":"566ff3d35ab95b8c7671f7951c2e2666de75ee2bea4d290bdb5e9af4bf846806",
+"js/test/node-beautify-tests.js":"e3f76dccb03d7827e8f812dd274b321d869aa24045038369c670594ef61e9cf8",
+"js/test/sanitytest.js":"81d223afd3d6d60aaab56a671459dec1f91c06290cf938f03ddd949b5722f68b"
+}

@@ -1,0 +1,16 @@
+{
+"demo/demo.css":"4ee11fd2ed9d37e5a6a062203032aa00e11d2fa24f68c29e61ba19cc8234ddaf",
+"demo/demo.js":"cfa13ad38018af7edef5f90a0c6717259709f23dcddcbdcd9e8373bc7f3e52cf",
+"dist/leaflet.pm.css":"bd5c6d77021c3ee3ed061eb30df0ca564509cb6494d0752fea9c53d08a7f7832",
+"dist/leaflet.pm.js":"a0b9cf69077605b18f7cb343127606a1b84c2f236289f298fc541fb17dd1d743",
+"dist/leaflet.pm.min.js":"e2843528eaa584e7d1c120c22e625d34410b034a2ae76aeb77e2aed597c5dbf8",
+"gulpfile.js":"6e3429e0407cc3c2cf2f8b9d2eb20bb3cec22828acb13fbae8c30916b0365e51",
+"src/css/controls.css":"fe5f4e6713c57363a369f23c4c07e2303df4bd7490ff5ddfa39bd557b2ec8f16",
+"src/css/layers.css":"da4336d3c56818b5afc19c079aad474fc66b9a127cef457e66ac87533e3012ad",
+"src/js/L.Controls.js":"314a79e2d6404287b3ff6bd85a525d2ee41eea82c1acc90ae3c330fd7a39db22",
+"src/js/L.PM.Draw.Poly.js":"b5a4fc72f79a9d13490987147a64785524ccef8bafdfa9d0c1bd9d51bfefd45e",
+"src/js/L.PM.Draw.js":"6e3235889367624ba080927817f3f6f929b1a7430a3fb9b2af60cda31e418f26",
+"src/js/L.PM.Edit.Poly.js":"4283c09b3a7347fd318b248ea913411230f33b692b08b19b809253cfe9654e75",
+"src/js/L.PM.LayerGroup.js":"1e4e9a36977c5acb5932cadf30a4304b3a9e14c30f753df5557d0821790f5a65",
+"src/js/L.PM.js":"81e6743c4024a203573049f426fccee26d99aa1c30fc8460cc91360b7486cac8"
+}

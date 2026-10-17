@@ -1,0 +1,10 @@
+{
+"dist/circle-progress.js":"0b58ded0d4dae58a6a7e8d7476a34c55bdfa7f6b87a10dc0e62c3c09d9627220",
+"dist/circle-progress.min.js":"e0937bbc1e32d94eb2c4372b3a85f71fdaa0fd034da75c01d0c36905a581bec5",
+"docs/examples.js":"efdac2a83a40573bbd18343c1395fd719db29b80958af4199762707e544a0fa6",
+"docs/styles.css":"57787368cdb915b469cbde7ec49fd63345c7e896d370ca1be1f56e32e3dc0d15",
+"karma-saucelabs.conf.js":"9ce75291148fb52efd84a0f7e186a3a6bdaefe2585a7e3095fa1b4ca48fdb379",
+"karma.conf.js":"02229150c750f768b14f363d5d910619e9133ab2f54a3cbf1af204500754d54a",
+"tests/test_utils.js":"3c4d37d62ad29948bf69c0f3906617d2e665421acfd67d7c5e7fdb2dff694c3d",
+"tests/tests.js":"f5604c584d4c0dab0f0d0efb06029db6152fc342900557ec10bad0546705f62c"
+}

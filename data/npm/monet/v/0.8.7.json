@@ -1,0 +1,16 @@
+{
+"example/bower_components/jquery/jquery.min.js":"e9b61d51dd538bf0742fe5ab4279cad1f2d10e0f2720502a12a37688227a0198",
+"example/bower_components/underscore/underscore-min.js":"55890fc893a5bb26704f69a67b4b5c4e7700bfb07b302a2296565a79a31447eb",
+"src/main/javascript/monet-pimp.js":"74a03edadf7aaef955e29f41ff088c683529c81f3e271b5707d3210aa0f9a1ab",
+"src/main/javascript/monet.js":"619ebc9372bffbf20d8849c751c2593b020bb84ba1a78e01b89f34a1060882a2",
+"src/test/javascript/either_spec.js":"e4071b7cbacf0b4178736329acab8043f1898dc449cd2d7feb4b3cebe85a4c45",
+"src/test/javascript/free_spec.js":"d1abb11ec03f0fa168ede6518c3df56c2c37bda195b09f2f480bcda2e7b7cd4e",
+"src/test/javascript/io_spec.js":"7fb6b147134d823e6463378cd67f2117d104cd5da4c25161cd41d660f320d54b",
+"src/test/javascript/list_spec.js":"51b9dd4b4bf5f7b2947c7bd7a8958614804d154b8520717259250cb60ec70b57",
+"src/test/javascript/maybe_spec.js":"c58f88dbac37f5571645c073922137d641d5b21899f941c4df9ec73da8c11498",
+"src/test/javascript/monad_laws.js":"c4dddf202f3d9850a722cdc77b414759e9c43e73248f928354444b07939d3af5",
+"src/test/javascript/monad_transformer_spec.js":"e87f63f8167db61c68dfab9d38e1ae9dd1004c7a84f116859a0af7258628dc54",
+"src/test/javascript/nel_spec.js":"675529b27bab156cf3d21e168358315f4990e2b1f1fc71eafc493288656c9ef0",
+"src/test/javascript/reader_spec.js":"337805c5fc2d76a28fb5ce32d132a96a47337532813ed0a6fea4e46ec900e89a",
+"src/test/javascript/validation_spec.js":"2723420929ffdf834cb9460d24d4bf78f5611a54aad65f0fb0b65b3983e3afb9"
+}

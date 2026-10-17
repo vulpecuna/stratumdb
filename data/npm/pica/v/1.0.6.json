@@ -1,0 +1,10 @@
+{
+"dist/pica.js":"e94aba208a52bb2f1868e38caa5928c8c2343208c524aa750ae92296b093d489",
+"dist/pica.min.js":"6a4781b3ebcdd771d5f139d78d68feffbdf8b5cb80728ea92f77c6f5a7d58f4c",
+"index.js":"791f0a54e6df1597d3b3c0b7978495e5aa984cdd520a3f4f04a8af2949f04c8e",
+"lib/pure/blur.js":"64f61388cb682fc9b599090e47af2717c1e2f1a2c95414b33aad2508534a081c",
+"lib/pure/resize.js":"73e198bc21bc412ceb3e5b4f9666138a6570bffac6a8338fe890fc4e7a859f87",
+"lib/pure/unsharp.js":"ec64bdcca24ad85a18cbfbaca1b6bb1ee09b97c03c3b3171e9573cb403f36651",
+"lib/resize.js":"f4c1da5146aee60cb3b2d1fdfbf2b949cbc70d647c05261de3a788efbfdba515",
+"lib/resize_worker.js":"587e96c1948cb43b788f20ce4f4d41eef13f828a410933c211c34314c665012c"
+}

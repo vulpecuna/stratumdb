@@ -1,0 +1,9 @@
+{
+"bin/prettier.js":"0683c371604ef16a5529a93776a3ce5b7e03867025a61ed4ffb3444773d0818e",
+"index.js":"d03dd7eb005a802ce4a70d3dae6cd7ddca11e242804a9f56b7fcdb279535ac95",
+"parser-babylon.js":"47e7ff8b98dde230c1ffb70f499e52a060efb3c82b0731e3ea02c5844395d81f",
+"parser-flow.js":"df7ca53388e6d2a4a0ddb9ad6ac0fb3135b55fefc220f4ee1fd1f8503bffbb67",
+"parser-graphql.js":"b99bb593edd45b637b3f853b1148363869b11815a273fb0d909fc77e68bbd312",
+"parser-postcss.js":"4b69ffdac5bf84275cb58a6d432d03aee3f38cd7f2db4b432116b8e3a5451b93",
+"parser-typescript.js":"3a87229762ff9603daa0a5bf7fb09203ba551353fb1985a4c30cc09cfe494aed"
+}

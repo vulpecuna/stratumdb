@@ -1,0 +1,12 @@
+{
+"dest/jekyll-search.js":"c122b00258ad2cf1a8f7a81861796b6c8fed95e68f5bd31501e0f04a48741e7d",
+"gulpfile.js":"37c9ec593b8b07a8f8a4cad286d620bf4ceaf4ff7fbcfab8073264e92be05e42",
+"jekyll-search.js":"c122b00258ad2cf1a8f7a81861796b6c8fed95e68f5bd31501e0f04a48741e7d",
+"src/JSONLoader.js":"e4f3a4b3c6147fb2b1740847e33430a5f96665c882f6cb24a5427f763e86b2d1",
+"src/SearchStrategies/fuzzy.js":"8dceb9eb923950b458a23225cc49abdfe360da265953d8177254385adb0cb0f9",
+"src/SearchStrategies/literal.js":"26bf39d1f1a7581c700fd07f38cd4aadbf12acef4900d675c233590feef34208",
+"src/Searcher.js":"be17248ef196a89c10b8a1b29580642f65dbd088e33313a849b884d24860650f",
+"src/Store.js":"b0db0ee3565a0c0944f24d029352c730e98e7a1077b46aa1102e03beac73ed7f",
+"src/Templater.js":"55b31bde16067ef5c343c4c4543b6d47b4f69fcb4c17b3209865f752c411bcdf",
+"src/index.js":"8a4b7bc5bdee8a8e09f798d2c6767352076b58d116b16ea6c03a05007f3011c0"
+}

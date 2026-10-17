@@ -1,0 +1,15 @@
+{
+"dist/redux-form.js":"946e763ced14e7afcf56ef38d91b24f76986603902f3a811c6c5f3810996e3a4",
+"dist/redux-form.min.js":"cf0e9d6cf0f4b5744cbc77b5304a6fe91bc3f993d8fba020bcf451f2a922affb",
+"lib/actionTypes.js":"f58b163ed8a7cfbd9cd6335d98e45676eea07bb431a4afc9dfe3ef4f1de2f61e",
+"lib/actions.js":"8d63876edef93009ba2e940e2e1d9fa3d3ab8124b418dd0a699c3d7477135b5f",
+"lib/bindActionData.js":"90e37af0e817546039492c1454edfc46f00a8ce541f1105203412ac8fdcdd75c",
+"lib/connectReduxForm.js":"36f3c4e4691b0b8159339795de1eab7edb82bbcf5628a3ff7fb5f0a3ae355926",
+"lib/getDisplayName.js":"325ac055f1163ac397bc64ff133ef9c6884aca5c608ef4d03a53458c25dd270d",
+"lib/index.js":"56ef1ebe2f884a1e9262226d2daf808750ff0502a7b1d2df7ab1f4d3e28cfd1b",
+"lib/isPristine.js":"9b5737c2d676b75f75a8a1fac8753f91e52ae1a1f61938432dbee92beca45427",
+"lib/isValid.js":"a5098cb26394f293b60df498d59488cd2fc991cf146cd12e0f85675e92dff286",
+"lib/mapValues.js":"94ef058af52dfa99e758d2d4a400ead80e539ce2723cf564ca74b078504d1f0a",
+"lib/reducer.js":"bbd0ed8c3ad1aa687b50751a5351350861179a11d5ba4ec2b381f02c75727b72",
+"lib/reduxForm.js":"303549f14a8e74254a3cc958eb1f20ee0115996b21738dbeaa3b9ba00617f4d1"
+}

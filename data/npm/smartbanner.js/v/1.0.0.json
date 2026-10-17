@@ -1,0 +1,15 @@
+{
+"dist/smartbanner.css":"c3c46e83bff9ef8fdc828154db17bef9e3b8fccf5480e173bd969fe0719055bf",
+"dist/smartbanner.js":"e0ae029579e678d442c49408cf20376a52643acf61123eb05a04c34d88a53653",
+"dist/smartbanner.min.css":"065dc8be0f44d64ae23a3e43338ca7c3360f428b23fe400a5776b1825a6e1cfd",
+"dist/smartbanner.min.js":"4f75afba6baf57e9f53c632e416e2318a499340377eedf9d700c954db50eb998",
+"src/bakery.js":"f4a863c32a4932555da6533f0fbe6a21e8f4af252f5b9b70c06416496376080a",
+"src/detector.js":"55851a4b94d36cbebd650d47af54a4e32b19f9a4fc6e98bc76bbe87248ccfde4",
+"src/index.js":"91af91088c9f942fdfef4e6c2b5876f80710f5c665e172f55e3518dcc0d209a6",
+"src/optionparser.js":"820442cc88bac5610cdd721b95ceae43cf701781692450b0ae48973971c5e209",
+"src/smartbanner.js":"87feeb74db8d9434d753fce55cc10e347fde97c3c162a3bdf841a3ffba4bb18b",
+"test/spec/bakery_spec.js":"ed8e8d5d32e5ed9adcc77fa0fb97502c1cd64e3eea2dbccde973c58ffcb4296c",
+"test/spec/detector_spec.js":"f22e30ad1d67b846df53538d801a97cd48ba30043173c77303131736ad481b57",
+"test/spec/opionparser_spec.js":"24cb7cd44eb27c2f5f6237388e26eaa1780f1095d007eed6f039eb0dbc67fb12",
+"test/spec/smartbanner_spec.js":"1b286a65d29f9b05e4448cf0b5458d80bb165f0d39be387d250faf730d8ec4ee"
+}

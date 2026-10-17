@@ -1,0 +1,14 @@
+{
+"dist/restful.min.js":"f21dd9d6f3b5dd36a741bd9e7b421e31903650f5aea07550fb37f99f101b64ee",
+"src/model/collection.js":"68306e64625f5e307b1ff518183dfe1c5f0daac81b7eeb7cc4552c6e83e5ab79",
+"src/model/endpoint.js":"23a45831e539e7a5b0d2967f437c7461b4da6fae309e3473289ce65206a39260",
+"src/model/entity.js":"e1d0c746866988e9001e66536c56d1af26343efa1b211c0caf79da31dfec6997",
+"src/model/member.js":"6ab6c5368898abe1f7009ad252ccf5826d39da1c084bd15bf5a63c5c8e750380",
+"src/model/resource.js":"3f8d591185c045b074c324a21a9b782b6e39d9c78dbcfb41e694a07c509893ed",
+"src/restful.js":"75788d9dd4278d11129d6d7e0fda6d6b10f4c3b236022e53386808c8a443b0ed",
+"src/service/http.js":"1a428670ab5b40b5b98b84d83b3e2260727419f1c02c9a4c9fd259bff17c958d",
+"src/util/configurable.js":"02114d464c0d6608c21a92c5617f5a4f699663f43313922d39880d3972b151bc",
+"test/karma.conf.js":"3d68ba78a5799a38d23320cb69dcb9451214c9a5198759be10f4d8207fef7f76",
+"test/src/restful-spec.js":"c8f7d9d31d233c8e81eadaeb5d36675f904a0e3cdbc6e06467b313984c5b7f5f",
+"webpack.config.js":"c0c977d6a19bdc5cf2cce19c3744b22304201617c26cd03ce4ebdfb14bf31b07"
+}

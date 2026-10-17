@@ -1,0 +1,15 @@
+{
+"demo/app.css":"8043afa63390b05bcab39744d48244c6b92ac013c3dbceb12be16b3e029af191",
+"demo/js/lory.js":"a11ae67a40f463590a9f9c250f01694316cd133747b07e9f5acf0c2b455198bd",
+"demo/js/lory.min.js":"33c44d0f95f04e3df152ea88282dabe97fdd03caf2e9525fe669f4019bcd99f0",
+"demo/vendor/color-brewer.css":"658eaa6751b409a8a75f2a08a01d211f46e30ce2b2c6c065122dc846682af33c",
+"demo/vendor/default.css":"237c058948d1d95ac26679c535d83d4edcb1c9ce509edd0ea765a28d1c144e6b",
+"demo/vendor/highlight.js":"5fbcc7195ff2b07c7a9911b98f706fa2fd96a10a832cbe7c8474d21d1fe81e0b",
+"demo/vendor/railscasts.css":"3b5b135ee4eb5dc00ebcf2eb123a0203358eef767f0bf43cf3476d05246c7811",
+"demo/vendor/tomorrow.css":"9b220f17522247564cb1d1d2ffbf1122dca1724dd8dc4e6486bb6e5502fe279f",
+"demo/vendor/zenburn.css":"99ac0c7e5529310d075b4fc75d2d0ea8b591acab4a344bca8495fc605b503fbd",
+"dist/lory.js":"a11ae67a40f463590a9f9c250f01694316cd133747b07e9f5acf0c2b455198bd",
+"dist/lory.min.js":"33c44d0f95f04e3df152ea88282dabe97fdd03caf2e9525fe669f4019bcd99f0",
+"gruntfile.js":"e79cfaba410b4aa50eb45ff7742d36c99b11b5ddf180f659335480110fe37b0c",
+"src/lory.js":"3bfda339368f1c70174ee1b94c0546d3a77f24ea2a0909fc8bb0c281e99a829f"
+}

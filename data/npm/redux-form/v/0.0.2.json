@@ -1,0 +1,10 @@
+{
+"dist/react-redux.js":"df0b521681d1cf761f0dce37efd9bed3f9c1baffb5d6c7c7c382010fecd8d99d",
+"dist/react-redux.min.js":"6170a876dc8313572775f5672694afadc18070aeebd4cdabd7bb67404a5d6edd",
+"lib/actionTypes.js":"3959b8a16870236ffc4f4f3c0585f129444ed29551b5df98fcdecc086d5c1183",
+"lib/actions.js":"065b31e0f4c67e69a57c3a52ed75022277fe6b658a2a413b3358ce3d64d763aa",
+"lib/createFormReducer.js":"8e4a38387406bc4c86e073562bf093f84053240ba76fbbcf46f289b6d832432e",
+"lib/index.js":"0d6518e82e2b7f5b03ff439b7231ec575cbd258b97b94e7ac70da3c79497d0d4",
+"lib/reduxForm.js":"32cb9724afbe7bc78e5aac1e68871dbf2356582d70268c1b689714d84861091e",
+"webpack.config.js":"6579f9568c088af9ac3adb586685666a4b382063ea0e2c99a6bac7a2e4cb1f7b"
+}

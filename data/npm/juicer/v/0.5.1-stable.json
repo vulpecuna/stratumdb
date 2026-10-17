@@ -1,0 +1,8 @@
+{
+"build/juicer-min.js":"864e345fb24e10b33b7312a9ff928ed6cf72214946615cc610f6e2db56491c26",
+"build/yui-wrapper/yui-juicer-min.js":"b727519fd77d30adcd93f7575164ed7842bfa75009504ad4f4bedc9eb1faa8a3",
+"src/juicer.js":"2957ee1a9106037d5de01f4ff365648a5baefd3b58f33b2bc5bb4b47686014c4",
+"src/yui-wrapper/yui-juicer.js":"87e72951e907af74d95a51f7f9cc968ee68b496098b390e809214c517eb2fe7c",
+"test/nodejs/juicer-node.js":"195215828bd5212cac637353ffe78a4bbde2ed3b00da4e9fa43d0246eba4a4fa",
+"test/unit/test.js":"50758a889187840b3eb6eb56a92d5a352e7af798abe2a60ececff02d8c1ae3ca"
+}

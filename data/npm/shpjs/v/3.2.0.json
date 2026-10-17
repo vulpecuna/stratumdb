@@ -1,0 +1,10 @@
+{
+"dist/shp.js":"57b41c1f3f6355d5565d9ea6b53333af32dc61d07d36bf310cda268bbef3677d",
+"dist/shp.min.js":"7560241cef2ecaa5d8939859c68ab49468b85c726f1ca0fac54abfdee56ad249",
+"lib/binaryajax-browser.js":"bbf3527bdf9f4e364c638a94cd85e67b9bf1ffe8a5733ce409d30d022377c07e",
+"lib/binaryajax.js":"563d92f55c39e7483016d4012d20241f99becaae32d81506690a8980c3cd62bd",
+"lib/index.js":"b7902103eee3a8f6d908d56c1073e4d672444e7c83abaa1489d82bc08be97d13",
+"lib/parseShp.js":"63712a583391b9b89b9f1d42da7ee49894d29a36b326ff883da6cecd349a3fb2",
+"lib/toArrayBuffer.js":"eeb37f5da97d32796f57457db512b731679b439c35f10c651dd90b190745c55f",
+"lib/unzip.js":"132f6aa7bae1e91e066199ef1fc8347a15a7b8cac9188056ba88f02dee4f3b18"
+}

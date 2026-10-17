@@ -1,0 +1,8 @@
+{
+"dist/magic-grid.cjs.js":"af35450c92865e5ed094a88376e8f07635d201b4106aec8e9fd0272e9b1d34ae",
+"dist/magic-grid.esm.js":"3627b628d1152d234b6a81aec2247b5eb02104d6aa43a372d1a63c3e6b8769e5",
+"dist/magic-grid.umd.js":"bc12ed5d475c60aba3d5e58a3dabaec14b1f2482ea3b8eeb75a2133a22110bd9",
+"rollup.config.js":"e27e4faa531432e2007ad1b785460582a6ce40780b2f52c99d684d77b348a75e",
+"src/index.js":"113abdd30661c608a8a0af8e412dfa8ceab63ccea0d3e27c5c1d2f51900c4d40",
+"src/utils.js":"493d631331e8308315faac5b3491d27d935ed5accb05fbf2544d3d8fa071abeb"
+}

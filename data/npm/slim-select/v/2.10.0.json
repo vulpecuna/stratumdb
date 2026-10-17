@@ -1,0 +1,13 @@
+{
+"dist/slimselect.cjs.js":"aac9ca35f2e32ea64af999343256ead9854ca3966ffa2a3c9302d3493eacb68a",
+"dist/slimselect.css":"0e1f064fc4115808ca744890e58397ce6b4058cfdd592e5414739aadeeabf5d7",
+"dist/slimselect.css.map":"576d18196724b037969ad65191c0aeff69a1537903048c8cf37660628b1b2e1a",
+"dist/slimselect.es.js":"cf86234267867ab892e103c42b4cf336a7faa0cde71c0f7a03b5c6cd6ab8e014",
+"dist/slimselect.global.js":"3bbd7f29093f4150ae3ec11b9e091ed35cb7f3589b4a3e69a89122e6ccc1d9d2",
+"dist/slimselect.js":"4b5d807f5c4553224d0d9115c77ed03bc2c742433e4eced41d8c7ca57930cdd1",
+"dist/slimselect.min.js":"43e2573f569b11614e443f671602224004aea2bda8f9b1e7da0924610fd46bb6",
+"dist/slimselect.umd.js":"4b5d807f5c4553224d0d9115c77ed03bc2c742433e4eced41d8c7ca57930cdd1",
+"dist/slimselect.umd.min.js":"43e2573f569b11614e443f671602224004aea2bda8f9b1e7da0924610fd46bb6",
+"jest.config.js":"7e1ea546f8f629744224c44577abd19f7ebf397fad7e92e437bd35d397a81801",
+"src/slim-select/rollup.config.mjs":"27a135c657dd1b91ce81cff585185ad4aa61b3edd9871e2e256f9082b84d31f7"
+}

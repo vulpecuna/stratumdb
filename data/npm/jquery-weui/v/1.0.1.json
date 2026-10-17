@@ -1,0 +1,17 @@
+{
+"dist/css/jquery-weui.css":"c6711478d60d1838e1dbb0cb3115c08c78152f58fd715cf22ff476c76fe69998",
+"dist/css/jquery-weui.min.css":"10bfd3ee8fb19318c5a5269e7fea3981c6943146646446fd86f052291162b209",
+"dist/demos/css/demos.css":"04dde79538ec0befd402169a68f25958e5a0ec2318fc01247a711366ec30fb1f",
+"dist/js/city-picker.js":"2976c5f2cde214ac95ba7a260f62c70f0aa077dfa575104bfc2a8e5f2a7b206e",
+"dist/js/city-picker.min.js":"be2de1cd55bddcf7f1f009ae61a97c98d928fa6be2e3cd050c735083ed74d53c",
+"dist/js/jquery-weui.js":"7ea6d9bc330e1db0b8821a58d9e54a725b649e0cffd167549fb3284a9411c4ad",
+"dist/js/jquery-weui.min.js":"b75edea1a5175a88305e7846fe941a91aa77c93eeb3edc68e78af15c3e527052",
+"dist/js/swiper.js":"04f6ba541f7b9bb79699f7e9a38274175743aec9bb1269809b27c7a3778eb84b",
+"dist/js/swiper.min.js":"d06c17f94d9886c09d86bb809108b05e297364239db0431ab98766167d8c8c18",
+"dist/lib/fastclick.js":"1aa08cb3c7aa70d268d24d59c374c14af7bd08e0af8c85f8e4f60a2651f4bab5",
+"dist/lib/jquery-2.1.4.js":"b2215cce5830e2350b9d420271d9bd82340f664c3f60f0ea850f7e9c0392704e",
+"dist/lib/weui.css":"40d3fe4a14a0c11157c257e2b1fa62a29c2b05b2e53bbea57b0a8624cd9ea095",
+"dist/lib/weui.min.css":"ce778e69494ea9962508d2e49f3dba40431f3f36f4c5525e4eea0f4058a2dc96",
+"dist/lib/zepto.js":"7ab854cc22d028b4cdbe236179c0b0908b7722063c816444a3837ba7a1b8af8b",
+"gulpfile.js":"25d7d4da5c5b245a7ec92bccb631680fb5fe0e4f30df973973338688c13c67cc"
+}

@@ -1,0 +1,16 @@
+{
+"dist/browser/pangu.js":"3e10fd89d9e086534271d107df3e25c1fd98426d48d72539e10dc729e19fbbd0",
+"dist/browser/pangu.js.map":"87173a5b452ff35788149fc2c316b03418c058cd0d75590075f38b8958f7f3a9",
+"dist/browser/pangu.umd.js":"e3cecd88763276e3e758ea9b66e2546d358a915c47be36dab352562ba3bc1bd3",
+"dist/browser/pangu.umd.js.map":"79770761acaec642e7b7a5830e961e6bf9596e08be04c43e6817b303cb02c9e9",
+"dist/node-C2gy56uJ.js":"b612981b9930c4fc3f1c8ccad2ca7a2c0fe815f72e3e0888126564488963cba7",
+"dist/node-C2gy56uJ.js.map":"488a1b1c0e539ab6fa2a5ff0c2249620e539813bda30a8ce719806867c3a3dee",
+"dist/node/cli.js":"b37094d233917c4d3d4d6bfa1018806a97f9cfda38521f251472492650b72f4e",
+"dist/node/cli.js.map":"67cfa6d506bc4cb9e27426c53c7ee30cd12224d8cd4b2ca96e125d5c4a4d3c1e",
+"dist/node/index.cjs":"60e7946372c1ea54710405385732824b793b7207a7cd21668fb9e073838b6a3e",
+"dist/node/index.cjs.map":"0c84c53f96f8665c2d5166f61e9a58215857d366bb8adab17edbc0f73229053e",
+"dist/node/index.js":"bde6c68a7cd21541ec5a5ce5d25db802896fabdc6d0b4a0c91910827db9febc9",
+"dist/shared-D5DWhyd7.js":"07c6d9a7d548d8a3d2c661d5bb316953b9c4d09aaceefc65d4a8cb1f8ad18b0b",
+"dist/shared-D5DWhyd7.js.map":"bbe097adb0c76daa7de118053ec4e3c6a0acd1e6a6ce51b4bf5ed3d1deffcb87",
+"dist/shared/index.js":"2f80df97a21b002b501c1a31d37bd19ef9e1eb2196cd8979b258b88af834263d"
+}

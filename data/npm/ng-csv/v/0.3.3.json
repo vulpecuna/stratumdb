@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"26a02f94b2c6c5aba554d119cb96fed2bae93074058af72d728f2a0f143233f3",
+"build/ng-csv.js":"1b719344591b29e6713d8ea5242843b86a8618ad1842ab8eec800716653b5419",
+"build/ng-csv.min.js":"2e60d2ca93cb025e97ea02d4e8587ea27730b809c2b2740e75836357cf6f295b",
+"karma.conf.js":"7a852ef7a8bd9afcabbdf57819a22e1f317a96d7d5ab2f97bdbc36673e3f394c",
+"src/ng-csv/directives/ng-csv.js":"fa4708b42dbafe0e73dbc33875701fdfe5a1b1f1609e1c9b4fa6d92efd50dc60",
+"src/ng-csv/ng-csv.js":"020322ee9d3724eca5230c30e8c0da2e55a6e4f0fcda4bc5d7014c54e5c8dc57",
+"src/ng-csv/services/csv-service.js":"5d519da0d713ece60fc8a9675ecd41de169f2dfb2cedae96501264594b9b68b2",
+"test/unit/helper/blobOverwriteForTest.js":"fc52ed505f1287f1fbcb0e4bcd4fede864bcb9592e77ee31cc56e19e800921a0",
+"test/unit/ngCsv/directives/ngCsv.js":"89bc2014b91edb914c735afc506c1fc660b1ace668746fc7ea23db00fa7d4452",
+"test/unit/ngCsv/ngCsv.js":"0b6b94fe863a2055ae5026638bea62f4ba0c502c40591a61824baaec2404fcbd",
+"test/unit/ngCsv/services/csv-service.js":"da1e97e67da545cb918eea93d75d038bf076d1da5460aa8db64b5a0e46598b6b"
+}

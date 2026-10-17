@@ -1,0 +1,16 @@
+{
+"dist/css/jquery.jcalendar.css":"3c36bba4ba3870a9dc3e4d638c36b538c45fc493e4cf17deba95e4c055226d24",
+"dist/css/jquery.jdropdown.css":"004694286871b120b7b31f04399f23a87910c23b91d9b07a81d3838d2fb118d7",
+"dist/css/jquery.jexcel.bootstrap.css":"f1f4846db34f2562eaff4221f108bf353252b9e112685b744f0e5e8fb894eb16",
+"dist/css/jquery.jexcel.css":"32c39a9df5097f439c988f390aced7ff9873ba1f04f62de19c20d9bc2c38532c",
+"dist/css/jquery.jexcel.green.css":"57fdaf68948ff9ca8fa031e823f342f9eaf868423af4d13eca1b54bced991107",
+"dist/js/excel-formula.min.js":"51af4962e2308a6dc557155916c37c0f98e5f87ff9a79ae5f8489af15532f901",
+"dist/js/formulas.js":"748e061deb7c5cc12bf3ad65de3ad18129288de35bb339954fd90d771605f618",
+"dist/js/jexcel-formulas.js":"053ec6861ad099a5e871abeb7e3530b85b37ac8fa6b72146f2ab2a1f874607a6",
+"dist/js/jquery.csv.min.js":"c4a589a6a3f7663862a563b2cc5b8d986d99929d5c5b89e1511106073b5c497b",
+"dist/js/jquery.jcalendar.js":"59c33e2140aa531686312f7a1cf6176517a80fa35625ae64640fccb608c61cb6",
+"dist/js/jquery.jdropdown.js":"d8951e341d1d36f85879cfc6c606e69cbef1ca3dbbd6939b072aa89f88490a0c",
+"dist/js/jquery.jexcel.js":"ccd21dc6e2434ea580631a2c96423d1bcf93efdd5d6adce0c0bd8a7386b1e11d",
+"src/excel-formula.js":"f497bf60bc9753ffbd863e5c634a25395c5a613be5c8c8b08ca67c9121b88189",
+"src/jquery.csv.js":"4070b86d6ce9936c6b3570116b0de7c56a96347e7ed9ecc6d4960376c3f98ce2"
+}

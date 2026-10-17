@@ -1,0 +1,16 @@
+{
+"dist/jquery.multiscroll.css":"0911533fbe5c0643b22ce3690a5487b79238961ea6bf1a3b7d4f6aceff4aeb35",
+"dist/jquery.multiscroll.extensions.min.js":"1d55ed4e02bf752ef65c9c35003e9dcbd5a0e4d9c2d6511cde9317d72fb59a34",
+"dist/jquery.multiscroll.js":"9679a1cb8f46425e2056e0152cf981cd5daed49006794d342e5c40320bf122b0",
+"dist/jquery.multiscroll.min.css":"6e60441f8b1448f2afcc9ee1a435e151f6cad36157842d9e13a770c341bddc69",
+"dist/jquery.multiscroll.min.css.map":"d8d319e4b395d13b12babe25accd3a55415d57e9b9492235d9f41fb431c7b913",
+"dist/jquery.multiscroll.min.js":"263c2aaec1dae23ac6c9a0e80392c4736e133e428940f013b461d879659050b8",
+"dist/jquery.multiscroll.min.js.map":"bf4fd7d6d316819c8ec14bef849282353f9b43e6a9ea2a15bd98dc0dbc2ae838",
+"examples/examples.css":"0bac6800946d29fa5aca5a1eedbf3bf5df54baeb36121fe9c2edbe7a732345b8",
+"gulpfile.js":"28c00af830f5c364e24c0db690489b454d478b1d78f209d0e9533ae57c8a3456",
+"jquery.multiscroll.css":"0911533fbe5c0643b22ce3690a5487b79238961ea6bf1a3b7d4f6aceff4aeb35",
+"jquery.multiscroll.js":"9679a1cb8f46425e2056e0152cf981cd5daed49006794d342e5c40320bf122b0",
+"jquery.multiscroll.min.js":"17cafcf746b5fe843f7742da015debeacc7df62451493fd886bfed5066acda10",
+"jquery.multiscroll.scrollable.js":"b0b46bcef2887262e0a72d82628eb928d11f2c1ef5505307c65a4e2461f79be1",
+"vendors/jquery.easings.min.js":"8fddf5634d42576007fe3b40dff37e0858d313da7176af885a6a0dccf54c340b"
+}

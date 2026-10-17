@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"8eaa3ed6fd465f885a25d5c688511b77dd5217c0e1d6bf8955a355c695a918dc",
+"examples/node-example.js":"b4f92dc75dee7d9863051609db10d65d5a0cdf5ad16fd13acaf71151d6680376",
+"index.js":"f9769fc5f4b058bd55527ab7f5374bba3db270a31d0379252683ae532a051be1",
+"lib/index.js":"a0c1111a5d8366f0470834d901e025a6b5757a3271bfc43da28f00dc7f8b457a",
+"speakingurl.min.js":"294bccdbb6e7edde54ffa6d74104eb4198783e59465d91cb23aeb74d66bd28b8",
+"test/test-defaults.js":"4c9019c01998b8add601f445d3b535ad38739aea3f040d63cc9c479d9a46339a",
+"test/test-maintaincase.js":"4d3522171706bde49108f9e7bbb5e490914c7ea9b2a486b157402e8576d13943",
+"test/test-rfc3986.js":"3746ab7f35a2af3ce9f4109ba418886115b71522f02a99e2d1890081eb397c37",
+"test/test-separator.js":"7f9b1ac69cd66e7ee0a219feaef9e4cc06ba4e264f927602ab93e359740ce4b1",
+"test/test-smarttrim.js":"896e32c4c5502b7aabdd89f4d0a71e93552369702956a18cbd5d5a7f783a1a4c",
+"test/test-speakingurl.js":"631924468633cb04bf21c38ad5cb01dcb5d7797634dba093ae940ab3ba1de838",
+"test/test-symbols.js":"22da4c368cfba409a6ad64fa37d711b25eee4fb48164af30d68882ab1073bfda",
+"test/test-truncate.js":"1cbeb7403b5ca003c6b39beb7e6c448b951d007f9dd982f03f6f5f2386a539a8"
+}
