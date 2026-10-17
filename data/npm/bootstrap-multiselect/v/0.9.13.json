@@ -1,0 +1,17 @@
+{
+"dist/css/bootstrap-multiselect.css":"3b58c984e216583737c2aef983b6970e5eda1104f65cf922797fcccffbb8850d",
+"dist/js/bootstrap-multiselect-collapsible-groups.js":"c711bb06c497897d84665727c1071324c9917aec5f83a5811f258dcaa2b4700c",
+"dist/js/bootstrap-multiselect.js":"89f91262d888878d9dbd9feaef68bc13f566c21e12395d5234eedd64f2b9d86c",
+"docs/css/bootstrap-3.3.2.min.css":"d31bef450ee67b64f9b70bfdf41fe4e00c65438705cc1fbb48ea6026d3a5d697",
+"docs/css/bootstrap-example.css":"523a9948498709138c2f8f5ed7a1f676e39bacf0c3f721a2a29189d7acb04b4f",
+"docs/css/prettify.css":"946f7b4d651ac42417174724c927487b4130d2e360f7feb104cdc9a8259ef1da",
+"docs/js/bootstrap-3.3.2.min.js":"c8eeec83fe8bf655eeeda291466d268770436dde4e3e40416a85d05d3893e892",
+"docs/js/jquery-2.1.3.min.js":"8af93bd675e1cfd9ecc850e862819fdac6e3ad1f5d761f970e409c7d9c63bdc3",
+"docs/js/prettify.js":"e2e576e3bc607cd179ff511947010f645d3441a35313aec0dbd06c4437f83b77",
+"tests/lib/jasmine-2.0.2/boot.js":"9b4171661746e79bdfb528938bc1b7bafdfefbb7c3e42487ca6c053d15b6f01e",
+"tests/lib/jasmine-2.0.2/console.js":"efbf684ab66d316c8eacd34dd67f74909fcbedcac71ad288f53f9f426b175044",
+"tests/lib/jasmine-2.0.2/jasmine-html.js":"6edd83d35513cc1d3e655ef9382c01a277daa8feca22993799e1467399e65217",
+"tests/lib/jasmine-2.0.2/jasmine.css":"df6974685690e6893c508728d05c10529b2c5bef8c058e9b4738f0fa06f82ba7",
+"tests/lib/jasmine-2.0.2/jasmine.js":"ecbe71e16dc75363a0e5f7693ee85407a375fd794b1b18fe17f1dd4200cdf0d2",
+"tests/spec/bootstrap-multiselect.js":"0e63b8c940557acda2c9366ba478b957776d54eeb00eddc34cd270db40b4fadd"
+}

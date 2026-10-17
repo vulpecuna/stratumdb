@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"d98e8804aeb39d947ecbe484b09cd01b7d0704d24dd6f34458d4d7eecf4b49ef",
+"build/loading-bar.css":"623addf30b3a1c695816ca9bdee001ba7807a4899b12e1d8d5292ab44a5a024d",
+"build/loading-bar.js":"f73845b59f13e0677d271e7fe2dba5241ba95baeced8f4e8ffb64400ae04323d",
+"build/loading-bar.min.css":"5ee1627819a8f9b4d7b8e5e5f6cf5c70c3e0485f5373a22f14ef66166cba4ece",
+"build/loading-bar.min.js":"c05dac5e923bf498fae93612f6e858fb463c39c1cdd63d6bf9b0a9f57f8f089e",
+"example/app.css":"46041fc34311575b6385cbfcd86a984852f1d6d53d08d46fec39d580db8a72ee",
+"example/app.js":"d92c53af7b3c5794c23d375200fa1f191ff0095fcbd56df37d82493b7127037f",
+"src/loading-bar.css":"369240810a836e8b8479497a5a3ce963818719b4c3730be61fc5f05d8674b798",
+"src/loading-bar.js":"38087fab212eb0132a13007f80edac525e839fcd24842d115a3a59c24581759c",
+"test/karma.conf.js":"7f9588925a2fb36d83c4aa1f7cdbcaa052c908c3d232b1e9ec78ca3eea62fe0d",
+"test/lib/angular-animate.min.js":"59da3249d81e202322b1cebd1c62f82d60b40f4e810b86751ec0c35b6b70e52b",
+"test/lib/angular-mocks.js":"a8e47569d1bd452b1d011c3af9163c5611f7d22967f9f7922004a8b88bc3571e",
+"test/lib/angular.min.js":"27004c6e1a8233f5131b5ec7907144ea10e55ebdf1b460445e7f0b54ceb35bc2"
+}

@@ -1,0 +1,11 @@
+{
+"bin/index.js":"34f974c41cec7db402a9335bf7b6e5fa959fe34292d7b53809ac6853646b0775",
+"bin/index.js.map":"6ce3e18c36c6f95dda573879588d47701361a7a3946d4d88a0bacebb67f5d2cb",
+"i18nextBrowserLanguageDetector.min.js":"34f974c41cec7db402a9335bf7b6e5fa959fe34292d7b53809ac6853646b0775",
+"lib/browserLookups/cookie.js":"a47b07b9bcea34b1c71ecacacc735286d6ec3082ac8d784908ed9a3fa863ebe0",
+"lib/browserLookups/localStorage.js":"28c12cf00d45032e5a097a3359fcc6948004ebc4ccc60cfe3ad8fb7509e951a3",
+"lib/browserLookups/navigator.js":"eace8c12cfda888af2d916c6db6e550690ee32e562907dd49cc34bec77a2b140",
+"lib/browserLookups/querystring.js":"679cc249a9192b59c6b08d4c22372d103b977e9ec3bb088219abeddf0bba2ac9",
+"lib/index.js":"c9fca9159068c6cc075a1e389765bb5b1a18410a19ab18d7906fef3372154842",
+"lib/utils.js":"722f6cf7fb3c83fe679cab9f0d9e8d60af3ecd6af73a1462fa8c15d87ee30ede"
+}

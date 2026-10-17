@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"017d3941db9642ef11e96148a226301443f2567c1c76970d8b04ef0cca6fdaf6",
+"js/angulartics-google-analytics.js":"4bafed0355550ecb71425cc5813ef5720f56f34e5a84090264d7a09cc949110a",
+"js/angulartics-scroll.js":"e78dff5d8bb01310ffb3a063ee83f65ebef1605c246e432d738b44ce235f0dd8",
+"js/angulartics.js":"719ede18b78fa584ef3ae0189950bb8625238e8bbc727d5b16a7f587dcb3fc09",
+"karma.conf.js":"0b038d1d8841a5024ac77c48c53f42bd8abe7481c50ee28023f5f94f7f909922",
+"src/angulartics-chartbeat.js":"17c75f5c4468904645ba13fab33dc886ab2923611f3b85c32251fe6d45c01a4f",
+"src/angulartics-google-analytics.js":"4bafed0355550ecb71425cc5813ef5720f56f34e5a84090264d7a09cc949110a",
+"src/angulartics-kissmetrics.js":"3fd1fc53d427dde3c5e4a89af102672065c68cda4be53a3a0d8a8162b9d19590",
+"src/angulartics-mixpanel.js":"c93c5e5a99571ade06eea7bc8ef1e3b1e33e805d878b1b44a14c3931cc2cc1c7",
+"src/angulartics-scroll.js":"e78dff5d8bb01310ffb3a063ee83f65ebef1605c246e432d738b44ce235f0dd8",
+"src/angulartics-segmentio.js":"aedf4522aeda4d49d3449b7a418a70f8583b5486e4d568bedf8c49e8530f8c86",
+"src/angulartics.js":"c1734510797fa7093a63ff073a85f84ce05072ba3cea9e7564b84c386f37ba6f",
+"test/angularticsSpec.js":"9df069e6b62ae2efc6dcbddcd94e1d744b83be9778039a2aa9da539ec875f9e8"
+}

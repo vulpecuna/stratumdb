@@ -1,0 +1,10 @@
+{
+"dist/browser-image-compression.js":"a45c3c0e2351b8a0290ebb88dfbca3aaeaf742019f80bc09dc4a481290f0a6a5",
+"dist/browser-image-compression.js.map":"2db8d5dafec446018ddd3c5ae5596f3caf3e2d112f2056d6e06faa2bfb3bd64b",
+"dist/browser-image-compression.mjs":"a0daa13d1df7d12050ffe87d17998e625cbe247c2f7c369a1d785bfe11f25375",
+"dist/browser-image-compression.mjs.map":"b32d88d1edc478d0cc633ed3f4354e87648183cdcc8d2701472958f74c8d4ddb",
+"lib/image-compression.js":"e7cff30c81446a40f768defa476ee5c5be45482cf15b4c6df2b2e59d0c0cf3b7",
+"lib/index.js":"62b0dd655f143878f894568388b6e78288d6fa157a1c8106146e94a484bbb049",
+"lib/utils.js":"a396cd33ae025ff8d5417ecc2b0b1c0d8b7d62f56d564e580f3bd62a1368a66a",
+"lib/web-worker.js":"5d503bbb9810326267c5e60ae65e3873c3cbc0de3838f5cdba1840d7c3681b60"
+}

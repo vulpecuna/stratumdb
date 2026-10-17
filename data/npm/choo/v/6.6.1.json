@@ -1,0 +1,11 @@
+{
+"dist/bundle.js":"b56a5b2ae0486b4115117bece846ab887253da8c035fdb0a6d1836f2723f1b2a",
+"dist/bundle.min.js":"823f0b373a49cabfb470ce02e669ffc6f64fd4f98befe7fa871a2ad2506fef27",
+"example/index.js":"1d233a40e061e5f0ba9d4525a07ffaa41ee5d692d0d26fa16a80cf0f304c4215",
+"example/store.js":"c5df482be2f23df2fa354d27f936a405543fb815b2e482bec76092b6f24c0b5b",
+"example/test.js":"ae650c9b46d58c46aae414fd923c2d883c6583ede3ff4064e47afedde794c42b",
+"example/view.js":"d90b2eb59a24ff8a6b42f7dfac8eabb05c1c2c4720b78dfb3340267fe0e7c5d7",
+"html/index.js":"bc54696b6fc1562f90254d14c87b7cb76390a1338f6d1d97ece32f24deac3dc2",
+"html/raw.js":"28acfc0f25b35344f2d428384722fa0da5de7202d300b56e8f356f72aab55733",
+"index.js":"e6e4313c6c4c95e0d90a8698c61459e9ea86e31e24a50bbdc70d43484f8f8f42"
+}

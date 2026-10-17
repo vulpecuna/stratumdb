@@ -1,0 +1,14 @@
+{
+"backbone.epoxy.js":"49d53673cc3f0def501e51341d0b383eb5ff778efc00b87dcac0e2bb03d0bc0f",
+"backbone.epoxy.min.js":"348bb7dd63945b540a52e3eb990341bfa5fbf00a805cf8c7a6425449358f0147",
+"backbone.epoxy.min.map":"4216d2131b0997f72e2e61de380ab9fc0d8c631a718478ba1e5d43e601b5e536",
+"doc/source/javascripts/all.js":"c1c2ff169c29b5bda2c4ca6a1e1b90944758a241f9a0f8f0eda354b3e021b8d7",
+"doc/source/javascripts/backbone-localstorage.js":"31ffc78e0f623b050b596b81688156c17ecd9997e913221e06091e7ee6a57ec0",
+"doc/source/javascripts/backbone.epoxy.js":"1f31c3d80af400025da09af09893b7648400827d763f8498a5bfc74128bedc44",
+"doc/source/javascripts/backbone.js":"c197404acf00c5ff1484ea0bc478d166789d3c02b4f6d90daa9dc78738ec1bda",
+"doc/source/javascripts/global.js":"56be819ed0fa32b5281ec8bbdb2d1c8ac009cccc985240a58625166eea5b894f",
+"doc/source/javascripts/jquery.js":"61c6caebd23921741fb5ffe6603f16634fca9840c2bf56ac8201e9264d6daccf",
+"doc/source/javascripts/underscore.js":"fb6e37745959a1f517e2bfe0aa3c905dc05a1d0ecc842df082ebfd349320376d",
+"gruntfile.js":"7b0e2bd6f4f7734d5a376ae59c26f7e1673b92023b84908b92990f8fffa69cfd",
+"test.js":"bfb31c0fcd10ec853804a54be2a254ee73201b53fdf806f673ed14c072e36e3e"
+}

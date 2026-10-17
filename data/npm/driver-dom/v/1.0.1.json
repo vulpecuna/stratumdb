@@ -1,0 +1,11 @@
+{
+"dist/driver-dom.js":"0ab098305b2920dd6a82a21243133e3c52df95f9e32312c0d422c5fe506cb833",
+"dist/driver-dom.js.map":"cb27571f1ce106691e80b987072bfb75f27ec41ee1784e4ef18c54e279ba68ef",
+"dist/driver-dom.min.js":"cb6319b4f7c6dbdb388c747bceb90e57d93a98809026c9505bcef23332de5fc8",
+"dist/driver-dom.min.js.map":"5ddf7a1cd5db3ce49c8b5b98c75cb20996bffd19c1458723c726e9641cebb340",
+"dist/driver-dom.mjs":"ff2beaa133f1d8d7370e90da4688fe43496383ebc3fb284173842c4f72bb0025",
+"dist/driver-dom.mjs.map":"2db344c85b00e3ea26a319a9eb59e4fcfc3e23001d952027b715d67eb7831638",
+"lib/index.js":"57355364fdff8fe0b6b0831430ce3f634cf3aa4ed3d6252c6166714f0cc38072",
+"src/__tests__/svg.js":"71061ec859ab0513382d38950b96d1f569f65a5079fca650947b7efafcd49238",
+"src/index.js":"240f79532ffe06a169f58bb271932d91eee446f8c4efd98c3a72afb9373f133c"
+}

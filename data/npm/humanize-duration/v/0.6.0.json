@@ -1,0 +1,10 @@
+{
+"humanize-duration.js":"69ae3e4249b3a2d72d15af1ff94d53978487ab4fbaa7161fb5cb74d8a3926d13",
+"test/test-english.js":"eabf959731f75e3e95a044a1a698b3381fdc9e4ccb865fcd5acb09859b1fcf59",
+"test/test-french.js":"54cf0cca3b9f37d36affd61504a3b34981aaf982648d9105c98c0c9a3e0e745e",
+"test/test-german.js":"114b697be46688530af1bea10dd02ac21cfd96a4069b55d4f3dec2ff81fb66bf",
+"test/test-korean.js":"d09dbf08a725ef537eaf3b09c9a28fa17b8dd3e5c425caa392d204f9ff7bcc91",
+"test/test-norwegian.js":"1a85751a57b81915e9595e3574dd95d11bdd71b7e3f26462d7f2213a4bb20357",
+"test/test-portuguese.js":"bb7b3bc3353eafd77a6b7a7bb42fb23c8e654deefa9662f2e8d023c21a85a58f",
+"test/test-spanish.js":"eec1a5265118123596218e491f24e5b619879b03730cc71f64275da6fcc34aae"
+}

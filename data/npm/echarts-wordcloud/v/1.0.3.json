@@ -1,0 +1,10 @@
+{
+"dist/echarts-wordcloud.js":"85c135f20ddd420b13472e1217b27a4795cdf05d674b9e3c72f7a594a7c8247c",
+"dist/echarts-wordcloud.min.js":"ba51a1b2fe27cb455ae69bf3f83fba08a7d2363e7a5211516c959383e782b78d",
+"index.js":"2c7385337e95012c4e80e19f73f2c478c5e0c528db830b59c0f05c265fefda60",
+"src/WordCloudSeries.js":"e9d25dadf46fa3ccb0e12110c55630573718b10f271b07ce8a2112720084cecd",
+"src/WordCloudView.js":"7835e4cca4eef079a82efc1e67a41f0a74e9b96245a87b41aac628a70130c51e",
+"src/layout.js":"4165f1803539dff42d244da1eaa2ec21cbf2059eb387ca82327153e0611fc981",
+"src/wordCloud.js":"c58878109b36d27fab36b7ca4a7d2e04f820dc94bb3c86a86035692137f90e15",
+"webpack.config.js":"5af4c829dc41dda8a2d5c3d5a4676dfbf2488acff1cb4c804c474ec20f1f84ee"
+}

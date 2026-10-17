@@ -1,0 +1,14 @@
+{
+"backends/mongoDb/index.js":"919ce08534be19df39010f68901f80f10570bb9f8eff2cce69316951fed27637",
+"backends/mongoDb/sync.js":"f5ae648e978db4adaedfb5179737af6999f95d80908d95524051f4b6b0ca7d64",
+"backends/redis/index.js":"919ce08534be19df39010f68901f80f10570bb9f8eff2cce69316951fed27637",
+"backends/redis/sync.js":"d7f0e0e685728d6cd04def4145fed23e4e9fa4cda8f097a6d5ebff0143a797f1",
+"index.js":"c124c113fc6003c08469654adca77e4f57ce0f9b6dcf4aca8b3ddd10e17ff4f4",
+"lib/dep/i18next-1.3.4.js":"494bc3a6303a571ae9be0ff720295391d25b165e22989108eeaa74ef2ffb9750",
+"lib/dep/i18next-1.3.4.min.js":"488febd7da237eae6a978e570ef21a42f41741fc88d82222f153a07666f04838",
+"lib/filesync.js":"f607d9e731f609e8cfd29f31097cb540a57b78c9b6e12f36bd5ab50aa8c32f4e",
+"lib/i18next.js":"214159ea81f9236dd89f20340974b5c623a72020500b4efea99ac47b787f0bd8",
+"lib/i18nextWrapper.js":"6b7bbcf4ebde1b0b28983d43d83c42a193de5ae44ce118837f95daabfbfc126e",
+"test/i18nextTest.js":"2ba06cf3393a73577dd38d039b35b437b59ffb7fd0bd4aa7d8c557a3f482bd48",
+"test/i18nextWrapperTest.js":"e3cbb922c18bb0d7638d8258f2f9681a8b36d8f8e9add84fc1905abf091663f6"
+}

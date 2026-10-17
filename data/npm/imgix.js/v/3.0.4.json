@@ -1,0 +1,12 @@
+{
+"dist/imgix.js":"8f26bc26e65bb8f3d0de7357514b915f5bd8eb64132ba908b7baf0e92a8853b1",
+"dist/imgix.min.js":"e7b3256b92f1e8767c9ea07f65879776c8ec9f78e8bdeff69abf780daff3269c",
+"spec/ImgixTagSpec.js":"51be95d465ed8dd92eb61b012728bcaa0b032190f394bf1b963dcd991d46b877",
+"spec/defaultConfigSpec.js":"5ba6e80bca74cd8d43368c5ad62f292d6ac3e190e8dfba18441ba952781b5d1c",
+"spec/utilSpec.js":"18e04acdbf21b5354e7eee0e4b5ef8a8d92a9c3507a5a95700c41d94fa38558b",
+"src/ImgixTag.js":"d8065223bd71321bca59ab4d176a59aef7f08b197e43d3c33408a1974154bb97",
+"src/defaultConfig.js":"c8937fee6f9a9642677d9b9a9ae53ecbb5dc6c0e0ca6d8e87b4b2cf761b443db",
+"src/imgix.js":"f5e082aceea09f6c1da5309fec09e5efaf3fcfa96cb89bcb2725958ff56498cc",
+"src/targetWidths.js":"47f630283813c4033afd7bf2cdfd40f1dd1d8d8d866321c265c7b89901ad927b",
+"src/util.js":"05efffd8787a32f9ab3c55351463d2996a047e266d151eadfd45d99b38ada442"
+}

@@ -1,0 +1,12 @@
+{
+"build/dist/excalibur.development.js":"ab18243c165c70cb90271f89ea933d4573c9fcd05ee8e9714fe982da979c45b6",
+"build/dist/excalibur.js":"ab18243c165c70cb90271f89ea933d4573c9fcd05ee8e9714fe982da979c45b6",
+"build/dist/excalibur.min.development.js":"071b6e8cc24288c84cc1f5efdb654b5c1b8f07b74f7a5b2e6f63dec19d144399",
+"build/dist/excalibur.min.js":"071b6e8cc24288c84cc1f5efdb654b5c1b8f07b74f7a5b2e6f63dec19d144399",
+"build/esm/excalibur.development.js":"135764bb81b0a293dd33e13cd6d39a55e739dfbf664e6d9c48829a9bd6dbf6ff",
+"build/esm/excalibur.js":"135764bb81b0a293dd33e13cd6d39a55e739dfbf664e6d9c48829a9bd6dbf6ff",
+"build/esm/excalibur.min.development.js":"333e84957018f490ce10d6ff35c9ad3b427f6311dd860adf0708b139ac9cebf4",
+"build/esm/excalibur.min.js":"333e84957018f490ce10d6ff35c9ad3b427f6311dd860adf0708b139ac9cebf4",
+"eslint.config.mjs":"0a62d5a914f283ffa61874d5022f3e95788fcefdebc6eefaa8e09f7201ddbf1b",
+"vite.config.common.js":"e4368075aac75cb0c5aad929a340d9ca467409df63fa9e7005248761b5a208aa"
+}

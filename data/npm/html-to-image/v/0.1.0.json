@@ -1,0 +1,12 @@
+{
+"lib/applyStyleWithOptions.js":"983407cbeb41faf48869445439d38b8d49210d5dcbe7042400fc6be8d9f05243",
+"lib/cloneNode.js":"b41cf6c872075f5e26b10fa2964de3e15a538610f3c7e1a1dd5e7383fe89c349",
+"lib/clonePseudoElements.js":"824227c7239155a2b8119ed239397fe38b802a4c7af08a76fe04a74f9a8a38ae",
+"lib/createSvgDataURL.js":"0abbb4367dc00c52ccc4f663a4e91b1a75fee0ff8816ec90fd5690efcca25d03",
+"lib/embedImages.js":"00c4c99000d1d4f07b5992d021ba4d800873e965a2ac054c3b52091f1b1fb235",
+"lib/embedResources.js":"c1381b6df3461ffad1aee1c05b2ee88fd8d48e42f07989a4e7aa576491643e27",
+"lib/embedWebFonts.js":"4f8aee9d76fe41c8c464bd00783b0fe5845da18d087afc6c1f9f54a7cc66421e",
+"lib/getBlobFromURL.js":"6de0abe57e2af660b05661801f7b9dcd4f6c68a74f5d49913202ed72b78c5739",
+"lib/index.js":"b871ef45a7e313dcabdb1d602d5159424519752d0f4434876312f8adebf8bba6",
+"lib/utils.js":"c8a5e21a6a5266d9e879c0914c72e15f9655fe52248a811481b00591720f5a61"
+}

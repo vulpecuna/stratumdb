@@ -1,0 +1,11 @@
+{
+"dist.min.js":"8b2b8b0d66e70e52030994f2730cc243efcfb07e0f0d74e5bdbcad12c065d9bb",
+"dist/dist.dev.js":"2a1ee1aac152a4afdeceb7b0d721c2e63f7d35d16e5dd9d372c2916f26db68b7",
+"dist/es5/index.js":"1d6f83d67d4fdc48f0389974102accf1d55f8cb8b1ee9e2e7e4d86cb8d75cabc",
+"dist/es5/index.js.map":"851a7fdefac4f04594bc41ce8be973ffc5b684fc0a8f024b28abf951777c917f",
+"dist/es6/index.js":"d54620cc365467338bb5e117ce7dd2adf065df1a087839a11f85f0ea21a400d5",
+"dist/es6/index.js.map":"8cc4947a546f9a3d4a2dfdfc87d37d0d401b82183253c8e061a1aadaddc5e030",
+"dist/esm/index.js":"39afeb5715e96f58654d498a2d729ffd2a10b1e0444776956d40e8782fe04d67",
+"dist/esm/index.js.map":"661e34c92f9008337da90ca66265a03821427469a9f43694d5ce2c37380fd034",
+"src/index.js":"25a5f043a5eceb146eed0348997af9ee7fbb72895ecdf1d05a983bb3ad3091ac"
+}

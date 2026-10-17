@@ -1,0 +1,16 @@
+{
+"dist/json-patch-duplex.min.js":"282c57c6456d8e5ed5aba727342273f54c9274e31223144c07443d6772dc0774",
+"dist/json-patch-duplex.min.js.map":"0086582735094844c45242288b0cafe49f708fedc8fb50b6bcb30aa3527870b0",
+"dist/json-patch.min.js":"8f17ed9242a799c1e42d96d993138ac291f1a39c52592a3dbd138a1bd4653aa8",
+"dist/json-patch.min.js.map":"6f9b254357d9eb1eb58b7e0a3e624f82a47ddfb92bdc2ae7e6d1d02cdfe24644",
+"src/json-patch-duplex.js":"ade34d38faaf1a35262e82458db52d2e458159a0c20d4e545b769ace8b4e32f7",
+"src/json-patch-duplex.js.map":"86c72018afb4231ab97c3785dc7efd8932920d1ef17ee3e06486bf04af914044",
+"src/json-patch.js":"44885da97d2318046d6426610850bdea628c0b5b107841d28c5af7881b3fa67a",
+"src/json-patch.js.map":"5f685ebb701bf104dffbcfefe078548f72f350eb364c3415046143d923286903",
+"src/lib/jasmine/jasmine-html.js":"658b04c10eaaac49f7238474a65d4a4032c7252618fc379d5480089011aa2240",
+"src/lib/jasmine/jasmine.css":"cae030ef34b5e90cf6aa4fad7a7bc10035b400470d14961557306a9d46676193",
+"src/lib/jasmine/jasmine.js":"44067ae5f28d8e9668cdc014cbfc26c273297d83a4f862c406c34ea747169c4d",
+"src/lib/jslitmus.js":"5e32a547c9b03daeaf1459c32939192cd1c7e2fae8914035c5c18740557191aa",
+"src/test-duplex.js":"e6170290c9ec2ce7045f97db594e4578524bdeb2cdcc35d8f10a39d9f6c03a77",
+"src/test.js":"4c46913faf150f9fc7cd1c918aaf30a893e682e180ba6ec74a548e5fc85fceb9"
+}

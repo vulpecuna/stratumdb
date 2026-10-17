@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"6b509d4d506c575d0584c0e3536d6f2bd3db1d33cafab2a4e09346a897aef463",
+"backbone.stickit.js":"9da9935d7df29e96a1788891c21eccccf55e14e288395c4fbc41394106148ac0",
+"test/addHandler.js":"11187cc1d3e3eb611bd8bacb6ece4709e3a326cc82d68b3cabcebef7e4939efa",
+"test/bindData.js":"aab3b552a0cad7771c6f337119fd02269a7222f39fba2d9f3c7920c1806ffc9b",
+"test/modelBinding.js":"5965358dc1be61cd2cfa044044589bf8de3c2c3fd1caad88c151baa43873f73b",
+"test/testScaffolding.js":"a980845b6de9137adb1f68f84004b284f022e21b6dc1b11ab1a6899c1c0720af",
+"test/vendor/backbone.js":"11e53e01fb517607ef7964996125e7fb4f2a85c56424eeee1033e324abf61f51",
+"test/vendor/qunit.css":"6ddd1e139234537d37cd770edc67dbc1285a93dc6cc75ce9c88a9654a221abf2",
+"test/vendor/qunit.js":"b7fa5b09ec5f60919369aab832540edcac188d7ef795391962ca4fcbc7866832",
+"test/vendor/underscore.js":"5f4bbf5de0156341df2c51728b6eec3ff50fb3012428ddf41a44f0a1891c09fa",
+"test/vendor/zepto-data.js":"c0004a2c08183af6d07e82f6e6d7ffa1859a4294cc1781b51901313e7f6a1bd8"
+}

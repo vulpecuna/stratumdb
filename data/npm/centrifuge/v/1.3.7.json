@@ -1,0 +1,10 @@
+{
+"centrifuge.js":"4037ccdcb6ac954c663e0ca51aeb3c87d9dbcb31c4e582790f587143805cc0df",
+"centrifuge.min.js":"5b549e49745ced9b3a5f6816e355f2cb4cda29976718969f30dccc453f6521ae",
+"gulp/config.js":"c9ac9f13bc44b6f0c5646ee411e8fa1ae0a16a2da2a3a0b6f578087e9f05760a",
+"gulp/tasks/default.js":"14842251f27b15477c6f6490834918e7e20980d6a990bec9f6cec2addee9b9bb",
+"gulp/tasks/js.js":"ef15a5bfc51b0d312e29be6c3c71ac5c059316c95e8e173162038c6eed331029",
+"gulp/tasks/watch.js":"a5b6fdba769d202ec48dcdcdccd059539484cf1b7187977e026da1fe873e0ce5",
+"gulpfile.js":"daa2f78955692b0ace4d4bbcad22c8d61aa948b7122a75133aaf90e667d10a7e",
+"src/centrifuge.js":"f1b5c50d9b1e1ef4e0e89df777a36185db43972ac5d864da67d046a926ff3735"
+}

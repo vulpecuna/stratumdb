@@ -1,0 +1,8 @@
+{
+"dist/compat.cjs":"92a7cef05ce13cc64561c37162554ba5ef6d85ae22ac6a77749dc053b6690b9f",
+"dist/compat.js":"b365aa133d5ead1f0fd15d02dc1c254f8a6fea1e33bf41c677e4c33cd0d6de3c",
+"dist/index.cjs":"08ae5f85b3839354c75f056e674f69b5953cc99161e6f7f6ecbf1385ea05064e",
+"dist/index.js":"6c258d734ea7b3ce77c51b567b2ebab7cf4f6270030a07059bd134fbd9351894",
+"dist/umd.cjs":"ac7373c5a633af7f92518864e5ca209fec4bbd9bd7a82b6b102a29418adef336",
+"dist/umd.js":"ac7373c5a633af7f92518864e5ca209fec4bbd9bd7a82b6b102a29418adef336"
+}

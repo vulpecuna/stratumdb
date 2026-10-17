@@ -1,0 +1,7 @@
+{
+"algorithm-unoptimized.js":"ee797ef714ead90fc1107f2c0f3cd3413b62af9431882865f88b76af51ea4ff5",
+"fuzzysort.js":"103ba561958998a4640f6705f41f625faae0c4bf6ef1525d6941ce1a0e393488",
+"keys.js":"dd98639d26e55af473f4f5a4efd7abd932314aa5b985359c2230e7b22a1966da",
+"typo-optimized-but-still-slow.js":"c3838c5abc4152bfa1d8b9ecbda5391c75cf06105f39fdf1d7ca294dfd38ac07",
+"typosimpleslow.js":"93ddfef762c1b3cb19d68c382dad091228700ab761403aa76eda81d09926dd60"
+}

@@ -1,0 +1,16 @@
+{
+"bootstrap-tour.js":"8e1c4b3d5aabf1868e915219656817eb3b4922d1cf6afced3de4b2d82530c7c6",
+"deps/bootstrap-alert.js":"df642f7d793199d1abf0730312ad28a89cc2010f17c27dcae48faef97ac6ea45",
+"deps/bootstrap-popover.js":"03db059771bee943dbbcb286f9db14347a815154b7a9a65e938fd14082e47095",
+"deps/bootstrap-responsive.css":"c166c16211466eb989c1eaf1573fa2e727d76ba8dce3be5ef6be2dde152b0819",
+"deps/bootstrap-tooltip.js":"b60d117c06f5f848057a53ccd1522c834161735026bac3ee7e522a971aed69e6",
+"deps/bootstrap.css":"300040ff0171295d23c06bcfdd13c84989f6bffd35a40faaedcb8f600d85ec66",
+"deps/example-tour.js":"d1f24983e62e4cf285fd00c16d1983071ebdf3fe2eddc334f1693fcdcaf28b24",
+"deps/google-code-prettify/prettify.css":"4636f393c542445a1b07f97270ec41052080d645267626b9d04574ce761ce85f",
+"deps/google-code-prettify/prettify.js":"e2e576e3bc607cd179ff511947010f645d3441a35313aec0dbd06c4437f83b77",
+"deps/jquery.cookie.js":"f76b8a4e1c920b735cd91ab9bf480986bb8c7c6043b2a36919c6e307fbb16fc5",
+"deps/jquery.js":"4d7b01c2f6043bcee83a33d0f627dc6fbc27dc8aeb5bdd5d863e84304b512ef3",
+"tests/qunit/qunit.css":"3af146fccccba3c3887c9701fabadf09f61a6f9aefd2ff8a93c132a8b2ff534e",
+"tests/qunit/qunit.js":"b35b6a63bae63ec914784eb309ad5031215fc2b8237115d222bf7cdea11110ed",
+"tests/tests.js":"64081ba58d6f28919964cc67ad9059b80dad5554a32b6bb205307b5058d714e1"
+}

@@ -1,0 +1,16 @@
+{
+"dist/commonjs/main.js":"c25c11f6a4dfb721997360d65c3f8f2db97c80b427bda653d60de7ac0a9a94c0",
+"dist/commonjs/promise/all.js":"1476871c23889d7b7eb79df29faa1043fc69e81823dec72dee1664131b104e6e",
+"dist/commonjs/promise/asap.js":"d3335a4de0792085bee0106f86591e320895ad19d10e3be6b1f61256697ac745",
+"dist/commonjs/promise/cast.js":"3ef3a61bcfb6bdbed48187675846879c2459e70cc93aa3dcb987305397bf3465",
+"dist/commonjs/promise/config.js":"8b7f47749e1c2007dfca01a367720b70d66b55f4e578ccee5c735a202682a3a9",
+"dist/commonjs/promise/polyfill.js":"b1cb13b392df75d36a8ca1140f35bfb9e918eee09b51c100056526a0c9648001",
+"dist/commonjs/promise/promise.js":"23d95fcb3ceca8c2bdf76f339d3da30fbdbd216764883e831120feedc87987ee",
+"dist/commonjs/promise/race.js":"73fa4b4ac5700eabf98c0564ec69e1375344356c8f9308a8403fda642700b6c1",
+"dist/commonjs/promise/reject.js":"e7bc597bd9478d4168e85c673235e730f8d5e12ae1f184c767f45d0e11d2e0b1",
+"dist/commonjs/promise/resolve.js":"69d503eb0e6299a1e3053595dfbd2c4e66ad6f6dfea20776c2868f24961766d1",
+"dist/commonjs/promise/utils.js":"d115cf85ab094658a6359095e8011de6eb5de4018c0279068ca4967d7e6aae59",
+"dist/promise-0.1.0.amd.js":"a1a49b28c52daeec7dee7c64bc4a38c0e8c8dec906186a01f4e4451aab5a2ecd",
+"dist/promise-0.1.0.js":"a9463a93461f78af1f5838b6a07fbd6cc556b5459733bf9b715e5911eee926e4",
+"dist/promise-0.1.0.min.js":"8df5c085e7278459a1077f86dd1a05332cf5012edb5385b0cdebb5bf088aa0ae"
+}

@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"2bd2185e655450bdad86a105a4b2b68a2bc22dd9df532deaffd3dd012179e902",
+"dist/algoliasearch.js":"24090ac9415fe3bc9be3b9761924557bca1d05c5f6f276784b466d5944050355",
+"dist/algoliasearch.min.js":"76b158c35c8a2766c2fa47210ffcad8bc9dd6f45edd4c76df43eb187998fb64c",
+"src/algoliasearch.helper.js":"1698514a9e739aa97ced1ae8580520025eb8376d5f2edbf1693f37cb30e48851",
+"src/algoliasearch.js":"71c835376a48b432493e47c03fc92c413ac120aa67c688ecbaeaa9d6247c816c",
+"src/version.js":"920f42551d591cc24e7cb3f05e1381af313d3be0b094d9422c31a8a5bdba08e6",
+"test/client_spec.js":"25e2113e27a530452d1ec44e711d5cb44d5e9476416274f09bec59aaf2fb086f",
+"vendor/typeahead.jquery.js":"cddaaea7625921289dfa7ad0542592d2ff1d1793610a239df9dcc3677e2f11f2"
+}

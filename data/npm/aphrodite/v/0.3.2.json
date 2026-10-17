@@ -1,0 +1,17 @@
+{
+"dist/aphrodite.js":"d14974d0fed0d3d71f58dafcc22e8d6680d29c489a57cbad031e778df00aa259",
+"examples/server.js":"376526e56c6c350fc1ca16a13ff43439ddfe8672e7c12724fdea120353adcb4e",
+"examples/src/StyleTester.js":"040b8e556a6f9b2c4bb0147ebacb2373acfe71dcf16fe9f0f4baf2818a8eb0c4",
+"examples/src/examples-ssr.js":"168d78ce7c44843f7d73d65b2c00f68cc0e230b873293693aa81ea9a4c8390ee",
+"examples/src/examples.js":"07aeb0484c199d726c70bda02f7065a59dd8e54a059ae1ed52ef9c21813c84e0",
+"examples/webpack.config.js":"a6415d4be460d143d1edd51e97c73af21a4f671f259c217b967124485e47c96d",
+"src/generate.js":"81d0caea08a71a9bdbf83fde126aa4e5cba9f77009a8436f2d3ea1ec4a389016",
+"src/index.js":"892a453235c237bf3bd0a19eb4698ad55865eb6bca5cb3fad52d5c5cf5d7b689",
+"src/inject.js":"fef9b33e4dce5cec7b178f8497f1d5689b18facd2332691172ed9a5c244f8124",
+"src/util.js":"6aa03f04488478233171f84f5a77cfde323a596134b8d7ee0574b2d0b06269cd",
+"tests/generate_test.js":"085962c638dc135d44830dc1dbbd8ac3d488f28e02eb22c0a4f12bffd44eef0c",
+"tests/index_test.js":"0751ae828dce74e1dfd21208b4a4217c96631a4623d7e3d151f6b832eb5f1136",
+"tests/inject_test.js":"dce673b5fe75651d1abba5bd6256dc95fc786a93664f12739b4ea221c093ed7b",
+"tests/util_test.js":"12f560478ec31fd610241bc39c4afffab19f23e78a4c111b3829b49adf30bbf5",
+"webpack.config.js":"aa571896914c39cefb9e7d6e834653df6cbfc8e44b7de1e2adb777e5146cf4a5"
+}

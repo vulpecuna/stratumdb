@@ -1,0 +1,16 @@
+{
+".babelrc.js":"ba3e91177a5de73604161ee76ace10c59886b79fb859571b557800b8c853d202",
+".eslintrc.js":"24f133d96c8e227bc26d8e1c10e2ff5b8cf5ec09187c4a445dd1a387f8c40e39",
+".vscode/pnpify/eslint/lib/api.js":"681f7532591920f4beeb2e3ff0a68a28fc54f0a3159cb849d7ccbc9e9ca6c7b6",
+".vscode/pnpify/prettier/index.js":"fc540e75b5e43b13ea5b4525ef14345b7af4c586521da8f28aceee7e1c38431a",
+".vscode/pnpify/typescript/lib/tsserver.js":"185c337b8ea3b7553e4176d0a19f02c1d1e8b55b0df080e5082c1138664b2218",
+".yarn/releases/yarn-berry.js":"24af7451bac0da443ae6894b53df88bc4aaa6967d5f52786f0c9870f1e13338c",
+"cjs/index.js":"10b8f215c0f7594fe700906f21ea8a5ba1e1987e341b877bf1b2313b52d218c6",
+"dist/hashids.js":"34771907b0f2443d4a9c4dca04630ed50b5fdfeb8e211ea12cd8f6a048450350",
+"dist/hashids.js.map":"799ccbe1d0e50e5df7c4e007d2d9586e5b22553f86905e462cdde14caac6f6ea",
+"dist/hashids.min.js":"3555c60af8e79ec1d24d717017f3e3d3287ccf4fed5a67d62806e08a7102131b",
+"dist/hashids.min.js.map":"47c3105c638b64ba6d60189ddadfc34fdcee38d6c17ea50bd39913a461bcc56f",
+"esm/index.js":"16f241dfb9d9a95346000b00eedbb52008b581dfd829bdc15a94a6e8f99faa7b",
+"esm/index.js.map":"4c652bbc0daf5a27e914066daf4e9d93965a52c714c3d819d03a7c5caabf85b3",
+"tests-mjs/importing.mjs":"6e72e6129de15fc873af4ce2c0ee7a2d5bca59cf85bf65aa0fa9033cac86610e"
+}

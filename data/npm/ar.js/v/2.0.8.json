@@ -1,0 +1,10 @@
+{
+"aframe/build/aframe-ar.js":"122717b974b51af172f2d37c511287d6c863c8612e412c6218fc42161467b199",
+"aframe/build/aframe-ar.min.js":"835dbea4d6a7d8d4e5029df215a631a12fefddd351f900e828638dc2f35f56bb",
+"aframe/examples/vendor/aframe/build/aframe.min.js":"d41ed4490932c44da30246eeb33431191059b5a3a50fae3019f8891d6e004814",
+"three.js/build/ar.js":"08df5f17736667c2aa3500fcc023592ac022016d892010c95e0265962c8f89f7",
+"three.js/build/ar.lean.js":"252827cbe096068c29791be4250fae40d8f4ff3e2a004c2f3ce3380c7e060243",
+"three.js/build/ar.lean.min.js":"8fcd73a32f948826d7f155ca5fafad6635044728d158238441967e8440ca0645",
+"three.js/build/ar.min.js":"31f3a5deb00a041c71776597684515006fb0a169e646da85e8a5b7a87fbc9e8c",
+"three.js/examples/vendor/three.js/build/three.min.js":"4f895f3db6ad64bc8d8691200afb665e6961394ab41d91e40d7e1c3254161310"
+}

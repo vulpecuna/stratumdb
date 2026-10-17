@@ -1,0 +1,15 @@
+{
+"cjs/hashids.js":"df6c8ddb74a1c4ffccc761151b85e45ab1a143be50db0e84779c8af94a7023ce",
+"cjs/hashids.js.map":"117fc350203aedb7a0b85bfc643b3def764095c051bf7b294c3d519537b0ea57",
+"cjs/index.js":"9688823cc9b95f6af5f8de0f062a2ae850e3da1fee2dbdff7edd6a16bf867203",
+"cjs/util.js":"8735c52b0431e68b25b1e999704bd18dda6beb3ec4754bf8704543a6e28d9933",
+"cjs/util.js.map":"a4e130dddc9a83fda87ef3adff606516ef4d9768836db7c54d1ba0773890fea5",
+"dist/hashids.js":"3321d8833a75506670dd1cb75be776a1d46b39c7cf2cd009e36375f0f1016a11",
+"dist/hashids.js.map":"70f9b4187a8c2e59e1e50ebfd0a597fe3ed64385cd981fdcbd711f96ceb23678",
+"esm/hashids.js":"d187e67e66d5b4cffb1d3f7b055c722f2009cd8b0d0a2646164b494055360372",
+"esm/hashids.js.map":"a4c2bea0ba31b23a7471f63755236bd0c52f1e8ed249933f454e46ddeb98fe56",
+"esm/util.js":"6e072cae1722b414a980ceec419394efe5c96b8004563850c748ebe93eafafbc",
+"esm/util.js.map":"a653ea5579a32ce134b05651e42bd1175905f7e0c77917a3825607d03edd9fdc",
+"src/tests-mjs/importing.mjs":"1c7eeb8ce55c4f28bebaab01bae1f9693384cb5ca34693f97d3f304f48a69c76",
+"src/tests-mjs/requiring.cjs":"865f9cfca66b26401ecf322cd69798216008a1113dae2707c895bda0f8dc9409"
+}

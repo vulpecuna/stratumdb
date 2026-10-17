@@ -1,0 +1,14 @@
+{
+"Gruntfile.js":"c11a190643b49fbaa0a8920511806c80eeacaf6afeb78d42bb64e33d94f0bcfd",
+"dist/backbone-react-component-min.js":"58442874a9724e68d7d4f14bdc16a3abd3513c491d3d97415bcb81d86cd39833",
+"dist/backbone-react-component.js":"7eeab1692cb2573807f7ab7d6aad311706589d400d78cdf33846565b1e716476",
+"docs/docco.css":"666f46575426e56786e4f33578dfcb46a5a46952c5b766dcdcc3d41a6f18edc5",
+"docs/public/stylesheets/normalize.css":"c692ad1a7d71e6ca9d152375bd143133ba4f67583efc8112f03eef1a1cd5daf2",
+"lib/component.js":"7eeab1692cb2573807f7ab7d6aad311706589d400d78cdf33846565b1e716476",
+"lib/mixin.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"lib/static.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"lib/wrapper.js":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+"test/helpers/polyfills.js":"cd4fef7831ce7da2f9cb582b3870b3d73e54877dc91d3ffcdfa99a61437b7996",
+"test/specs/mixin.js":"3cd2afe3c3cacc76f0bc1db090da170f6d797829b9b18e885c078d03f0a69291",
+"test/specs/on-off.js":"6179b9e8073953497e2161032cdf5e05c30b9a909fad530526deead4c62c4826"
+}

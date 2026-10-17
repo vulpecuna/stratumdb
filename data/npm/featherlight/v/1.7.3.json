@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"f3508e4431fe4537197a2a89bff9143e15946f0495ec2a685eb6bb555e35d896",
+"assets/javascripts/jquery-1.7.0.min.js":"ff4e4975ef403004f8fe8e59008db7ad47f54b10d84c72eb90e728d1ec9157ce",
+"assets/javascripts/jquery.detect_swipe.js":"1287b04973bd9ba65049cdc4dd19b024ab1050c67ce33d381d2413c482e24bab",
+"assets/stylesheets/bootstrap.min.css":"1cbda21998b65e08a7e936114cabd7f7783d0f590dd6efdd58c7faa8b6e7b9aa",
+"release/featherlight.gallery.min.css":"9505fd82f820451f4913906c12029d3b2c19c3ecfbf752a58ddbd9db922860a2",
+"release/featherlight.gallery.min.js":"120ef1ca3a32d396fa822a4f2bfbb5ff872395aa238884f8cf569365daf65fa4",
+"release/featherlight.min.css":"1d08350b34b736c3a13c1bab90e355320b888a0a82ce1680a161652260a0c2b9",
+"release/featherlight.min.js":"80193398ecc94304306289d05f014f49fd66f05cacb3fd96467898780c6e0b31",
+"src/featherlight.css":"df9bd772bb7ca50d55db43570897324006ac0803d432d12a058358059442fe13",
+"src/featherlight.gallery.css":"4a6326daa5dbf6f292a0a25c676286baee3a6e0819058924b548c75b91f79354",
+"src/featherlight.gallery.js":"9fa6c90419d812333b6f80c3e722d12037e5514d14cf8ee74991f04a4661182c",
+"src/featherlight.js":"f4cd212222df224826abea4dd97e25eb97f5315c6809e2b1e48c355e8cdf085d",
+"test/featherlight_gallery_test.js":"3c6413d48cb94e1517820fc5787a25b392884b33ca7c305969e9c6c662db7be8",
+"test/featherlight_test.js":"44a88802cde9900716cc42f1d14022240ded0d7533cac22ff7764ceaffdb2396",
+"test/helpers/patiently.js":"749d6810dfe05c8484b54c3c0a45e40c6badff3b1307d370bfae7fcd77b1bac2"
+}

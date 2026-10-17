@@ -1,0 +1,16 @@
+{
+"dist/css/bootstrap2/bootstrap-switch.css":"b6fbc9d3d6ab457bfe214fcd4782346117ced03694340358538617b827dc59d6",
+"dist/css/bootstrap2/bootstrap-switch.min.css":"a5bb1386f7644652dbec18354d02ef7fe829bc01ce77b4a9e6c7f35b4af66742",
+"dist/css/bootstrap3/bootstrap-switch.css":"459d9f0ba9b9d931e1481571495bc2ce14837932971cb20d12e10822fa17a70c",
+"dist/css/bootstrap3/bootstrap-switch.min.css":"15b722ff723a5205d42dd53d76803b951f3524d3e763f0bf34af0a435da8b8e9",
+"dist/js/bootstrap-switch.js":"eb4ec255d8092526184b341fe1c3fc121a7e3fc7d99785bcd0994ea948a97d57",
+"dist/js/bootstrap-switch.min.js":"c0f72684fad354e7ea54d826978988b8b7fc06f2ca9663627577484afa51a48f",
+"docs/css/bootstrap.min.css":"e9503448692b738dd260fbd7f7cabf2e11f09b600fa97e6eb3a56eba5b1a7e9b",
+"docs/css/highlight.css":"15970916c5b0511d616a32d43a9b15a3e581e594fb9c061e732f844d3bdbe583",
+"docs/css/main.css":"f99464ee38c6b82f75f86c02de046bf87cacb5f341310d473e6ddbaa436fa555",
+"docs/js/bootstrap.min.js":"f95a2492bbae39ac64dafca1075ddce526daa2096b449cc67350128dc2182ca2",
+"docs/js/highlight.js":"bf669bfbd9e71ef3127c8726ff2222b446dccd193c6f1b5eceeed60b6d8f17ef",
+"docs/js/jquery.min.js":"2e945ebcd9b955e7c543ba4ad41e8f7779a077b482a0207db74bd6ded2021d17",
+"docs/js/main.js":"def0fb7ed4df01f78d2f97c44e093a3ad1d129936588d4cf43fa7a3500d56ecb",
+"gulpfile.js":"798cd24ffc1018abe96c4af7c484d74aaa1074a621da723e801c6867c79b031d"
+}

@@ -1,0 +1,14 @@
+{
+"dist/Artalk.css":"9a330f94a32f61bba0b03a698efdcc7d7e2acbf91f558b4990d4d6a40c2f5879",
+"dist/Artalk.es.js":"a25e4d2f24d255fad1a21af1119a88d5d054faf8629ff80b60e9c0dc0a9dda43",
+"dist/Artalk.iife.js":"baa491f5456243b3adb6b763899e5754ec7759d7eb3c4ed70791652c04137bd0",
+"dist/Artalk.js":"e7badd0a66afe1ea10c4bf215e6a91c3e07cfa06c42785f9766d5ee2d15a5ce8",
+"dist/ArtalkLite.css":"9a330f94a32f61bba0b03a698efdcc7d7e2acbf91f558b4990d4d6a40c2f5879",
+"dist/ArtalkLite.es.js":"d095376716ae1eaeac85e84dd4d69d6e9e19de711afacc8b5124780e6cec0e7d",
+"dist/ArtalkLite.iife.js":"73f9f9ef2e0fa3afe677087cbdac904b60eef977c103f193b1d00adebdf0ff8b",
+"dist/ArtalkLite.js":"da3f3795b57f3618409e98acf9566b95411fc054eae287ecb56d0a4dc700b729",
+"dist/i18n/jp.js":"e90dba4fedcf9b964b9de9e72ab0a24dffd2a126be3129e01f43228d234ffc0d",
+"dist/i18n/zh-TW.js":"48e31200a337036ba8f78213d9dd5e32488bd715ed0433d94db44c3772f2d17c",
+"postcss.config.js":"417428fe1b1505e47fe1e0f6387ebfb0f00635501e4443dd31f82a37c19748d8",
+"scripts/build-i18n.mjs":"9f9d050353cacf31926ef190600c3bc9d2f103c349612ee541e350e10a7b5819"
+}

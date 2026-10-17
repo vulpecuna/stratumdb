@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"374aa1433635fb2a38ead887d0574c93cf62bebcb18fb8b7f6cde1d3c9870744",
+"angucomplete-alt.css":"93826d43adaf30ad6dadcace566dc3d30486f7bfebdb656b30dc41a32e0e9882",
+"angucomplete-alt.js":"dfe1a256d88fcb5e599aff2063bc88177e2f7ab5036c646119f653bd07826980",
+"dist/angucomplete-alt.min.js":"ce9bf2d416e81c85ea267e5e8e924cc5ab81d10ec0da9cf1297fe6a1475c43f2",
+"example/css/structure.css":"21bd2340a4a0b04aab81e4e5bdf260668dfd20b7943a2aca23e446993b433767",
+"example/fonts/bariol/bariol.css":"8ed5e82486f4fd44ac940ed67b09e926f0013e85bcd1c527e0605cc0d29f9a93",
+"example/js/app.js":"59908697e0698d4f9b7b8461d5a0caa1edac3e039755584d8f28dae24a61f7d3",
+"example/js/libs/es5-shim.min.js":"b574ffc81cddc725341c0a679cdd5dd6835fe453446ead75445fc707df961542",
+"example/js/libs/json3.min.js":"f0f010f4810e42a04978cb0030f303672aa3279dd1a549181208cd72cc7e5fbc",
+"test/angucomplete-alt.spec.js":"0785031aab1b1a6803d6ddcdb20201d3a90c646f677d224bcda2eaff40f0ad0a",
+"test/karma.conf.js":"9075e1ef97d9028e221a2f1e4c950abaf70e062efcddb25c2bbf3abb79859df9"
+}

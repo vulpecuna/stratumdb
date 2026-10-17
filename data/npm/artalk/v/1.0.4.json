@@ -1,0 +1,9 @@
+{
+".eslintrc.js":"cc09ace3b6ebd74b805fdda3a35f2be74bcafad147ab2949c0cb3d64d9acf928",
+"dist/Artalk.css":"11d95b40d6f2413718c8e9b59f5421fa8c331d5cdfb46acc7918806ce68ad2ea",
+"dist/Artalk.js":"8662237798062aa7b6aaa715302bda281ae3ecf66a6923fb495f8fa20bab5919",
+"index.js":"4d818296f215bc14f35d7de359862118dfd6dbd603150f055538bce3a48df8ab",
+"postcss.config.js":"7f99d729f0fef827164b5e35ea2613e849d04e1364ba73b37151411a63863d56",
+"src/utils/detect.js":"df4259fcd9d31bb4df1f7ebff6f9add5885b7dbc90eb1bf1380bb6c77a7ddbb4",
+"webpack.config.js":"fd87df653140cc7dda91ed3918329d4a54f52f6b3013ea67a2192bf7263e1318"
+}

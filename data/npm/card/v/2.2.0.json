@@ -1,0 +1,17 @@
+{
+"bower_components/jquery/dist/core.js":"4a4dec7ca8f2567b4327c82b873c8d7dd774f74b9009d2ff65431a8154693dea",
+"bower_components/jquery/dist/jquery.js":"d7a71d3dd740e95755227ba6446a3a21b8af6c4444f29ec2411dc7cd306e10b0",
+"bower_components/jquery/dist/jquery.min.js":"85556761a8800d14ced8fcd41a6b8b26bf012d44a318866c0d81a62092efd9bf",
+"bower_components/jquery/dist/jquery.min.map":"414f53e226fa613fe74a8a9412273ecd50bed3d9596e0799d373099a3c205dc3",
+"bower_components/jquery/dist/jquery.slim.js":"e62fe6437d3433befd3763950eb975ea56e88705cd51dccbfd1d9a5545f25d60",
+"bower_components/jquery/dist/jquery.slim.min.js":"fd222b36abfc87a406283b8da0b180e22adeb7e9327ac0a41c6cd5514574b217",
+"bower_components/jquery/dist/jquery.slim.min.map":"c02303d10310b659c69298106aab2baa22ef481f299e89ee7147c210f8338938",
+"bower_components/jquery/external/sizzle/dist/sizzle.js":"867ea4ac9d42884596269e5f9963c1e2c8e4bd17cab8046fd78a35804a0b2604",
+"bower_components/jquery/external/sizzle/dist/sizzle.min.js":"cf56b9ab02e71124134fe967a552b3df1363722d7b0bee524abda31e403dd397",
+"bower_components/jquery/external/sizzle/dist/sizzle.min.map":"07bd2c2f435684e5197f641f91c13e931d94a7cf49fa7d33f1c2b0bf4a6a2078",
+"dist/card.js":"86c4d5d332db43b51faa09323a7136cff4f213cf23508bdf4d345d10d39df465",
+"dist/jquery.card.js":"c7fb9c1d047f180681fca77d84afdb46f989b7158eb7f1555ce899af29f7dbd0",
+"lib/card.css":"751161a608eeaa4b64f06e54ae1150f3d0b367db77d829f454bc60a1f1fcb87c",
+"lib/card.js":"4db3380b662b8d88262b6775499928ed3775e1c2d8721f82bd6ec538e2d33740",
+"webpack.config.js":"6470f595817546f947a40f86b95526d65f53887c95a725f5b0703420f6e19ee5"
+}

@@ -1,0 +1,11 @@
+{
+"dist/idb-keyval-amd.js":"f2e2e373283882f5946a5bae972a0efb2783759331e5abf6f74a37403d420f3c",
+"dist/idb-keyval-amd.min.js":"67d81e5c176052e0ad6e54be0fa97dd882f9ecac9083dfb822dcc5ed2d0d32a5",
+"dist/idb-keyval-cjs-compat.min.js":"ab77efbb702ef4e6f837cfdda7c9c257210555ce581493bf54ccd4ff82d08c14",
+"dist/idb-keyval-cjs.js":"ca8f6f8309f91cef5847bb844dbf7e9a25b0ae2f4cb5f31cc80a4b0bf15622df",
+"dist/idb-keyval-iife-compat.min.js":"7da9b8fdf06b1fdbe3912848b6f74a0eeff1722986fcf58052c3e3ab929b7e10",
+"dist/idb-keyval-iife.js":"c473e007a4eaee6c557949ab88d2caf04e06f390ed2ccb29efb6b6f2316479f1",
+"dist/idb-keyval-iife.min.js":"f10ca3beb2376edee5c62a38c4286b7a99a7e162fc99b201e29508d5160ac61d",
+"dist/idb-keyval.mjs":"e3100196df6b326884c9742613732e5a590868b06dc3fb9b64c41ee78fc125bc",
+"rollup.config.js":"ffc3aed7188c829dc3c6e18a522bf314fa324fbf842af8698b1bc1d9cf545001"
+}

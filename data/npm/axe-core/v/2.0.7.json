@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"aaaed399eae1b54f3e8a52eca85debe8a8bc25774d7a824f981a224a4f6e2c39",
+"axe.js":"1e31ded71290a8fea2dde1a90e50116f91e416c671bc0b25bebd49261525a7ad",
+"axe.min.js":"be8ed0b38631171cc5116e431bdbb4e49740502b05c71edd048a013f9af398a0",
+"doc/examples/jasmine/Gruntfile.js":"7dd373b56a31708db71924d689a9e4f42c108e47ffce09e06473703d3c24310a",
+"doc/examples/jasmine/spec/a11y.js":"ee666bb3f8b183d737dc7ec5abe26ff2840cd290aa9e02c8eb9470017ca6bf21",
+"doc/examples/mocha/Gruntfile.js":"eb856ca86fcbccbf4c74e770865b6c59b281823ba5f21c517f385aa8b402fffb",
+"doc/examples/phantomjs/axe-phantom.js":"aad1094a80c81471486f9c9665150dd58945b839985ab7b384675c4c5e2f6338",
+"doc/examples/qunit/Gruntfile.js":"6753ad3d8f8264f53ba565e43fc78c7ff89da3cddb7f555c097995f64318f1d4",
+"doc/examples/selenium/Gruntfile.js":"f8d2c41b67c730ec48c6b01862d9bad728631ec810dbba4b3f9121ed50b9a979",
+"typings/axe-core/axe-core-tests.js":"3bb7cc0602c756d04bfe1a0f1c9e64a8a3e3d853ee42d7bd157794b3978ff5ec"
+}

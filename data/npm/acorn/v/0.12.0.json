@@ -1,0 +1,8 @@
+{
+"acorn.js":"594ce767026f1c701880b1261d7b1f2c658d4cbfec7f1aabf4ecc3ff28194ceb",
+"acorn_csp.js":"1d58d0e16282ccee1c32878e3630ab228f25bbadd76a97ffb1c0cbcdf709f583",
+"acorn_loose.js":"2b9d60bd71ffa49c24211b72df5a840c7c9f5b37bfd227d17de22accc6ff55bd",
+"docco.css":"8b1c90082aef9726e2ef7e501da5725ef47c5e77bb45db0c52c9fa4740cf9f95",
+"tools/generate-identifier-regex.js":"a3c836c517680cb7325378a4723ad8cac8b44f0c8e9e3b29bf6177d2182459c9",
+"util/walk.js":"d19383640e62f2c4c2c0664d5cfbeb87b8cc8659d85a08292d04666fe27d7c18"
+}

@@ -1,0 +1,13 @@
+{
+"build/clipboard-polyfill.js":"0340c6b2c9b2c49b5cabcc1b3456c73613dcd5cdb17b9aacf52f98011c30853c",
+"build/clipboard-polyfill.js.map":"85e54fb04dd7e2d8a1952db738c5780a52b400467dbadba0ff0c872a79c6a425",
+"build/clipboard-polyfill.promise.js":"c1a0a54b6adef4d51b5d1b2bc8aa287fe17da9cd608e3221736793ed96c8bfde",
+"build/clipboard-polyfill.promise.js.map":"3d91b7db561d7b32eeb1a068e22adb2adb8f76cf8e80bdb355f2f903fc294bcd",
+"experiment/experiment.css":"db106303496f8d0c7ddda6a5f54830eb99edfdc4c10c540e157f8c0870429e7c",
+"index.css":"db106303496f8d0c7ddda6a5f54830eb99edfdc4c10c540e157f8c0870429e7c",
+"test/import/browser-star/index.js":"5149c2d1a866c0ab7f14639358db071775468f32c520fbd9c04e40541e3fcc07",
+"test/import/node-default-experimental-modules/index.mjs":"e0e828d306ec9a333dcbede7f3ac8106b88f8f22d7edb94e831784d1ae9f8d84",
+"test/import/node-require/index.js":"cfe73ea790c021e9969ecdad615e6c14de0c026c1432c85f29db45314d62ce8f",
+"test/import/node-star-experimental-modules/index.mjs":"d55080a72172e8db32bb84a1756e300b7dc32d0fe59c336c25a3ebcc7ff7c6b5",
+"webpack.config.js":"620771e38eeadc61b4b196eac0ae15c45bcbb428584bfbdf3f0b664d24a2d4a5"
+}

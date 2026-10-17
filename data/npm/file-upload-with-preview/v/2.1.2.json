@@ -1,0 +1,9 @@
+{
+"dist/file-upload-with-preview.css":"60538ba09ddaf4bed339d6cd613c5e5fa92f461768809f1b077b9551a85088be",
+"dist/file-upload-with-preview.js":"5da0c8de1687827f25c15dbace0b4d3cf70e71bae5d411549037e7dac9a97ba0",
+"dist/file-upload-with-preview.min.css":"276711880228365eaca8199c3f4e96220013840348db3ad6659575a79de3a579",
+"dist/file-upload-with-preview.min.js":"b3f62e583a42e21b660b3abe4e31eacacdbbc676076858c2c68bfed967138902",
+"gulpfile.js":"466f62c17d32e1a4a9b705cfd8114714d9dd7239e72d2b4328a25544dc0c861d",
+"src/file-upload-with-preview.js":"b05d768f9cfc2b2204e5c66ee43866547e9bb3b077e2047c5fb78c865ca22bbb",
+"tests/test.js":"57f362dbb2461d1e0bf2ee2dbea7438856b02184f90c381e4845a6d837fffe6c"
+}

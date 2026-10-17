@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"020758a72c7180e2b3e53b50d3239740306f8c12599ed84b3253752b1ae93698",
+"dist/gridstack-extra.css":"8c2e2f4c55502da27c130e84bee28abaca3c976847bd4efa0e3e31d8248e7258",
+"dist/gridstack-extra.min.css":"e8a8f3aad9fcf5eed20ed2a17787bbd1364db590743751b4b594468d43beffc0",
+"dist/gridstack.css":"6f7519cca11fcd28010211993a5ec7e28f8451bc4b0630296839c06db8cbc2ff",
+"dist/gridstack.js":"bddf05a7f8d82436fb913f143d216fc65d2594ce185fd7534168d2538dc807ff",
+"dist/gridstack.min.css":"b16dc6e3360bf7b4396c98659de8720cc060f9bc55165718801e1109eedac350",
+"dist/gridstack.min.js":"d440a0bc562a5fd09304c4f986d347bfdfa8e58a0901fac4c4908047edb884b6",
+"dist/gridstack.min.map":"9a0c33c83964b1cc6c8942e7b7a8b2b042edc469c246c3228d779da16ed4f1e5",
+"karma.conf.js":"ee8b7744f7817fb1add4c18e2d32ae1167887336fa2b1daf0d97315074ff3ba7",
+"protractor.conf.js":"6ac8e98aa62cfdd088d180ddd903cf0b69d214992f0d39b2b8f8e56519310c5b",
+"spec/e2e/gridstack-spec.js":"053e7e137d6eca353447df79ecd603b794fce4fc43b4e5e92a7f94c9aa0a7821",
+"spec/gridstack-engine-spec.js":"734b56ac607ec332f58cbd9c6ceb943f345ba3713449f11a381f985b2d6f170f",
+"spec/gridstack-spec.js":"49a1745bc875e5baca013d52d466d97c93379f9b51ae54ef8f3a0f878bb5aafa",
+"spec/utils-spec.js":"71920f907d68b26699213b3180e77d19cbb51fd26e820bca217031edbd31819f",
+"src/gridstack.js":"bddf05a7f8d82436fb913f143d216fc65d2594ce185fd7534168d2538dc807ff"
+}

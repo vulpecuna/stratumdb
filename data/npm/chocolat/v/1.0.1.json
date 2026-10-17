@@ -1,0 +1,15 @@
+{
+".prettierrc.js":"2631601e3e0cc01de6f26a16748cf4f9131073b584c03266e170a381c2b0cf3f",
+"dist/css/chocolat.css":"9248d95954ee39423df8e3cb3b378cfd7abb9f34ee7ea2bb69ed6b1e37359ab5",
+"dist/js/chocolat.cjs.js":"b2d847a627224a5dfa2f134ecc92dbd8c78b7057d970e475e938849d2e91d240",
+"dist/js/chocolat.esm.js":"362146927be5896fcfb8c80fe9ceedabef9282f713f4ade7113704e8c7da2025",
+"dist/js/chocolat.iife.js":"8c3d38b63d773e99819f1265a23310a7b1c30efb322dddf9f5c9317284b57d09",
+"dist/js/chocolat.js":"7dd45897396d88f22c8cbef8abde666f5b73a70fca1f1086127b6916b5a0beb5",
+"rollup.config.js":"c9d42b55f7458429b103f3816c165196807c41244a7cb961bd880127a436e297",
+"src/css/chocolat.css":"9248d95954ee39423df8e3cb3b378cfd7abb9f34ee7ea2bb69ed6b1e37359ab5",
+"src/js/chocolat.js":"f193f97d07674016994848fe3ffc4f00ad0f2d5c5fc08a6e4c289c5d10c63e42",
+"src/js/main.esm.js":"cab306992c401bef2d07107ed068bcfc704f8a5174354604322f30f374f34f56",
+"src/js/main.iife.js":"35f79e49f35e0681d4466999c74620d85ba9a19c8a91db082794603366e60b4a",
+"src/js/utils.js":"e07e65a83dcd2c0238fbab1c4ce88ee51abe019e1390aafdfb702e1a7935ee60",
+"test/test.js":"d8f819fd64821fa6ca511dbaeffb8c3165a731d916eed2146102d19977d8050a"
+}

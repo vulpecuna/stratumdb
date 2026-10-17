@@ -1,0 +1,10 @@
+{
+"cors/jquery.postmessage-transport.js":"715ecb8600b5ec431f09191ac2b56977821ad907e50f16ea76002cd3d60fa1dd",
+"cors/jquery.xdr-transport.js":"f833998394d5265c39758056c3dac34da91eed5be00f242f1278d658391a1a46",
+"jquery.fileupload-ui.css":"de998235e90e0176ccb0f244e246e8dc2da9371b0dd74cead06e7af2ab755c1a",
+"jquery.fileupload-ui.js":"a806d2c4de7ce00253597472a5cc250ff053c048bf1bb77bf3d497f0e28c506d",
+"jquery.fileupload.js":"393669270cf33025e4051cb8e7d97294950387090e54953b01b9160137de66e5",
+"jquery.iframe-transport.js":"854ed11f32e2f6526945b445c0abfd7ed876608c6724af9a64625b3fb6d97a6d",
+"test/test.js":"8d6213ce1c64f12e00d8cd963948c9d3d46ffad15a097ecde9073bca39d29fd6",
+"vendor/jquery.ui.widget.js":"dc41aa9f5795a8873aab6cb7fc6bcbfef1935a2118c5aa75834c9ccc3a1c4614"
+}

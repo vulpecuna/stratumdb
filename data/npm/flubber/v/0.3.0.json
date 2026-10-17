@@ -1,0 +1,16 @@
+{
+"build/flubber.min.js":"64acae0b2fad25cfa10c19dd88d60de55dbb21ec86ed355f8e76fa159e1bbc20",
+"index.js":"65ae2be6d4fc1deb6c39bd563057ea8babe8ecfe6c8199fda73e72467ed6e4e4",
+"src/add.js":"911d2e6a2b13a27b7c34507faef5a3ee0cf6893c3a3eb3355ae37e9e3394e555",
+"src/errors.js":"e5d68ea1f83c6a4d3e8c301786496ce88b1c37c41a829b8170ed18b880195875",
+"src/interpolate.js":"6c17c3adfd609a1b89d615bf9e860e80cfd1c85cfc2155a9aa2c5bfef9899a34",
+"src/math.js":"75e1005e47c49f873ea37aade49eb16407bc54c26b8c784111dee6a85a7ab9a5",
+"src/multiple.js":"2434889b7350426f493caec1b7be47e571e6d7112f66903cfa93b2a4ea85f7db",
+"src/normalize.js":"90c2d27fc0c5e51632928b6e73a3ee1a56e399b7f5eb2697f38d6b716e87c391",
+"src/order.js":"fb8f2702e35448a8f4634d7222d3d47f39e51e313ee4828a6269bef1863722f6",
+"src/rotate.js":"fb85ec47767e235f10b735c4150edda846894a2f30880644ea8647e6e890b4e9",
+"src/shape.js":"0b14792ab8bbb526764ed3051f3ca6cee9f46244ce51bc35b1f9c1289bfacd74",
+"src/svg.js":"db751dde7af710c8c0612a450e2a4ab6ee9e7b79c2eb2b286c7334edeb746de6",
+"src/topology.js":"4839aaabbd44f9ca807912625577410499fbd4938d622041d7c3595b9e42d6ba",
+"src/triangulate.js":"c97edc62d7faa3ca364362fd7df58e1e926a9f7aead3e4c2993db3af9ee273f8"
+}

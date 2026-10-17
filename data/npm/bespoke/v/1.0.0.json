@@ -1,0 +1,8 @@
+{
+"dist/bespoke.js":"d89a4b0026c823ecc8733706dee66e5876c5b2c58b4c849aa2e0eaf4db164d6a",
+"dist/bespoke.min.js":"897b11ad76094610dc2f5dd493742758aeb2ef1a998723e0d257153be241b6ff",
+"gulpfile.js":"c29f119b7187a2f43b34f9b74d8f7f93f1ff0e4c4e0d67f9e4c11ea9c280c86c",
+"karma.conf.js":"6ad7a036e74a0a15420afc776c4701cca2e2e1548d4dd5c5acb74dc3ce1fb5e3",
+"lib/bespoke.js":"e1388db1dddad561b6069128a3fe0e904de41f3aef541b7db6f2ea5ff2c6a3f7",
+"test/spec/BespokeSpec.js":"a16b1f190d38b873bb36f735589e0e79484f2dccd889a702033f41f84a2923f7"
+}

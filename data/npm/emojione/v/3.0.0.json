@@ -1,0 +1,17 @@
+{
+"extras/css/emojione-awesome.css":"a1322a625323b45f6bba3851ed1062541e22ebc503694320209e8707abfe7d89",
+"extras/css/emojione.css":"46f78a6375d0916092bb6384410a336bbd092ac95b65b5c5d2dfbec6f0d5b2b1",
+"extras/css/emojione.min.css":"519edf0dc00972d9a811c5e60b94cf719b30351a8dfe62f38fab8d4b5182558b",
+"gruntfile.js":"e13c2b281cc9149e236a0821a466544b8780770b0b6a16a3d6b440b6f27a326a",
+"lib/android/generator/generate.js":"586b5efed2f826f19b147faac53194e7b94ea66779b327794f5609bb34f691d1",
+"lib/emojione-awesome/generate.js":"6b8256cc5c5afda43c2bb892f1f8e2d27a859a4d10c3b401ee20e240d3d0723f",
+"lib/ios/generator/generate.js":"bb8de5fca706dd617949523d6a7eaafe5f3ab6819799b4bca2a638a1a2dcadfd",
+"lib/js/emojione.js":"0284cf74d0d1dcac66cf3b55415fc70eabb96f8fbb6f5faf5b71c50f8f1b16b4",
+"lib/js/emojione.min.js":"0d78b350aaa117ec88b0ce00134c293da2e32109e7f68d6c57d85b18da8aa6ca",
+"lib/js/tests/generate.js":"7afe81272307b957d80b89f6ba01385d847d858f744cb6f6c703a3e9f52a1367",
+"lib/meteor/emojione-client.js":"b8656849f9817859c3fb7c03f798bac47deffed0caf2ebd99e18e1da19dc96b5",
+"lib/meteor/post-export.js":"fdd89ab0571e77ded740e67d49d8eb5772db4da019f7da31e8a5c80855ddfd37",
+"lib/meteor/pre-export.js":"b06555bab9b7db71c864d270561b524dc811a655cb5d8c966bf5da48901e0b3a",
+"lib/swift/generator/generate.js":"06ed3d4b02252afd28b124090fa6490d4575275752b37a66efb924193de6bb88",
+"package.js":"f3f031a48bf903a05f3c1a773166d8f923742c1412639504f857f3273ccb96f0"
+}

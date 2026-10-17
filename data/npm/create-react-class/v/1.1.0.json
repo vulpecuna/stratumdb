@@ -1,0 +1,8 @@
+{
+"bin/start.js":"ef62e2d6a7c0050fdf141c85c1563c6912c534fbf38eb5f6a26433987070e206",
+"lib/index.js":"bf6329f9969d00827cb2c785f74a410d07893d4953e0608aebe93d344e9bfce0",
+"lib/react-class.js":"e08802b8f320f85771e948d57cb3ad24b0f93869e5e160c4d47c8268cdbd9155",
+"lib/reserved-words.js":"b66f8f63de73222cd25e861f1654db9a34c2337b59f3dc9303fbd9636cc03b5d",
+"tests/index.test.js":"0efc7cd19c93d1a65b8b416f2a53f2a5373ac3faa893caa15cfc05b3b5cd04cd",
+"tests/react-class.test.js":"a64058023c6a4582e1b6d1e44e733512fdafed97dee4edb48eefd14a6396576d"
+}

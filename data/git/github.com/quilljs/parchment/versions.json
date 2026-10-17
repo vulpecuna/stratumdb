@@ -1,0 +1,16 @@
+{
+ "source": "git",
+ "versions": [
+  "v0.0.0-experimental-199bb7b91-20240311",
+  "v0.0.0-experimental-c450721b1-20240312",
+  "v2.0.0",
+  "v2.0.1",
+  "v3.0.0-alpha.0",
+  "v3.0.0-alpha.1",
+  "v3.0.0-alpha.2",
+  "v3.0.0-beta.0",
+  "v3.0.0-rc.0",
+  "v3.0.0-rc.1",
+  "v3.0.0"
+ ]
+}

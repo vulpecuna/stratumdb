@@ -1,0 +1,11 @@
+{
+"dist/distpicker.common.js":"910cd8e4568f8f33f88ce22cbe0d54b26364bb5684ee0cb6bf905e71b75d7a02",
+"dist/distpicker.esm.js":"370088fa0f5c7ac771ab94dd309d26a50a16c19cc157f64f9078913c14c1b807",
+"dist/distpicker.js":"d514b1689e4b79b786c6d28c14571cd2232282946a339b36afa52317b94f6c4d",
+"dist/distpicker.min.js":"b2b2755026fa5d6d2afdf86e73590edf0fb57a7a10f0ad38c5b3b60ce8a8ec12",
+"src/constants.js":"51c419e6d052b7fbbce7208f82a74f62daf0abbea79151519d23d7f50c083c08",
+"src/defaults.js":"6978e58d15462deb63a5f08d6765cadc9cd66015235e1de1471a2f4dfd54be0e",
+"src/distpicker.js":"d0dad648305440496672225f7dd284b89579a026e3efed9923d9fb7ae7e624f9",
+"src/districts.js":"8f779754b462b42370382fe2fb47f0321a65ca6a3b9bae29370756a1afb8c7f6",
+"src/index.js":"12b3e1619e16ffd48db3ee018afca3e4e98f32ec7d4099353f0e200b7923a2ae"
+}

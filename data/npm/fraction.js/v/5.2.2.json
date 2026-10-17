@@ -1,0 +1,17 @@
+{
+"dist/fraction.js":"72b053e42c79ebf84ed9ade2a178e6891925fe36c3c38cf1e617ccacd4be5395",
+"dist/fraction.min.js":"0969eb6e9222429e60e4aadffac508099b20f4e6333b8d5d3975cc2ae975620d",
+"dist/fraction.mjs":"f04ec681ebc37bfe428746e1d1930788508e190cdc20d48580f39c96db8ba89b",
+"examples/angles.js":"380a01723f46245a95f8d94995bee280b7a02fc54660474ef99abb80b98caf39",
+"examples/approx.js":"598a12c0a53b54996d6bdfde358702b87c1ddb5bfa9e56419ded77ff41e596ec",
+"examples/egyptian.js":"03ee53c7ee8f26d32c45d674a21fd2b1320653c5136c7a903aa734e914d919cc",
+"examples/hesse-convergence.js":"444cb65376f8b9b7936b321cbfb2d33aeb341c07078542340966068c6dfb22bc",
+"examples/integrate.js":"bf29b11fae40ba760f6d622b8b6776799bbbc6c6e9513bd0fd7d83b0d4f9a280",
+"examples/ratio-chain.js":"8a054cbf74cef86e78407a6920b3f5b3fa52acd5c94effd2f310c732afe75dfa",
+"examples/rational-pow.js":"11d6d48f223e229523fce2414da6255a9e28975cba7574e9e98fedbe231b2b3b",
+"examples/tape-measure.js":"cb2325faa50b1a5fe3db2d19c10e18593213c8f2bb155b4a4a9015156bd8f987",
+"examples/toFraction.js":"d0ea20d0e91217352d02e3e9dbdff389a0e762b37b388482baf53a06c03a1ed8",
+"examples/valueOfPi.js":"62b3ae4996324c669f7a4db131da9362d8b2981871bce23b2508b75f6cf0bb40",
+"src/fraction.js":"3614379d3c315fb65a14408a92f22b838c1592f92ed01059227b81951889a02c",
+"tests/fraction.test.js":"549acfde216efcbd84a2cdc3bd12db689a9d47fb22c1d465dd5cf4c486d6b641"
+}

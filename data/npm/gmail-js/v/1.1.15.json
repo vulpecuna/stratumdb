@@ -1,0 +1,9 @@
+{
+"jest.config.js":"994e3bb0f2489e26849edd4499d9de938de9aeaa3c841c109fa28afda9721026",
+"src/gmail.js":"02033ca3c17ced2d4579c05649ce38b12e6dcf67771a87f7bf2569c2f1e40fc0",
+"test/test.locale.js":"3ff63f3f25fcc5a6692d3444fe3fd7f3dc2eb3b12f51704896da44ff5f6a84cf",
+"test/test.new.js":"2cad5c0d5d8e6dd637d87db16d8a77af124bcf54cc5f54b93ea784d25a1a06ad",
+"test/test.parsing.js":"0e4e15098cba5e1b14448def5d0463628c0d6a3ecee81e97097604e7c76c139a",
+"test/test.tools.js":"4d945ec911985ac95b7678257481d1d148694a41dbf59ec73694e3c6e6d84582",
+"test/testdata-parser.js":"79b2bc54719d591ed3e6eff07e02bf90b0bd188e242fd5bb954be796aeee0e85"
+}

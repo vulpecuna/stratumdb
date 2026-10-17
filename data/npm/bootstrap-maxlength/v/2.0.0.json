@@ -1,0 +1,15 @@
+{
+"dist/bootstrap-maxlength.js":"702b14af2138b6b405883a5cd64c057340679fbbb6ccbdd373e269638aca9430",
+"dist/bootstrap-maxlength.min.js":"9c4189b08669999bd581268a4b153f80491670f650e539df30c391c6ae548f51",
+"eslint.config.mjs":"bc90860cbf3b42d1e912ed0ba0d31342853314554a40f6f82f66fd93730a2a7c",
+"src/bootstrap-maxlength.js":"3dda63f75052d2dd0ec1235f19d89c0ebf2a4173a0d051be33e00c07b183025a",
+"test/basicInputTests.js":"91216b152425f72bb4cada05f2126a7a8a801b4c510915aa24f95314fae3bb40",
+"test/basicTextareaTests.js":"38c15b72ec605fcccd049e8cac2f9b9efd5298b794c66bbbdabf954c98e1484b",
+"test/optionsTests/Utf8Tests.js":"5efc88797366c54b65d09cae3ee531d84667c6f2545577af6def44886484ea0f",
+"test/optionsTests/ValidateTests.js":"49a93896e4a17611d9b9651515110d3d11b5194876c337c764fc322f5c2979f7",
+"test/optionsTests/alwaysShowTests.js":"12d23e9ff01c2d32238ef848763f82f5ab748908661aa8fbc834d890517a93ff",
+"test/optionsTests/customMaxAttributeTests.js":"c94104aece2f4469802bb0946ff5e456720263775af6296c94fde6b24a25cb82",
+"test/optionsTests/placementFunctionTests.js":"ad930cc3f4c3598259a07f80b11750324b277b26588e937c652a25c24cc428be",
+"test/optionsTests/placementTests.js":"f633dce3724152749506100ae6300f4af837c9fc26cb505fc038bc5e69d5fbf2",
+"test/optionsTests/twoCharLinebreakTests.js":"793d60b7c84f4fda10d8d99a56a8c58703d79b3a13d61370ae1530811e40df0f"
+}

@@ -1,0 +1,9 @@
+{
+"js/copyright.js":"04860d7920486d9b0fab7b3ccb4e3f837a08476f77a838a21ecad5e4e847c72c",
+"js/eldarion-ajax-core.js":"993b971e013caf8e29fd0c44a2c22093f01b9f0b37806ca8493c6f9e76e12d7c",
+"js/eldarion-ajax-handlers.js":"dc8dfdeb3e642c716f08a4cf4ae9aa469585e559aa410745c22e6217a1f4873d",
+"js/eldarion-ajax.min.js":"07660c3d770300fa48bb622ebc82d9ba1f3aff22864ab69bed909ed383f3b0d5",
+"js/polyfills.js":"6a55c5bd9e3b0f113771c9dc46077c978762fbf2dd8ccbc1819e4e0ca49e39b3",
+"tests/runner.js":"71410b0cb716dbf0848821421a8cb48b2a7334c17bb82829d06055908f254efa",
+"tests/tests.js":"5d6887b3243652c459b3fd59c376a8d2bd43633cc00dd4788b3351cc57875454"
+}

@@ -1,0 +1,11 @@
+{
+"github.js":"b2d888ffb07925ebcf5193e85f16d3bd5020e12af1239c1013876c1c12777a93",
+"gulpfile.js":"1ba047eb9d1d12d03c6065fad4858f54440db70183ea77fc0a18032e8f41e736",
+"karma.conf.js":"8d0b374eff143d92527857e86926308b018cdbfd7a6613c362cd3c5d17ed171a",
+"test/test.auth.js":"e31b06f2b8e82d5ae96ab5c36b04fa371ec85671d64b2f60486d8073bd41cb78",
+"test/test.issue.js":"c806c29830447f58fd60150bcb45fa83bf75222b9be79ac4c3ace03227786fd5",
+"test/test.repo.js":"212f9fc1085f78b94f6f870a5366aef6e82f2af405d7904bd7dd040bd4dfb0de",
+"test/test.search.js":"b3a9ed8f4d7ca8bea0f53cb0ed2a784f960d0b8693b66e0a9b24f23d36687a10",
+"test/test.user.js":"29ef39c74e2efa22535fda8090ff749d6b7be427f0210dbc1e2de3abd3c2aa3f",
+"test/vendor/Blob.js":"d1f38f27f9aeff811d09eef64829cc6eb2091fc300afc2cab4071d8250a8fd38"
+}

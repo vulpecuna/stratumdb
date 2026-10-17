@@ -1,0 +1,8 @@
+{
+"dist/complex.js":"1ba57fd20adba17bb7f44b42bc8d196bbae82760c511904125f2fdc9ecba7758",
+"dist/complex.min.js":"7284bb2946fba3a9d4c40497c4b35ba14c47782f07fb4f6dfcc5fc66c1f54008",
+"dist/complex.mjs":"39e9c6213adb7defa0d281a0776bd039ea812b068d116c5ff665a0c12afcdedc",
+"examples/gamma.js":"9e1ff262320c4aeedbf792291088a3e9f1b239bd001230afa74c4d8e3c280b9a",
+"src/complex.js":"e6e877ce95407cc699ccda02463ef32a6b50685989e4885151d44986aefb26b7",
+"tests/complex.test.js":"69be502c1b8329be46f9bd11ea6ac415519a51fefc2bc64b4a2d17280df0c70b"
+}

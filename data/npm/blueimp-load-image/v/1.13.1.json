@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"cd555d7d93f93a9ecd5332161422afac6055b582a75317ca319f915c8b3dd614",
+"css/demo.css":"b18d89297c28b60c622ee277ad7de22a0005b55352352cc612941a80ed4fb1a0",
+"css/vendor/jquery.Jcrop.css":"e388d690508436e32570f86d87e8dcbc23677bf5b4b425736fc83fc57f0698ff",
+"js/demo.js":"38b2a60e2450dc25fa5f84136da8421bd07e48d9c2c6137da05a1018313f817a",
+"js/load-image-exif-map.js":"e0f95462ca3441d9c5afff1eda491e4ffd9c316dd45e22a9da83d3010a7e4814",
+"js/load-image-exif.js":"874f32cc52efa2ed9e9aa2d4488194cfa23b2627999206455a636616c2e76f40",
+"js/load-image-ios.js":"8e74230db5ea94513c79f6e5a146f4f8286e29356c7a9fabde2c0d9fc16d790b",
+"js/load-image-meta.js":"3b3f9bb0d65ac3dcc0fad9c9a28340b1d21b28a39cb838d1504cea6db906ab60",
+"js/load-image-orientation.js":"1fbdff951504caf3a8ba0396c4fd4f8c06dc1a0b745300b79828793efabc7db2",
+"js/load-image.all.min.js":"594036c428b463df1ebd7bd6075e341cbb5a6969b10934834ad8cceecac0a40d",
+"js/load-image.js":"290a54a589ca1f6dc64c8a9fb2fee01beee3fb9b613c31aebcfef2e6ff34a9cc",
+"js/vendor/jquery.Jcrop.js":"7aa80b43b95b74bc318d46be11b2ad2ab87b630de06ed7d7bfa232042ee1e7cb",
+"test/test.js":"7bd908bc2d1fc9f2e66506fd5458f6a7d5d987e3709ee546eaf79c69fb69a5d5"
+}

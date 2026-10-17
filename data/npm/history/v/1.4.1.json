@@ -1,0 +1,16 @@
+{
+"lib/Actions.js":"3b5e9029eb5502123ad900f9471c12e414a1a92186f46d80ee06fca1a0369a33",
+"lib/DOMStateStorage.js":"5799935fd1b995a5bd9767eb72480641876a46992501bb054fab10694aaf3594",
+"lib/DOMUtils.js":"cf8b2cdb7fe7b2f5ac536ff9950d2293e2fd34fa66020494ab0ea546da4d6e09",
+"lib/ExecutionEnvironment.js":"2e9278706921f46aacfd11b2a2f59163a164d667eee41377f93a25942e25ceeb",
+"lib/createBrowserHistory.js":"ca95901851b29330368cdd5e6c0d55422af824ca5eaf94e2fcb0b543bf3d8398",
+"lib/createDOMHistory.js":"09172903655d21c0f3aa685af13130840b40acd396deed1acd9deb9821b90d9a",
+"lib/createHashHistory.js":"695b7ad82a5e70690a68a70671cc177e3405d66b9ce3214cbc9a856faa5bee7a",
+"lib/createHistory.js":"2015a5a6d055585033564c0ff176d774f21c83e7dfe984da1618eba0534e0ecf",
+"lib/createLocation.js":"7dd4864b8f49b208b3caf763b9339dead628abb7e1be19a081da30a1b40a64d8",
+"lib/createMemoryHistory.js":"945a82a39f23e880ba86dc9114bfc38e0e1016055e0ad6675d737c7aa2bf6593",
+"lib/enableQueries.js":"0bba16d91438f4ec59a477670d5b3ce55ee56aa3aad0c81cfcfd2bf615cd5248",
+"lib/index.js":"a8a02dd76968a4ada3b2d3e13da151179b0a4fde6a9256acd2984c766e55efe0",
+"lib/umd/History.js":"0781d614dadea18b11102035e57ded7207ac362c6842e521e277cc8641015add",
+"lib/umd/History.min.js":"c3b49c533be2f2ab08588852f472a7e25a72b3959372f868b32c00424355e257"
+}

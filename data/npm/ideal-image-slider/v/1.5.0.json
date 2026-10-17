@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"df09f642719b032fb736616ecb1c4d6cad6eaa9dd3d93e09cde2a0c354c4919c",
+"example/css/normalize.css":"8ee0613f23a1620668bdf2d74a8bad3e9704dd5768d761f75d4dbfc754c4ba13",
+"extensions/bullet-nav/iis-bullet-nav.js":"3a2e61b923a8dc9702f51ec76b92744b9557ebce91867d4eae5ccd86910b2167",
+"extensions/captions/iis-captions.js":"04303fe2f63c525802dc484e2adde107f00d1e755ed8cf9cd99de4ecf17d38af",
+"ideal-image-slider.css":"9160b4e72c72e31c1ef6c30029559676f323125628291441163e243257575b11",
+"ideal-image-slider.js":"f4828f6b4e5330fbdce2ad7c3a48ca50b2e0b5c7727669e1833726f198ebcb9e",
+"ideal-image-slider.min.js":"a5c6097f7f9b76298eb9248b265b9a4663fe40ed7eaa3a27b7c8345ba54076e5",
+"tests/bind.polyfill.js":"77b22d76dafa12ff0fb381710ec8f0373019f0c484420fe34e0dfb266c48db6d",
+"tests/tests.js":"0d6e2f7adf6532607b3d5d532fb6d41581e7af342d8014b3374244533b1cbb61",
+"themes/default/default.css":"0895fa16d7f26f7b850a99da9aeec56cec2fb41cc1b7fd42e597dc5d999221e2"
+}

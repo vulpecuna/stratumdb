@@ -1,0 +1,12 @@
+{
+"dist/globalize.js":"925a7cd95495cac1ca88d71a6a0096f00d38b1003957e77d4499bbb699be84e6",
+"dist/globalize/currency.js":"0590a305a8378aa0c9a7362eb7681cfe653a9e0cb1a5792a53b52aaf7d5e8502",
+"dist/globalize/date.js":"06b332cda2fff49f6350fea2cd5e69a83b413dd7f86f75c3d408fea3e47bfbbc",
+"dist/globalize/message.js":"f075bd4b2e0d53743f3613525822c96edda553fa4b134eb301b6e8b2da04ac2b",
+"dist/globalize/number.js":"95a06a05f6f15224b0dcefdb8a0e825868909e60162eff908ea1596819e358ae",
+"dist/globalize/plural.js":"462700cfae3494754b166878e8ae3459243a6d2d125b56572a834f1faaa84120",
+"dist/globalize/relative-time.js":"db14df365b1acf88bfc70c1511b8f606783add550591dc5d74dad966e9d5fd4e",
+"dist/node-main.js":"bc4c8660e11ad45b9b9acd40f3b70005e390818d3b7582786c21408b93acf120",
+"examples/amd-bower/main.js":"256bd9dd5408998d3f2d10be2340a8bee8141eb341fc60773bf81d44fa36acf4",
+"examples/node-npm/main.js":"3f0fcb3b70afbe0d7cc93219877cc8209d485c04896cd9f05d9ef9819363d568"
+}

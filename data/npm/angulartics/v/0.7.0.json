@@ -1,0 +1,11 @@
+{
+"Gruntfile.js":"3b900949199af5f684a14cd4a8c23368a676eff1272063294df70db07ed3fbb5",
+"karma.conf.js":"8edcc42dfb311bd597206504174d5641cd025dd990de8ce81d501a41d2bab822",
+"src/angulartics-chartbeat.js":"51a0eea5e9490b53b992702e5a2ff9d2d104cfeb249e99e1607e8576f4407c8f",
+"src/angulartics-google-analytics.js":"a6b3bff798a1abd013f78f82d2d943ccc3c44f7ba4aa867c38c5da059bfc7d24",
+"src/angulartics-kissmetrics.js":"bab85753675d110c4c7e8efa83a66b4b0ec5663312adb7d2f0d945a210ea9397",
+"src/angulartics-mixpanel.js":"ac5468115cd47e945684bfdb817519a2e7e40fe8d0b235b733479b32d3404641",
+"src/angulartics-segmentio.js":"77fbb27d2398a5274a75a4518ca3cfdb8577901e8fbed8ab18b0f54070cee1c3",
+"src/angulartics.js":"5e16acc89acb1b8ba9f32cb8e876f5e24da707c0d397427805af877800184481",
+"test/angularticsSpec.js":"7d9050baaa5f7d3bba349f2a39760a0e2635e3d06a62a6df3b5d8d193bd070e2"
+}

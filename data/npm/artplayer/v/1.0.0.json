@@ -1,0 +1,11 @@
+{
+"docs/css/app.css":"dc49bd3e80b0a67cd82e0597cce0fcc427d0afe99da565a748b72e0d484b8ac8",
+"docs/css/artplayer.css":"ff74372ef973ae46257de78a725f4ba9baac960eda889508a752e1d68c07e8b1",
+"docs/css/consola.css":"bc75d4781e6ba0422f033064f7eb59eea06b63a621b33007632c3cacdd6d2808",
+"docs/css/normalize.css":"b87bb63007752ef08e544021bcc95de0ba498bb754192ec6573bc6ff9077865a",
+"docs/js/artplayer.js":"cc28eb3cd668b69534737a2bc5de01b0bc4586eca3d7138f56ba3f46580d6eed",
+"docs/js/artplayer.js.map":"befbdd56e24cabd6d2c393d7c1e62e6cb4bcf8b4e6522637bebf1f5690a99779",
+"docs/js/consola.js":"9e5606dbfd2549e2d985bcd07def62b52df3b275aa04d227e39e6a757ea32249",
+"rollup.config.js":"8f7307facb3105ded5bf73fa338adb51a67cfc343b8d79834a857751b4160e27",
+"src/index.js":"3d5a84803586d18a50b704b479e295f4125f8238266029ee81682a6a499cbe20"
+}

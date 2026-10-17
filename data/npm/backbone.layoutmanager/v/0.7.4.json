@@ -1,0 +1,16 @@
+{
+"backbone.layoutmanager.js":"8475478c514019f49c0a7499c5d5c8460407e1d14d94fa5ce63086508e14e916",
+"examples/node/basic.js":"3b414e3c36717703ab0e89cd805321754ff0f55e044ac14dcdb2c75dd1bc8908",
+"grunt.js":"6800b8f567e107b7a2a0189d501bfaa1aa520a05fbb9f0bb750c5b2abf48faaf",
+"node/index.js":"b721cd24019879bb88d0f73ffde6e419c330a6ec0544587cc1716a23d81d4123",
+"test/configure.js":"5260b721518f30c9ae90512fedf4f405031e7185f1e5da6901725285c13a4e59",
+"test/expose.js":"9e0084d08c272e85860fec65ec3bd9dcf26362f8b0b5cb9c3a69a2d2fe913527",
+"test/qunit/qunit.css":"d4cec6ed05b91128796f8525ae3dfcc852356744e5dcf67791aed9a05240790f",
+"test/qunit/qunit.js":"f17ab307f7beb1d082d0b46d2dad680c97fb12b76c2ae9c93e3c096aa9795c0e",
+"test/setup.js":"a54d7e3f0c6dd3ea59920de5eabdf44ac6aad298d48fe61ea8eb7c56c7efff0f",
+"test/vendor/backbone.js":"47a7f3387d62bc635ea35394ceb35478cdfe9c40f4d9d2d9d81e7374e588024c",
+"test/vendor/jquery.js":"756d7dfac4a35bb57543f677283d6c682e8d704e5350884b27325badd2b3c4a7",
+"test/vendor/lodash.js":"5030b45dd5b55d00d4dcedd0cae84f7765f87c38c3988b1db9e5ef53cb689df1",
+"test/vendor/underscore.js":"a10aa2eb9078c2e19f181ac722b1c19a29b8db1069556c508a3beb5c46289d7b",
+"test/views.js":"987887268a8a0f00d5bf2e374e922d76e862273211ab585eff0ed17ca4b78237"
+}

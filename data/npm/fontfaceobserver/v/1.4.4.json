@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"334d87465a0aece2658b97dcf91d9e6ac3839c3f51f88b6fde9d8b54a902e8cc",
+"externs.js":"989ea630976296ad68da0137706f558dc1aaafab30326d91f0c1b94843c13f89",
+"fontfaceobserver.js":"abd9fbbb90afe03b5e5551cb8237549e018378ccb2326283ca61afeca9cf3a6c",
+"fontfaceobserver.standalone.js":"6031b8d1e6a94173d685866df54f81b3cc3aca7f12898fbe670c015a9f1e8a12",
+"src/descriptors.js":"a810334ba73102bf7843b45bbbd4bcb28e50a91d9ce148f97d716f850edd8169",
+"src/dom.js":"415f6eaa0eada20005b14c710b3bb65dfe79d870d26686adc2d85d44a8ce69b3",
+"src/main.js":"2169342ea0371f06f19b74fb693a0d1aacdaed20ba5db05991d43aef970c0150",
+"src/observer.js":"d30e40f5970a29d64f6a5d45fea5d9d26af93ae70fa4525ee5672b692e29ed0d",
+"src/ruler.js":"b469b84c0d56d862e9a680a92ead2ce0c774cbe0d1c1790755bcaa5a04f5f1f7",
+"test/deps.js":"6e2a6119dab095e118ff37e5b15f47a355dfb398531030db70baa9c37d36a7de",
+"test/dom-test.js":"509eea7b68a388af8218c6064033741543f43d6202c2bfe90e417a8febce79f6",
+"test/observer-test.js":"4edae7fd196858c89b888da25643431e873e5e28c195e13df9e468127262fd86",
+"test/ruler-test.js":"2ec788d04da469562521f8383480a82b05161732be2f6d24dd9661060ea97ac9",
+"vendor/google/base.js":"8ff8ac4e350121361354f79cfcd0c976b5a34e9e39327c6f9f6212f6ae1e3d29"
+}

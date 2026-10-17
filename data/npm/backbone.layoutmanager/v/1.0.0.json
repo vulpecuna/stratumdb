@@ -1,0 +1,17 @@
+{
+"backbone.layoutmanager.js":"12921f0d8bee5a3cc9cb66d7c8e0ef7be8b8fb496db79a006e8cf93d75210eb7",
+"node/index.js":"c315e32d5f6db4662e3e310d3b78a6ab88e32330d7c019325e0af0dde3506334",
+"test/benchmark/list.js":"0f655cc3bee1764f7ba22518e8bfbb9e6dc772e2db428bccb1ef2cb7db2fe3bc",
+"test/report/coverage/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"test/report/coverage/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"test/report/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"test/report/lcov-report/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"test/spec/configure.js":"450fd906bbc8729a03073a34e635150a4cf000e346e31abcd00f74cafcae706e",
+"test/spec/dom.js":"0eb6911959c7d3ffb2b7186d84767a20645eddcd558d71af4ff00cdeb3afdd7f",
+"test/spec/expose.js":"d674f9f3a0fd04b0d93522985ae9b38ae972f6de5d8b448d0d5a8030b0dd1797",
+"test/spec/node.js":"1a7c0b597ce46f9c5ed56a5a6354e32ca8688ccbab969c378b6482412b0d2bfd",
+"test/spec/setup.js":"148fea585d027c432ec2ea7e526e6265a7a0b3d248541871a134064ce92c5981",
+"test/spec/views.js":"3e786e5fdcaf4e8564d6efaf2664fb02aefa0b9f6720484b76ce107b50f8f836",
+"test/tmp/backbone.layoutmanager.browserify.js":"4d1962960dbbf6c5d8cb0b85d024412f9065c292baa484602dee6cf3d092eafa",
+"test/util/util.js":"49bdd82cd6d411c5770ee4d4a4dcbff108438f9e3db713409d9c89b96caccb72"
+}

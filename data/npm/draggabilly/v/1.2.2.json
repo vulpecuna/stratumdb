@@ -1,0 +1,11 @@
+{
+"dist/draggabilly.pkgd.js":"3109414e153a9a34dba8e2f6e3d36e4da7e7c6521ed60bb31ccc9d3946f655b0",
+"dist/draggabilly.pkgd.min.js":"f705575c4866960e3e8646a25c3393cfab0a9d36c5485a4ae64ba728bd2fdd3e",
+"draggabilly.js":"555188399bf011d4d343bc51d9d12b28a3b463f7737a40fcc06c5213d1965a5e",
+"gulpfile.js":"10767851c72f85c4f7eac1120f0e19199f520a88faf5480ca5e6adb781127b8c",
+"test/test.css":"75b387ea2d846b8637dcd1e10fba013803829f5a54bbf04fdbb94fc7c032ae15",
+"test/unit/basics.js":"20ece5b98e6e874e911a2f0fff3457e5c198a278d66d9567a372ddd820709cc0",
+"test/unit/destroy.js":"75658f75ad2b0492314e2da3a55a67d72836698ebf39e47a6d1682f2f0276891",
+"test/unit/jquery-basics.js":"dbbf8833b2eed343d0fa5bb2bbda7e2b800a1e3885f488075891b1900ac8dda3",
+"test/unit/jquery-destroy.js":"12ab1f11ef2b0abc9891e808a232f843ebae66813fcc043e5946aae9d029840b"
+}

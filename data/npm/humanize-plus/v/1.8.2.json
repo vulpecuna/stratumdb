@@ -1,0 +1,7 @@
+{
+"__tests__/humanize.spec.js":"d08cf17bd97a9a9a27b6701994e40873e5f1c218b46bcc16ee08eb5542547110",
+"__tests__/runner.js":"291a61a9da8a3b97a9187a874363565a544cd60cfa1d78665e8555d3ab6dd45b",
+"dist/humanize.js":"4b0f3148422cdceec25a1cc605f9505a61310ea8c2711f71ffb27be3940c95c6",
+"dist/humanize.min.js":"678d25c020d4656a1a2eb14c5790375039f9ff205a3e8b455394459ef2c46dff",
+"src/humanize.js":"ae9d237a97087b5098cb50c71c4c70a48774892888aabab130762f6db77abad8"
+}

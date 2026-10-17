@@ -1,0 +1,14 @@
+{
+"Gruntfile.js":"6f6d8dc9aff2a5e4cbe14496d1de1f0f6a7653868e1dd8fdc301df513a4497e2",
+"chance.js":"4ecca8ac0507f0611e8b4b04598f8b60924eb7224b6902cbbc1c1d3402ddc512",
+"test/base.js":"855be96b6a2285728036aeac292918dd32166b9e030cae24ad3f0bc94152348d",
+"test/test.address.js":"9b22e2b56ebd1156382df49a00a7a4c1bc25fdb2286fd461cceb37ea09e7cc88",
+"test/test.basic.js":"13092b244e905f67a231dc35db2dba04481e66ae8245a226fc2e9def9b13a3a1",
+"test/test.finance.js":"0511cfbba64755170d9c76de6f95a277c57921b2ed59c5b15bab267fa0c4df17",
+"test/test.helpers.js":"c450a19c87279a6f629003f8c790895dada84ac7a0147cc1ba1094ffa5aee61c",
+"test/test.misc.js":"e445e465f4ee6425de650352c3cff2a90098d6dd17ebd8c5c1a497c2a448d323",
+"test/test.person.js":"437396f4e43af2a8574388c0cf49870e804e86cab48c8a54a25ebf286d495ec3",
+"test/test.text.js":"75119781d6cf33b586ff830611634621bd7c19945882463d1aacf4c213ba6062",
+"test/test.time.js":"4a4a6a3b6901018adeb5c6d5cf3075e51812a1a6bdb2ef312cea8f9daaec1f9c",
+"test/test.web.js":"b249ca98a9ca5264fa824abe5a90abab8f0631fb51c3950b2afa98fa0727d5b1"
+}

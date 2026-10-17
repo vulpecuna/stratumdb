@@ -1,0 +1,13 @@
+{
+"dist/gif.js":"24a8180c207e20e32726ca95e292eb3d02e3e7a12024002ee3db1390b6c2d7e3",
+"dist/gif.js.map":"7654bf0fe93be9fa8b1f45975ea6cf65bfa93f8421376ccedbbde19117e4f4c0",
+"dist/gif.worker.js":"8aa67e1421f7dcc0fdd3eb229e332433314bfc2960b6d4375577e67a3d0add2a",
+"dist/gif.worker.js.map":"b8aa1aa050890ae4f5c5d42cdc466d0d69e227357feaa5316c2e70a7d03955e8",
+"index.js":"42ee8ae81bd96f8e5aa6ee4f0d4e5c3cc4222f847c1cd09449882864357ee4a9",
+"site/contents/scripts/vendor/mootools.js":"78fb77cc7d5d8b132e6227953d63145ed156c99eadfae4153e76feb586dd9298",
+"site/contents/scripts/vendor/ready.js":"1186d9a1b0e251449ecd446a1cb85719952d636bc1ba7f3bf1420f24cb7f186b",
+"src/GIFEncoder.js":"b5ef23e85d14f2acc7b405d62ecb8f7fbd41d0e1913dabd7cae01a628e14d89b",
+"src/LZWEncoder.js":"1f88e60b295321f2c1790938446759691c363343523561d0d16e65568a7729cd",
+"src/NeuQuant.js":"e7abdba0b4e4c2ec46dc29b30ba33533ad2cc96cac4f2f691fc2e908fe8d21fb",
+"src/TypedNeuQuant.js":"c566be889c6c4038158350c1f9e9d5a4d1fce4ef87e85d940bd59e123ac93686"
+}

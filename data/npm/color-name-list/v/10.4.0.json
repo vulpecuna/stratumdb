@@ -1,0 +1,14 @@
+{
+"dist/colornames.bestof.esm.js":"80fbd877e9d43fa109815d6159706b77d7bd8a3e82364c277123433f548ccc48",
+"dist/colornames.bestof.esm.mjs":"80fbd877e9d43fa109815d6159706b77d7bd8a3e82364c277123433f548ccc48",
+"dist/colornames.bestof.umd.js":"9539b1302285e109e3fbd306541544a7e6c56a71a0aa7e812ddebd470c83f302",
+"dist/colornames.esm.js":"668d96c017167456eab215ab5f443307e7721581af8acb7140ac861623039aa1",
+"dist/colornames.esm.mjs":"668d96c017167456eab215ab5f443307e7721581af8acb7140ac861623039aa1",
+"dist/colornames.umd.js":"80d625ca56ae906c7c5457ae4d0a5b2b3b3d99ecdb95165298f768bfedc49f13",
+"scripts/build.js":"886d9715eeb92f12339f03046b0b5da552d6ef4128938f00d600eda4a638eed3",
+"scripts/lib.js":"34b7bf68f5a12d9dac28375f8a90a8682e89d1d6293767ec6bf633a72aba9b5d",
+"scripts/tools/filterUniques.js":"ecd038074f886a4c6e361969768ac553747680ee96bcd931ea9b335dffe522b1",
+"scripts/tools/findLargestSpacesInRGB.js":"8fd7bac7b88c13454db42ef74e176a33552fa32ef0d1d7bd96d6965085868533",
+"scripts/tools/remapNames.js":"c569f54cf6a7ef83b30461d0205c0aaca36d037b89eb2c85f5ec95c31f872ec9",
+"scripts/tools/shiftColors.js":"0b40f510b1696899321099da48858a934e7453671c44346201a7a4ea62913bfb"
+}

@@ -1,0 +1,9 @@
+{
+"can.js":"ed2d90b9beb63fb3776bca3b9a76864934edc54c7029aff80d689e485f9c5635",
+"parse_kcd.js":"06e720517545fcbd97b1a199a052097517b1a3b68606a321c8ecce3b76fed923",
+"samples/candump.js":"07ba40915b5b1715fac0ff6559ee9c1295951162141da87f343d9f8a3e80fa0c",
+"samples/simulate_node.js":"da8a0e63ce75c02c249b236ecd7257bd6d66e42f7654a8afbeae77d83343adfb",
+"tests/test-raw_basic.js":"84471ff68603398039a9e31b6e8450d579f0908ab4e1c76615cc754ebd7dedb0",
+"tests/test-signal_conversion.js":"0e29fb4b3906fa0e422f374e6ca7304e20734b5d6e28f54a9bb6b7c29dd67245",
+"tests/test-signal_generation.js":"38c2f1b5f6085959fb97cfed143c98eabe08cb5910777cbbf733dedfaf520f40"
+}

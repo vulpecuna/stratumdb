@@ -1,0 +1,15 @@
+{
+"css/jquery.fileupload-ui.css":"d18c77d59aecbca189283f10205facf07d884004d53a18e305997d7a6b2a69b6",
+"css/style.css":"24128cf2b6d527f4b2aba5cf76f01a222aa3d51e766fa279c1460c5712579b24",
+"js/cors/jquery.postmessage-transport.js":"b882b6b548401f10ecf6a9281d310eebe18f9a8019a94998c6973cf3b7c42f6b",
+"js/cors/jquery.xdr-transport.js":"2b1497e3b989f897897dd0f5600feeed50095df6927240859e6068f247cfc405",
+"js/jquery.fileupload-fp.js":"8db9d61288634512404a59d652f0a95d35ee91b637125f1f69eea37eafcf90d0",
+"js/jquery.fileupload-ui.js":"e83b462cddedbf586b38b89f2bc804ce7e21439d8c7ba8fa4fe5edd4bb88107d",
+"js/jquery.fileupload.js":"66e7e4be1d81d77857d3a19c6fc02e1b7390f4bdfafe9ac9ba03a920df2301fb",
+"js/jquery.iframe-transport.js":"3dc53b8a325b7146529e8d7b6a98e7af9bf9bb79e84401d744b9787173bed9b6",
+"js/locale.js":"e6b0c0412ab97e7a62eea85d1339a6cdf9ec049a1007eef5a0cb5bbb30630b31",
+"js/main.js":"ca5df153677f9e5ecae70be7d20ee4ccaff1f1b3132eca972deeded89849777c",
+"js/vendor/jquery.ui.widget.js":"c1e4799f6d0d19a9ec196ecaee54e807010ad0a1c553fe17f5d9466eac4f0f80",
+"server/node/server.js":"8596d60233743a0076be8e6d801f7a3b6e318f58a2df1c15184983ab6debc398",
+"test/test.js":"1aa64e54826f2af6829d8f424258b7e953f3bf18839511d6d14a2abdd662581e"
+}

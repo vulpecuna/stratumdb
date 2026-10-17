@@ -1,0 +1,15 @@
+{
+"build/amd/dinero.js":"b3ceacb086931fbab9feea2ba648b522f11feaee25aebe047f73bda910802cf0",
+"build/amd/dinero.min.js":"ddee31d2d22e8646a125052fec287a7f6fba12e1da2fb710d371b07db2df03d1",
+"build/cjs/dinero.js":"f2163d90875d932dfc6edcb72bee64da9eba9595d9c016314d0c22626ef4a6c2",
+"build/cjs/dinero.min.js":"1c17ddf1a249f3986cc08402f17a3b0940e88813215eb2e3e4fc442b62a88825",
+"build/esm/dinero.js":"b6015fae331b0d6ad9c9478a8878c94a6d3dc5a66fde06ac725208faf7ba28fe",
+"build/esm/dinero.min.js":"5758829a3f2e49adf7fb0e7b0ee4ca9fbee21fd007e8c624103db0e3d2b5ebe9",
+"build/umd/dinero.js":"bf7ad2a961f84f73fdc176d20b9b5bdcdcd0aa23546ca71eac92e7e9715ddb4d",
+"build/umd/dinero.min.js":"03209ef8b0e7f0f216e60bfd71316502dcc164370c7980b9322000fc6f926793",
+"src/dinero.js":"b3cbbf68a3782a00e9434220703e136192ede623099523e12d774168902b1523",
+"src/services/calculator.js":"bd0b34f26e72e5ad03685b80fab9e0afef3ca1a8913bce3fccc22f8db9500a55",
+"src/services/format.js":"d44e238816e37c60970c210f114989960da33fcd556aa196df96f0d43adf62f2",
+"src/services/helpers.js":"e97deb16992108786e16b58d1fcc972c1309ef3571f81e29c310c38ad48c93fe",
+"src/services/settings.js":"a92245fbf1099b62c78384a5b56c71f041fd5b4e09303991251812481a84b6ed"
+}

@@ -1,0 +1,10 @@
+{
+"dist/cjs/i18next.js":"5fa83aa50e8a5eb85c5be53cbbd687bcefb611d4ae230b3e06e35e3ce9c8b2ea",
+"dist/esm/i18next.js":"3b1dd7513450651b0fb88038bc9afe508be04e2f85fced90408e8952fae14ec2",
+"dist/umd/i18next.js":"49d9a642e7663b0d41e42f15a39408a3da92816aefae258cb7dca38b34970310",
+"dist/umd/i18next.min.js":"e0ffcba67adb11ca26724ea7d83c9f36d984eab08cbb1e097245533819aa9c84",
+"eslint.config.mjs":"f9c0a9471f32dc3f804c9441c589d09f830345cf7f17f0ece59d3f9093d28f66",
+"i18next.js":"49d9a642e7663b0d41e42f15a39408a3da92816aefae258cb7dca38b34970310",
+"i18next.min.js":"e0ffcba67adb11ca26724ea7d83c9f36d984eab08cbb1e097245533819aa9c84",
+"index.js":"33bfffdc4c0c4609451a153b2d9247c23df7895a3082fcbd6db5d7f03c089e55"
+}

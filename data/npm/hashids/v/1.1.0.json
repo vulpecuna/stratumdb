@@ -1,0 +1,15 @@
+{
+"dist/hashids.js":"d1e66d9f7f80dbfaf9aef48e23da056f5ddc9ad2386f80994270e0a7b17caf44",
+"dist/hashids.min.js":"90528470db8808cb796c7508f1a0d67a21b2843097031bd07be9dd3149de549e",
+"dist/hashids.min.map":"3ce94a12629c61741bb88907ca5fc752371f93b5d869d0cc6ea668dc0d1f8b5e",
+"hashids.js":"f8ee06dfd89fc3dfd3b6e7baf2240b906cac5787fa897c5c278f0403856d9499",
+"tests/bad-input.js":"30d085f371339f730e2237469febd44c260cff92c3161362d1596938d2167dd2",
+"tests/custom-alphabet.js":"89520ebe1d14138b704c4cd0122d2ce3c2c637a142a5b6d424b483752b448846",
+"tests/custom-params-hex.js":"e17dea74ea407a0c56ec231749876cdf35aad096be7b394f25d8e8b9995b6545",
+"tests/custom-params.js":"abcd0f3e1c43212f207ffcd16da5a8d5687021aa7b7fd6aaf2406d098654568f",
+"tests/custom-salt.js":"cd26443fa3b6ba3f088ca1f94f25b8994f48e350a4021e5eb71ac4504bf5b389",
+"tests/default-params-hex.js":"a9495f829c5bb830010ac027264c1c4ce3ab3bb54902ccf894fa02491020b454",
+"tests/default-params.js":"810bd90e948bc6c99cc2723a9641a33ed2b73e2a2263325fabfd69b4bbae51ad",
+"tests/encode-types.js":"4238b74a8b453c187c431af17fa41de283b85790f48608af1d61b5a47944f7f8",
+"tests/min-length.js":"2f763f119d02c26ef26b94133020dbfd51c7ec32fa22d3633d755973fb0d215b"
+}

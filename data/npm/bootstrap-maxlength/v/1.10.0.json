@@ -1,0 +1,14 @@
+{
+"dist/bootstrap-maxlength.js":"b9a7ca5aa75f85110702b71dfb2a91352efd3406eacf02741f0ecd5d2f5c8c02",
+"dist/bootstrap-maxlength.min.js":"dd944e0d4ce4b75e61499f6bfbe85f650b554e61e44097f25f12a1473e8592d4",
+"src/bootstrap-maxlength.js":"917dda3456d283c98e6beebf176518ff43ef6bc378150850de623fc98970e8ba",
+"test/basicInputTests.js":"b3f07d7d867055c7eb36decfaab772ee5e1586bad28cf7aad89c9ebfa5285573",
+"test/basicTextareaTests.js":"bf9b830122530f8fb41be1c1281015e952b18917a8ea7acf14b4d137c0902d70",
+"test/optionsTests/Utf8Tests.js":"2e80a14ae60a4157e4aec1b381a2351820d6fc4f4cba61e89a609a4c92e571ac",
+"test/optionsTests/ValidateTests.js":"6dd9439edbfa708489479f24e9b2334022c372fbe2e8db949de8000dd66c239a",
+"test/optionsTests/alwaysShowTests.js":"4cf2ec5131e2a8c3ff865fbfaf457f98bbc17edddda4e8fe86d5b8f7cd38c292",
+"test/optionsTests/customMaxAttributeTests.js":"5de05035df5e25a9f5614c1ab924f983a8d43569adb18240d747a67e4987ad26",
+"test/optionsTests/placementFunctionTests.js":"bda63e5989e345519bebacacee01ccccd74917eccba774e73c995e8211badee1",
+"test/optionsTests/placementTests.js":"ed37118ff83bea4ff067a7b2127cb26d7789eed73e2308cd2d096b2b3136ffbe",
+"test/optionsTests/twoCharLinebreakTests.js":"3afbd7487ad5cd1a4a545eb4ebb12fbd4cebb6cbcdd9a73ccbeee4b20a33f197"
+}

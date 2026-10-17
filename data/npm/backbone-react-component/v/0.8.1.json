@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"c11a190643b49fbaa0a8920511806c80eeacaf6afeb78d42bb64e33d94f0bcfd",
+"dist/backbone-react-component-min.js":"37133f4407c6185140dbf23a440cea50ffe2bb3461f35a5d1a148183783395c5",
+"dist/backbone-react-component.js":"cae76fa6a44e8be31d021fb04de0af904b4094e98c701dc43d9a0e262d09a605",
+"docs/docco.css":"666f46575426e56786e4f33578dfcb46a5a46952c5b766dcdcc3d41a6f18edc5",
+"docs/public/stylesheets/normalize.css":"c692ad1a7d71e6ca9d152375bd143133ba4f67583efc8112f03eef1a1cd5daf2",
+"lib/component.js":"cae76fa6a44e8be31d021fb04de0af904b4094e98c701dc43d9a0e262d09a605",
+"test/helpers/polyfills.js":"cd4fef7831ce7da2f9cb582b3870b3d73e54877dc91d3ffcdfa99a61437b7996",
+"test/specs/mixin.js":"3cd2afe3c3cacc76f0bc1db090da170f6d797829b9b18e885c078d03f0a69291"
+}

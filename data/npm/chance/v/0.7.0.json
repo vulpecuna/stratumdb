@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"382b37abbf82afb0a219e001e4c3e9b7d05510e3f7671bb8bf639c250d7c7178",
+"bin/chance.js":"a606ec0b79f27e6ff3b398b08c0f6a0df45d4cc7b5affdea78b064574ec66d16",
+"chance.js":"44001fa22998bc970a6cda9c8fbb2bd53e1566127bf80339afc595cfbae93e2b",
+"test/base.js":"8e4fb1551747882265e4d8b3527be54577ca0a62601b394d5c5be6151f3d0c2b",
+"test/test.address.js":"5f4b464744ef72ba1df1490adf98a297feaec92d6c433daf56e85bc969f0f57b",
+"test/test.basic.js":"3b145cc22d98cde9a4f878e1c1caad37b07265ff5e78b675817ef6f92274f7e1",
+"test/test.finance.js":"1b5e19c8be32dc4c3054c126a399a552b27c1169bef8ec166fd87e1a5db2d492",
+"test/test.helpers.js":"ac9aa7f1451999e1b9f9c935d16b53b899abdb7a4ad6cf7547f7b1dfe9627279",
+"test/test.misc.js":"ab9fdb501ad63920d2593e6614cc6132a8161c29b2a6a16ea2673109eac08bb6",
+"test/test.mobile.js":"a8c924a96f5936ba0e2d7268af44f5f612d9a0bf0f763e585cdb2fbd419d0811",
+"test/test.person.js":"3ded872b6aa6f53440e1212cabf35ff526abb0c49cb78cb6ee1ca7893ef90584",
+"test/test.text.js":"75119781d6cf33b586ff830611634621bd7c19945882463d1aacf4c213ba6062",
+"test/test.time.js":"f5385a945969377e5bcfa50683a9435e686240000f874fc60de2456ab24eceee",
+"test/test.web.js":"a7bb993914c9705dad5e8f278ca007bc456236ac40d2f2eb6839b683d78504a6",
+"util/yob-to-json.js":"35799e44cb1be6f8534f14df44d4083d6028cf90add5a77718ea414693f78f6e"
+}

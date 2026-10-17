@@ -1,0 +1,15 @@
+{
+"dist/Dropbox-sdk.min.js":"2a32a6f60976c4e598ba189e6799d9241524bc78f447356f792842e79b76eb8d",
+"dist/DropboxTeam-sdk.min.js":"a9c367129a8760ae0fbf053e1791ba3ab5d9f77b6002c9adbc8a164a51bde1a8",
+"dist/dropbox-sdk.js":"b45067fc12c925668f244221f346573f58339610b9a2211dfc8d0c3c261fcef8",
+"src/dropbox-base.js":"3ab6e40ae964d47bee1f7812a9aed9ee376c8deb9a90926a99fa38fc5f49b2f8",
+"src/dropbox.js":"0ce2482908bafc95cc9b725523d87242338c37fb5077342401d5568a37aac750",
+"src/index.js":"a61f89cd621d55a0dd02629206c2a5e7010af37c4ad4742878a24c9391f17278",
+"src/object-assign-polyfill.js":"7e450677c77dd9a60655a370e1cea214e6ab9d17c38a4e5fb18f56518f45d6df",
+"src/request-constants.js":"46231753973809594395122d708192f06a200f5f1edeb68866b4b5c95fe2f541",
+"src/routes-team.js":"e6f6c7285895c09b2bb7a1361d10dce737b3cb6ddab44b55ff01ad96bd8e8db4",
+"src/routes.js":"1bd3cc6aad35625871f4153dc3af77aece9ef8e42ef7935d78f8ae6cc7dba37c",
+"src/rpc-request.js":"80f0a2256810b0647494acbcb8e9a6f95c90173f3e2043c4d539e461a28d0f2a",
+"src/team/dropbox-team.js":"91a33fc6ff48f103e6c88aa68c97bd70e488deac1af48ac4de7278f86cc8cbb6",
+"src/team/index.js":"926414c9770cff96a1a45f5ecb3c59e40d83a1f1d12ea309bf981a6111fb7e11"
+}

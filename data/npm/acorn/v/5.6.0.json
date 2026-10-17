@@ -1,0 +1,10 @@
+{
+"bin/_acorn.js":"da4dfa77dcb84a28416d7dd86683f4f230d3a3806639776e335888eda15f6bbd",
+"bin/run_test262.js":"cbb27f17d31c0539a106ead95485f9f36feebc54b4528cad082b71c4e084b014",
+"dist/acorn.es.js":"7b95ce5d82c23cb07463b4f758049ed29be9e13cfa58566c43506b9a0714f92b",
+"dist/acorn.js":"b31e3d4c3f19b0a550bf36ac5ebaa45ec928b2536f27082da237ab4c207b20e1",
+"dist/acorn_loose.es.js":"fa200af5f469070e4f0c5588da7d196fd78f02b05620936bb894d5a0a499a0b1",
+"dist/acorn_loose.js":"a285242e9e1e641abf2de8ffd3ce39d5edc20298a8e709a753f6cdc33aac1055",
+"dist/walk.es.js":"9d962376a7f223013bd2fc98515b1ba424137a765fe40ac472e184ba39ff77e9",
+"dist/walk.js":"9b9cff9ef5ae859c9299dd4ac68b654d0a7bfc3a42203d180f4a3682ab7ac1b1"
+}

@@ -1,0 +1,15 @@
+{
+"anchor.js":"3e197d1f4dfcc1e39ed3262ee934bf3e639c1dea4d8cb90457765f94b5c5c59a",
+"anchor.min.js":"ae987e323065e685098709d6c92908fbed79f4cf8a3610e76f5b8701ca4813fd",
+"banner.js":"e825bf9425ca471c6bb7b9b606bfeb44481295876c30aedd44405c1cdd1bbb9c",
+"docs/anchor.js":"3e197d1f4dfcc1e39ed3262ee934bf3e639c1dea4d8cb90457765f94b5c5c59a",
+"docs/fonts/fonts.css":"35663bd56adc879fe415ed855bf870ed4240dd3772df195560921cad00142756",
+"docs/grunticon/grunticon.loader.js":"afab2ba3ad150879282ccde5af5f682f60372942cbca1150ba1a5c60dd7bc296",
+"docs/grunticon/icons.data.png.css":"7335753deb6e6591d4d50824d218784b816d01a51be85ebf1ba0c9f0d8e5a68b",
+"docs/grunticon/icons.data.svg.css":"d10c79d3b3c17e06ab131d50a907ff87787ef04aa62216475387caf92c20448e",
+"docs/grunticon/icons.fallback.css":"ab4e49101fcae20cb5cc63fea480de4ac0abc403e44adff3672e3929f38db3ca",
+"docs/scripts.js":"619dc5caa38ca6c0fa90a3b1a331050a917050739a53586a6375dee054e7e7ad",
+"docs/styles.css":"de153bf078c2af9f576f45af9c2807b3c7d2edae626c940fb5cfe91758eec521",
+"test/config.js":"ec89d6be7973aed09768f87f6db7605eb91f2a21e9d20633a47c87ffb2b8cdab",
+"test/spec/AnchorSpec.js":"60ba3e848733de6ae690189ab4aa14ca127db3e09174958cd09da03fd3d6a6a8"
+}

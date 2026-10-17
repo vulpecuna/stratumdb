@@ -1,0 +1,10 @@
+{
+"can.js":"f808e4bcb6f06895700c0a6ffe9acce59b686965e103a9d758b7ddbd311f844f",
+"parse_kcd.js":"06e720517545fcbd97b1a199a052097517b1a3b68606a321c8ecce3b76fed923",
+"samples/candump.js":"e208ab8af4f788a1e0844a0f3bf40bbb5008f7f4db207157bb64f01227491caa",
+"samples/simulate_node.js":"da8a0e63ce75c02c249b236ecd7257bd6d66e42f7654a8afbeae77d83343adfb",
+"tests/test-benchmark.js":"e2858d683f112cec76e3e17e66ba9b286e90e8d3dc5887c159a6df7f15bffb9a",
+"tests/test-raw_basic.js":"5406855600a12f3efa1bf8d769e2024ebfc3498cf546d14f9a84fbb7b446b3b1",
+"tests/test-signal_conversion.js":"5bd82ea644c0d313a746bf02de01582bc47c539c4155a6b69e2c703e3311b0d3",
+"tests/test-signal_generation.js":"53c9ee718f5cc3b2b988c4dfe96c67658084c05bef6d1b6717d9b36afab45643"
+}

@@ -1,0 +1,15 @@
+{
+"dist/immer.js":"5f3d0373c1fa7d3637b17888baa53b6146832d8690b2a956b30e3f79dbfe8da9",
+"dist/immer.js.map":"45e2921be90edefecff8a054b4f37cf35e1cb2e0e09925e96f7fa837fc9da7f7",
+"dist/immer.module.js":"74248a37f1cc2cc824a28d7d4bb4ba5103d09115b7ba746769af6d67619b5aca",
+"dist/immer.module.js.map":"f5ce63cfd9562b6401d57021802d59290fd4009bec29a05c937f7c4d71df5841",
+"dist/immer.umd.js":"b833b017dca62adf3ac1bbacf44529a8cff302da6fe237b0fed64e9997002e5f",
+"dist/immer.umd.js.map":"1d0a2af2699f1886b02258d23a2d6dc7c06820efe8c9c4291bdb529b0edcd4ca",
+"src/common.js":"600057110b1f861aa1d0213c561b96258ab6796c7d4af4efb9565e2a562acfc9",
+"src/es5.js":"c0821ac6e20a887400981d2dfd8acace99a2df6207d16c423223fe5cdbdb87b7",
+"src/immer.js":"3cd7b4e5ffdf406093e0e650047c5371b99c316c73bb633ec2af01ccf893f1b9",
+"src/index.js":"e992574abf67de03a7102f04448aa62a84f7ca40e29c8ce2a903c43e3132be95",
+"src/patches.js":"f553644b1d929a30d7f31c856333e87d6c24229b63fc2cd3312bcf0318e218eb",
+"src/proxy.js":"7a1510467c216dc9d0ccb8b2f07dd4eefc003b210014900a299692e8d6727e6e",
+"src/scope.js":"f6b2e5d0c55d6fe7dba17136b6bc8355f90882c506dc2372574947a54cb337cc"
+}

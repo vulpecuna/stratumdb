@@ -1,0 +1,8 @@
+{
+"evaporate.js":"db8e64c26ea3885fa21e16b8440e549f456f1b0898dd6454177850459e0b8dec",
+"example/SigningExample.js":"f6ab4ee04c3f411a7bb399796db76453c19ef88e53ec3e1680b82f191ea14c80",
+"example/signing_example_express.js":"f15062b03581a488e5b644ef4bc7fa7aa0e9fb3cf4790fdc48b225e2e11f36c8",
+"example/signing_example_express_response_handler.js":"167409a5250f546ce3354866e76e3c6082a0bd534d5b79fd8215e5e93726413a",
+"example/signing_example_lambda.js":"84a4a53934ac16cecc08f777bc651cabed4868189fb65bf7cedb7f93ab7f48cc",
+"example/signing_example_lambda_response_handler.js":"a2ce17fdd6fc6e3f59d7319f9e5df5f760c9a1e2813335dbf9a3c9bd66b74aac"
+}

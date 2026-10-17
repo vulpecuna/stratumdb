@@ -1,0 +1,9 @@
+{
+"externs.js":"276f76b7fdec349a21b51093e29d524102557ee8ed0347e2ac375aabf7e2a164",
+"fontfaceobserver.js":"82053334ae5c92cf33c3311cf3a01e27ae4ad09626c94e9595818c0ac992486b",
+"fontfaceobserver.standalone.js":"a312bfb3affad9523da2463abcf2569e0a5133bdfd0a7f4d17cdf5689bf5f9f5",
+"src/descriptors.js":"eab889c0c34700b1275210d0399d11ee0239d9ecfe3776e5c518661f79d3cac7",
+"src/observer.js":"7f19dc84e5f177acf8be8dfc72e55ae0ec4e2c9a491e0b4bd02ddf5d9ef8376f",
+"src/promise.js":"df5849a610aeba2eba36ca37743eb448409cdabbe86ee0f1ff88a69b8c5a088b",
+"src/ruler.js":"a2472ec4ea993020cc98d4f60609a57ca7d4a98b9e6236dfdaaea4f61c34234f"
+}

@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"266407a3002aaa134e0c5e0771a532cc71b54bdc233a0c58fe36d1b5f28b1831",
+"dist/algoliasearch.js":"d972b1fc6c6893ac59f8fe05e7e3c150bca31e00daac0c3db037e304c7805f8e",
+"dist/algoliasearch.min.js":"00f4d76ee3861f527c1a331f127f240ba621ba3786f94798723699e980ed4088",
+"src/algoliasearch.helper.js":"9965e022a83ecdefb614e499c86ecb4e80d3146de6776a10c5802088437e6b22",
+"src/algoliasearch.js":"bf52a8c17ea2cb3fb22028ef0a68628fb0323765e80c6734053c91dec15cb7b4",
+"src/algoliasearch.places.js":"61990bfeca0cd5c39c3316c4f4539b7a5d0b44dc960e44d7330d3d9ae1f7ad08",
+"src/version.js":"920f42551d591cc24e7cb3f05e1381af313d3be0b094d9422c31a8a5bdba08e6",
+"test/client_spec.js":"7325f7c0ea537f545c2be656f2ca67f69e28e420bf812d40a49456506422570c",
+"vendor/json2.js":"925947d3d711c4441a9db20f51215fbf5c119d2a3b51cadb2c9031907d8014b5",
+"vendor/typeahead.jquery.js":"cddaaea7625921289dfa7ad0542592d2ff1d1793610a239df9dcc3677e2f11f2"
+}

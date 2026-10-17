@@ -1,0 +1,14 @@
+{
+"dist/chillout.js":"d5ef1f3e7acd8845c69c234c81c70ca7042e99ed81abbedf37b0b4a0d0110a51",
+"dist/chillout.min.js":"f0e226384a201bb1e4e4ea6f7ad8f2c9e30e0fd1fc7890e06ec7cc0667d9fefc",
+"karma.conf.js":"23780f22f826ff24f271c011230dfcf75f9cb793ee53ccd728b339beab8b5d8c",
+"src/banner.js":"d37b48c2e03ea89711f1d80526e57f80c31120dafc90ed8221fdcb76835560e8",
+"src/index.js":"53ccc0259710c3151249a3f871dafd9719cc29b67908b7a9f48c727d538d2101",
+"src/iterate.js":"3dcbc8385f2180c87f46f271fb596abe9ef0dcb2d8abfc16e34751cf92db1f54",
+"src/iterator.js":"f212e7c4029ff40fac5fc1b2b03fd3b2f9e7c116e547344cae3175dc9e85b2b8",
+"src/nexttick.js":"75dda087fb1ec6dfb26ebed61922849ceeafa92725498127bfdb49cf0ab2f290",
+"src/util.js":"002aace368c95a5909a3bcb683eab5dd9a379821cc2b438d8254f46107d2bde6",
+"test/benchmark.js":"541e52faf51225135ccedbb5172ad5f952fbcf2bf598fb01c98afaaa76fa2ec9",
+"test/test-node.js":"2d6805376cb9bd10c83855074656f5d98cc7c50e3cf629b2951788cf9dd5ccd3",
+"test/test.js":"2b89239b57279b4c3c26e83d85617f48b1f7ae0952bf4616439c24cdd1497598"
+}

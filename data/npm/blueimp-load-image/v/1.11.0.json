@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"8ac8b4ff6048d0c367e7bc1de755d0f2c424246dccf09c4af5ea7e18e24959ae",
+"css/demo.css":"b18d89297c28b60c622ee277ad7de22a0005b55352352cc612941a80ed4fb1a0",
+"css/vendor/jquery.Jcrop.css":"e388d690508436e32570f86d87e8dcbc23677bf5b4b425736fc83fc57f0698ff",
+"js/demo.js":"38b2a60e2450dc25fa5f84136da8421bd07e48d9c2c6137da05a1018313f817a",
+"js/load-image-exif-map.js":"e0f95462ca3441d9c5afff1eda491e4ffd9c316dd45e22a9da83d3010a7e4814",
+"js/load-image-exif.js":"874f32cc52efa2ed9e9aa2d4488194cfa23b2627999206455a636616c2e76f40",
+"js/load-image-ios.js":"8e74230db5ea94513c79f6e5a146f4f8286e29356c7a9fabde2c0d9fc16d790b",
+"js/load-image-meta.js":"2ebc202aaab3ae5bc409e91af6c231c4c99b13935636d3c6f40b302638241619",
+"js/load-image-orientation.js":"3db764a30e96f4e8d3d24b7f7f68fac0aa568541cecb0cad70a74a6fdb9e835a",
+"js/load-image.js":"fc86487cebf9f8d3db898374dbf217e268a070bf2c570b68fe4b6ccb93562971",
+"js/load-image.min.js":"c016fd8f1668e2c21f73494e1b2919ae1b1b2b6d48a0a1b9298ca84b4b39b8d7",
+"js/vendor/jquery.Jcrop.js":"7aa80b43b95b74bc318d46be11b2ad2ab87b630de06ed7d7bfa232042ee1e7cb",
+"test/test.js":"d71d213c25ad16b0af90e283415aa67cfd0f429c04d15dc32069a99d1776b278"
+}

@@ -1,0 +1,7 @@
+{
+"cli.js":"11a8a185e5bb1a29df7b0bd557be26dea03aa72d8feec47f8827032df8743e21",
+"src/htmlminifier.js":"00eb53cfdeefbfdece677579d50c2b29e6b4e5b734cc361add467eb3673ed5a6",
+"src/htmlparser.js":"a8562b887d72b533f5f08aee4dbe6cbcf54d42a1036efa55cbf0c265e5d7b30d",
+"src/tokenchain.js":"4dbf09fba2035b0005194ccf845be72a11faab14c96e3320a5bc10f84d5755da",
+"src/utils.js":"5c3fd6a532c1a9643b33d1139c8d726cc4e2fb052ce3a8339f8c47797cb862d9"
+}

@@ -1,0 +1,14 @@
+{
+"build/heatmap.js":"855f883ebd15ab81c07636b2721ddf5f2435aa74327ec34797c34c4aa7de2b23",
+"build/heatmap.min.js":"fdc804b357f3a99f5a7b8ccc77dcaaf09b9694cfecfc6be5a1bee3dd85575a06",
+"docs/assets/css/commons.css":"11191da3385e0928a5136548cccfb85a3d82e84953a381f59f3054cf912d9700",
+"docs/assets/css/docs.css":"a7b0c4e304313a462e9bc2fd45dd51e6d40840fe31fc76e57b74aad1261638a6",
+"docs/assets/css/prism.css":"a65cefa93963860b829a2a2af99f464590089bf1a929291bf1d4c7523e07a177",
+"docs/assets/js/prism.js":"6f1383d8e2229d32e4b01f4beb90d9ebf04283ddaecba2156a54e964b5f7bdad",
+"plugins/angular-heatmap/angular-heatmap.js":"4b806c86708355571e9efb6263486e784482998ecc16a64e256d9ecfd4acab6e",
+"plugins/boilerplate.js":"8566227f60bd46e86ae3fad4a2c0c7e023bb169bbbe74c132b58b3f8da333fd3",
+"plugins/gmaps-heatmap/gmaps-heatmap.js":"59322cfc6f288a6fee865c9b0044e2089d49ae0999c7dd9b5fc9a8e4e088722a",
+"plugins/leaflet-heatmap/leaflet-heatmap.js":"f2e1a4b9a1d9df70cce4b946e548a430ff99b3bfc8eebcb1541d2414939b6a98",
+"plugins/segment-heatmap.js":"6589c42b39db4bc14b67b71d8de3707d9cd30572571d51e04fda517e8d8d93ef",
+"plugins/svg-area-heatmap.js":"1aa919166def507d6bbbd58ba949b1fd6285de6523c95d4e2738418e0668be40"
+}

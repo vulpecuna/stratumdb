@@ -1,0 +1,17 @@
+{
+"dist/demo/demo.js":"b68e35f56344ec63fe7228741a5823dda9329879bda1f7738d836e871049656d",
+"dist/demo/demo.js.map":"63aaf2b9aac73009458778a91fc209d5f66d7bb5a7f40674b8334e02f528b416",
+"dist/demo/index.css":"0facf2df2b5797fc9ac9b84e0d7caf30657781f52cc4d3cbf381ec9e2a7d6c68",
+"dist/demo/readme-examples/main.js":"b78b2d145e3af1fca6b0b97c5b0b810222cd0b5a269f94117f0cb130e048c182",
+"dist/demo/readme-examples/main.js.map":"2fefd13afcc02555a153ced8ee22eab8b06be154bfb0b915c61f21749a013b59",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.es5.js":"b152152190fbaca1d6b14b15267af843ada5a0627493e25a061fabe8a53f27f1",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.es5.js.map":"b40c5348abcdbecac01b4e053935ee106c92c954fc924b9cd2324aed7ae8059b",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.promise.es5.js":"fde0909272972b8f313dfd4ac380452954a062f8a54885d29f069245af4f6c1b",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.promise.es5.js.map":"1ccee23f7d51aa48872c2f489dfb7b03be435efef5d206685a890d6312628e10",
+"dist/es5/window-var/clipboard-polyfill.window-var.es5.js":"3b79550bbd90ecccaf0093d4a176d7019ed7d04e9b2e60a89523d0e09f2c606d",
+"dist/es5/window-var/clipboard-polyfill.window-var.es5.js.map":"872c4650578689e96c58fd3028ee551bce90fdfed682be02f2b0d9be08f4166a",
+"dist/es5/window-var/clipboard-polyfill.window-var.promise.es5.js":"44e4eff74ed92de8be8214c38ab7418545a005104637ecb46eed5933c7435d79",
+"dist/es5/window-var/clipboard-polyfill.window-var.promise.es5.js.map":"5b8e9dbe5ee76099cd3e9c350ef0fb2395ac132350fb25cadd69ce792015a74b",
+"dist/es6/clipboard-polyfill.es6.js":"cc32dfca556fc86acd6f611f29f9c6600158499254adba3a9c9c9d0f7aa29a08",
+"dist/es6/clipboard-polyfill.es6.js.map":"872e2ff91afe21f3a5c9a73d382f0149842dfa5a33dc8f112df56cdb4c2c3e98"
+}

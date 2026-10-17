@@ -1,0 +1,12 @@
+{
+"dist/browser/anchorme.js":"3212535c833538383412e06a09b40e971bcfd42af2949c849e3385be50942dae",
+"dist/browser/anchorme.min.js":"3a94ee7bfae1b5eb8b724424e1e66c755218af03f6d0d16bf4c1a879fd3eb02d",
+"dist/node/dictionary.js":"ce771bfd4466a2bf135a66b45c2743cfde9887dfb6ff6c4126180d24fa6ad558",
+"dist/node/index.js":"1432d72e2453db8abf65f0781c9240d9bb07eb7340f10b3685b84b4e0675a741",
+"dist/node/regex.js":"c736c4f75108fe4b5b189ff806f39014427e8cb12b1b7682a4c41b0a54b7ca41",
+"dist/node/tlds.js":"3dea81276fe54b3060baa039dd7fdf404bcfe9a548ef069032c70a9461713260",
+"dist/node/transform.js":"e66f2d0c94b3832524718d87bd7bfe0b78d0da5bc626dcfc4a21e827d86218e1",
+"dist/node/types.js":"d43aa81f5bc89faa359e0f97c814ba25155591ff078fbb9bfd40f8c7c9683230",
+"dist/node/utils.js":"0bb22b25224458810f9790b0ac1430ae4183cfa4b605421c3545ec1a09685138",
+"wrapper.mjs":"cbcef0f032f731249ad643aa9781fbfffa5b2be87cb958a73615de96238a5abb"
+}

@@ -1,0 +1,11 @@
+{
+"dist/flexibility.js":"a875ed948b8f4299a567288260dee0aa5a8f22ebde1e96f5f7ec50c0f5b94176",
+"dist/flexibility.js.map":"10b950ad70dbe0eb154a258e671553ced1de4bed0c2a64d20e0d7d5ea666f7ba",
+"gulpfile.js":"baaf68792d7bc0244a29ffab25175f281d3f760e3db0a2a58a517089ced6a782",
+"lib/flexibility.each.js":"9fe4d71db5679df587b18c5c2d313d9e2f7f66b683dac8e9db9d04b74242e74f",
+"lib/flexibility.init.js":"6265976509bf3cd035981794fce2d7d09d4550f2d7e1675484a1b7dd51bdcb78",
+"lib/flexibility.measurements.js":"636c67781a679958af165f5d40b3f4a6455ac22ce2be550a9df088b90b4f0971",
+"lib/flexibility.process.js":"20396cb792781b88840103c3a80090cdf9bd2c7ab2946f532cdd81460d649462",
+"lib/flexibility.properties.js":"34d37cca52c2c56bca53d5ec65dcf29596887aa96a3baac7b1f36740ce7960b9",
+"lib/flexibility.transform.js":"74ac828ce9acd8933f0a7d0a193a21c68f84b26209382dfa4e878513437cdebf"
+}

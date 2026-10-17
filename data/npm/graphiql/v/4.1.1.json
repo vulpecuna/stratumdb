@@ -1,0 +1,15 @@
+{
+"dist/GraphiQL.js":"1cad7cfee1645171af7707012c6f1be39b00b59d44020bcaf01bbfb1bbe0f6f2",
+"dist/GraphiQL.js.map":"ba1900a46240c9892f794ea48a2d9f8a4e556e8ecd9d9c4d17fc2beffd8f7b16",
+"dist/index.js":"5f16dfa8151e555c8ea16ce3a98f8f8c66811476643cc78d8bcb8f9ea28fb3fa",
+"dist/index.js.map":"4d9b02466b115cc3cc4d09cac62c3d3f323130efb30a500f2909677a5845fcdc",
+"dist/index.umd.js":"0b261f53b44ea7c1e66b023b3b4a781ee8d8c9a4129fda0809fd323829b92a5c",
+"dist/index.umd.js.map":"3e870a1d3d32521f4aae7f9bd0eaace078beaf929dd89b811c649cbc5bd8d031",
+"dist/style.css":"30487e07635d312a63f647b140d37740a73c53332b0975bf4b1fe985ca6ec885",
+"graphiql.css":"30487e07635d312a63f647b140d37740a73c53332b0975bf4b1fe985ca6ec885",
+"graphiql.js":"0b261f53b44ea7c1e66b023b3b4a781ee8d8c9a4129fda0809fd323829b92a5c",
+"graphiql.js.map":"3e870a1d3d32521f4aae7f9bd0eaace078beaf929dd89b811c649cbc5bd8d031",
+"graphiql.min.css":"30487e07635d312a63f647b140d37740a73c53332b0975bf4b1fe985ca6ec885",
+"graphiql.min.js":"0b261f53b44ea7c1e66b023b3b4a781ee8d8c9a4129fda0809fd323829b92a5c",
+"graphiql.min.js.map":"3e870a1d3d32521f4aae7f9bd0eaace078beaf929dd89b811c649cbc5bd8d031"
+}

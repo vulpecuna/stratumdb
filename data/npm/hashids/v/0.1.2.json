@@ -1,0 +1,11 @@
+{
+"examples/encrypting_decrypting_several_numbers.js":"591d079f9902ad21b987a3908b4147410a613686f46a0b87e5709b46b90e1c1f",
+"examples/encrypting_one_number.js":"83448cbfeb2fe1516397a53b2e382d6596a4a2b0ad4f723664b3b9b42bc94dc2",
+"examples/encrypting_several_numbers.js":"8305c6ef2c766b73bb7d2b3e46977e2f99b172d1a26c6a53ad898f5165b85458",
+"examples/encrypting_with_custom_alphabet.js":"1ea9fd7e9f92649142f9ff07a7e1e2a66f7e8635900ab7250a5dbf888e8fbde8",
+"examples/encrypting_with_custom_hash_length.js":"2eec02f4eca9cb8b7a31cd70d9e63828ab09d6ab04d84b0536e4e41e54377966",
+"hashids.js":"d7e8d6f65f5a6b64c1790a98b1e9b13673fe47193d00e4fa1acdd713111022ed",
+"index.js":"b3032060d379b5a080948859a96152fd58641312b4056eff561e08868c124687",
+"tests/collisions.js":"30af1f2d83011185896a6374d25573a50bf89815cf83665ebb1309e03d89966b",
+"tests/speed.js":"849e408babcd89c44b8e4ad7a8194f9d0945e4d67cdc6b52bcf4d466c0732104"
+}

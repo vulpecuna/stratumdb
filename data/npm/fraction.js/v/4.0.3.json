@@ -1,0 +1,9 @@
+{
+"examples/approx.js":"c4739ba44b0713112ecec59550cfcc49b5ec14ba53f0ece0250f5e6fdd39ee58",
+"examples/egyptian.js":"78b117d8143624907060193b3baf7dbc221bbf991f160da415c60e90d5f6098b",
+"examples/hesse-convergence.js":"7b028a3b8e48dd6f4a968ea6ad42befd895f10dc25729a66509360dd7866b1ec",
+"examples/integrate.js":"d841e68ec64982e3c587027fdb6cb77474f1a11d7b9e96c36b5c39c9efde8eca",
+"fraction.js":"0cdd0439ca231166a001ce8d44376fa47aad056ebf9a6e31e2a241292e9b5c5c",
+"fraction.min.js":"328a456081c54af364de62a376b262fc0978144cb554ada13fa80f15fd0b6e8c",
+"tests/fraction.test.js":"9d4ddec4a30fa5e00ca424823a2863a6b47973854121599cb1cf3465e165d385"
+}

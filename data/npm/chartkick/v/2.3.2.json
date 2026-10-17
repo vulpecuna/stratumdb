@@ -1,0 +1,10 @@
+{
+"dist/chartkick.js":"832f6a67bbaaa78116a7f6382c980281d4a3dec206d721d818985f962a9d4e27",
+"dist/chartkick.min.js":"ee62886dc7a787146333a29331d7b6fb8e45cb5932a0a4bd8c28a1e76590b65a",
+"src/adapters/chartjs.js":"e89c85997e7cec12132118ade8416251f49c2cbc7a0e08584dd3f085513abf60",
+"src/adapters/google.js":"c1ea47c5d28302318d1faee3de5548f6eeaa0abc2bb4e0c4bb52751ba4a80b05",
+"src/adapters/highcharts.js":"ecec6cecf51091276558f104cce44cda7928fc73b0189e0d57be214ac67c6588",
+"src/chartkick.js":"53363943c4a8462aeea2fa402e38b91b927b402b441680e2ecda54425847cfae",
+"src/helpers.js":"59a094719576ba83d31ee7e7f3bf641626075c216db600e820237e605321e303",
+"src/request_queue.js":"5ba234dceb0294d2eb43ad1e8de5befb7bab98b2f8a573f2b4aadb30ecdba2e5"
+}

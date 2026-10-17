@@ -1,0 +1,10 @@
+{
+"dist/dust-core.js":"9fe17fef6913f97cdaf65545e9a777a27b647388bf63f1c88cc4deca5d6ef825",
+"dist/dust-core.min.js":"83d39d950b1949aeb88e4dce872370800c21b9b79fc8be0d3666c281c651253d",
+"dist/dust-full.js":"8ba15906d8ae2a53aee4761b77f095a4be9cda35d1f9c1bed2bfe3d5c86b078d",
+"dist/dust-full.min.js":"f2a7b108a03aabbaab37ab636282bfb39623a432e95972e90e3f3368caf8f2b3",
+"lib/compiler.js":"dd885d3393c9ac63deb49a734ffab2133a903307aae0e2826e3ce66878a5476c",
+"lib/dust.js":"172dcdfed7af772177ebc2dd5d4ff54ba59e82f3bc9e5158aba3bd3aa5ea7a28",
+"lib/parser.js":"a4cc13e9c9fa315b6db817d020d6d1265743beb6a3c3caefe57bb8fe1ad30d4b",
+"lib/server.js":"4c031f95de930578f8cca326cdf669bc171240ddb604685a1e6273e887d684d6"
+}

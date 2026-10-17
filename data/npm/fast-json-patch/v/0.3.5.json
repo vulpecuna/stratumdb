@@ -1,0 +1,12 @@
+{
+"src/json-patch-duplex.js":"a208dde92c462aae0667805015451cf40d307df5a9dc41ca426321f4cef5046f",
+"src/json-patch-duplex.js.map":"39867e514ef3d44ef2c759ed9caa6cc0808c3f2d47b0a07bfee6532abf666dfb",
+"src/json-patch.js":"e0104acb29615b0786f38cad3fdbb8869a92477a3a0599fcd2b3454b874d909d",
+"src/json-patch.js.map":"9090ad389c54a4142900f566d66a2d245ecaf8a7dbae28ebaf6dc8f2845e514f",
+"src/lib/jasmine/jasmine-html.js":"433d205c0c33953d1096fd045c5a2bec1e636af1db62ea0430ec8549e4518956",
+"src/lib/jasmine/jasmine.css":"4c674086514d97a99c5f1daf1ebe75cfd7ec72d7cf1eaeb7c98ace1aed621a38",
+"src/lib/jasmine/jasmine.js":"422bdcf767db7029956eba7ea0c8dc4a2c6290ab95973d69eded83939114eeb3",
+"src/lib/jslitmus.js":"6117c24765401ef169fd32d8b638d1334bcb011cde2d36deb64309056194a0af",
+"src/test-duplex.js":"8db5ab935f776d8c17e619c96e5ecb8cdcac97ef5a85e787406b48fc285f61e8",
+"src/test.js":"7f3c2ecb44263b5f64f23cc57dc2f7297050602897791c860469f8901078e40d"
+}

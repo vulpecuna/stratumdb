@@ -1,0 +1,15 @@
+{
+"Gruntfile.js":"8ac8b4ff6048d0c367e7bc1de755d0f2c424246dccf09c4af5ea7e18e24959ae",
+"css/demo.css":"b18d89297c28b60c622ee277ad7de22a0005b55352352cc612941a80ed4fb1a0",
+"css/vendor/jquery.Jcrop.css":"e388d690508436e32570f86d87e8dcbc23677bf5b4b425736fc83fc57f0698ff",
+"js/demo.js":"38b2a60e2450dc25fa5f84136da8421bd07e48d9c2c6137da05a1018313f817a",
+"js/load-image-exif-map.js":"e0f95462ca3441d9c5afff1eda491e4ffd9c316dd45e22a9da83d3010a7e4814",
+"js/load-image-exif.js":"874f32cc52efa2ed9e9aa2d4488194cfa23b2627999206455a636616c2e76f40",
+"js/load-image-ios.js":"8e74230db5ea94513c79f6e5a146f4f8286e29356c7a9fabde2c0d9fc16d790b",
+"js/load-image-meta.js":"3b3f9bb0d65ac3dcc0fad9c9a28340b1d21b28a39cb838d1504cea6db906ab60",
+"js/load-image-orientation.js":"b33c4fd2d251033e471d3aa16f86d05cc3547deca956cc49e9f20980aa0638d9",
+"js/load-image.js":"1e09d48a505d2a90df6ec58ce0cecb9cd3a6321cabb9502a0dd32b4fb894c984",
+"js/load-image.min.js":"33722877ad4214cf4edcc1d1386ca3b56a7ee6461bb25e056d5474dc78f13334",
+"js/vendor/jquery.Jcrop.js":"7aa80b43b95b74bc318d46be11b2ad2ab87b630de06ed7d7bfa232042ee1e7cb",
+"test/test.js":"bde265e44f8fb640ca5fca402b8388d1875c5f8cd6869c78087f4afcf0070e1d"
+}

@@ -1,0 +1,10 @@
+{
+"bcrypt.js":"3d18ccb00d1eafc05c7978eac14c7ba3551abde34c6ce5155d064553f40cbdf4",
+"bcrypt.min.js":"d2eb8c343616037cbffd3091b68fd6c8fb74d9ec77fbee9271adf232a37261f0",
+"externs/bcrypt.js":"96b30989790fba1cb31a88cf260ee2214e93cd85bcebf1c11148fa0d5ac98675",
+"externs/minimal-env.js":"e468390f850ab0db9e51130dd6d388b8ab9c81c2259599bf4c206a60ea6f3a0b",
+"src/base64.js":"cda353619ea277b836fc11219ecc0256c8770e358e0ff6bd162a0b9887e95350",
+"src/bcrypt.js":"e1cfdf491be03b33bf4fd4ae70ccfc62b3d940a64c39560e3937cc606dedf891",
+"src/isaac.js":"daa3e70809ca57e47bb763359c742d57c373fb4ef59ff08e7622ac1381f756e1",
+"tests/suite.js":"c57e54955bfb48999cce6b081e8bc59447a1676a73374e12c8e9c72b8dbb58bf"
+}

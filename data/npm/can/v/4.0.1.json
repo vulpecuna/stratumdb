@@ -1,0 +1,17 @@
+{
+"all.js":"640b083bd9dd64a6f58e47bd3daacc125187d0496ebe0630c7e21d6c61ffb7b6",
+"benchmark/spinning-circle.js":"0c0bfd92647583da68071abfedf43842cf0701f0698559928ef2cee856b515b3",
+"benchmark/todomvc-code.js":"2698e3c91d817b4c02aa246313f65aa62a0b468af76add02657926a34d382ed4",
+"build.js":"22b58472b438d5fb2b106f4c7d99ff3b49ba6f3963a523df06c5150962f865f8",
+"can.js":"df4ab472050be24ae4595aefac4efc51efd9acc02b138bec5c31c452ec826e0a",
+"demos/can-component/grid.js":"2fc34fe52e00df16806a358ce0f6d66b447bb43cc93a4fa4cc830e8afa06c078",
+"demos/technology-overview/component-slider.js":"2602630ec4a29a4df5db1113ce63223dbda49e3b9416d8fe52f4d063bdaedbc0",
+"demos/technology-overview/mock-url.js":"b6538dd6079a6ed64e3715df4e09b543d81739a0a5ec261b94bacbeb2e632e2f",
+"demos/technology-overview/route-mini-app-components.js":"50d0350e8700d0b50d2c26678b11a1d3b1260934654099dd9216a8cb8d2e969d",
+"demos/technology-overview/task-editor.js":"c6d4e9a03613916e22dc67671ece2010db28565f17dbbe849a6b5055fd8254d7",
+"dist/global/can.all.js":"7ea7df740edcba5f922e51d4569b0ac61973be6b51eed306ae72852e0b1f139b",
+"dist/global/can.js":"27bca6ab7a88d7e8df8cbbb14fabdb8fec8fc180698da2290e0fecb0324e1599",
+"ecosystem.js":"7e7c05780430524f3a07353c1af9af4dc58ae1bd6c6015cd3019a43ba2e25b33",
+"generate-release-notes.js":"b621e0d703daed6424be700254bf17ee45835ba2df3f99d10a854572ab9d579d",
+"legacy.js":"55d0a680839e771a2fa863edd9e1313b4ce6776a0d908ca3a538c3aa1bb56cc7"
+}

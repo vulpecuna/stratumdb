@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"0a13fd31d380fe088d4986a6c148fac5a2b310cadcf2615defe817aa4d1b7791",
+"externs.js":"18be96f8d6a1acda4da55618c130bbb254c59707f82a17bf73163392cf1bbf7c",
+"fontfaceobserver.js":"3fccab38101c124af7cea1cba9e7188e8002189ac856f4587d36db0cb9508636",
+"fontfaceobserver.standalone.js":"ed22428f42f15a6771452c899575e40a4a575ec525a47ae8cf60461f808aa937",
+"src/descriptors.js":"a810334ba73102bf7843b45bbbd4bcb28e50a91d9ce148f97d716f850edd8169",
+"src/dom.js":"415f6eaa0eada20005b14c710b3bb65dfe79d870d26686adc2d85d44a8ce69b3",
+"src/main.js":"2169342ea0371f06f19b74fb693a0d1aacdaed20ba5db05991d43aef970c0150",
+"src/observer.js":"ea348c785e98921991ddec4301ff44d56e9c6ba26adde01836a4e6b2b5b5babe",
+"src/ruler.js":"30bf96c8c95ebd06a46b004c4b0614fbdcae393573c62c2cf46ee2b86f727bd7",
+"test/deps.js":"6e2a6119dab095e118ff37e5b15f47a355dfb398531030db70baa9c37d36a7de",
+"test/dom-test.js":"509eea7b68a388af8218c6064033741543f43d6202c2bfe90e417a8febce79f6",
+"test/observer-test.js":"eeea2c201019d016ba4e12099e0f170607fb30c6f3fe2fc15c5bc3c361c4211d",
+"test/ruler-test.js":"2ec788d04da469562521f8383480a82b05161732be2f6d24dd9661060ea97ac9",
+"vendor/google/base.js":"8ff8ac4e350121361354f79cfcd0c976b5a34e9e39327c6f9f6212f6ae1e3d29",
+"vendor/sunesimonsen/unexpected.js":"39c7228bb4d5ad0fb35c62523f38a1a7e4d91ad2e2c1c505a87cf33ddad43a34"
+}

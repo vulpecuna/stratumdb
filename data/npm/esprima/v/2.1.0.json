@@ -1,0 +1,9 @@
+{
+"bin/esparse.js":"facd6744e730884215f227cc0c190dfbdc354293150144b2f9b9a257ff5b6e84",
+"bin/esvalidate.js":"2727f0027dd946cbef03156d2ec81af9783c64db9ebec3e04c541c2b8e68cb76",
+"esprima.js":"fbf684ab6667a30d3ef543099c55fb0937091c9dfa05555ab1fdcbe2d9d77cf4",
+"test/compat.js":"cae69e6d7f378f47f2d3b23652c51bc995dfa1836f93d1fbadecd8757c2ca5cc",
+"test/reflect.js":"139691c5adcf1f0555a36a480ec9001781006077d3325dfa94f137e76dad7d3a",
+"test/run.js":"2cc96935a00bd654d999d30f4cb76ec26fac1a4f30ae70d9d67d77d24a8b36d2",
+"test/runner.js":"b13f05963d19e74a779092c651659fd9abde8f7a37ad6424904b38c29a8efb47"
+}

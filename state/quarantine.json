@@ -1,0 +1,34 @@
+{
+ "data/git/github.com/JetBrains/kotlin/versions.json": {
+  "why": "47686 versions, more than 20000",
+  "since": "2026-10-17",
+  "new_sample": [
+   "v2.4.10",
+   "v2.4.20-Beta1",
+   "v2.4.20-Beta2",
+   "v2.4.20-RC",
+   "v2.4.20-RC2",
+   "v2.4.20-RC3",
+   "v2.4.20",
+   "v2.4.21-RC",
+   "v2.4.21",
+   "v2.5.0-Beta1"
+  ]
+ },
+ "data/git/github.com/microsoft/fluentui/versions.json": {
+  "why": "34784 versions, more than 20000",
+  "since": "2026-10-17",
+  "new_sample": [
+   "v0.66.0-hotfix1",
+   "v0.66.0",
+   "v0.67.0",
+   "v0.68.0",
+   "v0.68.1",
+   "v0.69.0-hotfix1",
+   "v0.69.0",
+   "v0.70.0",
+   "v4.40.2-hotfix2",
+   "v6.0.0-beta1"
+  ]
+ }
+}

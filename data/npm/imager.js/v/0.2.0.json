@@ -1,0 +1,15 @@
+{
+"Imager.js":"3346d8590092789c6ea98427949249b98c30ae69dfa456c57a18e1524d5e733c",
+"demos/Gruntfile.js":"cb2183ce6155247816b6a71f6ee5f803abe075be68cb68442fb4690f6f0a6c84",
+"demos/default/Assets/Styles/base.css":"dd7736cd524579ef78045adbb7403213fc514b4ddf31a83a7bace87f817ff805",
+"demos/grunt/Assets/Styles/base.css":"dd7736cd524579ef78045adbb7403213fc514b4ddf31a83a7bace87f817ff805",
+"demos/lazyload/Assets/Styles/base.css":"1ba6eb6bb4bfab6332b5d58302b5e8ffa122b61b4de3900cfad3637bb3d9554a",
+"dist/Imager.map.js":"86ccdb8284493d645e79d727915a0a6a57dc060c46677f61b71cbf1c073af02e",
+"dist/Imager.min.js":"6f894918c5ab27b4d05a5f5704d72bdc09a81b48937fe32c045ac44c87372041",
+"karma.conf.js":"30b22934b1753558915d7f507c0eeeb8a860b3088c7007f54a93f1db1c226640",
+"test/fixtures/jquery-noconflict.js":"6bedbdb7572057031966098d7064ed252db33fc085708d80a0ebd868362054cc",
+"test/helpers.js":"49ea7850411d33f3cea7760f93c3daa31f9522a2dc80e56089b5edb8270a4572",
+"test/unit/core.js":"3807678b74e77f43fd02ae54cb432453f1ec09411e400c424ca5ff80c19e53b7",
+"test/unit/html-options.js":"729ecd03832abb3d2c0d5d9b55daebde918c9ed8077c147bacdeb5f62bf6cc16",
+"test/unit/options-events.js":"98ba3308be688f1baff54062582e517a00f643c49c160bf91482cc7573a3c2e3"
+}

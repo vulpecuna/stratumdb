@@ -1,0 +1,13 @@
+{
+"artitalk.js":"5fd25ea7c2e3d3ac7954908261129e58b8dd49b32caee54e62370bdf97b4d201",
+"dist/css/artitalk.min.css":"bdaed6943ee5533bbf1e526d4d44117f5c469fed2191e32559126344e39be61c",
+"dist/css/main.min.css":"683181a733b93cade920f51034a40cd72936dc82ab5f238474ec35592accb6aa",
+"dist/js/artitalk.js":"75a4d5d08b0f584aef43ef93aee6d17863d069ae901653b4c0e5bc08196389f8",
+"dist/js/artitalk.min.js":"5fd25ea7c2e3d3ac7954908261129e58b8dd49b32caee54e62370bdf97b4d201",
+"src/css/main.css":"3b8064d75645f03983dc8d6732ec785851e7f74f0ea9a383edc8d39ca2280703",
+"src/main.js":"261ec900455a2dadfec162aa566eac4f3e47c201521a81f087d5ceac05af8783",
+"src/plugins/av-min.js":"26690921ad2cdaf1ee0f2716bd666f142fa6564db6294231dc7929aff3e8fdd5",
+"src/plugins/browser.js":"eb4e4f7cd6860e0ea9768000685e15bd3f62f63fe785d1da912bacd4d525b0c7",
+"src/plugins/md5.js":"3895dd849d81de6e44b85d34ae0403df3d700dd4c3b0bf5af12060b8664e0941",
+"src/plugins/showdown.min.js":"43e63269bd0ed29832185f053244d25a07d4bb7509494a89ae25ab47ff013444"
+}

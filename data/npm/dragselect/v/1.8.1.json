@@ -1,0 +1,13 @@
+{
+"dist/DragSelect.js":"1be98e31249374e85f253ad3c9a3815b13d09ed1387fcb066aaa4a7329b75805",
+"dist/ds.min.js":"853dcbb42b0767a40f51e6cad05794ba90a0a933fe72807661fbb32224a69e34",
+"dist/example.css":"e548d6a88aeb5abb9d6961e308547b9da62c027092b170ecfcfe2988b39f8cd4",
+"gulpfile.js":"c533312265ffab78a9414b058037fa68a19298da7f8c2aae589df1a381f4ba34",
+"src/DragSelect.js":"1be98e31249374e85f253ad3c9a3815b13d09ed1387fcb066aaa4a7329b75805",
+"src/example.css":"4e0c2f1017e35cf538a5213e6d2265678e1b0f6438066fac5acc0d694c78501b",
+"test/basics.css":"c2bdf2c47e264cc35173b7972b66dab844868b79863be5fe89a7275b5a85e612",
+"test/basics.spec.js":"8acb1a7c353292997756d81ce8e925876902b5ca675acbe73857d6d3a9807bdb",
+"test/callbacks.spec.js":"96dc265af7c0e68ef72dde7ed1abcebecedda724c33d7596483eac1defcab87c",
+"test/constrained.spec.js":"87ab3228c38e673ff87688b3c01c2c896d952f5aa788586c01d5ad53c047fd85",
+"tests/test-styles.css":"6b9e03742b3818868a92162370fa9d1633daf63a46fefccded8365dce629e754"
+}

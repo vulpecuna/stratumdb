@@ -1,0 +1,7 @@
+{
+"src/gmail.js":"17f2aed65f6efce7688e373269f7974cc3cfb4d4e00d459e9fe499f1a305a3a0",
+"test/test.locale.js":"db9b66cfaa7ae118292667bf60d14f4015ca67e309add9ba84f8b956aa63ae75",
+"test/test.parsing.js":"e2d793036dc18515b9791af4df3f743873da300482eab8744a7256a15093591b",
+"test/test.tools.js":"5652f14d29a83d61126a27689d6a5d48b4345fcedeb53bdf5e90f8b0ebd68f6d",
+"test/testdata-parser.js":"a7fa1c23435f794a11d6d0261d601d76ee4fa2d110022a2f942b3f374e9878df"
+}

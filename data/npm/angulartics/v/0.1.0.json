@@ -1,0 +1,12 @@
+{
+"Gruntfile.js":"dcfdf6d3dd1baed1caf46628d23570488455b2315f9ee4b66300516fb615e029",
+"karma.conf.js":"8edcc42dfb311bd597206504174d5641cd025dd990de8ce81d501a41d2bab822",
+"samples/public/js/angulartics-ga.js":"d0a77f0bd970147c62e7113337f3b6cd7d8d5dba63dfd8d922af77472219d24f",
+"samples/public/js/angulartics-km.js":"92e9439ae6a4927d33508edb07713962fc8bd8a90dad8920ac5f38080979dadd",
+"samples/public/js/angulartics.js":"89819b5db225a2d24a33adb810b730961b089e26eabe08e0513fcfaab5fdb2b3",
+"src/angulartics-ga.js":"aa3b68d67a8b2a9b5d4422c8d446e82b295fd493a33deacfc59dd4558131b184",
+"src/angulartics-km.js":"a1fe93b1eef30c61dde71a9daf117dc2657914df5a498458c051fb897df2692a",
+"src/angulartics-mixpanel.js":"f7b13bcc4df66e094ca447df8aec113a55b7a0749016e59c3e7ce2f756408c60",
+"src/angulartics.js":"5e16acc89acb1b8ba9f32cb8e876f5e24da707c0d397427805af877800184481",
+"test/angularticsSpec.js":"7d9050baaa5f7d3bba349f2a39760a0e2635e3d06a62a6df3b5d8d193bd070e2"
+}

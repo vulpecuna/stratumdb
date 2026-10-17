@@ -1,0 +1,16 @@
+{
+"example/main.css":"32de5589765e10f53f066cf8e4fa9352c0875cc8aa58834f672472c2c740429d",
+"example/main.js":"7cd25f458831de7096723f7511e029af7bf3d92d9a89508c8278340b01854016",
+"src/flat-world.js":"786e6a46f1e3135d290eb54f976b405bbe4e1c6def51928e3f9d1a5aaade95c2",
+"src/index.js":"bdc52aca60186fd5a4df9217a60496db69173c11b3cddf0e9ad202ca946988a7",
+"src/layers/arc-layer/index.js":"68f84f45b3733c9f7fa770bc97f843fc995df96371b9e4a0ca8a52a35b67d116",
+"src/layers/base-layer.js":"af27f0de2a8dd186d8e25ed3ede8b3e114933efdbd0c2d5a2d39c726e67e0018",
+"src/layers/base-map-layer.js":"ab39a9d7a80127048a75b496289898e807badb443538e7c75972f62334ff5802",
+"src/layers/choropleth-layer/index.js":"d9d7ba656e2f0932ae14c8dbd0798b3d17f39f53f7ce306e101e31a069a99006",
+"src/layers/grid-layer/index.js":"5763df39dce33264fa88b06589d92d0984f8843ff69f816f666010bd9747cab3",
+"src/layers/hexagon-layer/index.js":"db2594bbf054bc63e5459ff85ce73265c16a83f7501895d2616b1e803fdefaaf",
+"src/layers/scatterplot-layer/index.js":"e745afe2231e1c96040f1643a0db63394d3593b86bf8174c67aa4d3104320411",
+"src/philogl-renderer.js":"e585953ca8e52f533f0dc74e30c6db0d2dd9b297cc1a7f5559bb84d5ef85a6e6",
+"src/webgl-overlay.js":"1d827ce7f620a554ee0eefe76374800883ac0a7575645955e2dba9ea73d4527e",
+"test/index.js":"f28c86926dc806a6e4e68f902d356938385b665f2ec8b80160aad456253447a5"
+}

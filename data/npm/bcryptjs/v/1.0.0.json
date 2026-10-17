@@ -1,0 +1,12 @@
+{
+"dist/bcrypt.js":"48756764c9f31332ea3d6c0eeef64e1e5306a5751d2d993d659774c042cff938",
+"dist/bcrypt.min.js":"bde56cb9c36a520c16da8a1a6da40b9c24e70c285e2bcbab28059dbd406ade35",
+"externs/bcrypt.js":"4177a6181b6b114f8116e20366e943b19c5600bef5e1e6ca3ef6c6d03793f8a4",
+"externs/minimal-env.js":"b619a7d293ddd99d7c1f7e7543da62f283ecbcceee6764604c70ee3c0c86e597",
+"index.js":"23fff6481119780fe9a1cf89e1cf0ccc240ff0aca11290810d7e3cbf102c64c5",
+"src/base64/native.js":"fe6ebacbe588fcc9ccc870ce98b130d8d75189f407a02681e2d8b54936732204",
+"src/bcrypt.js":"9fb844f8ea15fd18a11bd8bac79f92a17e344b672fa1c45f97a281f9d2f429a2",
+"src/utf8/codepoint.js":"346bfc0389b0a0c8c054030dce21ae46785d6a4dfd1831653fa541f03ec11d32",
+"src/utf8/native.js":"551c775986c792a3e5f83776ef178f2cab38a16422fdb6e6d13fa8f0cc4ca9f6",
+"tests/suite.js":"e8016eec95737855db30f5faebc45dda53b8b549ea1820e840da988ae37c96a8"
+}

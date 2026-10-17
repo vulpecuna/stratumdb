@@ -1,0 +1,12 @@
+{
+"build/dist/Loader.css":"9c030f61a810f2de47cbf73d33227804eff76449744d1bd9fbf6c4b9eef48121",
+"build/dist/excalibur.js":"f611b0c5e741cde6825da339ca1f76c75e276c94d4b03664241cd7072a93ef1c",
+"build/dist/excalibur.js.map":"b8e8903082dd16505c468bf391cc02d9152362b6499851bab39f3803f3a2e6e4",
+"build/dist/excalibur.min.js":"fcfb22f02776bbed62f83242fe901d3b4ff2116c25bf1020b1403deb42f90d28",
+"build/dist/excalibur.min.js.map":"cc9eabafec76219bce19a1b530d41151608cd1b04cba5b0a87ee1bc7c73ba4db",
+"build/esm/excalibur.js":"865375f276e6cb29e2ffa05e4c87f7cd014d859d15f9fe93f5121d253ac7c66e",
+"build/esm/excalibur.js.map":"617ced55f8a84a7b6588746aa63bcef2c6c9943a6ec1aa327eb5df8879d00213",
+"build/esm/excalibur.min.js":"a9504ea3d8cab322be932b8142bfb2635fd81101e236d3cac5daa41a8ed4680f",
+"build/esm/excalibur.min.js.map":"6f488ca0fb356fb7d03e342bacd7db9c279b07fe59b864fc70b90744afe0ed24",
+"wallaby.js":"5efab72d61fbfdd56e1dbd975939352565b06a99fe8a4a741d6333814be316f9"
+}

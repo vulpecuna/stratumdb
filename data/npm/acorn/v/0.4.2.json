@@ -1,0 +1,16 @@
+{
+"acorn.js":"e65db7854a9862d167de85ba8ed6dc8cd274215b580a5a75e368ef8368408f06",
+"acorn_loose.js":"04f45eeeb6ee5c96140b8e2a2edaa7809f1dc6815e9351f9a4bc48c8183b67f3",
+"docco.css":"8b1c90082aef9726e2ef7e501da5725ef47c5e77bb45db0c52c9fa4740cf9f95",
+"test/bench.js":"fd4818ca4db5e590af4344b66ec1ef19f39c9efd107b2ed62ca5f8806c008260",
+"test/codemirror-string.js":"a963afab409edc9c5296c4e3db52db4000bcf15f32676742a6b755613e2419bc",
+"test/compare/esprima.js":"c392425447487d379f117448eaba8bd692004c13cb1e090d419a73767cbc3c75",
+"test/compare/uglifyjs.js":"c2c8670c90867034a72b70740719131efc9854488754a8ffbaf2c1552cfd75bf",
+"test/compare/uglifyjs2.js":"ea1c1177764e81e6e8189078673cbe66fc1da7e39138d7a7157a74f0e4646c2b",
+"test/driver.js":"71e41421766fa08cfd4cf0321de8699243c8c235f9c4ad06342736a41330b4e3",
+"test/jquery-string.js":"e961bdc3251d1c9addb6972d44660653cc23d0b1fd3826805e1e5250a88479e1",
+"test/run.js":"524bacebdacb56bbd514e779ed58a68b41cc2eaa25e7e3989476c34d15756cef",
+"test/tests.js":"be1040a068b32c52e2ab12a1f2427ea0a3c7ba69dcf7af14d8e5ea7dfab2ad94",
+"util/test_walk.js":"5749185b5d89a436f724d48e947ec37a20c925643c297f833b0955d699010e96",
+"util/walk.js":"a21ce8cdcd79b03abdb20a555ebbbb4b8705faabbde56ecd0e3e67a114ea9ce7"
+}

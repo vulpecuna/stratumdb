@@ -1,0 +1,8 @@
+{
+"dist/fast-json-patch.js":"341b7771d683bc6147bdd935a6f8dd006fd96a7b0d7dc37932955c7384570b64",
+"dist/fast-json-patch.min.js":"d5ee4cdf14e188cdc8272c44ba2b9cbace17a19199077eb354bc9125fb2584d5",
+"lib/core.js":"3b89abd2d9141331671f0de62dde94aca6f5f59737f0b30d2b6cfcc1bed67a13",
+"lib/duplex.js":"e7f368f7b6f77114a5834cd67214a6367648a09c31594157ae54c38da4a8db03",
+"lib/helpers.js":"85de9a853f2fbca7df9c5663fad0c91b7c1498680518caa248c449b9d60e7fd4",
+"webpack.config.js":"c84a6ecf754abfcd9ddf39d1dd0e28a6e8b74e00fb834dcf0e22d423808114b9"
+}

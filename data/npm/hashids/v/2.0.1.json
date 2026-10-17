@@ -1,0 +1,12 @@
+{
+".babelrc.js":"5273eff11139837ba56fc1d5f6d8ff59fd8068203e02b907ed76ed1423e6e21f",
+".eslintrc.js":"b3022b834288757d580744984d5b9d9f8c7f202fe72b92d4d8bd0de8ce14f607",
+"cjs/index.js":"10b8f215c0f7594fe700906f21ea8a5ba1e1987e341b877bf1b2313b52d218c6",
+"dist/hashids.js":"84a3c4670ad17c6c45f0501af170771df23ea298a3c45d9660986d7c5ed18630",
+"dist/hashids.js.map":"39bb05dd4c7ca221b66b777008c3b313ee7452aea5e556513546ea7d84ef8210",
+"dist/hashids.min.js":"e4e7ac447fda09406abdaed6e1d450eab5403de53a3624f96afc4709c8c44562",
+"dist/hashids.min.js.map":"c1012b40fc0beb552282647e41c76caf2ff01804adf3339b4b81ccc7f253e089",
+"esm/index.js":"23eff9fc8f27618f3f58cd4249fca1a58b7e656c8ed83e49c90d61ec5353a690",
+"esm/index.js.map":"c9d0b161dea408bf439d5987026d6b3eeb0eebdda434dc0d2371dfad490232d0",
+"tests-mjs/importing.mjs":"6e72e6129de15fc873af4ce2c0ee7a2d5bca59cf85bf65aa0fa9033cac86610e"
+}

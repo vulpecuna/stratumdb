@@ -1,0 +1,9 @@
+{
+"bin/website.js":"3e7dc47266e4cfa804d61ea4613aed18bbede355801f7e9509cd8e7df1fae510",
+"bin/workshop.js":"71ca4788e5e0d60064ccc65bbaf49f8e13a15f54524473f1a7d9e831e720951b",
+"build/d3plus.full.js":"b625b8b32ff3eb892a556033df5f77abe177bd51677b5889136fab6cf988130b",
+"build/d3plus.js":"cf2648469d2b53cbda6cbe6ea2aa95d073ec83ceb57e0241201e0fafe4e55209",
+"build/d3plus.js.map":"a16adef802c304d527aeae7caf83db1a5e0be669108cea6529bf434970f2e68b",
+"build/d3plus.min.js":"e0d327b3b77ae7dd656bb2898ba67ca495317a16c93d74b01e94ed830304eb88",
+"es/index.js":"31f5566ae7d294ff557a536b95e36506aefb8ed0bef2b5e2d6e2dea13ef4daa0"
+}

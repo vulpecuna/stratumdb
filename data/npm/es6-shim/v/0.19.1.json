@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"b8a42d60858dec6e34cdc6cd93a18443b1a66768f0ff601de5a662012eca6e4c",
+"es6-sham.js":"df2639a53e9daea79f902094fc80b2b5564fd6f7c862157ecd8a8cdff3a0a98c",
+"es6-sham.map":"565eb998f560a02fa8c7aa1bc42a85b1509321df14e2439398d0d4ee0f2d1e8f",
+"es6-sham.min.js":"c67f1310b725c906570826c73dec9a6069d92263e2fca79105a4e990fbaa26cd",
+"es6-shim.js":"04da97f1d0cfb45befb7b7d50df745356a286f97f529347bc9ef026aa3151ad6",
+"es6-shim.map":"d78fb98f5f5ca60ac41f90c3b69037fd029cb6af40756e164779a6bd5df3b2ae",
+"es6-shim.min.js":"a3b68690a71fc253ec173ab505bec0004ec20627756c0d7ccd59d79d6159c0a6",
+"test-sham/set-prototype-of.js":"b69c4404d91b2eec20466f698e0eb87a77ffc6dbeb4fd970ff039543f431e74c"
+}

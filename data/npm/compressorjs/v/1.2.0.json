@@ -1,0 +1,10 @@
+{
+"dist/compressor.common.js":"7df4c9add5753eb6f2496c1230676d1d4c0b7cf4db1686fe7ed38bb95be8c4b2",
+"dist/compressor.esm.js":"be41604bf299a82af87304508164d6f840ca25fb2eddd128a979fb625a5a9d08",
+"dist/compressor.js":"454105359351399ea4053496e3f169982c3b0e5f6f1ce8675f7564afe344a5aa",
+"dist/compressor.min.js":"ec97b0bcabfead0567501ec803bfc7561a2236b62d9b0f765de27b87a7b4c22a",
+"src/constants.js":"967a7b8c8d04fcd990fd643a6bdbef9c7bd3a382c9b7bdff7aa8fd6eaa6b629a",
+"src/defaults.js":"169c0e7a4b35891158ea2b0c579266f977cd1fca795e5673441f37db665c9e61",
+"src/index.js":"cdcd13d48722f4f12f3c1fa4b3d3572348f13d61a72f3e1688a70313b03e2258",
+"src/utilities.js":"c1c8303e4f1184188af6a7cd9618a3b4d1bf34ee213f8b97dc550ba97168ba01"
+}

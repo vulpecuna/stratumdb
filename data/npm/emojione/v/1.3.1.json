@@ -1,0 +1,10 @@
+{
+"assets/css/emojione.css":"c2fc4ee31f301c628c1d36814877c7b267903cc0d3287061c5da07a799282455",
+"assets/css/emojione.min.css":"519edf0dc00972d9a811c5e60b94cf719b30351a8dfe62f38fab8d4b5182558b",
+"assets/sprites/emojione.sprites.css":"af9e3de217ba1c6f589f65cf738a0e2f7e56d2aea81158288270d7cef2bcb98d",
+"gruntfile.js":"3a7dd3f8f9cc2798245dd350efb748f112d169c5fe1e0b0d7036a4b967cb8d7e",
+"lib/android/generator/generate.js":"8970575cb406d2189bc5ad77dee0e46ff3bc548f89a201c6577e742b8e058d41",
+"lib/ios/generator/generate.js":"be369c2c06a8a49a20276ea6109b51c33262a0f6328d3467c1a6a9a1b8d2bcbd",
+"lib/js/emojione.js":"59c837a9044d4747b129c0e8a8d9c1df0dac3245333d6fff4903a8d18d132bbc",
+"lib/js/emojione.min.js":"af5de05371cea6cadfbcac8363dc2c575f449792044699460100d81b0fa1da5a"
+}

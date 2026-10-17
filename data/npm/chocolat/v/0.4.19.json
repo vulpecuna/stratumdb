@@ -1,0 +1,11 @@
+{
+"dist/css/chocolat.css":"c8db56c2a9fb436748f8c3363369284d0f44d6181e88931a4c62265314775204",
+"dist/js/jquery.chocolat.js":"d6757bd1bea7dddc9b79d2b1846b6566b4dc0def7f27cd4e29d09fc8a9a88d5b",
+"dist/js/jquery.chocolat.min.js":"120e833a462a0ec0037c4696145c5c408f50df38689b62dee4edac0a0a2b663a",
+"src/css/chocolat.css":"c8db56c2a9fb436748f8c3363369284d0f44d6181e88931a4c62265314775204",
+"src/js/jquery.chocolat.js":"920487c968497df4f8d69e3eab8a5039f0d819ebe8455196d5933bfaaece9ccb",
+"test/lib/chai.js":"37e91affe0f11f9648f4072f164aba82d60cb80b9e599925e929207139fc147a",
+"test/lib/mocha.css":"a17accfa52212ddf2cb132491365a9076c8dc8fa32bdfab8eb2bde76fcc45626",
+"test/lib/mocha.js":"b9522661ee51867630927cbc195d1954c424a5e012930302b85e5928d43148ad",
+"test/lib/sinon.js":"0b9e36f4f162a493a8218214fb554a9a231cfcecb014c92265ab75af5b9dcb90"
+}

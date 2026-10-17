@@ -1,0 +1,15 @@
+{
+"BigInteger.js":"877dd902c508c318e217e4d27187f95fe2bb47712c0a0a65c7ffdeb8adeb4150",
+"BigInteger.min.js":"58f662dc56adee3295c22ea2a37e12b206e7379bec37979b16c280a76666f916",
+"benchmark/benchmark.js":"b7dede21d2fef7b89c2b032378530bcb3375da3aca0ad092e26f1754fd28c9fc",
+"benchmark/index.js":"e291480b55c8e4c13095ca83dc9e441d591b148165a72f585898e8e52ce6bbb7",
+"benchmark/testWorker.js":"b87421b0c1076d810d2f675f159ea4eaf088b4f2bb29cf66e14a5d1bf06d04af",
+"benchmark/tests.js":"cc81c6ae092433d5016adfc867fa9391ff7dc822c5d7ed5d0a12125b0318479c",
+"my.conf.js":"01694959514bad889880a4cd79a4f777df3bd73f7ece65b706bdd5adc3ad6cfb",
+"spec/lib/jasmine-2.1.3/boot.js":"6dd645d5b40b6ecacdf4566292e3dafbc2cc704c32318b8b03ddf8e3e654328f",
+"spec/lib/jasmine-2.1.3/console.js":"4f2193382d70c753e6164cd6e8393eba9f773e284b50e90d0a60c4032b7da10c",
+"spec/lib/jasmine-2.1.3/jasmine-html.js":"761eb3980275b80ce2b5c806cf496332663c56ccdc03d3c65d967cb1698577dd",
+"spec/lib/jasmine-2.1.3/jasmine.css":"36e2b4a75716368913c183deb00866a2b39f3486932ea14fb8592d2017c458d4",
+"spec/lib/jasmine-2.1.3/jasmine.js":"53ab33d3b4225e79e00b9ef982ea1cc8fa5324ab848695d957c0efac7380d339",
+"spec/spec.js":"74a9f9ab21bd80d5920dc0fb321cf844901eea87a64fd7175a6699e39b1188e5"
+}

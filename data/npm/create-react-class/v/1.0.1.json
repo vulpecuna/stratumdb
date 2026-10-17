@@ -1,0 +1,7 @@
+{
+"bin/start.js":"ef62e2d6a7c0050fdf141c85c1563c6912c534fbf38eb5f6a26433987070e206",
+"lib/index.js":"775cd8315e74c19fc92cf6367da76e531c7c5b40d30ec816e6db6fd7f9c1c68e",
+"lib/react-class.js":"e08802b8f320f85771e948d57cb3ad24b0f93869e5e160c4d47c8268cdbd9155",
+"tests/index.test.js":"0efc7cd19c93d1a65b8b416f2a53f2a5373ac3faa893caa15cfc05b3b5cd04cd",
+"tests/react-class.test.js":"a64058023c6a4582e1b6d1e44e733512fdafed97dee4edb48eefd14a6396576d"
+}

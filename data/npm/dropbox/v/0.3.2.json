@@ -1,0 +1,8 @@
+{
+"index.js":"5cc1920ebd3b6fe1ce029c76d31d7351455c7d2438861ab9bed6b9407bfd3bb2",
+"lib/dropbox-node.js":"5426ed5e9e3d3dd731988102cc9905224b209001809e6a898b726f384dcd39b7",
+"lib/util/escape-path.js":"f4108712c55317fe0cfcb237d4e8d99c2157d03d6c8374aa841842a20ba0b6d5",
+"lib/util/stringify-params.js":"fa50c3870fde362b2287621dc97b572da2a43bd7d7fce445ddb7f4c5fa69263c",
+"spec/DropboxClientSpec.js":"5f0d894a282efd09990f10265ad9411d689412b53ee8b7f9580a0779a7930ae3",
+"specs.js":"9e71c9d5ef1e29e7b75dedddc2506a6e273e76e4dd7473778cb581f10f2b5138"
+}

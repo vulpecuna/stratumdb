@@ -1,0 +1,12 @@
+{
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.es5.js":"633758638a9b425ee6e226be202e92df1ab565868c8326dffd3a03dc0e4dcf6f",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.es5.js.map":"58dbcf488e771c4a5e938fd6b7b8733299bf0bec4560e5c100d0c184345aaebf",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.promise.es5.js":"4b79cdf371aa75b2d16232c62833c2038aab8a2b6a4bbaca8494cf75a7af186a",
+"dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.promise.es5.js.map":"cf0521adf7d9aae33f528873286516bb96719a08f8b52e57a5db463a38d310f2",
+"dist/es5/window-var/clipboard-polyfill.window-var.es5.js":"bf6b97499f77cbdb8cf6869f36dc377f9437ee4674303a1af81fd87411a924d2",
+"dist/es5/window-var/clipboard-polyfill.window-var.es5.js.map":"9af0f665f8e319f403df11af0682b4623f833be13b18d20493df284fa06b0faf",
+"dist/es5/window-var/clipboard-polyfill.window-var.promise.es5.js":"de77033263ad3d887349e15b77f1d73edb0a6e1ba5e9715a29e868fe7779d615",
+"dist/es5/window-var/clipboard-polyfill.window-var.promise.es5.js.map":"bc4fa81c8c2bc3fad56dc68eb0183b41097683c6763ad26bc695dd5b3175070f",
+"dist/es6/clipboard-polyfill.es6.js":"e4d9fafb021e0a726e5d8e951343b774ddda08b57af73a9a9ab9295d462ad017",
+"dist/es6/clipboard-polyfill.es6.js.map":"bbe60827f5f2e1431f6ce684759ed3a9422f7867c6c1d6abb394b6ad9634b2fc"
+}

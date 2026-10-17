@@ -1,0 +1,10 @@
+{
+"dist/angular-websocket-mock.js":"8dbe5b5f92f402eb9dd056a6f6ed509a7e1a4f089465bbad85009d71b3c4c42c",
+"dist/angular-websocket.js":"8002f869528b6266076545e219d511ce35272535f03ff172697e3f7b90266a26",
+"dist/angular-websocket.min.js":"01e04726aa823c36a189b19b843420edbd413c2d82c53dc8e189c07ee1b4bbcb",
+"dist/angular-websocket.min.js.map":"915ca3f5b23d5626ffca5c1fd1f060306ca127d51e4e9059cbeda628b501a060",
+"karma.conf.js":"759ac397a8ee7a48eca1f0c17ee1ad587a0c1e65a79d3407abf56f509bb79d66",
+"src/angular-websocket-mock.js":"8dbe5b5f92f402eb9dd056a6f6ed509a7e1a4f089465bbad85009d71b3c4c42c",
+"src/angular-websocket.js":"8002f869528b6266076545e219d511ce35272535f03ff172697e3f7b90266a26",
+"test/angular-websocket.spec.js":"ed25c3a9669bb3e2fdd3b87dd3a52d63b0c14a714d2eba537560d73bbbaf719e"
+}

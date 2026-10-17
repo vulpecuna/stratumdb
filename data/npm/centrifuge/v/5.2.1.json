@@ -1,0 +1,10 @@
+{
+"build/index.js":"f247149a38a8ccb426aa48a8e3c5b7effeac85dbb5da2bc1946b98f7d0dd283d",
+"build/index.mjs":"e45382b51979d6ce39fb7012ca3436d5087e57702fe301d20f5773b4668f6ddc",
+"build/protobuf/index.js":"b52af12090c9eb6fa32fb0e00dd0ddc4651f4e41babc6e88aaf492790ab645e3",
+"build/protobuf/index.mjs":"0ee13058da850d30fe0d690ff89b71a63c92ff1c7068c84000e785f6e62f56d2",
+"dist/centrifuge.js":"379e5724b04fb8be3c96b69f62d1f5abe3c16e02889da802a758a304fd41b9a8",
+"dist/centrifuge.js.map":"e17b1aa06cfa51ab9bda077d26ad814629f4af7011d8ce6bbd2552f12842175b",
+"dist/centrifuge.protobuf.js":"e847c9f3ef1c059a59cdf3092955b6e0734d8038fe07819178f96db5100a46ba",
+"dist/centrifuge.protobuf.js.map":"83a01db24df6602ea7977f482ec0056e885266c8ab81c1a59645ef3bb3132d8f"
+}

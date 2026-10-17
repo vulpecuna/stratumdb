@@ -1,0 +1,14 @@
+{
+"dist/jquery.cropit.js":"bf0ce1628e5bf8cb986a19cd0afb7b3f4f440911a646f9e1fa8be4a2357acb28",
+"src/constants.js":"ccbd495c5832d008cd80f0dd1cbb40b14030ab2c75625d17fc6062b659eee835",
+"src/cropit.js":"1505a697061c44409612703affe35c36e815de549858266004ed377d87d8391a",
+"src/options.js":"cb7bf8272c24afd8ea0fbc773dfe5f0f0338f486aca000d58163501551162841",
+"src/plugin.js":"bb384d761d060d5f3787eb03def9975dcd61d1e91dc1ba27cc1ac7fff025e2b7",
+"src/utils.js":"b26f9b82e275106ffb3cadb8bbcf154e15e101a00401fdcfa79fe5242ba9c082",
+"src/zoomer.js":"b98c6b2d3e0b0924504b05651f6477759e307a9b9212db10c161bea12a10dc67",
+"test/cropit.spec.js":"1cd0d35077cb0bcc021ea0d85067272586bdcde6f26a779f145aa3fd6e7bacd2",
+"test/cropit_view.spec.js":"523cf4d33605c1086923c950d62e8f57f92432a2beeb329be27d5ed707fe879d",
+"test/zoomer.spec.js":"f5ff01b83c01aa945cd16e5da45d577251aad205dcdebb3ff2664218314e7a42",
+"update_version.js":"4cd4c63af022f3f9eae7b9f0b190dd3539f2b43cfbf88b3897170cc77e199851",
+"webpack.config.js":"4a17ab400e8605bfb79a1c1e39de297c506abe151326df49762e2f8d1040e5f2"
+}

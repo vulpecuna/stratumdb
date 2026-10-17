@@ -1,0 +1,11 @@
+{
+"dist/cjs/i18next.js":"90140dc66909c2745ee9b02a7f0c31307ac298d1f22c2e6dcc5c7ee9c6daa52f",
+"dist/esm/i18next.js":"9d0ea6eccb14cb5cec2c9ac3fb12f3858f38aaadaf59f58e6a207eb33a7434d9",
+"dist/umd/i18next.js":"5df9922c9320f96a917ad04bbba4129292a9ff5b5645eafefe3bad51364b55a7",
+"dist/umd/i18next.min.js":"4beeb5a048c117d981fc272a0ce5db14829fed6ded7fa33e5caf343cf7a669b5",
+"i18next.js":"5df9922c9320f96a917ad04bbba4129292a9ff5b5645eafefe3bad51364b55a7",
+"i18next.min.js":"4beeb5a048c117d981fc272a0ce5db14829fed6ded7fa33e5caf343cf7a669b5",
+"index.js":"bd230738df65302d34d2832d9ab8fd540009c5147189b1f4bf2dd8e702b4ec0a",
+"karma.backward.conf.js":"929fb034a734225a6cb5ee0cf4d85bf01e2e29df077261cf55f06cdc0622078b",
+"rollup.config.js":"d97bd3800752dc0ac7efcc06c89d50a63000272c43c53c6a444d6c455a8a4d03"
+}

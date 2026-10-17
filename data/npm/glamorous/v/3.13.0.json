@@ -1,0 +1,14 @@
+{
+"dist/glamorous.cjs.js":"443d1e89bad742672ae9678a17da5efb084897613988cdf90fa87bb75b3afc9e",
+"dist/glamorous.cjs.tiny.js":"433f4ac4444dbc2b27f22b03c323b39639c9314bf4f2abc39ed7534e2eea3564",
+"dist/glamorous.es.js":"9d8ac89d8338a96d90b89e420e25534aa380aaf2e61aac92efdb08d7ab36465c",
+"dist/glamorous.es.tiny.js":"b41edb89f14e44bbaea76ea6622930cba8bae3e616993e4cc1474affbe3aa4cf",
+"dist/glamorous.umd.js":"9a390f6a7dafcf0f162cdab80a912c589fba2633060114eebdd6fe4ef5b8ef76",
+"dist/glamorous.umd.js.map":"7b075497533718985f3c7e24ecf55c68482e89d09cf2ba4fb771a28b71af8271",
+"dist/glamorous.umd.min.js":"a681b06b0804fbd2865b51b33dadc67f1383568bbc409ffa514ad74024fda284",
+"dist/glamorous.umd.min.js.map":"7ae0d4f849c0e09f9055d289e8d40d49e31fb3417b88035156317f8fe92499d8",
+"dist/glamorous.umd.tiny.js":"870f246d94d5ef8413a75d06d38d90673d9abc5e38f3c7840d5bcd4dc215510c",
+"dist/glamorous.umd.tiny.js.map":"34507f83cd243d5218bc969c86168ec8527f53c4540022a7309dbc8b0b854fc0",
+"dist/glamorous.umd.tiny.min.js":"6d3b596c400781eb4a841eb019fed4cb5892bfdc0d6692502c038cfd8affa252",
+"dist/glamorous.umd.tiny.min.js.map":"f06baea887c7965b0701ddbb089ef31e720d1a18d14522939566844173220cfb"
+}

@@ -1,0 +1,15 @@
+{
+"dist/esm/bigint/currencies/index.js":"a7cb1cbbc1bdbcd50ec99c39b6647d0094abc6c3ebff79b185b2700cc1c7eb0d",
+"dist/esm/bigint/index.js":"ff10bcd42fe580d09f15459ef0596cc3b34eda717e987a19565bf7f3c135c430",
+"dist/esm/currencies/index.js":"4031e7ba4b4b8da2bcf6f155589058ab78c4499bce99fdec228a4e3cb0dce1ae",
+"dist/esm/index.js":"c97169aee9e57b2c2c87f7b1edc76f5d4aafc6879646eb2289b8dff149d1b45a",
+"dist/esm/trimScale-C3-DjbPM.js":"b9357170ab1b746b089ed6a1f851f41157215fe9544cde6310bc63d1cfd304ef",
+"dist/umd/bigint/index.development.js":"c2b432b19d1f5e9507221c4a70766c6f67916de77bcc7b009e9d26719b4ee260",
+"dist/umd/bigint/index.development.js.map":"07380bbd5409cc0a15e7d026e8c2cfb07c8e1c9a73ea93b3f9c38b70cae6e4fe",
+"dist/umd/bigint/index.production.js":"c8507befff3183ec157474955e51abcff1e9304386a5fad0c2feebb3dd06000d",
+"dist/umd/bigint/index.production.js.map":"f5c8b4a767cc56d0d74ed44aa1b5f792e4f83bb1fd35a1ab7799fa74b509bd83",
+"dist/umd/index.development.js":"c11a809d0013a5bc8e7f824b73b028b493970eee934f63ed9369182aa1972e8d",
+"dist/umd/index.development.js.map":"6ae6bf3b86fb5672f4359251a610faa9384347ecaa87942106dd85ee20dd6a90",
+"dist/umd/index.production.js":"1a673531e61c29628888cc019d6abfbf0ce783a6eb633545bc2a55d98fcd2834",
+"dist/umd/index.production.js.map":"feb411ede7f6a4ddab39b83cfaceb3e9367c80b128be48273e6301d63cf362c8"
+}

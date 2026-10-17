@@ -1,0 +1,17 @@
+{
+"build/angular-ui-notification.templates.js":"54ab9c07233d25a1b43297627b0bbe03420e54bd4ad7c3e8338a50506b622cec",
+"demo/angular-csp.css":"ed27ffc9a6f0dcc86abfe8dfe5c5d7698bf2a8cd66127846f604b4bfbb84d86b",
+"demo/angular-ui-notification.min.css":"db7645e3f185e1c662acbbe835be55737d24a12acff363f5ece5e09fed77338c",
+"demo/angular-ui-notification.min.js":"db78db44187d2aa177d88c3ed3d1096d96de35ace0e315a76b9770956428bba6",
+"demo/angular.min.js":"898e2824ef55e1f6a454bb9cd807f6829350a4160605af81f8d116495335cc98",
+"demo/bootstrap.min.css":"b5fd723750763ebb731f9221e413e7d64d58d5192dc040e42292ed3dcccca732",
+"dist/angular-ui-notification.css":"9d40e37b46addce5f72f1990066aed0f32bf1b801d46a2814b5e031eec2f08f9",
+"dist/angular-ui-notification.js":"5539622305ce3b95545634ae914900a8fdfe85233653768b246b6fdf1bc639a8",
+"dist/angular-ui-notification.min.css":"db7645e3f185e1c662acbbe835be55737d24a12acff363f5ece5e09fed77338c",
+"dist/angular-ui-notification.min.js":"db78db44187d2aa177d88c3ed3d1096d96de35ace0e315a76b9770956428bba6",
+"gulpfile.js":"6d02b81439aa16eae04a60e8d93fa815a4da34629a9067b3d0eb313c59aae5aa",
+"index.js":"c81096c386adb6b0ef79ff8949cfd93d15be7c9e9306d5d96aa8b5ffd64e1f71",
+"protractor_conf.js":"1b73ac406399ac94988d519fc426d2cf4652041a34fe59f9c4dc1c63a27ed742",
+"src/angular-ui-notification.js":"43a27b961e04dcf272ed302f5cba6c3fdb878a109d724cf275b5529b81a11f96",
+"test/e2e/main.spec.js":"22cc10a3e43484a8077825c9904b05424754123a955548e97f41a3ca44b1e072"
+}

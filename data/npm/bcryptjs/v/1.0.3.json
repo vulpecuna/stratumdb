@@ -1,0 +1,12 @@
+{
+"dist/bcrypt.js":"19db19f0bc91bc72de95070809adfb78283c8a980f63570dab0fed54dfe512a7",
+"dist/bcrypt.min.js":"ac5ca2dd4e75ed3327cf6c93e143c0881a1ff8333f797e98ff10122bdd926411",
+"externs/bcrypt.js":"4177a6181b6b114f8116e20366e943b19c5600bef5e1e6ca3ef6c6d03793f8a4",
+"externs/minimal-env.js":"b619a7d293ddd99d7c1f7e7543da62f283ecbcceee6764604c70ee3c0c86e597",
+"index.js":"23fff6481119780fe9a1cf89e1cf0ccc240ff0aca11290810d7e3cbf102c64c5",
+"src/base64/native.js":"fe6ebacbe588fcc9ccc870ce98b130d8d75189f407a02681e2d8b54936732204",
+"src/bcrypt.js":"58f63a750bec4d1bdb31026094174eb888bacee0e9402600485f8c60733ca22b",
+"src/utf8/codepoint.js":"346bfc0389b0a0c8c054030dce21ae46785d6a4dfd1831653fa541f03ec11d32",
+"src/utf8/native.js":"551c775986c792a3e5f83776ef178f2cab38a16422fdb6e6d13fa8f0cc4ca9f6",
+"tests/suite.js":"f80b9467cc6e39a1247579bdaaab483928f7fea9f0da0d0f176afd7b02786947"
+}

@@ -1,0 +1,7 @@
+{
+"lib/formula.js":"034c3faf20b9a52578253e9f08b13abf3d8a275016d4c0f3b017fa738306afa5",
+"test/moment-formula-test.js":"d8446f3777c83b5f1e5446c09c9b29b2d25d27a96f856649d8fce30377fff3f0",
+"test/networkdays-test.js":"69e25133684a8e74ca0c13a79eb89a3b8bf4295273fff0c2ee1c75d6caf3642e",
+"test/switch-test.js":"8f1b90c66bdd5582f8672d924f4e9e411164180dbcb584a4a30bbb2764cd8cd3",
+"util/generate-mocha-test-cases.js":"a2c3df409b7aca295bb84ce3f40662bb05d8dc41fc41a25f08b8aaf8355c82e9"
+}

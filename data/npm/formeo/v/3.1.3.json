@@ -1,0 +1,16 @@
+{
+"dist/demo/assets/css/demo.min.css":"1adaad2fa65a5106cd9319bd1c3c595f2d73b7af3065335cf07f70d6d0a53977",
+"dist/demo/assets/css/formeo.min.css":"8b9c0ce0f406e3307109e349afead52b1e530906d708703aa99883717f978758",
+"dist/demo/assets/js/demo.min.js":"04f619d3b6be474b3359b6a0bcd9f2b3c2a69e7bb29553ef2c24dfb1eebe8403",
+"dist/demo/assets/js/formeo.min.js":"4a53f1c100a30f358c2bc86fd96b12b2384127170cad26d0e1bc8447942d0e0e",
+"dist/demo/assets/js/index.min.js":"a7ee3a51b761cfdb470876697e61a9bc86604cbb65d62cfd1058c528d411f631",
+"dist/demo/assets/js/index.min2.js":"461d908d3d0faf1ecc012ef67dcaa1e9e87f3e420ab1b8ebd5bfa8dbcb16cbc9",
+"dist/demo/assets/js/index.min3.js":"def629b61d8dba15ee9fa4e3999c729c88fde349f8ca615bf286e4519532a177",
+"dist/demo/assets/js/mode-json.min.js":"a20f8e8a60f6a039a95e43a2f1c317f7f6cdc917232ea7726a034930e632482a",
+"dist/demo/assets/js/theme-github_light_default.min.js":"3f4135453381901d17a839b8d0e5d73a27810ca20b5620c42ef10352d4e7c6f2",
+"dist/formeo.cjs.js":"719a0946486430e234e43761132f978ef1b127b93a7512d8dda9f6e060bb2893",
+"dist/formeo.es.js":"cbeceafae5ac187644d8e9893f0be6b2e59fc23ec3501871646fa6aea9a9d8f0",
+"dist/formeo.min.css":"8b9c0ce0f406e3307109e349afead52b1e530906d708703aa99883717f978758",
+"dist/formeo.min.js":"4a53f1c100a30f358c2bc86fd96b12b2384127170cad26d0e1bc8447942d0e0e",
+"dist/formeo.umd.js":"4a53f1c100a30f358c2bc86fd96b12b2384127170cad26d0e1bc8447942d0e0e"
+}

@@ -1,0 +1,9 @@
+{
+"build/css/baguetteBox.css":"fa3ecfe9af0c88c9e5c09710ac73ab5c893080bfb3b4884f57abf81f2a3c019a",
+"build/js/baguetteBox.js":"95d8ed5fa546311bbfc709e0a3a526b3061ded915f5f14cb17f2195feb6aa13f",
+"build/js/plugins.js":"8fc018edcf4e3117fe721c1c750a3d187e9acda0119e1ec173f3ad9c3c1dd355",
+"dist/baguetteBox.min.css":"85556ff296aca389163d3959e25b9243b687b4a12050c8835d5c590467ed9736",
+"dist/baguetteBox.min.js":"bab5aa3fdbc3ac103279917662b16d0870a7792ad875a75e095dc648e5a5b414",
+"gulpfile.js":"f1162e27afc2cfba2f28b5cf4d41b094e13617bed52ecfe4750be444aa4e42bc",
+"src/baguetteBox.js":"95d8ed5fa546311bbfc709e0a3a526b3061ded915f5f14cb17f2195feb6aa13f"
+}

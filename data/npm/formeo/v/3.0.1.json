@@ -1,0 +1,11 @@
+{
+"dist/demo/assets/css/demo.min.css":"c9b4d4b0d53ef4cae266a2c54f4d92968b735568ccaf1efbb2ff7b3cd2aa9fe5",
+"dist/demo/assets/css/formeo.min.css":"598aff4276c38d8f3d01829218b29c5361f8a42a6ea925179b78c04be828ba73",
+"dist/demo/assets/js/demo.min.js":"fd756a7ccb8adbb97ca39394e743f35ef9d56701159bfbf53f333a4ea77e453b",
+"dist/demo/assets/js/formeo.min.js":"c45671037a16d689363ab696930f227d94c7615c9ba0e138d814a69b3a958379",
+"dist/formeo.cjs.js":"a1ee57c375f2a0dc7f4fa4bc1bdea3277cb78f32e2a9b60be53bd64bb870b9c7",
+"dist/formeo.es.js":"9c67c7d0560938c4d3379b4ad9266e4a8084f1e70051299796d822a2d013a2cb",
+"dist/formeo.min.css":"598aff4276c38d8f3d01829218b29c5361f8a42a6ea925179b78c04be828ba73",
+"dist/formeo.min.js":"c45671037a16d689363ab696930f227d94c7615c9ba0e138d814a69b3a958379",
+"dist/formeo.umd.js":"c45671037a16d689363ab696930f227d94c7615c9ba0e138d814a69b3a958379"
+}

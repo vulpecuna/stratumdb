@@ -1,0 +1,11 @@
+{
+"dist/browser/anchorme.js":"988af9fe74a7f5b1e5eb6113d20234d3222c4d628298eb2fa29e6e7fea9087ab",
+"dist/browser/anchorme.min.js":"1034fc0cfe08373e4f606366f82504fe3d237bd3ace5eb571d835ffc060f5358",
+"dist/node/dictionary.js":"9685bca0335ac9f07701112e4e707017be0d4b722edf51316fbfeafeff0d91e4",
+"dist/node/index.js":"64c76c8791633d6e5af2fef142df1911b5acc6f1334b7bdc9076459856827c3e",
+"dist/node/regex.js":"3f1f0870a602362a09d248034ed70050ddbc60d1841818b9e618a1bd37fa0f00",
+"dist/node/tlds.js":"78a9f6415a02a4becd63fa1285fdc74e2f546cf8c768c6b2f761aa8acd648650",
+"dist/node/transform.js":"ae6d5a61acec896ae971610e8cc343af2c0714a361e20c00ca439ac0ca7c58ca",
+"dist/node/types.js":"d43aa81f5bc89faa359e0f97c814ba25155591ff078fbb9bfd40f8c7c9683230",
+"dist/node/utils.js":"2116adb046e30a1eab4829b140370a3e6eb954821a557d23ac907ba54b8b1a0b"
+}

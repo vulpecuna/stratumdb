@@ -1,0 +1,17 @@
+{
+"backbone.layoutmanager.js":"0070842ac9527f1ca867aa4ce1fc7262efa74613d952189f22c8c5332a25da6a",
+"example/03.Using_in_Node/index.js":"67d5660583968b750c15041ffb809d2008c8f0eaa982fe67c47571c711914a2b",
+"example/_assets/theme.css":"cb9a15433afc20df9d0f17bd04e536088caceb6cca069caea81048c493e2f97b",
+"node/index.js":"7e3c83c2355b80f9d8545e12436fbb4aa40466c3bc6748ab33fba26ea361e330",
+"test/configure.js":"00c2e28a5948b51d8da6c11a582aa7f70be25237230423f5d0bc0a1f9cb6616d",
+"test/dom.js":"13f0c1b9959e9e4e7ae614b48ec4abe0ddeedcdac7d315bac6831635d15b6c03",
+"test/expose.js":"2c134267403a16b94f95c740567b119ee341665d36756230defc521a9f93823a",
+"test/qunit/qunit.css":"d4cec6ed05b91128796f8525ae3dfcc852356744e5dcf67791aed9a05240790f",
+"test/qunit/qunit.js":"f17ab307f7beb1d082d0b46d2dad680c97fb12b76c2ae9c93e3c096aa9795c0e",
+"test/setup.js":"f476bf8508d2445f5398b6b979e2d53f70b382c6ea644baba032ff4c2f354cb1",
+"test/vendor/backbone.js":"8db0f2a9b9a5e8b74b969139603a1ce1e55d5431e1628a6e2b5c3e2af42bd731",
+"test/vendor/jquery.js":"4d7b01c2f6043bcee83a33d0f627dc6fbc27dc8aeb5bdd5d863e84304b512ef3",
+"test/vendor/underscore.js":"a10aa2eb9078c2e19f181ac722b1c19a29b8db1069556c508a3beb5c46289d7b",
+"test/vendor/util.js":"d67d3f7416c144e65ee26dedd42df27e46e5074b12ca2f3d2262f371e97c44af",
+"test/views.js":"fbbe2e48ea58b0f48076e808ef9700ab588f8e3e4111e18b1204fe5b821822f4"
+}

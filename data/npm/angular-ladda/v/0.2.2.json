@@ -1,0 +1,14 @@
+{
+"dist/angular-ladda.js":"69dfca260d8b5bf1b0ca028c58358e58376f8052b9014da81a1af74c98748835",
+"dist/angular-ladda.min.js":"28e47715a9755dbbfe1d4a81561186f114453890d6f882b78b04e5a62557cea1",
+"gulpfile.js":"c6699bd9043df09b27eef6b84492812716b849124f8eec12a5356c02eb914570",
+"protractor.conf.js":"f0c3be73dd91a87d09f5f6df22e373a25e373a5b87eadd236de5436c6631c602",
+"src/angular-ladda.js":"435f08fc7015ac231688ee285df57073b778439490c4eec492d8e2169a9eb00e",
+"test/e2e/spec/binding.js":"8463abe75406ae634eb4ddb5741513ef3c7735e3bcd7a7c4e498d81bcce5c317",
+"test/e2e/spec/config.js":"ef9b29d082a9b48f4a1f1f55c9ff0162eda11615b67326c41d18b683058af678",
+"test/e2e/spec/data.js":"79fc4331b3b234ae95f48627f124dd434d5327fa60d47233300aa60169ee76b1",
+"test/e2e/spec/disabled.js":"c6acf68ec5473cb74615a1cc9085f52ef170e6a4ee531f46a44e914c929fd3ee",
+"test/e2e/spec/form.js":"05ef30b22b163a00c1115e6d56a0a67cbe9f1e0dbaece91df7efcb0f2a616a8f",
+"test/e2e/spec/ngif.js":"17ba57bdcad07061c594bf589502053c4585737db01995c0f260665681722c6e",
+"test/e2e/spec/test.js":"7db4f6bd3ebcb2af5dfce0c270facd9fafe43d7a7669118224994f534b9c729c"
+}

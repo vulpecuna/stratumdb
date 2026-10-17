@@ -1,0 +1,8 @@
+{
+"Gruntfile.js":"83a4f0dd354b753344ae83d595b9dae8491719c49610f59e9ebb673910a4de48",
+"publish/adapter.debug.js":"c1fb07ca3d986af33c0c5edac336d29416050e8eefc5f60d1778fabb74804677",
+"publish/adapter.min.js":"551dcd8e885dad4e830bf7c3339c47ad964a5cc69ab0bed76b431b6707d9d631",
+"server.js":"4d41578b98e2ae1d2b973fb9853c36fc01dad9296f0ec1e642dcb7eb27eb6fd1",
+"source/adapter.js":"e29110436c961c717563fa59cc2f099ec329a4c63b87ef2572a00cec3e14b3e4",
+"tests/adapter_test.js":"2ded2dffcd42eaba88dc2c37de840b481c638e791a7ece5f5ee3c5b61845afde"
+}

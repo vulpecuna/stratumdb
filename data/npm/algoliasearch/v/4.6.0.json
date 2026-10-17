@@ -1,0 +1,9 @@
+{
+"dist/algoliasearch-lite.esm.browser.js":"8d5c0f4b91f1d3ae02155d2bf993998e796161ca5218d7bbd61fa90f3d9a6f43",
+"dist/algoliasearch-lite.umd.js":"13ff9283662676d80e9e71041019ed8f209a4db38378ed167d83d244492f1698",
+"dist/algoliasearch.cjs.js":"f57f52fecbf7d039d95e1ef368e2ecc5f208be97e8ae96a192aeeed385951a74",
+"dist/algoliasearch.esm.browser.js":"192722529ba4a30b0ba2f63f90263b944d960741062a6c7de56a1e74eda37e38",
+"dist/algoliasearch.umd.js":"206cd8d4a30bfab035785d88472f239da26aafdc6a34caf18df1c386750861f9",
+"index.js":"352de14df0b5254923e7203aa73a7bd0c4629c3a13ce4386990e98fd07e74869",
+"lite.js":"daa156b61390670d83b53fd37152479545a29514f4bc2a65252d4c1963a8992b"
+}

@@ -1,0 +1,17 @@
+{
+"dist/flexibility.js":"d82b6488ff5077fbbb809a18ce8c5284d589515b630ec7bd575ed196586b356b",
+"dist/flexibility.js.map":"120a348a646a7db57930267114dbebe60fa489e6d654dee6ecee14a1fb741787",
+"gulpfile.js":"afaa5e0a29950303d3dd589fcc52dfffca3320b7afe8ca064ef294994a556f5a",
+"lib/core.js":"81ce9f0723ef5462258ec0885c7e1b12d8bb722aaa54b58b0628f00192e38654",
+"lib/detect.js":"3bab1eb6b6132ae4ea9e6edb38d6947c8a454efc17f4872c9e04c7c9e5721696",
+"lib/init.js":"fae350e61f50743094147eb15384890f24efdb2d7f9db7787c4b36cc4c2d1653",
+"lib/on-resize.js":"098e09bc484176e401fb5a3ce7f723700686b754349a9ec0007fba2d95ef3274",
+"lib/update-flex-container-cache.js":"e59b6dc19160f8ee0adf37ff554bb7ae62343f6d6ffaca787807af889208f70e",
+"lib/update-flex-item-cache.js":"a67e18832aaacf09b02f7020167ccc00e0765f30d1dea03b0547b08c3676d967",
+"lib/update-length-cache.js":"c62b0f4ed06ccbd03b8cfd6cb88b959826facd354a7f87ff3b0ab191426a32a5",
+"lib/vendor/array-prototype-for-each.js":"29192c14e5b1cd2d0c39ec9e29b5233297a2cceba305464aa0124a9c0dd3de52",
+"lib/vendor/css-layout.js":"b2ff9969d46953c2b1b2c21c5df1ec3fcc87aa30e457fac7a1efa733489747a7",
+"lib/vendor/event-listener.js":"e62036089b08c5d91a3a55002989b19a622053bf968db75454b8ad169a08d220",
+"lib/walk.js":"fc876722432825110fa3d88772a496059351277898474d9eb131f264587a243e",
+"tests/test.css":"d139a211c3552ae1c4fa708f0f4c432c1b4a1b02fc37a3acec7727234f2a1f5e"
+}

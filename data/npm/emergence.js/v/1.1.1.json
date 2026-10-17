@@ -1,0 +1,16 @@
+{
+"dist/emergence.js":"28560f8772caa1b7b96e29b30dcce8f7143a61f4137e10c572dd4b34461065bc",
+"dist/emergence.min.js":"cf8b36cd867edda912e40523d591f1a83804c20428cbc6439b1b7f1950b0cdae",
+"docs/dist/css/demo.css":"1ef02fcccd805bf2c1c06f1438623cbf9edf5f62aa594fb5928643f35c5f91ac",
+"docs/dist/css/demo.min.css":"c8b60857eb04a73095e50c57e2093fb031dfcbc19c4182ea62f093bfac260035",
+"docs/dist/js/demo.js":"5e5bc6e8f1a22fc3c14d480d198076ff5b5d39a8e671a564c2228de1c1354f07",
+"docs/dist/js/demo.min.js":"4e551e1590f9329d379f5fa04aa83c40b0897efe165ac69252947cf90c12dedc",
+"docs/dist/js/emergence.js":"28560f8772caa1b7b96e29b30dcce8f7143a61f4137e10c572dd4b34461065bc",
+"docs/dist/js/emergence.min.js":"cf8b36cd867edda912e40523d591f1a83804c20428cbc6439b1b7f1950b0cdae",
+"docs/gulpfile.js":"c8224de57a5a00633d68d20eeae2d729dc2ee365e32af961ae911a677a231e23",
+"docs/src/js/demo.js":"5934d6e6c489cf14661e7b09bd3905123d5e5d00e1a4c60ba9a8441eca298a4e",
+"docs/src/js/vendors/classie.js":"656ac532d83f5baa4db488a214bde6f85ed018b8a2c485e7a5d62da20fb8ff25",
+"docs/src/js/vendors/rAF.js":"6b615d0513f12cc3468514961e27b4f77409d53389ed4f86a06ade0e1a11012c",
+"gulpfile.js":"60f3934ce3024148486b6d6bb5c8d4a47c2603e5edd9610875ec3adb1a2e60c0",
+"src/emergence.js":"ae8b3b915e6c664c3bfb1c9ca7b8617861b387e830b613a8c3761244fd84de85"
+}

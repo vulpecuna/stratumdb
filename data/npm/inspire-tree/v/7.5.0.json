@@ -1,0 +1,12 @@
+{
+"dist/inspire-tree.js":"a6acc90fc046bb7e7d976a0feedbd093d8979f386d4de9cb8903b91b9202df47",
+"dist/inspire-tree.min.js":"18e90c897bfc37d0a7ca685f79702f501d6273171879a047574e6fb478095339",
+"src/lib/base-state-change.js":"9a1aa26aab3195392100bc792ba018f2d3f3c35bee6a604814e617e2d1390dc9",
+"src/lib/collection-to-model.js":"91e4aa98033dcab0e2a4b0594677488d75e44f2bd68036c400dc9b43fc806313",
+"src/lib/object-to-node.js":"d31cdf8b4716156d9a03ed485bf6bfa4d97d1180be764a83ad37ecdbed75c198",
+"src/lib/recurse-down.js":"cd14810e0a9eb855804e3e53e3c5018bddee633bb80b34d1d0148d5af44735be",
+"src/lib/standardize-promise.js":"d00cf6ed00d6770c8a029421306127d442b57444e8151dbb5c241c262cecdcf7",
+"src/tree.js":"077047dcd069d8d810ba8d4ec772fe504ce8a5eccdaa6bb1b1b8ffcc00b27a5f",
+"src/treenode.js":"972cf33959be151b8f14b7e6b9d57917652ce519a4b6493013b15f06ed8f7808",
+"src/treenodes.js":"b2109717d993a1d3baa86cf9063055cb57a43f2be71514b1668c9d90095811a5"
+}

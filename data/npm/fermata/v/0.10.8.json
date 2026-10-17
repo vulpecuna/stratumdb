@@ -1,0 +1,11 @@
+{
+"examples/flickr_file_upload.js":"a6c7b66fe9338ecf088d97c531c3a2f68baac0a93a8449a3841b86285878b2e0",
+"examples/twitter.js":"2112356aec63bcd424c76e544ebab81521f58e72eb40cc73659fd813919d18a2",
+"fermata.js":"d04ee552bbed9dbaa8894fd57876f810de8a2b5460063b75e38e40a0e3253223",
+"oauth.js":"ec9af49f29aafedebf69e9557b8057ebb67254951c36113483cdec359a9e35bf",
+"plugins/chargify.js":"a9acdb4cb9e2da0c4580e9c9277605f57f89b6e6cf766afaefe7423e06cbda1f",
+"plugins/couchdb.js":"cf264ee46422e755f40d17a48351c39ee7dea34fb52e46dbbd207e7d60a0f39c",
+"plugins/flickr.js":"72848ea93a31327617a53ad119539f298d65219dc0908f4dc360b01f9c4aaff2",
+"plugins/twitter.js":"587df0e988869f1297626ddd3891dd5f0cb609a30eda5fea766995bd21125945",
+"test.js":"83ade5e6640f613eeefdf70481cd7486dc27d52115c7f9802a0e1bb22566524c"
+}

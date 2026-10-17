@@ -1,0 +1,17 @@
+{
+"chessground.js":"c8e863a784098c4138f58e3ec2cf12f7e30d8253686356bbb40016125520bf10",
+"examples/assets/base.css":"c19006c927122eee4c6b5535e8e71711e36ce86325fc52b10a9fc2be21375900",
+"examples/assets/desktop.css":"4583dec064eba2ee5ce836bef8b75cfb032b865b79a71dce9cd4f032177d3dac",
+"examples/assets/examples.css":"6f73355970ca2c28126a30800a8f79453024f2b2728c6cc373f2a0119d565e6c",
+"examples/assets/mobile.css":"df91b9742dbf196b9d4aca8152892d6230cfd983f9af985faf538f99bec2ea73",
+"examples/assets/theme.css":"e82e8a79514fb3c21e38d61d61e987b31e1cd2d7a78628eef4d42164af6b0782",
+"examples/dist/basics.js":"dfcc3ba730e321b0800727b320217c0c47b5df1b9c9bc180fc8896e8859fa12a",
+"examples/dist/chessground-examples.js":"575a577186728e8a4e52ee0cde718c890809bc38365cdbc99fa874813c32e3a8",
+"examples/dist/example.js":"2bda5936ff7e764ab22a495a5f2772abee377c115c17181964d8547bcfd5040d",
+"examples/dist/main.js":"63c49a2f627a65c78c7106bf8eb7f22175881366009c41a9e51e257d7a9c2fc5",
+"examples/dist/perf.js":"1ff6111f05c1f713922de863fd5fd50859a2d7bce010234d0a32e8d05ab62d7a",
+"examples/dist/play.js":"aa0a9fb78c52e6cc501779a55aeffa2f0f28f744eb8cb740c9deca05df695b56",
+"examples/dist/util.js":"7de2b566cc758b63f8e06b4f20f6093a3019674b8e3a049f4b9d0b8f2bf2be15",
+"examples/gulpfile.js":"07f776c2cfdddc76e32033b1799087566a156a28ddbb6c9ffbe20c2384ec08c5",
+"src/index.js":"d3b835bd0aea376afe046874fe8ee91fe3def68a216685fa4ecc42b54d777e45"
+}

@@ -1,0 +1,16 @@
+{
+".eslintrc.js":"f828bad3028a936f93c4294960c335a924f6d15801422f62f978f5c1eba984c2",
+"bin/.eslintrc.js":"3abe1d8f2f389f295571c8e70a03efcdfb786473596e1970d49f07961781c68d",
+"bin/build-dist.js":"0abd9ac2a232fe44cbf1f1f6425cbb4f2b5683f2e4ec611493358a059b7f79c9",
+"bin/lint-json.js":"9dd00e533419a3e7d561785fbf0bc96b086e8f3b580e2f71af10ef32a1518a10",
+"bin/version.js":"fb515b5aa7db313e99fa5c0783529a0303b254057878de8f497e9c5e52f325d7",
+"dist/draggabilly.pkgd.js":"b50b73fc898901dcbb9cb3988ea073cacce7e212c31d5acef13107fc51448d9c",
+"dist/draggabilly.pkgd.min.js":"099c998245fb9494e736f11cb7877d6a7a983fbaf3c47505df32accc50d648af",
+"draggabilly.js":"9ca91135d7bc9950dabdcadd2f0b217ce5857076de1f3c4f6ba260fb8acc9285",
+"sandbox/require-js/main.js":"57a5a2076b8538bb658ed1315d0d0450d1653a85b3fd9f88bf9ff963a8d2958c",
+"test/test.css":"75b387ea2d846b8637dcd1e10fba013803829f5a54bbf04fdbb94fc7c032ae15",
+"test/unit/basics.js":"d78aa0644e849aff17427f83a756866f7747de6825553b7a41fe3d49ed6ed505",
+"test/unit/destroy.js":"b76e8d3f2e55530e29b92fb4b164b909f2171e6a36a08ba421a509be28806819",
+"test/unit/jquery-basics.js":"5623a2abb703e3124328e66d4a02a3f71b389e3632dc6f96e69293979c0b3817",
+"test/unit/jquery-destroy.js":"deed483fc7887303fd33c008d9b80e9cf4ed927da4e82ca1d64fc1b5c37aa0ed"
+}

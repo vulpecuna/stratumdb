@@ -1,0 +1,12 @@
+{
+"dist/draggabilly.pkgd.js":"a653dc2cf043aea92da467f0ff0eba92d25d3177d858454d04e44750e00efe2d",
+"dist/draggabilly.pkgd.min.js":"33cb1aafbb57d455025007ad9b01f40e259cd377a611fa6792ac9ab73d624803",
+"draggabilly.js":"ec92f6aa05871fe8ecea98a6704b0f9d4f5e09dd1c684698683804816477368c",
+"gulpfile.js":"ef3eadafb723a741d35883a13d93670dac2b0f9d85a5749b561bdc79f53e6de7",
+"sandbox/require-js/main.js":"b5d32e910e290061061cc08979a145c2be61c02e71545f0aed3cbdc801c2604d",
+"test/test.css":"75b387ea2d846b8637dcd1e10fba013803829f5a54bbf04fdbb94fc7c032ae15",
+"test/unit/basics.js":"51cd3610187b0a3e848630f01f806faeb943c17d0562e0963f99c18cad9d5c6e",
+"test/unit/destroy.js":"54a89ff95ba26a8f6472adde3b591def47dfa701c0258341727b338d1c87b817",
+"test/unit/jquery-basics.js":"0d2fa5ac07a753ebbb962be18fe1b057bb8d3350fc30e126c66ba34ace6e4c75",
+"test/unit/jquery-destroy.js":"c7b817a2001d581de1f2c3dfb3dbed3854ccb71970f9ba7aecd67657d9401777"
+}

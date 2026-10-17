@@ -1,0 +1,12 @@
+{
+"chartjs-plugin-annotation.js":"bce7d8eb32ae21544ad2f01d247d0037b63178a988faee45666cfa07f54954ef",
+"chartjs-plugin-annotation.min.js":"3e35a1a1e12a3daa460c678d284e81918e135eae119d8355ec1f262bda5d9791",
+"gulpfile.js":"b365f8f69a0d2b8e452243798a4eb5725beb81d22840d685d3dc2aceae2f2010",
+"src/annotation.js":"b079939265372a881da462ace4b3ec3aeaf6b8fd48ec417f6e842a663fbf1acd",
+"src/element.js":"37b0e1a9d15c669529496b421ad38bf7f7a77e8ac2f704e5ac8c929cc123c58a",
+"src/events.js":"bbd629dcf5c8f9df11dc8759b174f27e64c0baf85f1e4e6e705854ae980e4a30",
+"src/helpers.js":"b5f6ace1134f7fe7a95039813e9a6f6e909471903898dad2382a0f372824d9e9",
+"src/index.js":"08ebc37143043c8ac9910e23a8ea68f47af5b71a03945c5b66249f8c53326ca4",
+"src/types/box.js":"87c74082a58459209af0fe626452154b6b7bd80c4b8c2b0c80a87499aad7cac2",
+"src/types/line.js":"70d6cd56ad519db5b6627c828b8d9496fcf90f025d556e2971a76fcc7f7f59bc"
+}

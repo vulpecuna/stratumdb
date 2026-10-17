@@ -1,0 +1,8 @@
+{
+"dist/colornames.umd.js":"ca66e3a74c981b6d3ef553dc1a428faabdc1637ce84503d7e331746833d61f29",
+"scripts/build.js":"0f6e8fc73147fc9bed410b668bf7ef1e44e410803dfa0e99689c3746e21680ba",
+"scripts/lib.js":"76a723f16f3a4308afb2293a1d87dfa3c2bbf4948145fe74c7d17d42574ad60a",
+"scripts/server.js":"a09d415e11798832b72d0befcefd7bd597d40b419f94b6e0c66011351e3549d8",
+"scripts/tools/remapNames.js":"8f82bca3ff9301501bb2dca973414cc80e9fd8572ebde38e9139dcbf8f9d1031",
+"scripts/tools/shiftColors.js":"4dde5598c20bb1f852c031e05f532c08ed74a05b335f54649f56640b92926a8f"
+}

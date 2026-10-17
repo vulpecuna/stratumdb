@@ -1,0 +1,14 @@
+{
+"Gruntfile.js":"f0c263461fe41c435f484c2483f0d213bb1a0460141ccddf51e2e3e4ced4a377",
+"dist/bootstrap-slider.min.js":"7ec13bd97e8d882f578035e057be95fbaad50d964458704e08d956417eda932a",
+"dist/css/bootstrap-slider.css":"c371a408de06fe84425e729ca00f2179a69f8ccf213ee32fbffe33d6471587dd",
+"dist/css/bootstrap-slider.min.css":"8cf959d3ecfdbfa6f834da630276d913db568dc9d0dff64e9826cbcbdccda8d9",
+"js/bootstrap-slider.js":"d3d3a05eae21fa83f5f7a48f2b738523b9584caba09763346c99620a9bbf83d8",
+"test/phantom_bind_polyfill.js":"5ff3dbd872f1d6119b6522c0a074b3d61a8becbeb1b2be6e1086ca6440d86395",
+"test/specs/ConflictingOptionsSpec.js":"3cc7ef5c5277da683e9a698c0b6ce120678401d629bfe01f4ac55d7c751db1af",
+"test/specs/ElementDataAttributesSpec.js":"92da06abcc5c72f3a6c8d74046dbfc052ff6a7ec8fa4e69b95fdbb271c02d586",
+"test/specs/EventsSpec.js":"756410f84ff517101b983373c3f57ea6385ac8be624266cbc73ce68c3314e997",
+"test/specs/KeyboardSupportSpec.js":"e48e3ff24f7c291349692a881284dcef63cf31e3c95bba39fb418f2ffda079bb",
+"test/specs/NamespaceSpec.js":"f520349b86ee8b60f0793d64a8e3fc77745c27caa3e7983b3951d431fec559ab",
+"test/specs/PublicMethodsSpec.js":"48ac4800683c66af2081ad7fa4e6043055376c6a3ab88256da4082a21d16113f"
+}

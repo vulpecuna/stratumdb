@@ -1,0 +1,11 @@
+{
+"index.js":"c124c113fc6003c08469654adca77e4f57ce0f9b6dcf4aca8b3ddd10e17ff4f4",
+"lib/dep/i18next-1.2.5.js":"bf3aeaa71e34b586a966ebb6c84cd83789982c34611ab77506c57da04e8bd5ef",
+"lib/dep/i18next-1.2.5.min.js":"988e4d58eaad7ac490f78263d3851f16b08e2a5ab186cf92d3bba3d9510b64db",
+"lib/i18next.js":"7a2ec9ec1736653b941da7de1b940a4e786116c0a6b7abb6372045c393781b21",
+"lib/i18nextWrapper.js":"f9340f07209f229f8b79cfb5947a8a0b273c5c04589c24e3949cffb6591eff0d",
+"lib/sync.js":"acee4928a86bd1013ad134db1e5450e771e0eb80301acea7db88e31d47b5a171",
+"sample/server.js":"d5fdc2c19be00f7b213c9fd242ccc58800d145cc2327f77030d1a11ca1549dd4",
+"test/i18nextTest.js":"2ba06cf3393a73577dd38d039b35b437b59ffb7fd0bd4aa7d8c557a3f482bd48",
+"test/i18nextWrapperTest.js":"e3cbb922c18bb0d7638d8258f2f9681a8b36d8f8e9add84fc1905abf091663f6"
+}

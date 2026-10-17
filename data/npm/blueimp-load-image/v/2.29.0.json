@@ -1,0 +1,14 @@
+{
+"js/index.js":"22dff5c6e0d85eeece0947b382fb40383b3353b5613828a01225c38a276aee5b",
+"js/load-image-exif-map.js":"d5f71121b7ef847ec21ae61c1e2e9e269e8ca6c8612fc188ee11bc045b64e045",
+"js/load-image-exif.js":"dd1f5ae3e08a1ac26e189cd80bd23f903a31847bec3cc58a03e9bd1ae5ecc9f9",
+"js/load-image-fetch.js":"9b9efbf8bc6b9aa75ca32c27265c605f106c841bd2c7943c29dd8cc9c02ab1a8",
+"js/load-image-iptc-map.js":"5a05cb6b1ac3b82b2d89fa3867bfd7581cfce1f455a0caa185b717e6d4426a06",
+"js/load-image-iptc.js":"de0fd14d651135633f23260018c344e8557e9dd0be03b3a9132514956502a393",
+"js/load-image-meta.js":"aad4b73a4e5b710c3011101b3e3fb444d8a3bc4d00e93c2db376ffcc5d8e6aec",
+"js/load-image-orientation.js":"ea1fe71db950aabfe4c08e84088bd0fd95ffdb15d46a52f88391b04596750caf",
+"js/load-image-scale.js":"b7a36ca3687a8835860178454d9d3af3d189819b256281f7c11aac3499e9193b",
+"js/load-image.all.min.js":"3461fb5338f92ff802b49e52cd43ecf1978d3b8fe630d6549e203a1895f13d9b",
+"js/load-image.all.min.js.map":"213c8c30d1e7fe24275b169d7f170cd7cf01862a00f0cc6507e7fa57cffadf57",
+"js/load-image.js":"dbc5b74f859a34454814297872dc9a72cf3e9c428e0a632f28332016a9b5ce68"
+}

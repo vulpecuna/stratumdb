@@ -1,0 +1,21 @@
+{
+"coverage/Chrome 55.0.2883 (Mac OS X 10.12.1)/base.css":"d3118cfa2ceae6f6c270b0555e98e633815bcc99cbef73a366299d830102c44f",
+"coverage/Chrome 55.0.2883 (Mac OS X 10.12.1)/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/Chrome 55.0.2883 (Mac OS X 10.12.1)/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"coverage/Chrome 55.0.2883 (Mac OS X 10.12.1)/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/base.css":"d3118cfa2ceae6f6c270b0555e98e633815bcc99cbef73a366299d830102c44f",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+"dist/highcharts-ng.css":"b611c7e832c63bc954b7c0d8a0e2022f5f8d84bd17cd7a56f009356af92d3bab",
+"dist/highcharts-ng.js":"fadc2f6defa8b1de24d0cad1b8d371661d461579f658f570c07da71014f3b858",
+"dist/highcharts-ng.min.js":"defc73cafc3f5241c3d88bed16a817f9b35f7c6f78231bb1d9da83eee6849c8c",
+"jsfiddles/basic/demo.js":"58d4f7ffd9a73ce450e5b7af996933f86dcbcc794b4c7de203706f2f962ff549",
+"jsfiddles/disabled_change_detection/demo.js":"58d4f7ffd9a73ce450e5b7af996933f86dcbcc794b4c7de203706f2f962ff549",
+"jsfiddles/dynamic_axis/demo.js":"8221f1bf51b7dd13be047e80922d32166636b1dc258c20b3e5dedc789f83d361",
+"jsfiddles/multi_axis/demo.js":"e983e32373e28aced27829fa061ec24b15622d9f6cf7d0bf71aa56527ce27213",
+"jsfiddles/polar/demo.css":"716505eea427314508d3e9574fe43a1f9daaeaf71f27b9609c536703bf5a4b93",
+"jsfiddles/polar/demo.js":"286341e9a4656b98eca8605868526db5669aa5e94a4390330982b45309bfc477",
+"jsfiddles/recreating/demo.js":"f461a039a39039b8dcd285a2f75aa38f0a2bc3829a9406b270fb33f6a1e71351",
+"jsfiddles/resizing/demo.js":"58d4f7ffd9a73ce450e5b7af996933f86dcbcc794b4c7de203706f2f962ff549"
+}

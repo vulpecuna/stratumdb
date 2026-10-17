@@ -1,0 +1,9 @@
+{
+"dist/gss.js":"6d46a5cfcbc37c095331373305e389f583755494d9fadc810360b9d1ef143d8c",
+"dist/gss.min.js":"19e2be840701434be4ba106e317a6ff094cdcf860c69a447ed2a99710cbfd734",
+"spec/vendor/MutationObserver.attributes.js":"bdc60ad244a6b59208a06b09a746b8b2409492d3eb63e3c8a716846ecabf9c39",
+"vendor/MutationObserver.js":"1de2efdb4e5c803965c6627bb2793782c96d213658222be39711dab86cd59f0f",
+"vendor/gl-matrix.js":"c980a0c1f8b12a4f2c5bcc110a44e7d12efa0e8b14b81fd7d84e3dfc30a4cc76",
+"vendor/observe.js":"1e46506818bd1b94e9bc7b02af71da169ec6bd696b67b9290548240fe70421fa",
+"vendor/weakmap.js":"dc59ec7c154035423c644333194627c4f48b05d36de7b53f16e1c0671986e98e"
+}

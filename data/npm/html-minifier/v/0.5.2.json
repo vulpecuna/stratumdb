@@ -1,0 +1,6 @@
+{
+"dist/all.js":"9255a92dc7af09b0020e691febec23c693f6c372441ab4c2d4023cf9b77a8c08",
+"src/htmllint.js":"8c6915d670066fdc60f8e0f815004d8f9418afb3dcf8fd733228f6e3befe9c44",
+"src/htmlminifier.js":"f5f65dd3c769eb37918bc33b7030cf9ab48daaa2643230569268bcbc0d1e7abc",
+"src/htmlparser.js":"b9cbfe31f5131bef3400c0b9eae30e5e241029f139a99f3b7965f29f93dfd735"
+}

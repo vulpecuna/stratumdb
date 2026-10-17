@@ -1,0 +1,13 @@
+{
+"dist/compressor.common.js":"1456c60752b10377afe15505306cd4522d27b1b1ba82bd8afe883650538a800c",
+"dist/compressor.common.js.map":"375be6e6a3e2783af39d6a4a5d16bbb81e6af25043439b2d15cf91418e78d034",
+"dist/compressor.esm.js":"e68d00903834588bf83a552d0ada927eada9cc66a8c16c071ac63c07084f00b1",
+"dist/compressor.esm.js.map":"d452bd403f8d2cbe8dcdd57b1428b6d00fcd8ad4c79f90aba61ab50ad7e59a26",
+"dist/compressor.js":"5034a90b16e5b975a2e8061e329db782211f88223b3792d44a1fbdd2762db02f",
+"dist/compressor.js.map":"0561f14dcd87c8689973aeb8d5c476ad94fe7c67320da1aa2cacf432e97348ed",
+"dist/compressor.min.js":"1a7fd72723cf40c05b658217f97f070c460bfcb6a817baafecc919b5e541f1f3",
+"src/constants.js":"967a7b8c8d04fcd990fd643a6bdbef9c7bd3a382c9b7bdff7aa8fd6eaa6b629a",
+"src/defaults.js":"08dc83822b700b18efe78121bfbcf4b74d98340ef5c85ba65c6ed30cca3957fe",
+"src/index.js":"56c3457c24e2eddb9c800caed3f3e632a980dd982a6c2fc0bf4a724d5635c004",
+"src/utilities.js":"5e042c34321187394ecf40adda0fec9f68adeebaa60aaa8062327dd0736755c1"
+}

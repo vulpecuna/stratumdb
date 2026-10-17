@@ -1,0 +1,10 @@
+{
+"dist/bcrypt.js":"83d1cb72770bc8b4529944e9d24906831af48fd79d499f06b20927e28d6ac78e",
+"dist/bcrypt.min.js":"afacf337156859749dd44addb9c99cc82e31be23b1e8189c2e3c3d2e17a8242a",
+"externs/bcrypt.js":"4177a6181b6b114f8116e20366e943b19c5600bef5e1e6ca3ef6c6d03793f8a4",
+"externs/minimal-env.js":"b619a7d293ddd99d7c1f7e7543da62f283ecbcceee6764604c70ee3c0c86e597",
+"index.js":"2565e8a47cea4a35f2e35065bbd3ee03e0c75e1f21de3fc2bd78a2a967a0b56c",
+"src/base64/native.js":"dd607c47555345620a91a93ab6faa0f1e710b98da2affdf787a30538289b5508",
+"src/bcrypt.js":"5be108a7c01df80d038285d9f7add0ab6b92363456992bb6c37edffb4cddb141",
+"tests/suite.js":"ce8dee139b69868db3817c9893139beb8ef9b22a8db6c8c9eb886a9460e55f67"
+}

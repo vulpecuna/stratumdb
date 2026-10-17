@@ -1,0 +1,9 @@
+{
+"dist/css/bootstrap-dialog.css":"6de32e0156a24bc47e5f4dc84064685b50fd797cbbd243315aebce287ef04dd7",
+"dist/css/bootstrap-dialog.min.css":"c2cb5333517974e7fb7209e5447216ddb9a844000687a8cbeed308bea4ee1591",
+"dist/js/bootstrap-dialog.js":"c325c45067266e90220c7f5616c1e9f2a0ec5a9a146d033d1c5c9867c9812df3",
+"dist/js/bootstrap-dialog.min.js":"802c69c9ec9d7a5b530897c30dff512805b48762fa5f4361d2283ad97afdef7b",
+"gulpfile.js":"2f1f5f84d40e6ca1d2f94f7cc8a19bdf26a09083b4cc159abd94b9542857d524",
+"src/css/bootstrap-dialog.css":"6de32e0156a24bc47e5f4dc84064685b50fd797cbbd243315aebce287ef04dd7",
+"src/js/bootstrap-dialog.js":"c325c45067266e90220c7f5616c1e9f2a0ec5a9a146d033d1c5c9867c9812df3"
+}

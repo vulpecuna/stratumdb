@@ -1,0 +1,12 @@
+{
+"Demo - Grunt/Assets/Styles/base.css":"dd7736cd524579ef78045adbb7403213fc514b4ddf31a83a7bace87f817ff805",
+"Demo - Lazy Load/Assets/Styles/base.css":"1ba6eb6bb4bfab6332b5d58302b5e8ffa122b61b4de3900cfad3637bb3d9554a",
+"Demo/Assets/Styles/base.css":"dd7736cd524579ef78045adbb7403213fc514b4ddf31a83a7bace87f817ff805",
+"Gruntfile.js":"b0d6853fe22f1b21853a41c5399584db74f090797fd25fee7ae35a6eb1b94abd",
+"Imager.js":"bfd239a1c61a7280ec329975f12c88a25733a46321c7e65fbd88e09c10aec982",
+"dist/Imager.min.js":"c2a4eedc0d5e9b5d1b6534d78db298719c30edc8f6313e4f5540f6acf4d3f9d3",
+"karma.conf.js":"9716ace3cd20b2273b96ecc759dee9ff269f920c0b96e09cf0729fc3a53aa18a",
+"test/fixtures/jquery-noconflict.js":"6bedbdb7572057031966098d7064ed252db33fc085708d80a0ebd868362054cc",
+"test/unit/core.js":"cbd66ed505bb0e90e047d626e361425cf177ee2ecb8096fc2e16ccd0769acd27",
+"test/unit/options-events.js":"c8e76fe466ed16cfbe485c5c57ab4b2a7317a65c0b653b51a2b30ec8ad5de4d9"
+}

@@ -1,0 +1,17 @@
+{
+"Gruntfile.js":"46716df829d5bae66c1379b3d118bd2bd4ce81020bcfe4832d06471dc0f48c72",
+"clmtrackr.js":"1e7010e293f7b2d0a47aafa6e010eae009b74c693db9b9f0e1faa2607d8c67de",
+"clmtrackr.min.js":"08dd9570c05d67b30ec86c6e732c70cf1b2e096711387e163e028f1b0dd86713",
+"js/clm.js":"48ce9f70c33f273398b4f5e9fba23120e2dc44bbe718fab1311089ebaec7e44a",
+"js/face_deformer.js":"e6d055419caad64fdf73cb4c53ee075e141a98cf461b893f20ae9e593f0274c6",
+"js/license.js":"556eb668210afd9c2348e3261a4b9a5ad1644f215eb12993e506c11d04817f1c",
+"js/mossefilter.js":"6d09f974a0e10bf176e873d6d95bf9f53682f400a64b542db321f6d10b80bbb7",
+"js/svmfilter_fft.js":"9f723813883edb5d3b53e45aa583f19912e2dc02cc3f056b66e89935552339b8",
+"js/svmfilter_webgl.js":"6d37a5eaff14fe5c661b5cfce7dd37b2d3c04c259a856fbcec0d8c2e236e4964",
+"models/model_pca_10_mosse.js":"1bbe0b03eea1971a243b542d082db6e326548bc7383837e83b093e5109854613",
+"models/model_pca_10_svm.js":"94e8fbe62a1613f847f6e57948075257cc09ab49250073fa7adfcc3611a0efe0",
+"models/model_pca_20_mosse.js":"9bfbe406a0df639b6cf0631f8d8c1435b8cb0d7f50976eed694c495e0dddc15b",
+"models/model_pca_20_svm.js":"1e8696d00450bdc3f22502a63365300d013443f813f6193893aad9a54fabacc1",
+"models/model_spca_10_svm.js":"dc9d48ee1b813b7a06ecc70af770696e1de469be4fc8843446df4c785ac2bc84",
+"models/model_spca_20_svm.js":"1bff46b7691c51e8d06223319676a744a910531380d049014b219b717e76af34"
+}

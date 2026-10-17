@@ -1,0 +1,14 @@
+{
+"js/index.js":"22dff5c6e0d85eeece0947b382fb40383b3353b5613828a01225c38a276aee5b",
+"js/load-image-exif-map.js":"8eaf32059437020cec08e6344cb4ead3f80e2505ed4e985bb85806c2d771544e",
+"js/load-image-exif.js":"508485b3e6a9298ff3ca976592e23b53d9c71164c247c5174b95caebdd756ea6",
+"js/load-image-fetch.js":"8cbc22bd98d4fdd2ff4b889ba69fe9db986737a3ee74300700da69b3576b6e8e",
+"js/load-image-iptc-map.js":"ffbf44269f9454c89934edde777dea7f16852db63fab7126a519af346a3784e5",
+"js/load-image-iptc.js":"bc9154487057f27ec918b68713ac95d462b7f88dbc088fdc7da002a433d5ead8",
+"js/load-image-meta.js":"ced1944311d9e8c0eeb4239e92ccbf8346f494d31658b80edb472be8ff48ebca",
+"js/load-image-orientation.js":"51c1c09de8b11be564af3376e8b0ea287c3b2abc8a244c7348e700dbcd962d83",
+"js/load-image-scale.js":"5a0dae2890ef02f21b1eeeaf284989318a5f8a47b7903d39706eac55d2f7860c",
+"js/load-image.all.min.js":"8120a52afa06b635d68373102ffc5c0dc34c655f5b7de991395acfc5c86ab97e",
+"js/load-image.all.min.js.map":"851fb33fca7c3754ff157f9b2dd2e96d0dea7fcfea2153a5023d1391048c2ad1",
+"js/load-image.js":"65b9cc96446765693a6489008017175094f8def0f6381b5d7915764ec3ab8269"
+}

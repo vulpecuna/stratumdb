@@ -1,0 +1,13 @@
+{
+"Gruntfile.js":"c53e778af42aef6f0108eb3c25523ce5c39e9cf9b9b465915ac9c8cf2874f8b5",
+"dist/algoliasearch.js":"efd6517d6655c97c5ef4d7528b2ad0b33d4dc31a9f9e0c2221840c0cb659f7e5",
+"dist/algoliasearch.min.js":"2a8098cae16fd1184b0e68c6ee6f0009c33a2e0e5f777bb8db71cc5116cbd26e",
+"example/style.css":"5680d3e4cc00d4e46bd73c6fdd787a6b474171852e8aa8c867d12d9862859a35",
+"src/algoliasearch.helper.js":"8a18f5d1f7b9124645fa91ab62d16b29db80deb7f5db5321bc90f2f190daf873",
+"src/algoliasearch.js":"7aebe0f577a0e5e78bc1ff9cf840df299081551eeef8b8b66f904042071d0376",
+"src/algoliasearch.places.js":"61990bfeca0cd5c39c3316c4f4539b7a5d0b44dc960e44d7330d3d9ae1f7ad08",
+"src/version.js":"920f42551d591cc24e7cb3f05e1381af313d3be0b094d9422c31a8a5bdba08e6",
+"test/client_spec.js":"e5ca4bc9fb4fd2a10fdd6ec77fc132c8db129f7a4aaa6aaf3e7ce1515d255cc1",
+"vendor/json2.js":"925947d3d711c4441a9db20f51215fbf5c119d2a3b51cadb2c9031907d8014b5",
+"vendor/typeahead.jquery.js":"cddaaea7625921289dfa7ad0542592d2ff1d1793610a239df9dcc3677e2f11f2"
+}

@@ -1,0 +1,10 @@
+{
+"build/content-tools.js":"149bf09a05eb45ae177b761e7a660e9a30451d6c5e064cbb4726de9f98911366",
+"build/content-tools.min.css":"fb1923ec6ee4209c119d15c366d697aea15e36f765ce1a657fe23a06d9c8c253",
+"build/content-tools.min.js":"ecb9ceac8371d3691936c8adfad03517cc9a76e27d2f79d6a1a42f6c3c631b5f",
+"external/scripts/content-edit.js":"07779a1fb3cf73bcd3af0cc07334f94a1ee23a089cceea3c81be77fd66c113e9",
+"sandbox/sandbox.css":"49ffed861c6c4611910c623afc48cfe249c23dadcb5376333a2e7d07c8ccda8d",
+"sandbox/sandbox.js":"b93ecbac4d77f55840357a117367e5ae1c7938df60968e34dd11d69c72013412",
+"spec/content-tools-spec.js":"415d11c47974debf6770e8404d159ea182e510a710f2731d1fbb2ac13d69eed0",
+"spec/spec-helper.js":"877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05"
+}

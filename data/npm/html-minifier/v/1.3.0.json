@@ -1,0 +1,8 @@
+{
+"cli.js":"4d10291062bd7a76c7a0c77c0ff0e18104679d09d3aaea930ac1c1a2b7382450",
+"dist/htmlminifier.js":"db793591ed4940bb7c42fbb4a3cc9db1119b72f44612fa2a00af27262555e925",
+"dist/htmlminifier.min.js":"555cc677f15eb46b3fc21dba3e44ed3ec5082097a09ce577dd1e4d6f0937e2e6",
+"src/htmllint.js":"52fc9d0bd17718315e371379405117a63ce4c2e42e7083db81da087dd12ced07",
+"src/htmlminifier.js":"d38ea2206eec91a8693827aba7e9d19554f439c0eec8fc51cdd912216cde83d9",
+"src/htmlparser.js":"634434d057281579d1b3eb5ab06fdc154ceeb025a1feea383c62d959fd1673b5"
+}

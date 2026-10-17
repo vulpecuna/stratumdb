@@ -1,0 +1,15 @@
+{
+"dist/colornames.bestof.esm.js":"fc35db9442ca8a1c9673f72c706716a66ed2533fd368523689e0c2eacfe24c43",
+"dist/colornames.bestof.esm.mjs":"fc35db9442ca8a1c9673f72c706716a66ed2533fd368523689e0c2eacfe24c43",
+"dist/colornames.bestof.umd.js":"3326dc5dc13e342a70f0ef9a6aa12f4a882a989ef19617f0e23e2a144a207c5f",
+"dist/colornames.esm.js":"b79b85f62ace14ea151dc5b16be6be7370d8f97bf7566a75dd11c2e1b502f766",
+"dist/colornames.esm.mjs":"b79b85f62ace14ea151dc5b16be6be7370d8f97bf7566a75dd11c2e1b502f766",
+"dist/colornames.umd.js":"f97e93a2cbbc48201446b90ac0125d58ec28275d466766b3850584c5fca70b6f",
+"scripts/build.js":"9f5687c12a8554d319f715f94d48d09726dfcb1f8fd4678b7638257e6c973b84",
+"scripts/findColors.js":"97a9f35ff689bcb70ac85c63d9b204c203cb902ca0af344df32e572553c21bba",
+"scripts/lib.js":"049c52fc09427eda708ee272632b08dfaa93277bfd5135cb0f0c369507cc9f6a",
+"scripts/server.js":"88553391c345cb73529868bd3446cc29e7528615d799d2dba983fdffbba9cc0c",
+"scripts/tools/filterUniques.js":"61892fd562267bf026b6a054898897215586668f66f7af56f82504f2031ec4b7",
+"scripts/tools/remapNames.js":"c569f54cf6a7ef83b30461d0205c0aaca36d037b89eb2c85f5ec95c31f872ec9",
+"scripts/tools/shiftColors.js":"0b40f510b1696899321099da48858a934e7453671c44346201a7a4ea62913bfb"
+}

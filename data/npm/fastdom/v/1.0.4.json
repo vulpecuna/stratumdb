@@ -1,0 +1,8 @@
+{
+"extensions/fastdom-promised.js":"e6d3f7966ce84e328d9a9ad62599fee791d92d3c46fe7fb3a7c7ec638b568751",
+"extensions/fastdom-sandbox.js":"b40e386bb8d72bd4a6f2445a21369f9d8a59a252204ce6b683a5b25a349366bd",
+"fastdom-strict.js":"284a1672522d69574d3e45ddcbb6ce15f949f3d11320b85129b70e01011d4b79",
+"fastdom.js":"292374373c0f09940348eb0917dd3d1e06951bba2887ae15e62d0909b27ddebb",
+"fastdom.min.js":"5ff9c8fa0df32b2c5a52adfea757b1e63bc2ff9eca5c0b3fff1332f1627eca34",
+"src/fastdom-strict.js":"935d1785e9cea74d2858e3b5517a34b9e822184755eb7aee31c2925075716051"
+}

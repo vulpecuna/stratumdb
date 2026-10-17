@@ -1,0 +1,13 @@
+{
+"build/css/bootstrap-tour-standalone.css":"091f7189ccac6c79b14f272b9defd802d42c13b078922646bb446bd26443f08e",
+"build/css/bootstrap-tour-standalone.min.css":"5375cec69b7710c46050b81a06b0a5e758650f1ec6a4f6654bafd54ae53db339",
+"build/css/bootstrap-tour.css":"474be600f1fae67f02a8b9b67b29f1acc79c4f866953bd392357174534014ec3",
+"build/css/bootstrap-tour.min.css":"aa1830a5dbb8513d679839bce51ab250898f64f230622f478c96727d4125c832",
+"build/js/bootstrap-tour-standalone.js":"274e8ac00e05ddb60947224aee9ed4b8d3c4314b0d946a5e06fb0b9827133811",
+"build/js/bootstrap-tour-standalone.min.js":"cb0da0c4203c6a3cc56904f733a38095cfa3faeea5a2eb84f7515d09ce958218",
+"build/js/bootstrap-tour.js":"ad7448378e35dc7548e14b321c0ab971dd5580732dfd18fb59ed6180bd8d20a9",
+"build/js/bootstrap-tour.min.js":"8afb1f2ada3af9c7a8102b2e8dc01ec45d61a2cb23c7b29ad824aa09b9b59780",
+"gulpfile.js":"798cd24ffc1018abe96c4af7c484d74aaa1074a621da723e801c6867c79b031d",
+"karma.conf.js":"80b2d0a6fd06efdb656b92da19fa2d657bb71519a033bd6c476b7417abe823e9",
+"package.js":"801e99a2a8f23e262111db194266b479dd72a3667642b5b1f97687eb46f0c389"
+}

@@ -1,0 +1,14 @@
+{
+"benchmarks/compileBench.js":"463cb66e1afea3a763f264fdcc21a2798642989af8b1e6b01190fee2f76953bb",
+"benchmarks/jslitmus.js":"891108a6167cbd7a03d41b3080080c67315c462bf04b6642aadb172e975967b7",
+"benchmarks/templatesBench.js":"c87fbf3a69e71c53c72d023c40c45ba1aeda3e9af5f62f1b4b31c5cf575344ed",
+"benchmarks/templating/doT.js":"9874e27c7a1e798482d54d85b42ea724a5dd49e5d8eb35f5244dd838194cb202",
+"benchmarks/templating/doU.js":"8aae9b05261c3ae3cc402b2177aa1e9e2d298e663fcc981d1d209adac307c27b",
+"doT.js":"9874e27c7a1e798482d54d85b42ea724a5dd49e5d8eb35f5244dd838194cb202",
+"doT.min.js":"769a7ad71e695023436ea3ddccb5a01db5f9b541e0443dfdd4bb474424f53c6d",
+"doU.js":"8aae9b05261c3ae3cc402b2177aa1e9e2d298e663fcc981d1d209adac307c27b",
+"examples/customdoT.js":"7dc45fe8b6e8acd385cf226ffc3088322ccf2132eb8af9de9eeed355af404dfd",
+"examples/withdoT.js":"ff8d4df33151124776ae7885e0a2347e5935cba3b8ac12e486d1883d00d4c537",
+"index.js":"2ca4ab7662251d10033e2ef09b9ee2ed79f3f58a5b6117185434b2bac129f5cb",
+"test/testdoT.js":"2f58e62d1b9b21efc39a76b01dc160d614b6028d19baddfe24d577bccdcf72b0"
+}

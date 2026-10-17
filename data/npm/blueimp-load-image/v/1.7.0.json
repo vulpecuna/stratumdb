@@ -1,0 +1,9 @@
+{
+"load-image-exif-map.js":"8bc6934f73a95184bed63bdf9928fa3bafcad0bd20da790573925614c521f326",
+"load-image-exif.js":"4f598ae983338ab82c04dc976cb96a4973d166b6397f9932ce7c4609180eeb98",
+"load-image-ios.js":"14fbdd7a812e344f1e772e185d3577db5ff7af287fd59162a728d8df1fa287e0",
+"load-image-meta.js":"1e4dd166fc7c0dcb6afdecdf2f5dec6f25d22ce5148ab10425eaa438192f92bb",
+"load-image.js":"0217985fe21e5d42b5327866022c4ea72458b0d48b6b96b1bd91d2f4b265bdf1",
+"load-image.min.js":"7cdcb7b6f6304150dc8ea6290dbeb12097df62fe5de25a9c44e6b94f7a46f98b",
+"test/test.js":"4609dec6ed4a717fe8ab4e63173db9203651ca4888d9da3f2e0707c028284227"
+}

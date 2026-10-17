@@ -1,0 +1,14 @@
+{
+"dist/autoNumeric.js":"9037def57312f05bb3b21a7b11ab29223d7ff0f63a552b90367cbd3e025b8448",
+"dist/autoNumeric.min.js":"02df5c57b530e61da273712daffab3db38c170a9bdbef0d427c233b09224fe53",
+"dist/autoNumeric.min.js.map":"dd58c6407e5c3a58e8e681d00f4b4d1525ec6aae0478ed2a1dbbe5c4d8865406",
+"src/AutoNumeric.js":"d516e561e1ef367e02c2335c8b479bc83c00840e9c35e9e3737cec01ca0dd817",
+"src/AutoNumericDefaultSettings.js":"ba7dca664eff51c653c85bb15c5faf5da927992ba7e5b98b8998f0fd71e8ea10",
+"src/AutoNumericEnum.js":"0a6aaa6505bd90970a580cb59541132772d442e0544b3086f94db8cff3e931c7",
+"src/AutoNumericEvents.js":"3085f20eebbd8782bf7d7f7b7726df07c535178d3c54874b6c0bb322cc680e43",
+"src/AutoNumericHelper.js":"9256eaae0667cf899638cdf84aa957eea4fbeea3da7a1109f2d190dd5ed6fc9b",
+"src/AutoNumericOptions.js":"848749097a8d2c15321115f53b7748b0ea6f64f787a561e60dc34a2fe92dc4a2",
+"src/AutoNumericPredefinedOptions.js":"cf11bafae002e69fd4cc12b2c6aacceaf225ef4814318c2367f5db1a4bbefc02",
+"src/main.js":"f3053691c167a8e2785a9d3c9fa58e054ba9655efd6ec5bd9e1f40d132278255",
+"yarnfix.js":"5929914917375049d6cff356c60d3753470ef4d8a569b2ccf9bd93e553613dfe"
+}

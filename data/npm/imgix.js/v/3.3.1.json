@@ -1,0 +1,12 @@
+{
+"dist/imgix.js":"bb6732a18e635fdc673c06fb6a61fa373e66dfbd178e06011b1d88ac57c2709c",
+"dist/imgix.min.js":"fa4e54db90c96db0c894c7f0a1562300bd401a4c54d9c138ee15e411467dd8af",
+"spec/ImgixTagSpec.js":"f678ea057cedceb568614b28138acf27184667509fb243071d95e698bd2315ba",
+"spec/defaultConfigSpec.js":"e4d8c625d2f6f8b720fabd5e3c4fa3fc9a22932ff11de87c258fc23dde604cab",
+"spec/utilSpec.js":"068adb724ba8eda338dc5312fd3a1a5c6c4305a1c5eea8a13189711100935056",
+"src/ImgixTag.js":"ccf753d5ef1bcdd252870fac7632ab5893d7ca67d49adfb2413dc698a2355bf2",
+"src/defaultConfig.js":"c5646f379c4dbca57085707d82c0e14464f5a1622f051591ca825fb69fb2c76e",
+"src/imgix.js":"45ab3d1899b039aebe139cd4eae59c439a18e366ed3206ea8811ce856ce0a8b3",
+"src/targetWidths.js":"6b7a1a7611ffefc4298b0643867ac241aa37f012b883170759d56561abdbb175",
+"src/util.js":"510c155e7f03d09f86bfad9754db6b4932498c313cc4e26b532d296e1b9a7389"
+}

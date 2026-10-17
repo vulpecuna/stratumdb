@@ -1,0 +1,16 @@
+{
+"build/rollup.config.js":"2174c1dea99131f3f5e8e9e13fe0d86758d7d46985f3f9c0de3e434f8506a77b",
+"dist/file-upload-with-preview.esm.js":"b06d475de88ff00173295587fa2f9f0e22448e0c139fd43c43d23dc41ea103c1",
+"dist/file-upload-with-preview.min.css":"239bd62f4566874ba190159f81b86fc83e3d611eab7bc90ab016cff59953e163",
+"dist/file-upload-with-preview.min.js":"c8e5ac0f61703d66042c8ad8d6453ad37fc6338631f1bdc44a2fea97fcd1e2e7",
+"dist/file-upload-with-preview.umd.js":"b7cef38d3cc4e884b7e396e66ca65ce7df54cdd4f2d00597fb6ecf9463ee142d",
+"docs/main.34b59dda2bc5f58aff5d.css":"307072893da8d4e08a4dbb31d95621c9ee422f6e6d7c0839c09f598a5162230a",
+"docs/main.546310cb9577066438f3.js":"25b1820a0a453fa79ffbdaef38db8873a31d8d4229671d4ff5014ffe8f0e6d41",
+"docs/vendor.fb499262a9e09dc42cef.js":"ee97223063364bf7a2d0c0e1abb3c4f4e50cc5751b2dc8ae4b521d6c98f38dc7",
+"example/main.js":"1374090dc7c018380116d76ad2df95b978a3f186bc846d3903689f00abd1b505",
+"src/file-upload-with-preview.js":"7fb92d0f4195a78625c232b57eacbc6b98ea7b0a14e1f4487d57fba29b9bb128",
+"src/polyfill.js":"cbc5a923988f95707cabdbed2af1ba1d461d1738d0e65a549e6ccb77d73109e3",
+"test/FileUploadWithPreview.spec.js":"ced70a18db8e910473349b478bf4420febf6e3c557bfdf4712df972fee69389e",
+"test/styleMock.js":"73cfa9017ef1b3ea621767d17bff36ca90f5523b51a5aa215221402cd00afcc5",
+"webpack.config.js":"ed4f316e8aebdcc60c289ac125476af58b715f33a0a7f546e49579e0193adfdb"
+}

@@ -1,0 +1,7 @@
+{
+"can.js":"b6f5b5a8a625755015345cc6f798838cc69439732a6a231b123d0a53946b2633",
+"parse_kcd.js":"11202e02cd713ede5c0a71db8e4e43e977041e24366b6c18cebf38e4898a7036",
+"samples/simulate_node.js":"da8a0e63ce75c02c249b236ecd7257bd6d66e42f7654a8afbeae77d83343adfb",
+"tests/test-raw_basic.js":"84471ff68603398039a9e31b6e8450d579f0908ab4e1c76615cc754ebd7dedb0",
+"tests/test-signal_conversion.js":"357dc2708bfa8a495cc4beb557c88f1532f8e30c1ba510e2661ddbac6ba2969f"
+}

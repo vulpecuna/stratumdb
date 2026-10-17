@@ -1,0 +1,8 @@
+{
+"dist/dx-diagram.css":"5a61634181e06b7373dd4041a8e8a753a3e0b5917b50f0c6f1c39e590697ed1e",
+"dist/dx-diagram.js":"d2a638077756241abb927e8b0c25622e9f5a7b09356b9635305537d4a59f5b63",
+"dist/dx-diagram.min.css":"9c37369490d35a62c7fedbd1d1624f4518c4cd2add8d8aa5d927d6e792a3b1e9",
+"dist/dx-diagram.min.js":"9168926a00bbfaad97e4714a0fe950a5e55f12ad408d91dfea010a4bc2f00127",
+"dist/lib/webpack.common.js":"4c2c872a09bdf8e2247393970ca269bb97299b2640f1717a7c72469cf25ec900",
+"dist/lib/webpack.prod.js":"b962f7c1377f5daa3f03c1dcd5837b1e6edc4b180685d80743a7fc1be68d16a5"
+}

@@ -1,0 +1,13 @@
+{
+"dist/angular-storage.js":"c202da5c13591e9373ab537bee0913b6f06aa4e7a1ea3f985fe511d0205a72ff",
+"dist/angular-storage.min.js":"12c9dacfdf74ad29b8136453237e19180f4d5614d8424abfb847af3c68182114",
+"gulpfile.js":"74d491dc5a52424b64d6da8d9c9426216e9eaca39233ccd4b0cfa718eb37d4ee",
+"karma-dist-concatenated.conf.js":"1db85785786615234bc3b77cf4541e429bf454520298a94c4700204072f3b058",
+"karma-dist-minified.conf.js":"39148c8a90e516d55a61388233fe25ceaec25c0080589283d2941207999a7299",
+"karma-src.conf.js":"963d817ec17744c482fd3c0a370bef20c5c5b342d6f1ef218ffb95556794edb8",
+"src/angularStorage/angularStorage.js":"56ef796b1713d1cbdc773899dfdb288e95e7baea84b1dc3ed3d4d75cabbfe38f",
+"src/angularStorage/services/storage.js":"0eeb3b77edef4c406c16e52dc0e3f5de6d076b03d1d5e2a9a01ad0017e63ae0a",
+"src/angularStorage/services/store.js.js":"b231edbe0ec3a08aa04a6969c2fae66ceba3a79464649bed64187789c7ca654f",
+"test/unit/angularStorage/angularStorageSpec.js":"9210cfd96caff7c9170436aea0f919b906afda269558f01680bbb81461955adb",
+"test/unit/angularStorage/services/storeSpec.js":"95c4546ab27a2ab1162aeaedfd2f1d1677b28707a3d25742d729744f842461a5"
+}

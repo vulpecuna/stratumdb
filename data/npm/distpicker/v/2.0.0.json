@@ -1,0 +1,13 @@
+{
+"dev/district-filter.js":"007244c0304d19ef51eee8fae95f2fcd4b8a223ec1b7ab9795764d84f4a24940",
+"dev/district.data.js":"27f3305ca3ec7762001b38b666d78e0298f495b1572efb4f251e67a61e43d221",
+"dist/distpicker.common.js":"3017d78a4ddd7feeb92ee9d2070b7e52ace795430a709f3dcbb337c11f9356a4",
+"dist/distpicker.esm.js":"cc20a8e6ccc3230c38766e3feec370888a9dcf364db0079b4c79d8cc2f0e7a94",
+"dist/distpicker.js":"d121c78e7bd9147dd4cd729856ac3e057f8db40a7c9d46dda096059cea326f90",
+"dist/distpicker.js.map":"adc81c166de85837d7c6f9c7ab484c047d76478e088d82434bfcff91fbef6e9a",
+"dist/distpicker.min.js":"3e8fc579548d7cfd21e1591ac552c4fc5ba2764d3c664826904914e64d602854",
+"src/defaults.js":"6978e58d15462deb63a5f08d6765cadc9cd66015235e1de1471a2f4dfd54be0e",
+"src/distpicker.js":"329399bb232b0db505444f6bf27d12b5dcc2fd6194f1b4c41a33e051d86dde3c",
+"src/districts.js":"96848938043edacd2cca99d03406413b05aac44c4f65042389e111a08438ab45",
+"src/index.js":"5992908ecd2dd9541a6b1e7b8860a97e46196f5aea208e68b171b93c88e6abf4"
+}

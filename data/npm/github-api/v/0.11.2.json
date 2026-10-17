@@ -1,0 +1,16 @@
+{
+"dist/github.bundle.min.js":"2e42875d690393fa51f5c45ac603eaa4142f4facb59a879a369619e374eca4ff",
+"dist/github.bundle.min.js.map":"a419314d074de86bd81f2bee938e88ba8e6c072511152e0a2a18d84e8fbf4588",
+"dist/github.min.js":"4429e57caa32b31aca7cf05bff49e7106126150593f8422f0ae0f98a6db861a8",
+"dist/github.min.js.map":"77426108f01fa727d13751c080014d46c3b1a5f59e830204de34b306d7c6cf52",
+"gulpfile.js":"38e65449cc66af503e35ea610b47edbee09aca8c916a14d3dcff5f478f7dd33d",
+"karma.conf.js":"91dfaf9b243f1f297fb06cad875ef0b945eb7b3ee9cfbe203a45eeda523783d8",
+"src/github.js":"bb7015e50fc772b8452b38f9221a3fe28fd32ae1184e51cf47522b538c16cc0e",
+"test/test.auth.js":"f774f75c14dcd67e3a220c03069e81229f27fb7daf57e721de3dd70c3a4f9de1",
+"test/test.gist.js":"6cd1344f4c0c7bd14714a006751166813631f37c484b389cc8984347218dbaa0",
+"test/test.issue.js":"151a146b2f6ba2c4343ad96d92e2734cd91ca204c7647c16181eed2ae0eb56b9",
+"test/test.repo.js":"cd5d6eaa300908417a4882628319b048d651c21848cfd43c1c7eca1b6690efbf",
+"test/test.search.js":"96e969950c2f10980115ad7e9c20d20446498676dd30246d0fa88bde990983b2",
+"test/test.user.js":"0bbe428c63d864c303a37ab0d00c5d73a6ecb1e624b198f8b900e543154794b7",
+"test/vendor/Blob.js":"d1f38f27f9aeff811d09eef64829cc6eb2091fc300afc2cab4071d8250a8fd38"
+}

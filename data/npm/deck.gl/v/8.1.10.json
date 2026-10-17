@@ -1,0 +1,11 @@
+{
+"dist.min.js":"0adb2f9bfb93ba480c2531306a218235b758dacc4cb7f67c8b8b7474b19c340d",
+"dist/dist.dev.js":"f5c4e4113f85bb2c2a907a0cf4f127732d3d0f163f2c96112d8220f927a0e446",
+"dist/es5/index.js":"02253a1526d23f8fdcfe86031f001aa9f351de35427dfda6edeae3230ed70457",
+"dist/es5/index.js.map":"5100bb7b2ddbf578ee99885395f78b4742c2227e917f03c7261157599d398234",
+"dist/es6/index.js":"881d3745543420a322c5c8edef999abdad0d70ee6fbdd88e8b7d7a0c01ad6b48",
+"dist/es6/index.js.map":"d7b302bdd05b721fff5fca401257d519bbc1f02653aa553ed4eab06d061db770",
+"dist/esm/index.js":"881d3745543420a322c5c8edef999abdad0d70ee6fbdd88e8b7d7a0c01ad6b48",
+"dist/esm/index.js.map":"d7b302bdd05b721fff5fca401257d519bbc1f02653aa553ed4eab06d061db770",
+"src/index.js":"30d422129e7c5d35e98f72ad2e80a860a717e5d153f4bb9e3c6c490a9b7ecc2b"
+}

@@ -1,0 +1,11 @@
+{
+"dist/chillout.js":"0a66da30a287f7dc16a411298f0601aae1c37f006999986e3358cce84ec1828f",
+"dist/chillout.min.js":"754fa701ebe1796be7ec71b507fd50836378389984ce988c794078017b324b8f",
+"src/banner.js":"f95bc7c6fde94d30d22901eb9eeb7bdb1641b794bc8f6c0b9a45ea59c691c274",
+"src/index.js":"03b74f9eb1aaaa1137435725eb9add1ca6159d9308684fe4b95d5bdc86763fcd",
+"src/iterate.js":"5f7d2209e89f181bdf64bf39e30e83b50a3ca6acecf2227e16d7a7a1daaec668",
+"src/iterator.js":"77dd226fca1e50615b21087786d2a65b6b2daad9d6dd2dea5aac90c610769ee7",
+"src/next-tick.js":"a5e01db1540ac36188fdc8faa904a1b544cd24cba5edead0560bb8ff8c96c754",
+"src/stop-iteration.js":"e2ca729f3af1aa185870fcb38215bc58d7136c2dd9ef85bafc2fb40efab14e76",
+"src/util.js":"7dc7213f91a66397a3a2a33849c86c8b874545fcf3c6e30cc37bc3e89d42b419"
+}

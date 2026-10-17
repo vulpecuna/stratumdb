@@ -1,0 +1,9 @@
+{
+"chartjs-plugin-annotation.js":"a58b5bd68379cf2a06ac67e923639802e1d878684bdb59c7a14d282692caad20",
+"chartjs-plugin-annotation.min.js":"70488b9eea55b8733b488adf067726381a1ef5f824894277a75b2d6a2496f618",
+"gulpfile.js":"e9db1da8dc33844c18cb30c289b9e9bb2eb213b5cfaab74805bbbcc01bd74159",
+"src/helpers.js":"9392ade6882b01dc365b66441a7f3e8bb7b5009491221597e519d18128337b37",
+"src/plugin.js":"be2a98cd26e15b45b3a9474bef86d0b426f795e974d7e2e2663afa82db8dd68f",
+"src/types/box.js":"6c91a5fcef2676c30f33ae06f774eb0804f57e6bdc1c6a4bfb6f76c81c15c6fc",
+"src/types/line.js":"35896526ad2047dcd171edc51021035f8d9f6e4e0906d89925add8fce690ec3e"
+}

@@ -1,0 +1,16 @@
+{
+"Gruntfile.js":"f550743fde1503b76e8fd34b539375d4f004f1758233847afb6624617632724f",
+"dist/formly.js":"7c58de749af7f3ca7db463247ef25e2ba980b19ce97de97d5b31e6c9fa426dc4",
+"dist/formly.min.js":"c6d209a4ecc525a32aa3e3e08bc47a545ab0a37a4425b429c6120d1ec0eb20d5",
+"dist/formly.min.map":"bbf3edc8af955f35134345dd647c37c920e04d8914d1d32be19f32301dbd1965",
+"src/app.js":"99852c9e364d1cbe573327c1ae2cf0e1c544db802f0fe60372890e0857b2c68c",
+"src/directives/formly-field.js":"b70112cdc6d6f0c409a22e590a344d4a71eebc106d81f6f3348f69e318ed429e",
+"src/directives/formly-form.js":"626098665631f14ee8b8676b5808584779e580bbb34257a050ddfe9246f0b88e",
+"src/main.css":"de4c6d13c74850fd3a20ee61cb69c247aa732ccd96e3f23943b1f63f46ba5328",
+"src/modules/formly-render.js":"f5cf9957cd675c938e0da7a5816722b3d0cd603b1257d0bd22242dbdff6af799",
+"src/modules/formly.js":"bf549bcd35be9736be87334bd72f20a4681a91c9dc23ebd2832a87e260a8ea07",
+"src/providers/formly-options.js":"42f83aade8f02ab9dc78707ca10b4e7e2eb2edd450fb3a9ba0b8b30df6e81a91",
+"src/providers/formly-template.js":"25e3b7d3b9d6aaaafd19b273e26c56fe167f018ca88a8f4a70b87d9ac5865c92",
+"src/views/custom-field.js":"a96f7dcdc46903d363de2791fe4c4df2d3f2a6f6ef66a41e335c32a729f9f5c2",
+"src/views/home.js":"47468412672ee6083c87eef4aa135421f58bdc0ff956b64c350f41139da565b7"
+}

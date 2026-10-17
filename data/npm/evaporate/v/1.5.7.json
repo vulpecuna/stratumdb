@@ -1,0 +1,16 @@
+{
+"evaporate.js":"13359c287fceb532dc470c6b0dc65ca1139335f59d611453c279518fdef3af37",
+"example/SigningExample-awsv4.js":"052a3b346a16531d058f9e5f4afb422f49f05bb95ad52e20d453b54294b9f06e",
+"example/SigningExample.js":"f6ab4ee04c3f411a7bb399796db76453c19ef88e53ec3e1680b82f191ea14c80",
+"example/assets/example.css":"3f5fb25f776a9a39b5c99ec6b7293fea655c225aff6891e6e4e8cf7da1ebfe5a",
+"example/assets/progressbar-1.0.1.min.js":"56ea4cd865555cad9cdd29aae4bc578d41c166f7964ecdf986ed5a97ab2cea49",
+"example/signing_example_express.js":"f15062b03581a488e5b644ef4bc7fa7aa0e9fb3cf4790fdc48b225e2e11f36c8",
+"example/signing_example_express_response_handler.js":"167409a5250f546ce3354866e76e3c6082a0bd534d5b79fd8215e5e93726413a",
+"example/signing_example_lambda.js":"84a4a53934ac16cecc08f777bc651cabed4868189fb65bf7cedb7f93ab7f48cc",
+"example/signing_example_lambda_response_handler.js":"a2ce17fdd6fc6e3f59d7319f9e5df5f760c9a1e2813335dbf9a3c9bd66b74aac",
+"test/aws_url.spec.js":"51e035369b37ec3d3234b67e971cdf983c9c03e805b4559c3caa8a73573bbeb8",
+"test/evaporate.spec.js":"565bb51f8fdd528ac4ad6ce35e65791adbdef420d66fd8099a4857f4744145cd",
+"test/fixtures/complete-response.js":"e32048320b98fd8881b5a8d48d2f5a8a357977b5c34a9aa9cdf6bf36ca3e339d",
+"test/fixtures/init-response.js":"e4da27ea771610c99ca6f4cfddafaac3ae943fd7406e33574c3c545dad6e94d6",
+"test/helpers/browser-env.js":"640fbf0de95cb41e2241353a0418f2663ec055cc8ccf7ae99eb78a819ec7a9b0"
+}

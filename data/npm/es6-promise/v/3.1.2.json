@@ -1,0 +1,16 @@
+{
+"dist/es6-promise.js":"68cc2ced4018a913274f1697737255c233bcf0c99da9c332ac731066b4ddec95",
+"dist/es6-promise.min.js":"212a059b042d523f0b5ebf2b26f5db4845f667be8b811c516be17a461e8e3110",
+"lib/es6-promise.umd.js":"35dc6f3c32e7163d9fd1b1ec139d90a220e76abb13760de80bbf44138c87df11",
+"lib/es6-promise/-internal.js":"91ccd3ab2782abfd65cd6b037fb7b1da795bbeb2364c00b764395c6df785f0c6",
+"lib/es6-promise/asap.js":"2c263a62cd8166da1160f51fc41895917ceeec5cb43e6093f62649cb99f2d861",
+"lib/es6-promise/enumerator.js":"4d83171c88ecf3cb8650697b1db5e616bb1b9af3cd81f6ff1a9c4825fd1d9079",
+"lib/es6-promise/polyfill.js":"4ef1d9511e49d983b516f87a6ede2b1ef539d6e7157451840766a9d1336f2748",
+"lib/es6-promise/promise.js":"4841cc74d6e762d4135066dbf1545ebab2f0ff53aabab0042bd2a4f61e627588",
+"lib/es6-promise/promise/all.js":"8f2ce5172260f808dbed4e40ce0d594078e658ddfa40d4395d11c7f0091b594d",
+"lib/es6-promise/promise/race.js":"d3f2541d5c11345e258972e6e9819f5568c4facfbdd7ad8cf32ff9d958163f96",
+"lib/es6-promise/promise/reject.js":"f5387aa5f98af2fcabbd7f2b00a15ef6f86f2fbb0f866cf5f9dd439ba0a6cbf7",
+"lib/es6-promise/promise/resolve.js":"3554bb72174946e6296d3650ca69a4fe2ff1ee6844d475a3c279ade182a2f965",
+"lib/es6-promise/then.js":"c88da744076b8f975e64a1e7454f567e94a2ff63d8000cc6630d715cdeaa627b",
+"lib/es6-promise/utils.js":"27a667caa07562dd6a055d0413eb6c0bb998a48f6ace8abc334f7338d05a8a53"
+}

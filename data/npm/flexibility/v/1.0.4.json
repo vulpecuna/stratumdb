@@ -1,0 +1,16 @@
+{
+"build.js":"b89eb522ecba4037ba8ee341c24f209d5871f0398256b111f3cb4f65c55779a3",
+"dist/flexibility.js":"ea366698e7fdbf9b7e8cd9ac0c27fe1b12f9e818bc4119704f47493d8aadda44",
+"lib/core.js":"7c11b626143073d62662c2e851b63e5e85f5b96a599c75ec66b683da4dd4a47c",
+"lib/detect.js":"3bab1eb6b6132ae4ea9e6edb38d6947c8a454efc17f4872c9e04c7c9e5721696",
+"lib/init.js":"fae350e61f50743094147eb15384890f24efdb2d7f9db7787c4b36cc4c2d1653",
+"lib/on-resize.js":"d1da680095a690e74f42985e252c9d1710923f1846c70152877fea82978f4f39",
+"lib/update-flex-container-cache.js":"52af53bafa91137190a0badf6a400ccb73498ba0f3c7d2d453ae20ecd53e1aa2",
+"lib/update-flex-item-cache.js":"39b622b8a833475fb3ea2749e4ead0d2daea758b46182f13945dfa7e4931b031",
+"lib/update-length-cache.js":"29f25fa4cbb64d4850b0e9520319ac3864d5e7db4bfb102b730a518ee7dd6a3e",
+"lib/vendor/array-prototype-for-each.js":"29192c14e5b1cd2d0c39ec9e29b5233297a2cceba305464aa0124a9c0dd3de52",
+"lib/vendor/css-layout.js":"b2ff9969d46953c2b1b2c21c5df1ec3fcc87aa30e457fac7a1efa733489747a7",
+"lib/vendor/event-listener.js":"e62036089b08c5d91a3a55002989b19a622053bf968db75454b8ad169a08d220",
+"lib/walk.js":"8ac6cd8ac1efb1fe2d336ae9990d5f6112f1b1f184940326af6c2573357b6eec",
+"tests/test.css":"eb4a453dceb1f9e7e9a0c66994d96a411655b1abc43f79c5fe8f32769339474d"
+}

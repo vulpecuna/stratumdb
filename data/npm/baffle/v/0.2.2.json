@@ -1,0 +1,8 @@
+{
+"dist/baffle.min.js":"aea661a9c5ff63b8dcc32490c704dabd673f1435abecfdc74d2c711b75c466f1",
+"src/baffle.js":"55e37b37e9cc3f37fcf0f4881ddd01f431c2ebeb43a1210f2d8670567aeefeba",
+"src/index.js":"635b5d17692ef9e87c3925190adba127f86a91cf2274073e51510f30fa135419",
+"src/obfuscator.js":"4991bcc961bd8a244f7a58226a6ca2d62ff3f1012aed26be2680a4afba235271",
+"src/utils.js":"120579ed4518be19619a09ba36b5c9e0998f8e1f34d820fbae8f8fe17747b0ec",
+"webpack.config.js":"dc44c467db6bb285376806c280f2582f06ad34d3f7fa192bd926fc995e3e1e6d"
+}
