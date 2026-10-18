@@ -1,0 +1,14 @@
+{
+"adapters/backbone.bootstrap-modal.js":"dcbf661f246a52fc3f26038f87666bd367f11ddcbccacb812156c6e75bb128c6",
+"adapters/backbone.bootstrap-modal.min.js":"7513babf66f81d518ef836fcd765bca30109a4afe4339b30eb6890971e3aac22",
+"backbone-forms.js":"f63559b1969702181ca04d6425a8ab2683f46e206acbc6b71fe03b082bd34514",
+"backbone-forms.min.js":"77521dd589fe44136ea4f15602f3e2c74e1315057afd4a46802c83d642471e8f",
+"editors/list.js":"a8274254fb27f52c7a9af6a70c24671470829f1a7a889776484272594fb33787",
+"editors/list.min.js":"df608112e6583cd6fa3a43bd873cb02d57eea20dbce21b164f0684e262023d97",
+"templates/bootstrap.css":"a2409e7c405aea50c22369ea93bce429ade39f7b9c2ba0b958d908eaccd5059a",
+"templates/bootstrap.js":"c5606a9fe13f26bfc164c33f89ccdb1b899c15ba19d8fe87db26193a3c8fa203",
+"templates/bootstrap3.css":"a2409e7c405aea50c22369ea93bce429ade39f7b9c2ba0b958d908eaccd5059a",
+"templates/bootstrap3.js":"3f914ea6d82761c346f489a6828ae3c21dfb9ec40b30b161a545b249b236152a",
+"templates/old.css":"666ae67ca002414bcd2ffdd285e5b81dafa2d52af1a68bfff9cee21512aff973",
+"templates/old.js":"7f190c71c9e9290885d3663cd0a13b3438e7b33d2967ca069c22dba4a37baab9"
+}
