@@ -1,0 +1,10 @@
+{
+"bokeh-api.legacy.min.js":"fe3ff9bb3ba58a1032988392c94bdce2938828e87588d6a6a2971cfe98c25031",
+"bokeh-api.min.js":"bafc19c253a71e117462e447434b5b36e39065f929a4b6ce153d84644f771306",
+"bokeh-tables.legacy.min.js":"7377cbe4c7ae5a5f4c149879ec507256f1b4ff86a202b6cf178160ad5a86f35e",
+"bokeh-tables.min.js":"1a02ef998d42e5c5387118160995550de4513c908293b76032d44e924d9f0c5d",
+"bokeh-widgets.legacy.min.js":"609175bdfb6b0ad0ad459940cbe38bef67f07ffb5e55b61cddfcaa30cb7e212f",
+"bokeh-widgets.min.js":"6bfb27573cf8fd3b4a48663b488264f15ebe64391e6168dd90df1adc909a6862",
+"bokeh.legacy.min.js":"5354d9466c4911d7c36b1c8b51d24a43ff07cbbf874ebe3095d7f95e8c246db0",
+"bokeh.min.js":"f2cec734ed613668480642711153e65ee098e8cdcc7d9c9f818c9d563b4096fb"
+}

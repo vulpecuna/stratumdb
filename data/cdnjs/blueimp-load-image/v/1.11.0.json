@@ -1,0 +1,14 @@
+{
+"load-image-exif-map.js":"e0f95462ca3441d9c5afff1eda491e4ffd9c316dd45e22a9da83d3010a7e4814",
+"load-image-exif-map.min.js":"ddaae2144faabb7d743e9a63ae52517f1cc76906b5d69e6ee361c25791b96b23",
+"load-image-exif.js":"874f32cc52efa2ed9e9aa2d4488194cfa23b2627999206455a636616c2e76f40",
+"load-image-exif.min.js":"e1823f41e412b1f75b5f9f2e4577f80958d3dadf6ff853966e8748ad7c4eec80",
+"load-image-ios.js":"8e74230db5ea94513c79f6e5a146f4f8286e29356c7a9fabde2c0d9fc16d790b",
+"load-image-ios.min.js":"7825eeb2788102a3fb0a58072de388f7d62cd4a0d959a4337dea783521d26007",
+"load-image-meta.js":"2ebc202aaab3ae5bc409e91af6c231c4c99b13935636d3c6f40b302638241619",
+"load-image-meta.min.js":"e0140bf48ba33cb0bd5c36775424138fcbfb485cb4c2d31eb35dcb6f8f26695b",
+"load-image-orientation.js":"3db764a30e96f4e8d3d24b7f7f68fac0aa568541cecb0cad70a74a6fdb9e835a",
+"load-image-orientation.min.js":"f55cb11d52d3a6726fe4a181700b9905523da60a1be18d7e71321539de0dd245",
+"load-image.js":"fc86487cebf9f8d3db898374dbf217e268a070bf2c570b68fe4b6ccb93562971",
+"load-image.min.js":"c016fd8f1668e2c21f73494e1b2919ae1b1b2b6d48a0a1b9298ca84b4b39b8d7"
+}
