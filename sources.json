@@ -150,6 +150,7 @@
     "backbone-validation": {},
     "backbone.epoxy": {},
     "backbone.layoutmanager": {},
+    "backbone.marionette": {},
     "backbone.modelbinder": {},
     "backbone.paginator": {},
     "backbone.stickit": {},
@@ -494,7 +495,9 @@
     "gotem": {},
     "govuk-frontend": {},
     "govuk_frontend_toolkit": {},
+    "govuk_template_ejs": {},
     "govuk_template_jinja": {},
+    "govuk_template_mustache": {},
     "gpu.js": {},
     "grade-js": {},
     "granim": {},
@@ -5095,6 +5098,7 @@
     "waitress"
   ],
   "rubygems": [
+    "govuk_publishing_components",
     "hanami",
     "jekyll",
     "mailcatcher",
