@@ -1,0 +1,15 @@
+{
+"dist/cjs/index.js":"d2d5fb5b6c0d837b2d20885c60f54002f7fd0f9cbe8e0b41d5a1e74fce2b7744",
+"dist/cjs/react-redux.development.cjs":"f8b05076b0f370bcb1cfe24329a88b0df5b76c4393945d3d06ef9ca5a65bec0b",
+"dist/cjs/react-redux.development.cjs.map":"ccad187bc63e4e826496ad40bae0b2e123548aa64395bd3897292852ccec1442",
+"dist/cjs/react-redux.production.min.cjs":"3708fc572c51783cd85f50cdd07158ce6c37dd7bdb1a4421d5cee2de2fe2ece0",
+"dist/cjs/react-redux.production.min.cjs.map":"cf3a68cc09de32ab16215e0806e5c4fad12dd11db4ddcf01d2f73e9e7c485e01",
+"dist/react-redux.browser.mjs":"0d6d587517ac38ea653b2854504589126db8e5f70eb0d7b6955b2356c506193b",
+"dist/react-redux.browser.mjs.map":"01c9c4a41a8f4c925eefdf9ab1aa19f053f3a433a28f1af0181b652e32561baa",
+"dist/react-redux.legacy-esm.js":"0c506191830b5bb3c52a8eccf0aeaffcf9962fbda3b4c568d34e4e48ef0952b0",
+"dist/react-redux.legacy-esm.js.map":"5def08e1d6b111b33cca83d0fb00390fd36848070fc8b99ee658bcf0fc61eb5c",
+"dist/react-redux.mjs":"eafd53d085f652b9a5a76308b30e1ce90eab2c924b45e176c81767c88412e7ac",
+"dist/react-redux.mjs.map":"5319b8b632cc8af0bd89cc80f53249403efd1b054a7bdec93d9a1a4e03f3db1a",
+"dist/rsc.mjs":"d8d3ac2136741a904473316f97811f551415a33caf0080f18e92f10abdfc5886",
+"dist/rsc.mjs.map":"11256ade936f56eec649a9b74a704be6927c36140dd8b406d61eaa1d8302c91d"
+}

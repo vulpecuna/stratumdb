@@ -1,0 +1,16 @@
+{
+"dist/react-redux.js":"34c5d465c6d985d50d28681f7eb6a585c6d73e0236c64ebd8c177cb19de7e4d4",
+"dist/react-redux.min.js":"08f01e25022845f574f1c07a82f392b279516386083b4f4d3a13cb8775678b82",
+"lib/components/Provider.js":"bb0fe868a3ad65e8cced68f3bb541c65a52d2f6ce7b91a092e97a0226f851a06",
+"lib/components/connect.js":"e7b79bc75743b895cf448c8d44ffb18ee9067bb9446841e792529aeece2fff97",
+"lib/index.js":"bdf90022d85ee6e775450fe2140d1c8c76fa360f49ee828f160c1549116003fc",
+"lib/utils/shallowEqual.js":"6db3473919488d6bdb5ae7976a4692f3ce6ef16322d54c4224e79c464eda63d0",
+"lib/utils/storeShape.js":"23c09d42029579e99dddcedc29fa687480fc27fe3d3da06ef0a0615bf2b13cfa",
+"lib/utils/wrapActionCreators.js":"7411618514110b34a85b1786a24ac83d730e6bb751f6fc51a2cb355ebafec392",
+"src/components/Provider.js":"5d19a7c5e695accffcd1e997f2931ebd958ecfdeadf5611f9741010271d18254",
+"src/components/connect.js":"16785d6f8f0d88cd5b9fda748cb7467c9b44d652fa8030046d629731f0fcd808",
+"src/index.js":"af0e82d009a2ad528a90fec44c123c51a1ef7844fe896c2d651373a72911d332",
+"src/utils/shallowEqual.js":"0cc7721348ab9f079e55c4b241089ecb3abfa0dbb6bdb4bcc56deac18a699c78",
+"src/utils/storeShape.js":"50faffb7082f1c4b79330ab720bb27dffb9abfb003db6fd39fa6c091021213ae",
+"src/utils/wrapActionCreators.js":"2ad275bd3995dd2cc88a98ae067cb948b9344700e43738a4bd8e5f9becd407b1"
+}

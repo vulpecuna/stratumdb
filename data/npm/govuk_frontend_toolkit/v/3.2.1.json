@@ -1,0 +1,16 @@
+{
+"javascripts/govuk/analytics/error-tracking.js":"a4abe7d44f44f73d28bf0d3240afcd5ae6832b03586ce9eb077860e19def4da3",
+"javascripts/govuk/analytics/google-analytics-classic-tracker.js":"186db0753ef5cd8dfeb7fe58a90dc8c66f83b393857e12ac99fabeea3bb67fde",
+"javascripts/govuk/analytics/google-analytics-universal-tracker.js":"2db21bc59c3e10868088f940014762ff3201d23ba93326a16dbf97fd6f44bc3e",
+"javascripts/govuk/analytics/print-intent.js":"21e7e320be50adb6ff42b8195487d2823027bd01cb6dc97b00599c2adde63165",
+"javascripts/govuk/analytics/tracker.js":"695f5da88639f90b4d59cd91a89774b99378ffc57399b771532c4f1ea5ce26a3",
+"javascripts/govuk/multivariate-test.js":"ad8e4363c6867db770aabda8543cd34b6ef94c747ba7c0f8b345641be02dedb3",
+"javascripts/govuk/primary-links.js":"fe10c77ab476f76c5f8041250a4c4e1a23fa42e21c6ff9b61b04a2a46e5028f6",
+"javascripts/govuk/selection-buttons.js":"645d1dac4ded7a9af547d78d716c804c9691501aed9e280e595e6371d512462d",
+"javascripts/govuk/stick-at-top-when-scrolling.js":"610503995102980bafb1efd4b71cb6c750019a020aaf1d968d9d63efe547e130",
+"javascripts/govuk/stop-scrolling-at-footer.js":"61753efe3d964074fd143e9cd4677e226f9276bddc66f8add5429bb21d3bfc33",
+"javascripts/govuk_toolkit.js":"31e087b09fb1c84ad1ea56d07ae9c8d628825719c0ab31a134549df47aabd13f",
+"javascripts/stageprompt.js":"a80ef31579d9b0aa70d7f39c044476fd8efffe7cdb66c29cda250abafcebcc82",
+"javascripts/vendor/jquery/jquery.player.min.js":"4594854342a9b8727e7afb5f12573b20a184d2898688f02ba8af02d8e3cf33ca",
+"javascripts/vendor/polyfills/bind.js":"298670bd147f2c023e76026ca559ffdee4ed8fee93b2a7260bfa164252662073"
+}

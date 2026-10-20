@@ -1,0 +1,20 @@
+{
+"decimal.js":"56c79e36e23353b40e2a3af9551d23f6cba5a3f4e147167b74b6c9049b9202bf",
+"decimal.min.js":"74a1faedc222377009d4f2f8724659008f1fce2e8454b1a52b446f2300f7b5ef",
+"excluded/Normalise arg to ln/ln.js":"c4d58dacbe6b63c54b4639346bde5ee2e4dccfc2719168d3ce22a887c1bf6c48",
+"excluded/Normalise arg to ln/ln2.js":"8c2a9f453804305ce2c6db80cff56b2250c3f40ddaf60a9bf7d5cf2ee61054ec",
+"excluded/Normalise arg to ln/ln3.js":"cf05a3acd7d320969281d419fdbbbf193a5800220364ebebcb246ae8a9cf82e5",
+"excluded/api.js":"1480642279b7b3c9b92b7f1c0fe332aa353f86df191156ba8da50e14f6a0459b",
+"excluded/arrayCompare.js":"e0ed94af99ed0bde330166a652d0af0f63f07068e6daf5d0c3f081ec65bb2230",
+"excluded/base.js":"e1ae5fc11f8484265a3a096293dbaefbd07acac0b4c0d9242fe2b3cc14d45da4",
+"excluded/bigtemp.js":"1517b38c6d36265bc85e3101f6bb72839e8305f8b419904dfd23bd2920360c6d",
+"excluded/checkRoundingDigits.js":"d2c19df28b7c7a2cf1e8aa03c3891c365d9ca4c5cd827869f93b8480973981b2",
+"excluded/errs.js":"bc750f9970360fa34eca421f2247b165b8896607fb5e704cb9bd665978dbfb20",
+"excluded/ln_argument_reduction.js":"d5f87cf170ce43bdb716c336a21cf9c7a7001a75143e7de6b8f9e705f184acb3",
+"excluded/older.js":"e7342ac8c0d17ed1239869d215e90066667fb07ddde841cbb63b352fd9fd74db",
+"excluded/rands.js":"a9f40fb7dff302d5935316eebcc652f10f769f5e2e23d0065636f2bf7f0fc022",
+"excluded/rb.js":"8687f4cd7a56b64af3c92dbba26663031f561e0402d0cbfd54f3daea65f84f0a",
+"excluded/rnd.js":"ffefdf27f11d1f91219e393f63ba1e846b9e0a6a73c31854361b61e639f794b8",
+"excluded/round10.js":"68de447199cbfa7a3e6f79e75fde8091538c1f97679a25a950a5d51bf2b31430",
+"excluded/toMagnitude.js":"6eb20b078b83e293b0886a7575f91a531f1db28e00ceac1593d156baddad22f0"
+}

@@ -19,6 +19,8 @@
  "npm 3dmol 1.1.3": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/3dmol@1.1.3?structure=flat",
  "npm 3dmol 1.1.4": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/3dmol@1.1.4?structure=flat",
  "npm 3dmol 1.3.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/3dmol@1.3.0?structure=flat",
+ "npm @antv/g2 3.5.18": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/@antv/g2@3.5.18?structure=flat",
+ "npm @gouvfr/dsfr 1.13.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/@gouvfr/dsfr@1.13.0?structure=flat",
  "npm aframe 0.0.9": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/aframe@0.0.9?structure=flat",
  "npm aframe 0.1.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/aframe@0.1.0?structure=flat",
  "npm aframe 0.1.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/aframe@0.1.1?structure=flat",
@@ -72,5 +74,7 @@
  "npm jsxgraph 0.99.7": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jsxgraph@0.99.7?structure=flat",
  "npm jsxgraph 1.12.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/jsxgraph@1.12.1?structure=flat",
  "npm moment-timezone 0.5.36": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/moment-timezone@0.5.36?structure=flat",
+ "npm ractive 0.5.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/ractive@0.5.0?structure=flat",
+ "npm ractive 0.5.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/ractive@0.5.1?structure=flat",
  "npm react-modal 1.6.2": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/react-modal@1.6.2?structure=flat"
 }

@@ -1,0 +1,17 @@
+{
+"dist/cjs/index.js":"d2d5fb5b6c0d837b2d20885c60f54002f7fd0f9cbe8e0b41d5a1e74fce2b7744",
+"dist/cjs/react-redux.development.cjs":"e9ad0c89912ec35e8446edfa4e13ecbeeda0a1ea9bc9d8b5f2213918f1147722",
+"dist/cjs/react-redux.development.cjs.map":"d5fbb90c3169d3b5429c4df5c7d86e16bce8f744755e781cc3d9209e4a4297f4",
+"dist/cjs/react-redux.production.min.cjs":"c1c11fd7d439a12dbe6bb6c47d9901f58bd8779fcafeaa51c676bf1c1d88da7e",
+"dist/cjs/react-redux.production.min.cjs.map":"0731c97566655b61f5f95f46a3fac3020440866c29b8bf91a3d237fc7a2d17e0",
+"dist/react-redux.alternate-renderers.mjs":"b4feaeb20a3cc83d5b55f9476c2aadfc91be9bc6f823ae782d2e0b7b6664c3f5",
+"dist/react-redux.alternate-renderers.mjs.map":"e3df062005b594abf986c4c0d1abf520bb77f54691ecdd8f3048a85e664885fe",
+"dist/react-redux.browser.mjs":"63fcc30efdd1d4c9ef76924a6334fc0f87da64ac9f007b133bd1a7718db7f4c7",
+"dist/react-redux.browser.mjs.map":"7c66a9f108759c202cc1746551f290283db5175b7ef4e9854ec4407f5a332936",
+"dist/react-redux.legacy-esm.js":"2ced9f2c45964a143f231c479870bc829ca472943aeb799b39b4e573a29650be",
+"dist/react-redux.legacy-esm.js.map":"ac5639a375ce7ff0583424299e6d79013ebae3ff71cc78fd6c88af583d3c192b",
+"dist/react-redux.mjs":"d0a3e387d4bf11f23f4a3e9c45cfd7c583ff4bc18272597cba829ee7c7fd0227",
+"dist/react-redux.mjs.map":"6c59988fa6f30dc6521a538d524920811047641a1f415d205d14af5bdf7057cc",
+"dist/rsc.mjs":"7a40d6046fe9789b1b6da07d1d84b7c335eec4e6b4c9c82ebb4f83c32da1f513",
+"dist/rsc.mjs.map":"788297575591019bf004341c2b2223f80f33238939ec6c017a1067a9e3dce0c1"
+}

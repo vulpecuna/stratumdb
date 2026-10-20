@@ -1,0 +1,8 @@
+{
+".eslintrc.js":"84c51354d721aea713593d4f028fa7826917241c64fe08fe301ce55413ab6fd9",
+"dist/echo.common.js":"79ae1f32bbdd832726864d5da8a5de50f6d817222a8ba52e98b8cade8cdf6ead",
+"dist/echo.iife.js":"0bf76ea1c95a7673e5ca7ade023f47e8615de4badd27cae0b4aab048d5887117",
+"dist/echo.js":"661694b810460f31b385c01efd05dd22a5330c47b86eb43d36f7648002e76da7",
+"jest.config.js":"2c7dc04b29eb696b9a687e1329340f2cff301eba873cf756582e7d78f76691aa",
+"rollup.config.js":"acd80f319ff42c138a74e5fd47cdc82c93e27440ea53702543ccbc7285992fb5"
+}

@@ -1,0 +1,15 @@
+{
+"dist/bundle/asciinema-player-ui.js":"907a8f1fb77d90c2ba607ddabdf10313c34f2bb57aeef2cb3b996390777f4d05",
+"dist/bundle/asciinema-player-ui.min.js":"1afc9e1b90a34d14a9dbe126c40fe9cd21a049e36aad17af1055db31d93c04e8",
+"dist/bundle/asciinema-player-worker.js":"31c68e99ff9dc410223e0e52ed87920861e48a06f4d83cfe1ca1cea163eea917",
+"dist/bundle/asciinema-player-worker.min.js":"cb94680719589b46990d5ab82ca7040cbc4e611c9d28df38ea1b7085cb401e6d",
+"dist/bundle/asciinema-player.css":"c9ab8b978c4547141eeb6131caefc5604df2ccd78e2f9076931d7691ba47f399",
+"dist/bundle/asciinema-player.js":"ae52c188b9571441238b786196299662e109958cfe6b01faf46807bf8f015e09",
+"dist/bundle/asciinema-player.min.js":"9d8935b4945bcf5658e4792550ec93189c40d82f411cbadc6c9851a2dbb9f6d5",
+"dist/core-BvuUaS2U.js":"70fbb1e79c91e68bb7b9cf531fe4d47e6ff2a28c3c60ae5f214aa0f69ba706e5",
+"dist/index.js":"8912899263d48632cc610e21f700d15edd89c7e31ae9fa1fb0a99ea8dca03999",
+"dist/logging-Hb94EvsI.js":"735bcc9c9268b7d674805588dddeb845cf85540c0d0a7be4f14f093805cbc192",
+"dist/opts-YEEl_YBu.js":"225b0dd78e4c10d88c82eed2e556d8ab1599b8fcd53bd477a2ab27f10727a3a1",
+"dist/ui.js":"58c4c1b019ec2bcb08ff9cf2ed8ddbb53ccc5bec69b9b91cc8680e18100213e8",
+"dist/worker.js":"44509b6a99f9009c404407ab583cc85df7c6d7ccd237e8de6b94866cbbe3f085"
+}

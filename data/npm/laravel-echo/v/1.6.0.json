@@ -1,0 +1,7 @@
+{
+"dist/echo.common.js":"0d142ec81bb75df927e229cbfaa315f61f6ffac2d8c5eb215e9e99b790377e55",
+"dist/echo.iife.js":"d6b063d12c9dd1d72f90175aadc61145e84e99641f95f009d1b95c047467fab0",
+"dist/echo.js":"cd23c2e909f6fd9b2bfdeb3334d6030eecab65f0e98fafcdfd2aafbd1ded63bb",
+"jest.config.js":"2c7dc04b29eb696b9a687e1329340f2cff301eba873cf756582e7d78f76691aa",
+"rollup.config.js":"5468f92dd5b74ad66c455136d680f82560caa78c36b880924c69080bce45cbb0"
+}
