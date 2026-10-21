@@ -1,0 +1,12 @@
+{
+"coverage/lcov-report/base.css":"d3118cfa2ceae6f6c270b0555e98e633815bcc99cbef73a366299d830102c44f",
+"coverage/lcov-report/prettify.css":"ea3fe433f9450698ca8a230271688e7aeec12f99c8a7ef6c94379abb38f27823",
+"coverage/lcov-report/prettify.js":"67126b6cd4d1b2305f8c8fa5974971ebe90ab2b0f6e209ba2f1c6e4af05f0207",
+"coverage/lcov-report/sorter.js":"a2e1ee8eb42ae6152ffb680f1f3419cf4a189412b4ffc663252492d47a968914",
+"lib/backbone.marionette.esm.js":"f6a52e73af9306a6104f71db0de578643a64966a95a7226ad6eef06e01431a3b",
+"lib/backbone.marionette.esm.js.map":"c47260be217b93650483f993ed7f948cc7500650d07097045bf3042c8147e90b",
+"lib/backbone.marionette.js":"702b461e11a91b02bdd18e0a152efd04e62bafe48cc68a0897913d3ba8bab5e9",
+"lib/backbone.marionette.js.map":"3ec6919de5e9be24ca43ae8d32cf2eb9108d0ccbb46136e845f94d8e0708b793",
+"lib/backbone.marionette.min.js":"f80b2ac374a74a6c71ae34956e8e128d8171440aec394561c16f3b5c21b2c21b",
+"lib/backbone.marionette.min.js.map":"b3117bb43911472b7f7033d3f1c9cb7edb00992f216eb9277a9fb4ebb83e103e"
+}

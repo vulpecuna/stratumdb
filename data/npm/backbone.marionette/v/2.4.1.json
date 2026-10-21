@@ -1,0 +1,13 @@
+{
+".grunt/grunt-contrib-jasmine/jasmine-helper.js":"35b8d024c9a8e87be581d7671a9e1a20e3dbbfb4b09e11c7cf5d404fa5813701",
+".grunt/grunt-contrib-jasmine/jasmine-html.js":"658b04c10eaaac49f7238474a65d4a4032c7252618fc379d5480089011aa2240",
+".grunt/grunt-contrib-jasmine/jasmine.css":"cae030ef34b5e90cf6aa4fad7a7bc10035b400470d14961557306a9d46676193",
+".grunt/grunt-contrib-jasmine/jasmine.js":"44067ae5f28d8e9668cdc014cbfc26c273297d83a4f862c406c34ea747169c4d",
+".grunt/grunt-contrib-jasmine/reporter.js":"3272769b7ba08686610e5dd5e05906c49b942d40f50d9f40ab1c8f0550694f6b",
+"lib/backbone.marionette.js":"424c264610942b3a7f17e42e941baefc7e27a0662847cb71ff0ba5eb93bc88e7",
+"lib/backbone.marionette.min.js":"e78ecbfceb324e513008818d2c3939d4b2146963086a7ec27cadf68a7b23d319",
+"lib/backbone.marionette.min.js.map":"347d56e5044c01266a6d135ff72226a89003bc82faf9f5f0686d560e624e6110",
+"lib/core/backbone.marionette.js":"ed84ffd64cfce5456d7ca852df006a1319c5e8e76d03790995c741d8a010e073",
+"lib/core/backbone.marionette.min.js":"9d1338df4b13e4ab5363cd60a46bc8b28f099947602bc1c9592ded3443b46f45",
+"lib/core/backbone.marionette.min.js.map":"83144d41e152731e8826df7f10794008e89a28ef677c128da8c9e8adb3c9d95e"
+}

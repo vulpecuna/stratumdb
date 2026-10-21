@@ -1,0 +1,8 @@
+{
+"lib/backbone.marionette.esm.js":"6cd963d3739a8fc6160ac42511150e6bc4c60f16ab68fbaec48267c55d62492b",
+"lib/backbone.marionette.js":"d28d494b76414f2645c6a01a564ab686315acbe4fc64eb53c1e86ebc1a010870",
+"lib/backbone.marionette.js.map":"d45898b5fb3b98a021bacffc1d8b8552275fc6839bc33a05ed8d5b15a9abe983",
+"lib/backbone.marionette.min.js":"a84eec2c7d4c1948544d4be16e1ac8f7a7e5faa18e9f4bbea31ff18c2a77ceb6",
+"lib/backbone.marionette.min.js.map":"08d27aa7e6e54d79ca456321931f0c16fa1a5d74830367c6c80538b72c093d26",
+"rollup.config.js":"2a2e9c50a1776bd9a977ff5214194cd35e6e2ce82a4420574e2259fc6b04854b"
+}

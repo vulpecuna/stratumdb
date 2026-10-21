@@ -1,0 +1,12 @@
+{
+"lib/backbone.marionette.js":"ae2ad3b734038cb9087abd5417c137c44f7f6b86e631ba08b6b37c67ba09909b",
+"lib/backbone.marionette.map":"a9cc1f5246a855cb6c16291a3e1205558f7a0cb412b1e24c15d19063613cb304",
+"lib/backbone.marionette.min.js":"abb5d96b56c5729dc39c37cc487e640437e465f03e017085a3e2ddb76032d8b8",
+"lib/core/backbone.marionette.js":"a757c90ebc8ee721955d2a3683727e7972e09990436f2924725ec7879e41b9fc",
+"lib/core/backbone.marionette.map":"d7bec178680a8cf7b47c844c30ca32425b993eba42375a1373b38b8dca1f93d4",
+"lib/core/backbone.marionette.min.js":"44990bd12fd046aa5a78460b0689c61949e857a31337ecd17915ba7ca8c661f5",
+"tmp/backbone.babysitter.bare.js":"6ce866ed0b4ff0ae63f0cdd241e9070e925ab45a9e434c37fb875af1bc02b478",
+"tmp/backbone.marionette.js":"98330d6ee093bb6583aac425fa14807780f470cff275378ed3a1292dfd8e3e98",
+"tmp/backbone.wreqr.bare.js":"8e0d40d0ccea0a0ef44c92fb20be65b52a07249e2abc002c92b8d6325d99f17f",
+"tmp/core.js":"1de97a5cb436e3a5cbe013a3f33f9ceb3084dfd90666592f7ccbefdf28a1ac26"
+}
