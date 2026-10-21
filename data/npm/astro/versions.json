@@ -109,7 +109,7 @@
   "experimental--vt-partytown": "0.0.0-vt-partytown-20231212203707",
   "experimental--xray": "0.0.0-xray-20231129021231",
   "incremental-graph-hashing": "0.0.0-incremental-graph-hashing-20260807161014",
-  "latest": "7.4.1",
+  "latest": "7.4.2",
   "legacy": "4.16.19",
   "next--astro-check-fix": "0.0.0-astro-check-fix-20230830133734",
   "next--check-watch": "0.0.0-check-watch-20230303211357",
@@ -1576,6 +1576,7 @@
   "7.4.0-beta.0",
   "7.4.0-beta.1",
   "7.4.0",
-  "7.4.1"
+  "7.4.1",
+  "7.4.2"
  ]
 }
