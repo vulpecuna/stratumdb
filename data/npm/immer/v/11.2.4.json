@@ -1,0 +1,13 @@
+{
+"dist/cjs/immer.cjs.development.js":"691950ec319e810dd74e6d3c47329c42d1c8aa42d9feddcc43931c2d6e8f7afc",
+"dist/cjs/immer.cjs.development.js.map":"b7df50781c8f1117bb66c617cfa9001359f022224c5f5b09da615824c401d20f",
+"dist/cjs/immer.cjs.production.js":"72e9b796c96ca0720774234902039c73b83defe53b3c0b930c34797cf6c0335d",
+"dist/cjs/immer.cjs.production.js.map":"a7bd267172b0eb13ea1856248f0046670b8e4f6e55040b40dfd89311716f93cc",
+"dist/cjs/index.js":"7f637a5b444a27f4c6d66bd5be1bb0582691a449f0d3f15223d2463f9ceccf3a",
+"dist/immer.legacy-esm.js":"325b64193325823a8e35a8b6dc7fb8f8b778ab6defefe1373f928343447be88a",
+"dist/immer.legacy-esm.js.map":"d8002dba4175a3239e4dd643f122ed250132b0c906b90c0bde35e6f370f308df",
+"dist/immer.mjs":"ddf49865e64f088de7906304d1d8a5aed7c0ce155a1ba7e035a8a6f474aced65",
+"dist/immer.mjs.map":"2b6eb611aa4bb41b70b6384c976bc5a219d84c1a1d6e50945d1ffd3ae3c51b82",
+"dist/immer.production.mjs":"de2ceb91786c166c82d21f5c8b240650b8d23843a6b1b05e3fb1c07799f0021b",
+"dist/immer.production.mjs.map":"06d0ba15a400de1a10ed0bed2d44f21f8cc1fd3712fcf77b5ed7c7ff700a571e"
+}
