@@ -2,7 +2,7 @@
  "source": "npm",
  "tags": {
   "latest": "4.14.0",
-  "next": "4.14.0-canary.f86d978",
+  "next": "4.14.0-canary.6b52b84",
   "patch": "4.0.3"
  },
  "versions": [
@@ -1673,6 +1673,7 @@
   "4.14.0-canary.29819d5",
   "4.14.0-canary.33ca40a",
   "4.14.0-canary.44f5b6c",
+  "4.14.0-canary.6b52b84",
   "4.14.0-canary.7e287a6",
   "4.14.0-canary.811df26",
   "4.14.0-canary.8944d76",
