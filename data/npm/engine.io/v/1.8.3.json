@@ -1,0 +1,12 @@
+{
+"index.js":"bf915058c240ca888fe90f22d125fb9b6d430b8b7a9980b5fd73381a0c76323b",
+"lib/engine.io.js":"14ce323dd69bd708cf060400a5e813b1a57c57fd4f8d2109686af3c99b7a05be",
+"lib/server.js":"7a333758c79c145623f1b9db745c2a4371642371ae5beb4bef00abd8adc286bb",
+"lib/socket.js":"78b8c737a5c52c287ff8380ed4b66b420bf8418f7e6f0e1b014dcb32b0eacc4a",
+"lib/transport.js":"c3a44d07406b9e5fa64a51b7313ce56bdc5423cbc7d8ea9fb5971e9cc231d120",
+"lib/transports/index.js":"5a55389f845c0f47524c7b8ce225c7815bf071d946557870e8bf8c5f497f8e60",
+"lib/transports/polling-jsonp.js":"6d82a1c157969a6986492314ee7346a4a633f7f905b9d8e5793693a687e63c8e",
+"lib/transports/polling-xhr.js":"23751a2b0d0850b4ab1c62294c0bc846e933509e3080ea495f910967a3f3ba1d",
+"lib/transports/polling.js":"4f091136f1e3de69a04b4afa805ca03795f822194d73f17a0f0c3c3f3e2ef236",
+"lib/transports/websocket.js":"0cc4a3ac1563dd14dc84f875479058fe6548a984791f140629c7b36189b5f56f"
+}

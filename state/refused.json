@@ -76,5 +76,6 @@
  "npm moment-timezone 0.5.36": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/moment-timezone@0.5.36?structure=flat",
  "npm ractive 0.5.0": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/ractive@0.5.0?structure=flat",
  "npm ractive 0.5.1": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/ractive@0.5.1?structure=flat",
- "npm react-modal 1.6.2": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/react-modal@1.6.2?structure=flat"
+ "npm react-modal 1.6.2": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/react-modal@1.6.2?structure=flat",
+ "npm rolldown 0.14.0-snapshot-3009016-20241127042951": "HTTP 403 https://data.jsdelivr.com/v1/packages/npm/rolldown@0.14.0-snapshot-3009016-20241127042951?structure=flat"
 }

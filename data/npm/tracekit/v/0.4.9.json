@@ -1,0 +1,10 @@
+{
+"Gruntfile.js":"aae5fe7e70e5af0e4c0cef6d282f1625e0609d9c49f49a93906cd81875075fcf",
+"karma.conf.js":"fa04aaa70894a86d1d9ddfd616c8f29633743a4fdcebbc294796d7986105251a",
+"spec/fixtures/captured-errors.js":"0c6080995c489734f49f2b2e079216e4e6d0380641ad0dd4aaea76c368b07b92",
+"spec/tracekit-computestacktrace-spec.js":"ede8d2c2a0dd7d5da0b31770d3cbff796f5f771aebd98bbe6241fa1bb6f08709",
+"spec/tracekit-handler-spec.js":"4ab3fd64e5207902f1a22f8ba3e9549c12fe8ad3f13386c2f296e3fa1c8ff41b",
+"spec/tracekit-parser-spec.js":"addf3a2cbb130f0dac205952e9c6aa63aee5766efe9972787f8eb3b4b1f31068",
+"spec/tracekit-spec.js":"944d4e54b6d75a1e1654ed01ad8676d3bbc56735ebbaef1c467917d24d578ead",
+"tracekit.js":"10a94374c509f841177fe68ab3a1f3632756561a435ccc428eedc3ce7c838cae"
+}

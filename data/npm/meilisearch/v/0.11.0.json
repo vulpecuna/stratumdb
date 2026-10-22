@@ -1,0 +1,17 @@
+{
+"dist/bundles/meilisearch.esm.js":"4c74be19708a420585c4b56d11cd5dfbff8653245ce1a9b645286cc30fa21ff1",
+"dist/bundles/meilisearch.esm.min.js":"81cc8722258e320374047ab40374c6a095b356643ca82cb10fc925451cbc82b9",
+"dist/bundles/meilisearch.esm.min.js.map":"f56f41a3e9345eeeaaa2b0e66b37fb9eef0ad6f070483747583fd7328763b365",
+"dist/bundles/meilisearch.umd.js":"a970a5ee053a39b7fae887f8a38148c56365e239ff3d18dd5f4829447e72f8c3",
+"dist/bundles/meilisearch.umd.min.js":"d07e339db132403ad5a56ab4b748c126ad68239438c5518108e87ff0adf62fab",
+"dist/bundles/meilisearch.umd.min.js.map":"a87d6eceb4fcb084c936473b33d0cfb087ed08ed36700842bfeac52d18458613",
+"dist/types/errors/http-error-handler.d.ts.map":"b8d222c2f996ed90abd3e94a3d9bbfb6c3248865919999ee26f4be7364ad77f5",
+"dist/types/errors/meilisearch-api-error.d.ts.map":"41cc301f6fdf9c24688dff9de92a8717a8f2934bf5510dde820ac49ba4ed594c",
+"dist/types/errors/meilisearch-communication-error.d.ts.map":"e52789b9365d36bd1070ac78ef6f688616f7c7c8c4bfa0da40d128cceb927b77",
+"dist/types/errors/meilisearch-timeout-error.d.ts.map":"671361b52797f40882ea7707a79202b878e1599113d9e947102b1793ea3b7e8f",
+"dist/types/index.d.ts.map":"eb0e41fbaabe7ef50ca9160414d1f481d68c5badb08c6d5207e46492cdb6bd34",
+"dist/types/meili-axios-wrapper.d.ts.map":"8a62e876b5fbb5b5d7431692d7ddbb3d4dfe79c8aacf66e1bac4702866822ad4",
+"dist/types/meilisearch.d.ts.map":"4bf658bd7bb17bc35668c442b575479d66f158eadb5360bc2cd3ae07badf9ecf",
+"dist/types/types.d.ts.map":"0f3abe3e9d9660db9d5196cb106bd25028b4b1dbc9ac44912085a876dd3361ed",
+"dist/types/utils.d.ts.map":"9c9e39896cdfc9f62a65cacd8c3afcd5ffc835fb5222235e79496a85865977a0"
+}
