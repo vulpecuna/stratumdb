@@ -649,6 +649,7 @@
   "@logto/connector-sendgrid-email@1.5.3",
   "@logto/connector-sendgrid-email@1.5.4",
   "@logto/connector-sendgrid-email@1.5.5",
+  "@logto/connector-siwe@0.1.0",
   "@logto/connector-slack@0.0.0",
   "@logto/connector-slack@0.1.0",
   "@logto/connector-slack@0.2.0",
