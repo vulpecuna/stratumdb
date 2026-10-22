@@ -1,7 +1,7 @@
 {
  "source": "npm",
  "tags": {
-  "alpha": "5.0.0-alpha.15",
+  "alpha": "5.0.0-alpha.16",
   "beta": "4.6.3-beta.0",
   "canary": "3.13.1-next.1",
   "latest": "4.9.1"
@@ -172,6 +172,7 @@
   "5.0.0-alpha.12",
   "5.0.0-alpha.13",
   "5.0.0-alpha.14",
-  "5.0.0-alpha.15"
+  "5.0.0-alpha.15",
+  "5.0.0-alpha.16"
  ]
 }
